@@ -1,0 +1,66 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Integration of Hardware Efficient Algorithms\nIntegration av hårdvarueffektiva algoritmer",
+    "ETIN46, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED E\nDate of Decision: 2026-04-09",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: D4-hs, E4-is, E4-hp, MSOC1\nLanguage of instruction: The course will be given in English",
+    "The hardware realization of digital signal processing for machine learning, artificial intelligence, and massive continuous data streams is becoming increasingly important. Vertical optimisation techniques, from algorithms to a hardware  level, will be constrained by performance as well as energy and hardware efficiency.",
+    "This course aims to provide students  an understanding of how different implementation solutions affect properties like performance, flexibility, design time, and development cost.",
+    "The overall goal of the course is to teach a systematic approach to accelerating signal processing with focus on e.g, machine learning and wireless communication. The main part of the course provides students with an understanding of the design process for application-specific architectures based on an algorithm specification. This process should be carried out with a set of design constraints, including calculation capacity/throughput, power consumption, and silicon area.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Digital signal processing is a highly expansive field which is a part of most modern electronic systems like mobile phones, smart devices, electrical vehicles etc.",
+    "These application often require real-time and low latency requirements at an attractive energy and silicon area cost.",
+    "This course will give insight into how an algorithm specification can be implemented from a given set of criteria. The main part of the course will be focused on the design of application specific architectures that can be implemented on either reconfigurable hardware, e.g. FPGAs, or as a custom circuit, i.e. ASIC.",
+    "Course content:",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "The course consists of lectures and laboratory assignments. In order to pass the course 80% of the lectures need to be attended, and three small-scale projects need to get approved in time. Grade 4 and 5 will require 1 and 2 more projects, respectively. Projects will get approved by an oral examination and reports.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0125. Name: Laboratory Work. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).",
+    "Assumed prior knowledge: \n        EITF75  Digital signal processing OR EITA50  Signal processing in  multimedia OR EITF15/BMEF25 Digital signal processing  - theory and applications OR BMEA05 Signals and systems OR EITG10 Systems, Signals and Discrete Transforms\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nETI180\nETIN45",
+    "Course coordinator: Joachim Rodrigues,\n        joachim.rodrigues@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/etin45",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "Gain an understanding of hardware acceleration for digital signal processing, as well as the relationship between architectural optimizations, power consumption, and silicon area.",
+      "Being able to propose optimization strategies for machine learning and wireless communication topologies.",
+      "Understand the effectiveness and richness of vertical optimisation strategies."
+    ],
+    [
+      "be able to develop a hardware accelerator architecture from a given set of criteria.",
+      "be able to deploy a algorithm on a  processor architecture and suggest alternative solutions"
+    ],
+    [
+      "have gained an overview of the field of implementation aspects of hardware acceleration.",
+      "feel well equipped to design an application specific processor system given a specification using the methodologies covered in the course."
+    ],
+    [
+      "Characterization and representation of signal processing algorithms: signal-flow, data-flow and dependence graphs.",
+      "Quantization effects in algorithms for machine learning",
+      "Architectural transformations – The concepts of retiming, pipelining and parallel processing for high throughput and/or low power consumption. Different types of architectures such as time-multiplexed and hardware mapped and how transformations can be made between them using the concepts of unfolding and folding.",
+      "Algorithm transformations – How complexity in algorithms can be reduced and thereby reaching a more efficient implementation through the concept of strength reduction.",
+      "Different numbering systems, how they are used and how they affect implementation and performance.",
+      "Limitations of the current von Neuman architecture"
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår25/2626/27\nCourse syllabus\nIntegration of Hardware Efficient Algorithms\nIntegration av hårdvarueffektiva algoritmer\nETIN46, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED E\nDate of Decision: 2026-04-09\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: D4-hs, E4-is, E4-hp, MSOC1\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe hardware realization of digital signal processing for machine learning, artificial intelligence, and massive continuous data streams is becoming increasingly important. Vertical optimisation techniques, from algorithms to a hardware  level, will be constrained by performance as well as energy and hardware efficiency.This course aims to provide students  an understanding of how different implementation solutions affect properties like performance, flexibility, design time, and development cost.The overall goal of the course is to teach a systematic approach to accelerating signal processing with focus on e.g, machine learning and wireless communication. The main part of the course provides students with an understanding of the design process for application-specific architectures based on an algorithm specification. This process should be carried out with a set of design constraints, including calculation capacity/throughput, power consumption, and silicon area.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nGain an understanding of hardware acceleration for digital signal processing, as well as the relationship between architectural optimizations, power consumption, and silicon area.Being able to propose optimization strategies for machine learning and wireless communication topologies.Understand the effectiveness and richness of vertical optimisation strategies.\nCompetences and skills\n      For a passing grade the student must\nbe able to develop a hardware accelerator architecture from a given set of criteria.be able to deploy a algorithm on a  processor architecture and suggest alternative solutions\nJudgement and approach\n      For a passing grade the student must\nhave gained an overview of the field of implementation aspects of hardware acceleration.feel well equipped to design an application specific processor system given a specification using the methodologies covered in the course.\nContents\nDigital signal processing is a highly expansive field which is a part of most modern electronic systems like mobile phones, smart devices, electrical vehicles etc.These application often require real-time and low latency requirements at an attractive energy and silicon area cost.This course will give insight into how an algorithm specification can be implemented from a given set of criteria. The main part of the course will be focused on the design of application specific architectures that can be implemented on either reconfigurable hardware, e.g. FPGAs, or as a custom circuit, i.e. ASIC. Course content: Characterization and representation of signal processing algorithms: signal-flow, data-flow and dependence graphs.Quantization effects in algorithms for machine learningArchitectural transformations – The concepts of retiming, pipelining and parallel processing for high throughput and/or low power consumption. Different types of architectures such as time-multiplexed and hardware mapped and how transformations can be made between them using the concepts of unfolding and folding.Algorithm transformations – How complexity in algorithms can be reduced and thereby reaching a more efficient implementation through the concept of strength reduction.Different numbering systems, how they are used and how they affect implementation and performance.Limitations of the current von Neuman architecture\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: The course consists of lectures and laboratory assignments. In order to pass the course 80% of the lectures need to be attended, and three small-scale projects need to get approved in time. Grade 4 and 5 will require 1 and 2 more projects, respectively. Projects will get approved by an oral examination and reports.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0125. Name: Laboratory Work. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        EITF75  Digital signal processing OR EITA50  Signal processing in  multimedia OR EITF15/BMEF25 Digital signal processing  - theory and applications OR BMEA05 Signals and systems OR EITG10 Systems, Signals and Discrete Transforms\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nETI180\nETIN45\n\nReading list\n\n\nContact\n\nCourse coordinator: Joachim Rodrigues,\n        joachim.rodrigues@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/etin45\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

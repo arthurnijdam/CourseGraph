@@ -1,0 +1,63 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Efficient C\nEffektiv C",
+    "EDAG01, 7.5 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-pvt, D4-is, D4-pv, D4-hs, E4-hp, F4, F4-bs, I4, M4, N4, Pi4-pv\nLanguage of instruction: The course will be given in Swedish",
+    "The purpose of the course is that the students should learn how to write efficient programs in the C language. In order to achieve this main purpose, three other purposes of the course are that the students should learn about (1) the ISO C23 language, (2) modern computer architecture, from the perspective of the programmer, with focus on microprocessors and cache memories, and (3) modern tools to evaluate C programs in terms of correctness and efficiency.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The ISO C23 standard, the principles of the C language, comparison between Java and C, struct, pointer, array, memory allocation, global variables, static storage duration, the C standard library, C compiler, implementation defined behaviour, unspecified behaviour, undefined behaviour, storage class specifiers, type specifiers, C preprocessor, GDB, Valgrind, the profiling tools GPROF, OPROFILE and GCOV, pipelined microprocessors, cache memories, using simulation tools for performance analysis, and a methodology to maximize the performance of a C program.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: To pass the course it is required to pass the oral exam, computer labs, and a project. In order to participate in the exam, the laboratory sessions must be completed. Final grades in the course are based on the results of the oral exam.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0122. Name: Examination. \n\nCredits: 4.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved examination.\n        \n        \n          The module includes: Oral examination.\n        \n        \n        \nCode: 0222. Name: Laboratory Sessions. \n\nCredits: 2.0. Grading scale: UG - (U, G).\n        \n          Assessment: Approved laboratory sessions.\n        \n        \n          The module includes: Computer labs.\n        \n        \n        \nCode: 0322. Name: Project. \n\nCredits: 1.0. Grading scale: UG - (U, G).\n        \n          Assessment: Approved project.",
+    "Admission requirements:",
+    "Course coordinator: Jonas Skeppstedt,\n        jonas.skeppstedt@cs.lth.se\nCourse homepage: https://cs.lth.se/edag01",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "understand how memory can be allocated and deallocated,",
+      "understand how pointers work and how they are used,",
+      "understand the type system of C, e.g. which type conversions are allowed and portable,",
+      "understand the meaning of implementation defined behaviour, unspecified behaviour, undefined behaviour, and when one should think about these,",
+      "understand how modern microprocessors are implemented with pipelining and which consequences on performance this gives the programmer",
+      "understand how cache memories work and which consequences on performance this gives the programmer, and",
+      "understand how different language constructs, e.g. the use of pointers, can be translated to machine code how this can affect performance."
+    ],
+    [
+      "be able to write efficient programs in the C language, i.e. C23,",
+      "be able to use the GDB debugger,",
+      "with the help of modern tools be able to find defects and analyse the performance of a C program, and",
+      "be able to maximize the performance of the program based on the information these tools give."
+    ],
+    [
+      "be able to create a suitable implementation in C based on the requirements of the application."
+    ],
+    [
+      "EDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course or FMNN25 Advanced Course in Numerical Algorithms with Python/SciPy"
+    ],
+    [
+      "Jonas Skeppstedt, Christian Söderberg: Writing Efficient C Code - A Thorough Introduction. Amazon, 2026, ISBN: 9798265523341."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår20/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nEfficient C\nEffektiv C\nEDAG01, 7.5 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-pvt, D4-is, D4-pv, D4-hs, E4-hp, F4, F4-bs, I4, M4, N4, Pi4-pv\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nThe purpose of the course is that the students should learn how to write efficient programs in the C language. In order to achieve this main purpose, three other purposes of the course are that the students should learn about (1) the ISO C23 language, (2) modern computer architecture, from the perspective of the programmer, with focus on microprocessors and cache memories, and (3) modern tools to evaluate C programs in terms of correctness and efficiency.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nunderstand how memory can be allocated and deallocated,understand how pointers work and how they are used,understand the type system of C, e.g. which type conversions are allowed and portable,understand the meaning of implementation defined behaviour, unspecified behaviour, undefined behaviour, and when one should think about these,understand how modern microprocessors are implemented with pipelining and which consequences on performance this gives the programmerunderstand how cache memories work and which consequences on performance this gives the programmer, andunderstand how different language constructs, e.g. the use of pointers, can be translated to machine code how this can affect performance.\nCompetences and skills\n      For a passing grade the student must\nbe able to write efficient programs in the C language, i.e. C23,be able to use the GDB debugger,with the help of modern tools be able to find defects and analyse the performance of a C program, andbe able to maximize the performance of the program based on the information these tools give.\nJudgement and approach\n      For a passing grade the student must\nbe able to create a suitable implementation in C based on the requirements of the application.\nContents\nThe ISO C23 standard, the principles of the C language, comparison between Java and C, struct, pointer, array, memory allocation, global variables, static storage duration, the C standard library, C compiler, implementation defined behaviour, unspecified behaviour, undefined behaviour, storage class specifiers, type specifiers, C preprocessor, GDB, Valgrind, the profiling tools GPROF, OPROFILE and GCOV, pipelined microprocessors, cache memories, using simulation tools for performance analysis, and a methodology to maximize the performance of a C program.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: To pass the course it is required to pass the oral exam, computer labs, and a project. In order to participate in the exam, the laboratory sessions must be completed. Final grades in the course are based on the results of the oral exam.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0122. Name: Examination. \n\nCredits: 4.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved examination.\n        \n        \n          The module includes: Oral examination.\n        \n        \n        \nCode: 0222. Name: Laboratory Sessions. \n\nCredits: 2.0. Grading scale: UG - (U, G).\n        \n          Assessment: Approved laboratory sessions.\n        \n        \n          The module includes: Computer labs.\n        \n        \n        \nCode: 0322. Name: Project. \n\nCredits: 1.0. Grading scale: UG - (U, G).\n        \n          Assessment: Approved project. \n        \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nEDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course or FMNN25 Advanced Course in Numerical Algorithms with Python/SciPy \n\nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEDAF15\nEDAA25\n\nReading list\n\nJonas Skeppstedt, Christian Söderberg: Writing Efficient C Code - A Thorough Introduction. Amazon, 2026, ISBN: 9798265523341.\n\nContact\n\nCourse coordinator: Jonas Skeppstedt,\n        jonas.skeppstedt@cs.lth.se\nCourse homepage: https://cs.lth.se/edag01\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

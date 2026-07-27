@@ -1,0 +1,67 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Wireless Communication Channels\nTrådlösa kanaler",
+    "EITN85, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED E\nDate of Decision: 2026-04-09",
+    "Main field:  Communication Systems\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: MWIR1\nElective for: BME4, D4, E4-tk, MSOC2\nLanguage of instruction: The course will be given in English",
+    "The aim is to give a comprehensive view of the properties of the wireless channel. This includes an understanding of the underlying physical propagation mechanisms, measurements of channel properties, channel modeling methods, as well as a basic understanding of how these things relate to ifferent aspects of a wireless system.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The course connects different areas of knowledge within, e.g., radio, digital communication, probability theory, stochastic processes, wave propagation and mathematics. The course covers the following topics:",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Exam (oral or written, 5 hours) and approved assignment reports. The performance assessment is based on the exam, which might be oral or written. To pass the course the assignment reports also have to be approved. The three assignments are to be solved in pairs of two students as independent work. These assignments include planning of measurements, performing the measurements, analysing the data and writing a report. Submission of all assignments is a requirement for participation in the exam.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0118. Name: Examination. \n\nCredits: 5.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved written or oral exam\n        \n        \n        \n        \nCode: 0218. Name: Hand-in Assignments. \n\nCredits: 2.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved assignments",
+    "Assumed prior knowledge: \n        EITG05 Digital communications and EITF50 An introduction to wireless systems.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nETIN10\nETI085",
+    "Course coordinator: Fredrik Tufvesson,\n        fredrik.tufvesson@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/eitn85",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "have an understanding of the properties of the wireless channel and its interaction with the system",
+      "have a comprehension of the physical propagation mechanisms and thereby being able to evaluate propagation conditions for a certain scenario",
+      "have a comprehension of measurements of radio channel properties and methods for modelling these properties.",
+      "have obtained a basic understanding of certain channel properties that are of specific interest for next generation wireless systems"
+    ],
+    [
+      "be able to analyse and describe the properties of the radio channel and its interaction with the system, and from this be capable to select appropriate system parameters",
+      "be able to propose and evaluate methods for using the radio channel in the most appropriate way.",
+      "be able to write a scentific report about the channel properties."
+    ],
+    [
+      "have a comprehensive view of how the radio channel interacts with other system blocks in a radio system",
+      "feel confident in the ability to understand, analyse and describe the properties of the radio channel in order to use it in the most efficient manner."
+    ],
+    [
+      "Propagation Mechanisms - Free space propagation, reflection and transmission, diffraction, scattering on rough surfaces, wave guiding",
+      "Statistical Description of Wireless Channels - The time-invariant two-path model, time-variant two-path model, small-scale fading without line-of-sight, small-scale fading with line-of-sight, Doppler spectra, level crossing rate and random FM, large-scale fading",
+      "Wideband Channel Characterization - Narrowband vs. wideband systems, system-theoretic description of propagation channels, the WSSUS model, description methods for time dispersion, description methods for angular dispersion",
+      "Channel Models - Narrowband models, wideband models, spatial models, deterministic models, models for ultra wideband channels",
+      "Channel Sounding - Time-domain methods, frequency-domain methods, generalizations, spatially resolved methods",
+      "Antenna aspects in wireless systems - Requirements for antennas in mobile radio, antennas for mobile stations, antennas for base stations, aspects of multiple antenna systems.",
+      "Wireless Channels and 5G - Channel characteristics specific for 5G-systems: Millimeter-wave, Massive MIMO and vehicular channels.",
+      "Report writing - how do you author a scientific report in the area."
+    ],
+    [
+      "Molisch, Andreas F: Wireless Communications - 3rd ed. John Wiley & Sons Ltd, 2023, ISBN: 978-0-470-74186-3."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår17/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nWireless Communication Channels\nTrådlösa kanaler\nEITN85, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED E\nDate of Decision: 2026-04-09\n    \n  \nGeneral Information\n\nMain field:  Communication Systems\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: MWIR1\nElective for: BME4, D4, E4-tk, MSOC2\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe aim is to give a comprehensive view of the properties of the wireless channel. This includes an understanding of the underlying physical propagation mechanisms, measurements of channel properties, channel modeling methods, as well as a basic understanding of how these things relate to ifferent aspects of a wireless system.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nhave an understanding of the properties of the wireless channel and its interaction with the systemhave a comprehension of the physical propagation mechanisms and thereby being able to evaluate propagation conditions for a certain scenariohave a comprehension of measurements of radio channel properties and methods for modelling these properties.have obtained a basic understanding of certain channel properties that are of specific interest for next generation wireless systems\nCompetences and skills\n      For a passing grade the student must\nbe able to analyse and describe the properties of the radio channel and its interaction with the system, and from this be capable to select appropriate system parametersbe able to propose and evaluate methods for using the radio channel in the most appropriate way.be able to write a scentific report about the channel properties.\nJudgement and approach\n      For a passing grade the student must\nhave a comprehensive view of how the radio channel interacts with other system blocks in a radio systemfeel confident in the ability to understand, analyse and describe the properties of the radio channel in order to use it in the most efficient manner.\nContents\nThe course connects different areas of knowledge within, e.g., radio, digital communication, probability theory, stochastic processes, wave propagation and mathematics. The course covers the following topics:\n \n\nPropagation Mechanisms - Free space propagation, reflection and transmission, diffraction, scattering on rough surfaces, wave guiding\nStatistical Description of Wireless Channels - The time-invariant two-path model, time-variant two-path model, small-scale fading without line-of-sight, small-scale fading with line-of-sight, Doppler spectra, level crossing rate and random FM, large-scale fading\nWideband Channel Characterization - Narrowband vs. wideband systems, system-theoretic description of propagation channels, the WSSUS model, description methods for time dispersion, description methods for angular dispersion\nChannel Models - Narrowband models, wideband models, spatial models, deterministic models, models for ultra wideband channels\nChannel Sounding - Time-domain methods, frequency-domain methods, generalizations, spatially resolved methods\nAntenna aspects in wireless systems - Requirements for antennas in mobile radio, antennas for mobile stations, antennas for base stations, aspects of multiple antenna systems.\nWireless Channels and 5G - Channel characteristics specific for 5G-systems: Millimeter-wave, Massive MIMO and vehicular channels.\nReport writing - how do you author a scientific report in the area.\n\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Exam (oral or written, 5 hours) and approved assignment reports. The performance assessment is based on the exam, which might be oral or written. To pass the course the assignment reports also have to be approved. The three assignments are to be solved in pairs of two students as independent work. These assignments include planning of measurements, performing the measurements, analysing the data and writing a report. Submission of all assignments is a requirement for participation in the exam.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0118. Name: Examination. \n\nCredits: 5.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved written or oral exam\n        \n        \n        \n        \nCode: 0218. Name: Hand-in Assignments. \n\nCredits: 2.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved assignments\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        EITG05 Digital communications and EITF50 An introduction to wireless systems.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nETIN10\nETI085\n\nReading list\n\nMolisch, Andreas F: Wireless Communications - 3rd ed. John Wiley & Sons Ltd, 2023, ISBN: 978-0-470-74186-3.\n\nContact\n\nCourse coordinator: Fredrik Tufvesson,\n        fredrik.tufvesson@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/eitn85\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

@@ -1,0 +1,58 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Matrix Theory\nMatristeori",
+    "FMAN71, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4, C4, D4-bg, E4, F4, F4-tf, F4-bs, F4-bg, F4-r, F4-mai, F4-kv, F4-mtm, I4, Pi3\nLanguage of instruction: The course will be given in English on demand",
+    "The main aim of the course is to convey knowledge about concepts and methods from matrix theory and linear algebra which are important in applications within many subjects in technology, science and economy, and familiarity with their use. In addition, the course should develop the student's ability in general to assimilate and communicate mathematical theory and to solve problems. Furthermore, the course should strengthen the student's ability in mathematical programming.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Matrices and determinants. Linear spaces. Spectral theory.The Jordan normal form. Matrix factorizations. Matrix polynomials and matrix functions. Norms. Scalar products. Singular values. Normal matrices. Quadratic and Hermitian forms. The Least Squares method and pseudo inverses. Non-negative matrices. Some important inequalities.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "Take-home exam followed by an oral exam. Two minor  projects should be completed before the exam.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0121. Name: Matrix Theory. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).",
+    "Admission requirements:",
+    "Course coordinator: Studierektor Anders Holst,\n        Studierektor@math.lth.se\nTeacher: Carl Olsson,\n        Carl.Olsson@math.lth.se\nExaminator: Anders Holst,\n        Anders.Holst@math.lth.se\nExaminator: Carl Olsson,\n        Carl.Olsson@math.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/20383",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "independently be able to characterize and use different types of matrix factorizations.",
+      "be able to understand and independently explain the theory of matrix functions, in particular polynomials, and its connection to the Jordan normal form.",
+      "be able to describe different types of vector and matrix norms, and to compute or estimate them as well with as without computer support.",
+      "be able to state the common classes of normal matrices and their properties.",
+      "be able to account for the main results in the theory of non-negative matrices, and be able to describe applications of them."
+    ],
+    [
+      "with access to literature be able to integrate methods and approaches from the different parts of the course in order to solve problems and answer questions within the framework of the course.",
+      "with access to literature be able to write Matlab programs for the solution of mathematical problems within the framework of the course.",
+      "orally and in writing, with clear logic and with proper terminology be able to explain the solution to a mathematical problem within the framework of the course.",
+      "with access to the resources of a library be able to independently assimilate and sum up the contents of a text in technology in which matrix theoretical methods are used."
+    ],
+    [
+      "FMA420 Linear Algebra or FMA421 Linear Algebra with Scientific Computation or FMAA20 Linear Algebra with Introduction to Computer Tools or FMAA21 Linear Algebra with Numerical Applications or FMAB20 Linear Algebra or FMAB22 Linear Algebra"
+    ],
+    [
+      "Holst, A & Ufnarovski, V: Matrix Theory. Studentlitteratur, 2014, ISBN: 978-91-44-10096-8."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår21/2222/2323/2424/2525/2626/27\nCourse syllabus\nMatrix Theory\nMatristeori\nFMAN71, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4, C4, D4-bg, E4, F4, F4-tf, F4-bs, F4-bg, F4-r, F4-mai, F4-kv, F4-mtm, I4, Pi3\nLanguage of instruction: The course will be given in English on demand\n    \n  \nAim\nThe main aim of the course is to convey knowledge about concepts and methods from matrix theory and linear algebra which are important in applications within many subjects in technology, science and economy, and familiarity with their use. In addition, the course should develop the student's ability in general to assimilate and communicate mathematical theory and to solve problems. Furthermore, the course should strengthen the student's ability in mathematical programming.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nindependently be able to characterize and use different types of matrix factorizations.be able to understand and independently explain the theory of matrix functions, in particular polynomials, and its connection to the Jordan normal form.be able to describe different types of vector and matrix norms, and to compute or estimate them as well with as without computer support.be able to state the common classes of normal matrices and their properties.be able to account for the main results in the theory of non-negative matrices, and be able to describe applications of them.\nCompetences and skills\n      For a passing grade the student must\nwith access to literature be able to integrate methods and approaches from the different parts of the course in order to solve problems and answer questions within the framework of the course.with access to literature be able to write Matlab programs for the solution of mathematical problems within the framework of the course.orally and in writing, with clear logic and with proper terminology be able to explain the solution to a mathematical problem within the framework of the course.with access to the resources of a library be able to independently assimilate and sum up the contents of a text in technology in which matrix theoretical methods are used.\nContents\nMatrices and determinants. Linear spaces. Spectral theory.The Jordan normal form. Matrix factorizations. Matrix polynomials and matrix functions. Norms. Scalar products. Singular values. Normal matrices. Quadratic and Hermitian forms. The Least Squares method and pseudo inverses. Non-negative matrices. Some important inequalities.\n \nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Take-home exam followed by an oral exam. Two minor  projects should be completed before the exam.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0121. Name: Matrix Theory. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nFMA420 Linear Algebra or FMA421 Linear Algebra with Scientific Computation or FMAA20 Linear Algebra with Introduction to Computer Tools or FMAA21 Linear Algebra with Numerical Applications or FMAB20 Linear Algebra or FMAB22 Linear Algebra\n\nAssumed prior knowledge: \n        FMAF05 Systems and Transforms or FMAF10 Applied Mathematics - Linear systems.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFMAN70\nFMA120\nFMA121\n          \n        \n          \n            MATC70\n          \n        \n      \n    \nReading list\n\nHolst, A & Ufnarovski, V: Matrix Theory. Studentlitteratur, 2014, ISBN: 978-91-44-10096-8.\n\nContact\n\nCourse coordinator: Studierektor Anders Holst,\n        Studierektor@math.lth.se\nTeacher: Carl Olsson,\n        Carl.Olsson@math.lth.se\nExaminator: Anders Holst,\n        Anders.Holst@math.lth.se\nExaminator: Carl Olsson,\n        Carl.Olsson@math.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/20383\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

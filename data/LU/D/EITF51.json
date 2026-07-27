@@ -1,0 +1,73 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Circuits and Systems for Wireless Communication\nKretsar och system för trådlös kommunikation",
+    "EITF51, 7.5 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED E\nDate of Decision: 2026-04-09",
+    "Main field:  Communication Systems\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nElective mandatory for: MWIR1\nElective for: D4-hs, E4-he, E4-tk, F4, F4-fel, MSOC1, N4-hn\nLanguage of instruction: The course will be given in English",
+    "The course is intended to give a general knowledge in radio frequency applications, especially those which are common in radio communications. The fundamentals are introduced without penetrating the electronics or design details. The different parts are treated as functional blocks defined by their physical properties. This will give a basic understanding of the radio receiver or the cellular phone but also the requirements put on the used circuits. Thus this is a compulsory course for those who later want to specialise as radio frequency designers.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Covered topics are",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written examination and completed laboratory work. Approved laboratory exercises are a requirement to be allowed to enter the examination.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0125. Name: Examination. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved written exam\n        \n        \n        \n        \nCode: 0225. Name: Laboratory Works. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved laboratory work",
+    "Assumed prior knowledge: \n        ESS010/EITA35 Electronics or ETE115/EITF90 Electromagnetics and Electronics.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nETIF05\nEITF50",
+    "Course coordinator: Baktash Behmanesh,\n        baktash.behmanesh@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/eitf50",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "have a good understanding of the radio receiver and transmitter at a block diagram level",
+      "be able to describe and analyse a modulated signal in the time, frequency and phase domain.",
+      "be able to describe and analyse a complete radio communication link including antennas and wave propagation",
+      "have knowledge about spectrum and network analysis at high frequencies"
+    ],
+    [
+      "be able to perform a noise analysis for a system under given circumstances",
+      "be able to perform a receiver block level simulation",
+      "be able to set up and apply a link budget for a radio system",
+      "be able to perform basic measurements with spectrum and network analysers."
+    ],
+    [
+      "be able to interpret a data sheet in order to design a radio system with basic modules, that meets a given specification.",
+      "be able to evaluate if parameters for the radiosystem and its parts are reasonable."
+    ],
+    [
+      "basic concepts like bandwidth, Q-factor and decibel units",
+      "noise sources, signal quality (SNR, SINAD), noise figure and noise temperature",
+      "the architecture and function of the radio receiver and transmitter at block level",
+      "linearity, compression and intercept points",
+      "the behaviour of discrete components at radio frequency",
+      "characteristics of amplifiers, mixers, oscillators, phase locked loops (PLL) and frequency synthesis",
+      "special components such as splitter, combiner, directional coupler and circulator",
+      "analogue and digital modulation",
+      "transmission lines, antennas, wave propagation and link budget",
+      "computer aided simulation of receivers",
+      "radio frequency measurements using spectrum and network analysers",
+      "a survey of modern digital communication systems."
+    ],
+    [
+      "Young Paul H: Chapters from Electronic Communication Techniques - Fifth Edition. Pearson, 2004, ISBN: 9780857766915.",
+      "Additional assignments for laboratory experiments."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår25/2626/27\nCourse syllabus\nCircuits and Systems for Wireless Communication\nKretsar och system för trådlös kommunikation\nEITF51, 7.5 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED E\nDate of Decision: 2026-04-09\n    \n  \nGeneral Information\n\nMain field:  Communication Systems\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nElective mandatory for: MWIR1\nElective for: D4-hs, E4-he, E4-tk, F4, F4-fel, MSOC1, N4-hn\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe course is intended to give a general knowledge in radio frequency applications, especially those which are common in radio communications. The fundamentals are introduced without penetrating the electronics or design details. The different parts are treated as functional blocks defined by their physical properties. This will give a basic understanding of the radio receiver or the cellular phone but also the requirements put on the used circuits. Thus this is a compulsory course for those who later want to specialise as radio frequency designers.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nhave a good understanding of the radio receiver and transmitter at a block diagram levelbe able to describe and analyse a modulated signal in the time, frequency and phase domain.be able to describe and analyse a complete radio communication link including antennas and wave propagationhave knowledge about spectrum and network analysis at high frequencies\nCompetences and skills\n      For a passing grade the student must\nbe able to perform a noise analysis for a system under given circumstancesbe able to perform a receiver block level simulationbe able to set up and apply a link budget for a radio systembe able to perform basic measurements with spectrum and network analysers.\nJudgement and approach\n      For a passing grade the student must\nbe able to interpret a data sheet in order to design a radio system with basic modules, that meets a given specification.be able to evaluate if parameters for the radiosystem and its parts are reasonable.\nContents\nCovered topics are\n\nbasic concepts like bandwidth, Q-factor and decibel units\nnoise sources, signal quality (SNR, SINAD), noise figure and noise temperature\nthe architecture and function of the radio receiver and transmitter at block level\nlinearity, compression and intercept points\nthe behaviour of discrete components at radio frequency\ncharacteristics of amplifiers, mixers, oscillators, phase locked loops (PLL) and frequency synthesis\nspecial components such as splitter, combiner, directional coupler and circulator\nanalogue and digital modulation\ntransmission lines, antennas, wave propagation and link budget\ncomputer aided simulation of receivers\nradio frequency measurements using spectrum and network analysers\na survey of modern digital communication systems.\n\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written examination and completed laboratory work. Approved laboratory exercises are a requirement to be allowed to enter the examination.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0125. Name: Examination. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved written exam\n        \n        \n        \n        \nCode: 0225. Name: Laboratory Works. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved laboratory work\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        ESS010/EITA35 Electronics or ETE115/EITF90 Electromagnetics and Electronics.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nETIF05\nEITF50\n\nReading list\n\nYoung Paul H: Chapters from Electronic Communication Techniques - Fifth Edition. Pearson, 2004, ISBN: 9780857766915.\nAdditional assignments for laboratory experiments.\n\nContact\n\nCourse coordinator: Baktash Behmanesh,\n        baktash.behmanesh@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/eitf50\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

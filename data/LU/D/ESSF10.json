@@ -1,0 +1,60 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Electrical Measurements\nMätteknik",
+    "ESSF10, 5.0 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED BME\nDate of Decision: 2026-04-13",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: E2\nElective for: D4-hs\nLanguage of instruction: The course will be given in Swedish",
+    "Measurement technologies are increasingly being integrated into everyday products such as mobile  phones which e.g. detects movement to rotate the screen and activity watches that measures heart rate and step count. Modern cars have lane  keeping assistance that detects road markings, distance meters to  vehicles in front to prevent collisions, reverse assistance that detects  distance to obstacles behind, temperature sensors that measure engine temperature and road surface temperature. In light  of the increased use of autonomous systems, e.g. self-driving cars and  the development of drones with their own decision-making ability,  all of which depend on measurements of physical quantities such as speed, direction, position or environmental variables  such as temperature, wind speed or humidity in the roadway, understanding of and skills in measurement  techniques are becoming increasingly vital.",
+    "Within  the field of medical technology, the possibilities for diagnostics, including the  possibility of conducting telemedicine or self-care, increase with the possibilities of measurement technology. Within the manufacturing  industry, various industrial processes naturally require comprehensive  and accurate measurement methods to monitor and regulate various  manufacturing processes and material flows. Most sensors that measure physical and chemical quantities produce an electrical  signal which in turn must be detected and interpreted.",
+    "The  problem picture includes that there is often a certain measurement  uncertainty whose magnitude must be assessed or that the signal has been  exposed to various interferences that must be restricted. The purpose of the course  is to provide a basic understanding of, and the skills to use, the  measurement technologies and and its associated techniques that detect such electrical signals, as well as  to provide understanding of and skills to assess measurement uncertainties and to restrict interference.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Fundamental concepts like loading of the measurement objects, influence of noise, uncertainty in the results and calibration. Digital oscilloscopes, digital multimeter, measurement of impedance with bridge- and voltage/current-methods, measurement of time and frequency with universal counter, measurement of frequency spectra with spectrum- and FFT-analyser (FFT – Fast Fourier Transform). Design of measurement systems.",
+    "Grading scale: UG - (U, G) - (Fail, Pass)\nAssessment: Continuous assessment in connection to the lab exercises. Compulsory parts to be passed: Lab exercises including short pre-tests, lab reports, examination of a lab report.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0110. Name: Electrical Measurements. \n\nCredits: 5.0. Grading scale: UG - (U, G).",
+    "Assumed prior knowledge: \n        ESS010, EITA35 or ETE115, EITF90 or ETIA01 Electronics or equivalent\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nBMEF05\nBMEF15\nEEMF15\nBMEF35",
+    "Course coordinator: Johan Gran,\n        johan.gran@bme.lth.se\nCourse coordinator: Lars Wallman,\n        lars.wallman@bme.lth.se\nDirector of studies: Lars Wallman,\n        lars.wallman@bme.lth.se\nCourse homepage: https://www.bme.lth.se/",
+    "The first lecture is a mandatory call. Enrolled and registered students who do not have notified absence may receive a cancellation of the course.",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "Have knowledge in different measurement methods and how they are designed to measure voltage, current, impedance, time, frequency and frequency spectra.",
+      "Have insight in limitations of measurements methods as well as influence of noise to avoid measurement errors."
+    ],
+    [
+      "Be able to select a suitable measurement method and instrument for a given task and perform measurements.",
+      "Demonstrate skills in performing measurements with electrical measuring equipment.",
+      "Be able to communicate results from lab work in writing.",
+      "Be able to sort out and acquire information from a comprehensive material, e.g. a text book or lab exercise material, with limited reading instructions."
+    ],
+    [
+      "Have realised the importance of critical examination of measurement results to minimise measurement errors and misinterpretations."
+    ],
+    [
+      "Compendium in measurements (in Swedish) which is sold by the department.",
+      "Lab compendium."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår09/1010/1111/1212/1313/1414/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nElectrical Measurements\nMätteknik\nESSF10, 5.0 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED BME\nDate of Decision: 2026-04-13\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: E2\nElective for: D4-hs\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nMeasurement technologies are increasingly being integrated into everyday products such as mobile  phones which e.g. detects movement to rotate the screen and activity watches that measures heart rate and step count. Modern cars have lane  keeping assistance that detects road markings, distance meters to  vehicles in front to prevent collisions, reverse assistance that detects  distance to obstacles behind, temperature sensors that measure engine temperature and road surface temperature. In light  of the increased use of autonomous systems, e.g. self-driving cars and  the development of drones with their own decision-making ability,  all of which depend on measurements of physical quantities such as speed, direction, position or environmental variables  such as temperature, wind speed or humidity in the roadway, understanding of and skills in measurement  techniques are becoming increasingly vital.\nWithin  the field of medical technology, the possibilities for diagnostics, including the  possibility of conducting telemedicine or self-care, increase with the possibilities of measurement technology. Within the manufacturing  industry, various industrial processes naturally require comprehensive  and accurate measurement methods to monitor and regulate various  manufacturing processes and material flows. Most sensors that measure physical and chemical quantities produce an electrical  signal which in turn must be detected and interpreted.\nThe  problem picture includes that there is often a certain measurement  uncertainty whose magnitude must be assessed or that the signal has been  exposed to various interferences that must be restricted. The purpose of the course  is to provide a basic understanding of, and the skills to use, the  measurement technologies and and its associated techniques that detect such electrical signals, as well as  to provide understanding of and skills to assess measurement uncertainties and to restrict interference.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nHave knowledge in different measurement methods and how they are designed to measure voltage, current, impedance, time, frequency and frequency spectra.Have insight in limitations of measurements methods as well as influence of noise to avoid measurement errors.\nCompetences and skills\n      For a passing grade the student must\nBe able to select a suitable measurement method and instrument for a given task and perform measurements.Demonstrate skills in performing measurements with electrical measuring equipment.Be able to communicate results from lab work in writing.Be able to sort out and acquire information from a comprehensive material, e.g. a text book or lab exercise material, with limited reading instructions.\nJudgement and approach\n      For a passing grade the student must\nHave realised the importance of critical examination of measurement results to minimise measurement errors and misinterpretations.\nContents\nFundamental concepts like loading of the measurement objects, influence of noise, uncertainty in the results and calibration. Digital oscilloscopes, digital multimeter, measurement of impedance with bridge- and voltage/current-methods, measurement of time and frequency with universal counter, measurement of frequency spectra with spectrum- and FFT-analyser (FFT – Fast Fourier Transform). Design of measurement systems.\nExamination details\n\nGrading scale: UG - (U, G) - (Fail, Pass)\nAssessment: Continuous assessment in connection to the lab exercises. Compulsory parts to be passed: Lab exercises including short pre-tests, lab reports, examination of a lab report.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0110. Name: Electrical Measurements. \n\nCredits: 5.0. Grading scale: UG - (U, G).\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        ESS010, EITA35 or ETE115, EITF90 or ETIA01 Electronics or equivalent\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nBMEF05\nBMEF15\nEEMF15\nBMEF35\n\nReading list\n\nCompendium in measurements (in Swedish) which is sold by the department.\nLab compendium.\n\nContact\n\nCourse coordinator: Johan Gran,\n        johan.gran@bme.lth.se\nCourse coordinator: Lars Wallman,\n        lars.wallman@bme.lth.se\nDirector of studies: Lars Wallman,\n        lars.wallman@bme.lth.se\nCourse homepage: https://www.bme.lth.se/\n\nFurther information\nThe first lecture is a mandatory call. Enrolled and registered students who do not have notified absence may receive a cancellation of the course. \nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

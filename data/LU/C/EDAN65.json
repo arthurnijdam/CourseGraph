@@ -1,0 +1,55 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Compilers\nKompilatorer",
+    "EDAN65, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-pvt, D4-is, D4-pv, E4, F4, F4-pv, Pi4\nLanguage of instruction: The course will be given in English on demand",
+    "The fundamental theories and methods used in Compiler Construction are central to the discipline of Computer Science, and widely applicable in both research and software construction.",
+    "The course aims to give knowledge of the principal structure of a compiler and about the basic theories and methods used to implement the different parts of the compiler. It should give an understanding for how the theories and the methods can be used in related areas like translation between different source languages, analysis of program properties, interpretation, and analysis of other artificial languages. The course also includes how advanced object-oriented techniques, such as design patterns and aspect-oriented programming can be applied to compiler construction.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "The architecture of a compiler. The definition of programming languages: regular expressions, context-free grammars, abstract grammars, attribute grammars. Methods: scanning, parsing, static-semantic analysis, code generation. Runtime systems: memory allocation, automatic memory management (garbage collection). Tools: Scanner generators, parser generators, abstract syntax-tree generators, generators för attribute evaluation. Design patterns (visitor, interpreter). Application areas for compiler construction.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written examination. To qualify for the written examination, students must have completed their programming assignments. The final grade for the entire course is based on the result of the written examination.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0214. Name: Laboratory Work. \n\nCredits: 3.0. Grading scale: UG - (U, G).\n        \n          Assessment: Completed laboratory exercises.\n        \n        \n          The module includes: Laboratory work\n        \n        \n        \nCode: 0114. Name: Written Examination. \n\nCredits: 4.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written examination. The final grade of the entire course is based on the result of this exam. To qualify for the written exam, students must have completed their laboratory work.\n        \n        \n          The module includes: Written examination",
+    "Admission requirements:",
+    "Course coordinator: Niklas Fors,\n        niklas.fors@cs.lth.se\nCourse coordinator: Professor Görel Hedin,\n        Gorel.Hedin@cs.lth.se\nCourse homepage: https://cs.lth.se/edan65",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "understand formalisms for syntactic descriptions: regular expressions, context-free grammars, and abstract grammars.",
+      "understand formalisms for program analysis: attribute grammars",
+      "be able to describe compiler phases, runtime systems, and different kinds of internal representations."
+    ],
+    [
+      "be able to implement parsers for programming languages with parser generators",
+      "be able to implement semantic analysis and code generation using attribute grammars and imperative programming",
+      "be able to implement runtime systems by interpretation"
+    ],
+    [
+      "EDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course"
+    ],
+    [
+      "Appel, A W: Modern Compiler Implementation in Java. Cambridge University Press, 2002, ISBN: 052182060X. Recommended textbook."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår14/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nCompilers\nKompilatorer\nEDAN65, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-pvt, D4-is, D4-pv, E4, F4, F4-pv, Pi4\nLanguage of instruction: The course will be given in English on demand\n    \n  \nAim\nThe fundamental theories and methods used in Compiler Construction are central to the discipline of Computer Science, and widely applicable in both research and software construction.\nThe course aims to give knowledge of the principal structure of a compiler and about the basic theories and methods used to implement the different parts of the compiler. It should give an understanding for how the theories and the methods can be used in related areas like translation between different source languages, analysis of program properties, interpretation, and analysis of other artificial languages. The course also includes how advanced object-oriented techniques, such as design patterns and aspect-oriented programming can be applied to compiler construction.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nunderstand formalisms for syntactic descriptions: regular expressions, context-free grammars, and abstract grammars.understand formalisms for program analysis: attribute grammarsbe able to describe compiler phases, runtime systems, and different kinds of internal representations.\nCompetences and skills\n      For a passing grade the student must\nbe able to implement parsers for programming languages with parser generatorsbe able to implement semantic analysis and code generation using attribute grammars and imperative programmingbe able to implement runtime systems by interpretation\nContents\nThe architecture of a compiler. The definition of programming languages: regular expressions, context-free grammars, abstract grammars, attribute grammars. Methods: scanning, parsing, static-semantic analysis, code generation. Runtime systems: memory allocation, automatic memory management (garbage collection). Tools: Scanner generators, parser generators, abstract syntax-tree generators, generators för attribute evaluation. Design patterns (visitor, interpreter). Application areas for compiler construction.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written examination. To qualify for the written examination, students must have completed their programming assignments. The final grade for the entire course is based on the result of the written examination.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0214. Name: Laboratory Work. \n\nCredits: 3.0. Grading scale: UG - (U, G).\n        \n          Assessment: Completed laboratory exercises.\n        \n        \n          The module includes: Laboratory work\n        \n        \n        \nCode: 0114. Name: Written Examination. \n\nCredits: 4.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written examination. The final grade of the entire course is based on the result of this exam. To qualify for the written exam, students must have completed their laboratory work.\n        \n        \n          The module includes: Written examination\n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nEDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course\n\nAssumed prior knowledge: \n        Object-oriented Programming in Java. Basic data structures.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEDA200\nEDA180\n\nReading list\n\nAppel, A W: Modern Compiler Implementation in Java. Cambridge University Press, 2002, ISBN: 052182060X. Recommended textbook.\n\nContact\n\nCourse coordinator: Niklas Fors,\n        niklas.fors@cs.lth.se\nCourse coordinator: Professor Görel Hedin,\n        Gorel.Hedin@cs.lth.se\nCourse homepage: https://cs.lth.se/edan65\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

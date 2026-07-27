@@ -1,0 +1,164 @@
+{
+  "title": "Osiris Student Mobile",
+  "headings": [],
+  "paragraphs": [],
+  "lists": [
+    [
+      "The student can",
+      "construct and implement sophisticated numerical methods for ODE and DAE systems, and assess them in terms of accuracy and stability",
+      "apply dedicated methods for specific ODE systems, such as symplectic methods for Hamiltonian systems",
+      "implement and employ high performance parallelization techniques (MPI and GPU) for numerical methods for ODEs",
+      "identify and implement the most efficient HPC strategy based on the mathematical details of the use case",
+      "balance accuracy, high-performance, and object-orientation (for reuse) in advanced numerical software development",
+      "implement the cycle  Research question → Mathematics → Implementation → Simulation → Reflection"
+    ],
+    [
+      "equations of motion, first order ODE system, initial conditions, initial value problem, differential-algebraic equations (DAEs), phase space, orbit/trajectory, flow, Hamiltonian system, classification of ODEs",
+      "basic integration methods, explicit/implicit Euler method, trapezoidal rule, implicit midpoint rule, Newton iteration, local discretisation error, consistency, global discretisation error, convergence",
+      "test equation, stability of numerical schemes, stability region, A- stability, upper bound for the global discretisation error, one-step methods for ODE-systems, stiff ODE systems, error estimate using Richardson extrapolation",
+      "derivation of Runge-Kutta methods, Butcher array, local discretisa- tion error, conditions for consistency, linear invariants.",
+      "Newton iteration for implicit Runge-Kutta methods, explicit Runge-Kutta methods, stability function, stability region, local error, step size control, local extrapolation, embedding.",
+      "Hamiltonian systems, (phase) flow, area preservation, symplectic mapping/flow, theorem of Poincaré.",
+      "symplectic time integration methods, symplectic Euler methods, implicit midpoint rule, symplectic Runge-Kutta methods, quadratic invariants, Störmer-Verlet scheme.",
+      "stiff ODE system, (linear) differential-algebraic equations (DAEs), consistent initial conditions, Weierstrass-Kronecker canonical form, general DAE, index, semi-explicit DAE, Hessenberg index-1/index-2 systems.",
+      "basic schemes for DAE systems, BDF methods, ODE system with invariants, stabilized ODE system.",
+      "examples of large-scale particle systems and applications (crowd, epidemiology, molecular), numerical implementation aspects of integrators: identification of the linear algebra operations (vector operations, matrix-vector op- erations, inner-product), linear update operator",
+      "basic consideration of parallelization, distributed vs shared memory computing architectures, MPI and GPU parallelization (vs hyperthreading) paradigms",
+      "Communication and Computation times, basic aspects of paral- lelization in different coding languages Python and Matlab, pros & cons, Matlab parallel programming toolbox, Python CuPy for Cuda-GPU, mpi4pi for MPI",
+      "domain partitioning and parallelization, truncation, communication vs computation time, scaling",
+      "specific considerations for the linear update operators, optimal strategies for large-scale applications"
+    ],
+    [
+      "Block 2Timeslot(s)D - We 5-8, Tu 9-10, Fr 1-4Enrolment period15 June 2025 until 12 October 2025 23:59Unenrolment until 10 November 2025 23:59"
+    ],
+    [
+      "LectureRemark",
+      "Practical workRemark"
+    ],
+    [
+      "Opdracht/assignmentsInterim examinationTest weight20Minimum grade5.0",
+      "TestInterim examinationTest weight20Minimum grade5.0",
+      "Written examinationFinal examinationTest weight60Minimum grade5.0"
+    ],
+    [
+      "Block 2Enrolment period15 June 2025 until 4 January 2026 23:59"
+    ],
+    [
+      "Block 2Enrolment period15 June 2025 until 4 January 2026 23:59"
+    ],
+    [
+      "Block 2Enrolment period15 June 2025 until 4 January 2026 23:59Unenrolmentuntil 4 January 2026Test date22 January 2026",
+      "Block 3Enrolment period15 November 2025 until 22 March 2026 23:59Unenrolmentuntil 22 March 2026Test date10 April 2026"
+    ],
+    [
+      "J.H.M. ten Thije Boonkkamp"
+    ],
+    [
+      "J.H.M. ten Thije Boonkkamp"
+    ],
+    [
+      "dr. B. Baumeier"
+    ],
+    [
+      "dr. B. Baumeier",
+      "J.H.M. ten Thije Boonkkamp"
+    ]
+  ],
+  "tables": [
+    [
+      [
+        "Timeslot(s)",
+        "D - We 5-8, Tu 9-10, Fr 1-4"
+      ],
+      [
+        "Enrolment period",
+        "15 June 2025 until 12 October 2025 23:59"
+      ],
+      [
+        "Unenrolment",
+        "until 10 November 2025 23:59"
+      ]
+    ],
+    [
+      [
+        "Remark"
+      ]
+    ],
+    [
+      [
+        "Remark"
+      ]
+    ],
+    [
+      [
+        "Test weight",
+        "20"
+      ],
+      [
+        "Minimum grade",
+        "5.0"
+      ]
+    ],
+    [
+      [
+        "Test weight",
+        "20"
+      ],
+      [
+        "Minimum grade",
+        "5.0"
+      ]
+    ],
+    [
+      [
+        "Test weight",
+        "60"
+      ],
+      [
+        "Minimum grade",
+        "5.0"
+      ]
+    ],
+    [
+      [
+        "Enrolment period",
+        "15 June 2025 until 4 January 2026 23:59"
+      ]
+    ],
+    [
+      [
+        "Enrolment period",
+        "15 June 2025 until 4 January 2026 23:59"
+      ]
+    ],
+    [
+      [
+        "Enrolment period",
+        "15 June 2025 until 4 January 2026 23:59"
+      ],
+      [
+        "Unenrolment",
+        "until 4 January 2026"
+      ],
+      [
+        "Test date",
+        "22 January 2026"
+      ]
+    ],
+    [
+      [
+        "Enrolment period",
+        "15 November 2025 until 22 March 2026 23:59"
+      ],
+      [
+        "Unenrolment",
+        "until 22 March 2026"
+      ],
+      [
+        "Test date",
+        "10 April 2026"
+      ]
+    ]
+  ],
+  "full_text": "\n\nOsiris Student Mobile\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhomeHomedate_rangeCalendarevent_busyAttendance and absencegradingGradestrending_upProgressbusiness_centerCasesmailMessagesunarchiveUpload paperrss_feedNewsborder_colorEnrollocal_libraryCourse cataloguelanguageLearning AgreementslanguageStay abroad requestsbusinessInternshipssupervisor_accountSupervisorsspeaker_notesNotesCourse catalogue NL  Start  Courses  Education packages  Minors  Degree programmes  Study programmes Clear filtersAcademic yearexpand_moreexpand_lessNo choice availableQuartile (start of course)expand_moreexpand_lessNo choice availableTimeslotexpand_moreexpand_lessNo choice availableCategoryexpand_moreexpand_lessNo choice availableCourse typeexpand_moreexpand_lessNo choice availableFacultyexpand_moreexpand_lessNo choice availableCapacity group / Sectionexpand_moreexpand_lessNo choice availableLecturerexpand_moreexpand_lessNo choice availableLanguage of instructionexpand_moreexpand_lessNo choice availableLearning Typeexpand_moreexpand_lessNo choice available2025-2026clearfilter_list2025-2026clear  Search results limited to first 10,000 results local_library  Thermal conversion and industrial systems analysis (4SELMJ2530)   2026-2027  Department: Mechanical Engineering  Coordinating unit: Mechanical Engineering  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library 'The thinking eye' (drawing) (7EA3M0)   2026-2027  Department: The Built Environment  Coordinating unit: Unit Architectural Urban Design and Engineering  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library 'The thinking eye' (drawing) (7XX4M0)   2026-2027  Department: The Built Environment  Coordinating unit: Unit Architectural Urban Design and Engineering  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library 'The thinking eye' (drawing) (7XX4M0)   2025-2026  Department: The Built Environment  Coordinating unit: Unit Architectural Urban Design and Engineering  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library 'The thinking eye' (drawing) (7XX4M0)   2024-2025  Department: The Built Environment  Coordinating unit: Unit Architectural Urban Design and Engineering  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library 3D modeling studio (0HVL00)   2026-2027  Department: Industrial Engineering and Innovation Sciences  Coordinating unit: Human-Technology Interaction  Credits (ECTS): 5 EC  Category: Introductory  Course type: Bachelor College  Instruction language:  English local_library 3D modeling studio for PT (0HVL00)   2025-2026  Department: Industrial Engineering and Innovation Sciences  Coordinating unit: Human-Technology Interaction  Credits (ECTS): 5 EC  Category: Introductory  Course type: Bachelor College  Instruction language:  English local_library 3D modeling studio for PT (0HVL00)   2024-2025  Department: Industrial Engineering and Innovation Sciences  Coordinating unit: Human-Technology Interaction  Credits (ECTS): 5 EC  Category: Introductory  Course type: Bachelor College  Instruction language:  English local_library 3D modeling studio for PT (0HVL00)   2023-2024  Department: Industrial Engineering and Innovation Sciences  Coordinating unit: Human-Technology Interaction  Credits (ECTS): 5 EC  Category: Introductory  Course type: Bachelor College  Instruction language:  English local_library 4TU.Responsible Sustainability Challenge (HA012)   2024-2025  Department: Honors Academy  Coordinating unit: Honors Academy  Credits (ECTS): 0 EC  Category:   Course type: TU/e Honors track assessment  Instruction language:  English local_library 4TU.Responsible Sustainability Challenge (HA012)   2023-2024  Department: Honors Academy  Coordinating unit: Honors Academy  Credits (ECTS): 0 EC  Category:   Course type: TU/e Honors track assessment  Instruction language:  English local_library 4TU.Responsible Sustainability Challenge (HA012)   2022-2023  Department: Honors Academy  Coordinating unit: Honors Academy  Credits (ECTS): 0 EC  Category:   Course type: TU/e Honors track assessment  Instruction language:  English local_library A Hands-On Introduction to Nano Device Fabrication (37HIN)   2026-2027  Department: Applied Physics and Science Education  Coordinating unit: Applied Physics  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library A designerly perspective on IoT; a growing systems approach (DCM110)   2026-2027  Department: Industrial Design  Coordinating unit: Industrial Design  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library A designerly perspective on IoT; a growing systems approach (DCM110)   2025-2026  Department: Industrial Design  Coordinating unit: Industrial Design  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library A designerly perspective on IoT; a growing systems approach (DCM110)   2024-2025  Department: Industrial Design  Coordinating unit: Industrial Design  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library A designerly perspective on IoT; a growing systems approach (DCM110)   2023-2024  Department: Industrial Design  Coordinating unit: Future Everyday  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library A designerly perspective on IoT; a growing systems approach (DCM110)   2022-2023  Department: Industrial Design  Coordinating unit: Future Everyday  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library A designerly perspective on IoT; a growing systems approach (DCM110)   2021-2022  Department: Industrial Design  Coordinating unit: Future Everyday  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library A designerly perspective on IoT; a growing systems approach (DCM110)   2021-2022  Department: Industrial Design  Coordinating unit: Future Everyday  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library A designerly perspective on IoT; a growing systems approach (DCM110)   2020-2021  Department: Industrial Design  Coordinating unit: Future Everyday  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library A designerly perspective on IoT; a growing systems approach (DCM110)   2020-2021  Department: Industrial Design  Coordinating unit: Future Everyday  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library A foldable solar cooker (4CBLW00-25)   2024-2025  Department: Mechanical Engineering  Coordinating unit: Mechanical Engineering  Credits (ECTS): 5 EC  Category: Advanced  Course type: Bachelor College  Instruction language:  English local_library AI compute clusters and datacenter networks (5LTF0)   2026-2027  Department: Electrical Engineering  Coordinating unit: Electro-optical Communication  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library AI compute clusters and datacenter networks (5LTF0)   2025-2026  Department: Electrical Engineering  Coordinating unit: Electro-optical Communication  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English Loading more data...2025-2026Advanced Simulation Methods for Ordinary Differential Equations  (2MBC50) Contentexpand_moreexpand_lessLearning objectives and content\n    Objectives\n\nThe student can\nconstruct and implement sophisticated numerical methods for ODE and DAE systems, and assess them in terms of accuracy and stability\napply dedicated methods for specific ODE systems, such as symplectic methods for Hamiltonian systems\nimplement and employ high performance parallelization techniques (MPI and GPU) for numerical methods for ODEs\nidentify and implement the most efficient HPC strategy based on the mathematical details of the use case\nbalance accuracy, high-performance, and object-orientation (for reuse) in advanced numerical software development\nimplement the cycle  Research question → Mathematics → Implementation → Simulation → Reflection\n\n    Content\n\nequations of motion, first order ODE system, initial conditions, initial value problem, differential-algebraic equations (DAEs), phase space, orbit/trajectory, flow, Hamiltonian system, classification of ODEs\nbasic integration methods, explicit/implicit Euler method, trapezoidal rule, implicit midpoint rule, Newton iteration, local discretisation error, consistency, global discretisation error, convergence\ntest equation, stability of numerical schemes, stability region, A- stability, upper bound for the global discretisation error, one-step methods for ODE-systems, stiff ODE systems, error estimate using Richardson extrapolation\nderivation of Runge-Kutta methods, Butcher array, local discretisa- tion error, conditions for consistency, linear invariants.\nNewton iteration for implicit Runge-Kutta methods, explicit Runge-Kutta methods, stability function, stability region, local error, step size control, local extrapolation, embedding.\nHamiltonian systems, (phase) flow, area preservation, symplectic mapping/flow, theorem of Poincaré.\nsymplectic time integration methods, symplectic Euler methods, implicit midpoint rule, symplectic Runge-Kutta methods, quadratic invariants, Störmer-Verlet scheme.\nstiff ODE system, (linear) differential-algebraic equations (DAEs), consistent initial conditions, Weierstrass-Kronecker canonical form, general DAE, index, semi-explicit DAE, Hessenberg index-1/index-2 systems.\nbasic schemes for DAE systems, BDF methods, ODE system with invariants, stabilized ODE system.\nexamples of large-scale particle systems and applications (crowd, epidemiology, molecular), numerical implementation aspects of integrators: identification of the linear algebra operations (vector operations, matrix-vector op- erations, inner-product), linear update operator\nbasic consideration of parallelization, distributed vs shared memory computing architectures, MPI and GPU parallelization (vs hyperthreading) paradigms\nCommunication and Computation times, basic aspects of paral- lelization in different coding languages Python and Matlab, pros & cons, Matlab parallel programming toolbox, Python CuPy for Cuda-GPU, mpi4pi for MPI\ndomain partitioning and parallelization, truncation, communication vs computation time, scaling\nspecific considerations for the linear update operators, optimal strategies for large-scale applications\n\nPractical informationexpand_moreexpand_less    Course module2MBC50    Course typeBachelor College    Credits (ECTS)5 EC    CategoryAdvanced    Language of instructionEnglish    Offered byMathematics and Computer Science - Mathematics domain\n\n    RemarkPrerequisites\nLinear algebra 1 (2MBA20); Ordinary differential equations (2MBC20); Pro- gramming and Modeling (2MBA30).Course enrolmentexpand_moreexpand_less    OSIRIS StudentYou can register yourself via OSIRIS Student. To do so, go to Enroll / Course.\n\nEnrolment periods    Block 2Timeslot(s)D - We 5-8, Tu 9-10, Fr 1-4Enrolment period15 June 2025 until 12 October 2025 23:59Unenrolment until 10 November 2025 23:59Entrance requirementsexpand_moreexpand_less    Assumed previous knowledgeLinear algebra 1 (2MBA20); Ordinary differential equations (2MBC20); Programming and Modeling (2MBA30). A TU/e student laptop with NVIDIA GPU graphics.Instructional modesexpand_moreexpand_lessInstructional modes    LectureRemark     Practical workRemark Testsexpand_moreexpand_lessTests    Opdracht/assignmentsInterim examinationTest weight20Minimum grade5.0    TestInterim examinationTest weight20Minimum grade5.0    Written examinationFinal examinationTest weight60Minimum grade5.0Test enrolmentexpand_moreexpand_less    OSIRIS StudentYou can register yourself via OSIRIS Student. To do so, go to Enroll / Test.\n\nOpdracht/assignments    Block 2Enrolment period15 June 2025 until 4 January 2026 23:59Test    Block 2Enrolment period15 June 2025 until 4 January 2026 23:59Written examination    Block 2Enrolment period15 June 2025 until 4 January 2026 23:59Unenrolmentuntil 4 January 2026Test date22 January 2026    Block 3Enrolment period15 November 2025 until 22 March 2026 23:59Unenrolmentuntil 22 March 2026Test date10 April 2026Lecturer(s)expand_moreexpand_lessCo-lecturer J.H.M. ten Thije BoonkkampContactperson for the course J.H.M. ten Thije BoonkkampResponsible lecturer dr. B. BaumeierSubject matter expert dr. B. Baumeier J.H.M. ten Thije BoonkkampMaterialsexpand_moreexpand_lessDo you want to know more?expand_moreexpand_lessJ.H.M. ten Thije Boonkkamp can tell you more about this course.\nSend an e-mail to j.h.m.tenthijeboonkkamp@TUE.nl\n\n\n"
+}

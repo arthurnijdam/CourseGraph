@@ -1,0 +1,65 @@
+{
+  "title": "Studiegids — Study Guide / Distributed Data Systems",
+  "headings": [
+    "Distributed Data Systems",
+    "Description",
+    "Learning objectives",
+    "Teaching method",
+    "Contact hours per week",
+    "Assessment",
+    "Literature and Course materials",
+    "Quick overview"
+  ],
+  "paragraphs": [
+    "Description",
+    "Starting\n in the mid-1990s, computing is undergoing a revolution, in which \ncollections of independent computers appear to users as a single, albeit\n distributed, computing system. Motivated by the increase in the \ncomputation capacity of consumer computers, by the commoditization of \nserver-grade machines, and by the advent of the Internet, the \ndistributed computing paradigm has permeated all fields using computers.\n Current distributed computing applications range from the consumer \nsocial networks, peer-to-peer file-sharing, and massively multiplayer \nonline games; to scientific computing using Big Data and stream \nprocessing; and to engineering fields and industrial control systems. \nThis course focuses on the systems aspects of distributed computing with\n a special focus on data systems.",
+    "Learning objectives",
+    "At the end of this course, the student is able to:",
+    "Explain the objectives and functions of distributed computing systems.",
+    "Describe the architecture and operation of distributed computing systems.",
+    "Explain how distributed computing systems can process data.",
+    "Implement\n complex operations of modern distributed computing systems in \nreal-world use-cases such as distributed learning and graph processing.",
+    "Analyse\n the trade-offs inherent in the design of distributed computing systems \n(performance, efficiency, scalability, reliability, availability, \nfault-tolerance).",
+    "Teaching method",
+    "Lectures and labs",
+    "4 hours per week in total:",
+    "2 x 2h of lectures/week",
+    "Assessment",
+    "The final grade of the course consists of the following components:",
+    "Written Exam (weighting 20%)",
+    "Group Assignment (weighting 80%)",
+    "Final grade calculation: 0.2 * Written Exam + 0.8 * Group Assignment",
+    "A\n passing final grade for the course can only be earned when for all \ncomponents at least a 5.0 is earned, and the weighted final grade is at \nleast a 5.8.",
+    "In case of an insufficient final result, repair \noptions may exist in accordance with Article 17A, Times and number of \nexaminations, sub 1, of the Teaching and Examination Regulations, for:",
+    "Written Exam: Resit opportunity",
+    "Group Assignment: Repair opportunity",
+    "Disclaimer: information may change depending on unforeseen circumstances or measures (see: TER Art 2, sub 5).",
+    "Literature and Course materials",
+    "Designing Data-Intensive Applications, Martin Kleppman, O'Reilly Media, Inc. 2007"
+  ],
+  "lists": [
+    [
+      "Explain the objectives and functions of distributed computing systems.",
+      "Describe the architecture and operation of distributed computing systems.",
+      "Explain how distributed computing systems can process data.",
+      "Implement\n complex operations of modern distributed computing systems in \nreal-world use-cases such as distributed learning and graph processing.",
+      "Analyse\n the trade-offs inherent in the design of distributed computing systems \n(performance, efficiency, scalability, reliability, availability, \nfault-tolerance)."
+    ],
+    [
+      "2 x 2h of lectures/week"
+    ],
+    [
+      "Written Exam (weighting 20%)",
+      "Group Assignment (weighting 80%)"
+    ],
+    [
+      "Written Exam: Resit opportunity",
+      "Group Assignment: Repair opportunity"
+    ],
+    [
+      "MSc Computer Science (Master)"
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStudiegids — Study Guide / Distributed Data SystemsGo to content   \n      Home\n      Study Guide Distributed Data Systems Distributed Data Systems  CS4550   Description  Starting\n in the mid-1990s, computing is undergoing a revolution, in which \ncollections of independent computers appear to users as a single, albeit\n distributed, computing system. Motivated by the increase in the \ncomputation capacity of consumer computers, by the commoditization of \nserver-grade machines, and by the advent of the Internet, the \ndistributed computing paradigm has permeated all fields using computers.\n Current distributed computing applications range from the consumer \nsocial networks, peer-to-peer file-sharing, and massively multiplayer \nonline games; to scientific computing using Big Data and stream \nprocessing; and to engineering fields and industrial control systems. \nThis course focuses on the systems aspects of distributed computing with\n a special focus on data systems.  Learning objectives  At the end of this course, the student is able to:Explain the objectives and functions of distributed computing systems.Describe the architecture and operation of distributed computing systems.Explain how distributed computing systems can process data.Implement\n complex operations of modern distributed computing systems in \nreal-world use-cases such as distributed learning and graph processing.Analyse\n the trade-offs inherent in the design of distributed computing systems \n(performance, efficiency, scalability, reliability, availability, \nfault-tolerance). Teaching method  Lectures and labs Contact hours per week 4 hours per week in total:2 x 2h of lectures/week Assessment  The final grade of the course consists of the following components:Written Exam (weighting 20%)Group Assignment (weighting 80%)Final grade calculation: 0.2 * Written Exam + 0.8 * Group AssignmentA\n passing final grade for the course can only be earned when for all \ncomponents at least a 5.0 is earned, and the weighted final grade is at \nleast a 5.8.In case of an insufficient final result, repair \noptions may exist in accordance with Article 17A, Times and number of \nexaminations, sub 1, of the Teaching and Examination Regulations, for:Written Exam: Resit opportunityGroup Assignment: Repair opportunityDisclaimer: information may change depending on unforeseen circumstances or measures (see: TER Art 2, sub 5). Literature and Course materials  Designing Data-Intensive Applications, Martin Kleppman, O'Reilly Media, Inc. 2007   Quick overview   Year 2026-2027 Course code CS4550 EC 5 Period Starts in period  3  1234 Level Master Programme MSc Computer Science (Master)  Faculty Electrical Engineering, Mathematics and Computer Science Responsible lecturer Dr. A. Katsifodimos  ✉ Teacher(s) Dr. K. Atasu  ✉ Location Delft Course language English Course registration No   \n"
+}

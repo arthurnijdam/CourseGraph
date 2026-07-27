@@ -1,0 +1,80 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Evaluation of Software Systems\nUtvärdering av programvarusystem",
+    "EDAA35, 7.0 credits, G1 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: D1\nLanguage of instruction: The course will be given in Swedish",
+    "The aim of the course is to provide an understanding for how scientific studies are conducted and give knowledge about scientific writing and oral presentations of scientific work. More specifically, the course is about how -software systems can be evaluated, and how this type of evaluations should be planned, executed, and reported.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Grading scale: UG - (U, G) - (Fail, Pass)\nAssessment:",
+    "Assessment is based on submitted written reports, and oral presentations. In order to pass the course, lab assignments and the project must be approved.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0118. Name: Lab Assignments. \n\nCredits: 3.0. Grading scale: UG - (U, G).\n        \n          Assessment: Lab assignments are examined as part of the assignment during the laboratory session and/or based on reports that are handed in efter the laboratory session.\n        \n        \n          The module includes: Lab assignments in the course\n        \n        \n        \nCode: 0218. Name: Project. \n\nCredits: 4.0. Grading scale: UG - (U, G).\n        \n          Assessment: The project is examined through a written report and through an oral presentation. There are also separate \"quizz\" assignments. \n        \n        \n          The module includes: The course includes a project that is carried out in small groups of students. This course part also includes the theory that is included in the course, and that is needed in the project and the laboratory assignments.",
+    "Admission requirements:",
+    "Course coordinator: Per Andersson,\n        Per.Andersson@cs.lth.se\nTeacher: Per Andersson,\n        Per.Andersson@cs.lth.se\nDirector of studies: Per Andersson,\n        Per.Andersson@cs.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/34183",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to explain the typical steps of a scientific study, such as planning and design, execution and data collection, data analysis, validity evaluation, and formulation of conclusions",
+      "be able to explain how a runtime system works with respect to compilation, interpretation, garbage collection, etc.",
+      "be able to explain how measurements are conducted on software systems, and have knowledge about dynamic and static metrics that can be defined for quality attributes, mainly with respect to performance and static metrics",
+      "be able to explain how measurements are conducted on stochastic processes and have knowledge about statistics such as mean and variance"
+    ],
+    [
+      "be able to plan and execute a study which involves measurements on software systems",
+      "be able to carry out execution time measurements for software that is executed with a modern virtual machine. This includes understanding the difference between start-up and steady-state execution time",
+      "be able to carry out measurement of static code metrics",
+      "be able to analyse metrics in order to decide mean value, confidence intervals, etc., and to be able to interpret these statistics",
+      "be able to analyse conducted studies and decide if observed differences are statistically significant",
+      "be able to report this type of studies in written reports. This includes that the student should be able to refer to work of others in a correct way",
+      "be able to evaluate the quality of a written report that presents the results of an evaluation of a software system",
+      "be able to present this type of study orally"
+    ],
+    [
+      "understand how the design of a study affects the validity",
+      "understand which parts of a report that are required in order to give the reader an understanding of the execution, results, validity etc.",
+      "understand the importance of statistical data analysis before the students studies statistical theory in future courses."
+    ],
+    [
+      "Planning and design of scientific studies",
+      "Written and oral presentation of scientific studies",
+      "Introduction to statistical analysis, including mean value and variation",
+      "Runtime systems, virtual machines",
+      "Measurement of dynamic properties, e.g. execution time in Java",
+      "Measurement of static code metrics",
+      "Descriptive statistics of measurement data and hypothesis tests",
+      "Basic statistics with tool support",
+      "Report structure and language in scientific reports",
+      "Reference management with Bibtex",
+      "Evaluation of scientific studies, review of reports"
+    ],
+    [
+      "Approved laboratory work in EDAB05 Introduction to Programming"
+    ],
+    [
+      "Material. Booklet, \"EDAA35 Utvärdering av programvarusystem\"."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår15/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nEvaluation of Software Systems\nUtvärdering av programvarusystem\nEDAA35, 7.0 credits, G1 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: D1\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nThe aim of the course is to provide an understanding for how scientific studies are conducted and give knowledge about scientific writing and oral presentations of scientific work. More specifically, the course is about how -software systems can be evaluated, and how this type of evaluations should be planned, executed, and reported.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to explain the typical steps of a scientific study, such as planning and design, execution and data collection, data analysis, validity evaluation, and formulation of conclusionsbe able to explain how a runtime system works with respect to compilation, interpretation, garbage collection, etc.be able to explain how measurements are conducted on software systems, and have knowledge about dynamic and static metrics that can be defined for quality attributes, mainly with respect to performance and static metricsbe able to explain how measurements are conducted on stochastic processes and have knowledge about statistics such as mean and variance\nCompetences and skills\n      For a passing grade the student must\nbe able to plan and execute a study which involves measurements on software systemsbe able to carry out execution time measurements for software that is executed with a modern virtual machine. This includes understanding the difference between start-up and steady-state execution timebe able to carry out measurement of static code metricsbe able to analyse metrics in order to decide mean value, confidence intervals, etc., and to be able to interpret these statisticsbe able to analyse conducted studies and decide if observed differences are statistically significantbe able to report this type of studies in written reports. This includes that the student should be able to refer to work of others in a correct waybe able to evaluate the quality of a written report that presents the results of an evaluation of a software systembe able to present this type of study orally\nJudgement and approach\n      For a passing grade the student must\nunderstand how the design of a study affects the validityunderstand which parts of a report that are required in order to give the reader an understanding of the execution, results, validity etc.understand the importance of statistical data analysis before the students studies statistical theory in future courses.\nContents\nPlanning and design of scientific studiesWritten and oral presentation of scientific studiesIntroduction to statistical analysis, including mean value and variationRuntime systems, virtual machinesMeasurement of dynamic properties, e.g. execution time in JavaMeasurement of static code metricsDescriptive statistics of measurement data and hypothesis testsBasic statistics with tool supportReport structure and language in scientific reportsReference management with BibtexEvaluation of scientific studies, review of reports\nExamination details\n\nGrading scale: UG - (U, G) - (Fail, Pass)\nAssessment: Assessment is based on submitted written reports, and oral presentations. In order to pass the course, lab assignments and the project must be approved.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0118. Name: Lab Assignments. \n\nCredits: 3.0. Grading scale: UG - (U, G).\n        \n          Assessment: Lab assignments are examined as part of the assignment during the laboratory session and/or based on reports that are handed in efter the laboratory session.\n        \n        \n          The module includes: Lab assignments in the course\n        \n        \n        \nCode: 0218. Name: Project. \n\nCredits: 4.0. Grading scale: UG - (U, G).\n        \n          Assessment: The project is examined through a written report and through an oral presentation. There are also separate \"quizz\" assignments. \n        \n        \n          The module includes: The course includes a project that is carried out in small groups of students. This course part also includes the theory that is included in the course, and that is needed in the project and the laboratory assignments. \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nApproved laboratory work in EDAB05 Introduction to Programming\t\n\nThe number of participants is limited to: No\n\nReading list\n\nMaterial. Booklet, \"EDAA35 Utvärdering av programvarusystem\".\n\nContact\n\nCourse coordinator: Per Andersson,\n        Per.Andersson@cs.lth.se\nTeacher: Per Andersson,\n        Per.Andersson@cs.lth.se\nDirector of studies: Per Andersson,\n        Per.Andersson@cs.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/34183\n\nFurther information\n      During the course, relevant parts of Programming - Second Course will be covered.\n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

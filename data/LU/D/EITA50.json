@@ -1,0 +1,58 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Signal Processing in Multimedia\nSignalbehandling i multimedia",
+    "EITA50, 7.5 credits, G1 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED E\nDate of Decision: 2026-04-09",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: D3\nElective for: C4\nLanguage of instruction: The course will be given in English on demand",
+    "We use daily equipments in which the signals are stored and treated digitally. From the basic signal processing used in CD-players to advanced processing used in MP3 coding of music, speech coding in GSM, digital video and image processing. The course gives the basic knowledge in digital signal processing and knowledge of signal properties in the time domain as well as in the frequency domain.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The course deals with time discrete signals and systems. Items such as the Fourier Transform, the Discrete Fourier Transform (DFT) and the z-transformed are treated in the course as well as some basic structures for implementation of digital filters. Also, system function and frequency functions are introduced as well as digital filters. The course will also give an overview of modern learning-based techniques for handling multimedia applications. Digital processing of analogue signals using A/D and D/A conversion is studied. In the laboratory work, practical applications of digital signal processing such as speech signals processing and biomedical signals processing are treated.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Examination is by a final test and by a number of sub-tests during the course. A final grade is obtained when the final test, sub-tests, and laboratory exercises are approved.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 1901. Name: Examination. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved Written exam\n        \n        \n        \n        \nCode: 1902. Name: Laboratory Works. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved Laboratory work.\n        \n        \n        \n        \nCode: 1903. Name: Home Assignments. \n\nCredits: 0.0. Grading scale: UG - (U, G).\n        \n          Assessment: Approved home assignments.\n        \n        \n          The module includes: Two individual, written home assignments. \n        \n        \n          Further information: The score is credited to the test result.",
+    "Assumed prior knowledge: \n        FMAA01/FMAA05 One Dimensional Analysis.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nESS040\nEITF15\nEITF75\nETI265\nBMEF25",
+    "Course coordinator: Amir Aminifar,\n        amir.aminifar@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/eita50",
+    "The present course provides essentially the same qualifications as the basic course \"EITF75 Digital signal processing\" for the electrical engineering program, and therefore any of the elective courses in Signal Processing can be followed.",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to identify applications of digital signal processing and how this is used in modern equipments",
+      "be able to describe digital signals and the properties of digital signals",
+      "be able to describe the relation between the properties in the time domain and in the frequency domain",
+      "be able to describe the modern techniques for handling multimedia applications."
+    ],
+    [
+      "be able to analyze the signal properties in the time domain and in the frequency domain",
+      "be able to describe the properties of digital circuits"
+    ],
+    [
+      "be able to handle digital signal methods in practical applications",
+      "be able to read literature as well as treat with standards in this area."
+    ],
+    [
+      "Proakis J G, Manolakis D G: Digital Signal Processing. Principles, Algorithms and Applications. Pearson Education, 2007, ISBN: 0-13-228731-5. Additional material provided by the department."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår17/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nSignal Processing in Multimedia\nSignalbehandling i multimedia\nEITA50, 7.5 credits, G1 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED E\nDate of Decision: 2026-04-09\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: D3\nElective for: C4\nLanguage of instruction: The course will be given in English on demand\n    \n  \nAim\nWe use daily equipments in which the signals are stored and treated digitally. From the basic signal processing used in CD-players to advanced processing used in MP3 coding of music, speech coding in GSM, digital video and image processing. The course gives the basic knowledge in digital signal processing and knowledge of signal properties in the time domain as well as in the frequency domain.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to identify applications of digital signal processing and how this is used in modern equipmentsbe able to describe digital signals and the properties of digital signalsbe able to describe the relation between the properties in the time domain and in the frequency domainbe able to describe the modern techniques for handling multimedia applications.\nCompetences and skills\n      For a passing grade the student must\nbe able to analyze the signal properties in the time domain and in the frequency domainbe able to describe the properties of digital circuits\nJudgement and approach\n      For a passing grade the student must\nbe able to handle digital signal methods in practical applicationsbe able to read literature as well as treat with standards in this area.\nContents\nThe course deals with time discrete signals and systems. Items such as the Fourier Transform, the Discrete Fourier Transform (DFT) and the z-transformed are treated in the course as well as some basic structures for implementation of digital filters. Also, system function and frequency functions are introduced as well as digital filters. The course will also give an overview of modern learning-based techniques for handling multimedia applications. Digital processing of analogue signals using A/D and D/A conversion is studied. In the laboratory work, practical applications of digital signal processing such as speech signals processing and biomedical signals processing are treated. \nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Examination is by a final test and by a number of sub-tests during the course. A final grade is obtained when the final test, sub-tests, and laboratory exercises are approved.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 1901. Name: Examination. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved Written exam\n        \n        \n        \n        \nCode: 1902. Name: Laboratory Works. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved Laboratory work.\n        \n        \n        \n        \nCode: 1903. Name: Home Assignments. \n\nCredits: 0.0. Grading scale: UG - (U, G).\n        \n          Assessment: Approved home assignments.\n        \n        \n          The module includes: Two individual, written home assignments. \n        \n        \n          Further information: The score is credited to the test result.\n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        FMAA01/FMAA05 One Dimensional Analysis.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nESS040\nEITF15\nEITF75\nETI265\nBMEF25\n\nReading list\n\nProakis J G, Manolakis D G: Digital Signal Processing. Principles, Algorithms and Applications. Pearson Education, 2007, ISBN: 0-13-228731-5. Additional material provided by the department.\n\nContact\n\nCourse coordinator: Amir Aminifar,\n        amir.aminifar@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/eita50\n\nFurther information\nThe present course provides essentially the same qualifications as the basic course \"EITF75 Digital signal processing\" for the electrical engineering program, and therefore any of the elective courses in Signal Processing can be followed.\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

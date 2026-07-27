@@ -1,0 +1,209 @@
+{
+  "title": "Osiris Student Mobile",
+  "headings": [],
+  "paragraphs": [],
+  "lists": [
+    [
+      "The student understands the following topics: existence and origin of numerical errors, solution techniques for (systems of) linear and non-linear equation(s).",
+      "The student understands the fundamental principles for solving linear and non-linear algebraic and differential equation solvers, and being able to implement basic solution methods.",
+      "The students is able to use Python functionalities and NumPy/SciPy/Matplotlib features to solve a wide range of Chemical Engineering problems (solving ODEs, optimisation problems, interpolation and integration).",
+      "The student is able to validate, verify and classify solution techniques according to the order of convergence, absolute and relative error.",
+      "The student is able to formulate solution strategies for chemical engineering questions, by identification of the equation type and consequently breaking down the problem into sizable parts and suggesting the right numerical tool(s) (e.g. solution techniques for systems of linear and non-linear algebraic and (partial) differential equations, optimization problems, numerical integration and interpolation), and being able to implement them into a script or program.",
+      "The student is able to demonstrate generic programming abilities in Python, i.e. being able to set up an algorithm based on input/output, variables and functions, computations and control statements."
+    ],
+    [
+      "Block 3Timeslot(s)A - Mo 1-4, We 9-10, Th 5-8Enrolment period15 November 2025 until 4 January 2026 23:59Unenrolment until 2 February 2026 23:59"
+    ],
+    [
+      "Lecture with notebookRemark"
+    ],
+    [
+      "Assignment 1Interim examinationTest weight20Minimum grade AssessmentFor this course, there will be 4 assignments throughout the quartile, and 1 written exam in the exam week.",
+      "Assignment 2Interim examinationTest weight20Minimum grade AssessmentFor this course, there will be 4 assignments throughout the quartile, and 1 written exam in the exam week.",
+      "Assignment 3Interim examinationTest weight20Minimum grade AssessmentFor this course, there will be 4 assignments throughout the quartile, and 1 written exam in the exam week.",
+      "Assignment 4Interim examinationTest weight20Minimum grade AssessmentFor this course, there will be 4 assignments throughout the quartile, and 1 written exam in the exam week.",
+      "Digi STEP AnsFinal examinationTest weight20Minimum grade5.0AssessmentFor this course, there will be 4 assignments throughout the quartile, and 1 written exam in the exam week."
+    ],
+    [
+      "Block 3Enrolment period15 November 2025 until 22 March 2026 23:59"
+    ],
+    [
+      "Block 3Enrolment period15 November 2025 until 22 March 2026 23:59"
+    ],
+    [
+      "Block 3Enrolment period15 November 2025 until 22 March 2026 23:59"
+    ],
+    [
+      "Block 3Enrolment period15 November 2025 until 22 March 2026 23:59"
+    ],
+    [
+      "Block 3Enrolment period15 November 2025 until 22 March 2026 23:59Unenrolmentuntil 22 March 2026Test date7 April 2026",
+      "Block 4Enrolment period15 November 2025 until 7 June 2026 23:59Unenrolmentuntil 7 June 2026",
+      "Block 4Enrolment period15 November 2025 until 7 June 2026 23:59Unenrolmentuntil 7 June 2026Test date22 June 2026",
+      "Block IEnrolment period15 November 2025 until 26 July 2026 23:59Unenrolmentuntil 26 July 2026Test date10 August 2026"
+    ],
+    [
+      "prof.dr.ir. M. van Sint Annaland"
+    ],
+    [
+      "dr.ir. I. Roghair"
+    ],
+    [
+      "dr.ir. I. Roghair"
+    ],
+    [
+      "dr.ir. I. Roghair",
+      "prof.dr.ir. M. van Sint Annaland"
+    ],
+    [
+      "Notebook with Python installed (mandatory)"
+    ],
+    [
+      "Handouts via digital learning environment"
+    ]
+  ],
+  "tables": [
+    [
+      [
+        "Timeslot(s)",
+        "A - Mo 1-4, We 9-10, Th 5-8"
+      ],
+      [
+        "Enrolment period",
+        "15 November 2025 until 4 January 2026 23:59"
+      ],
+      [
+        "Unenrolment",
+        "until 2 February 2026 23:59"
+      ]
+    ],
+    [
+      [
+        "Remark"
+      ]
+    ],
+    [
+      [
+        "Test weight",
+        "20"
+      ],
+      [
+        "Minimum grade"
+      ]
+    ],
+    [
+      [
+        "Test weight",
+        "20"
+      ],
+      [
+        "Minimum grade"
+      ]
+    ],
+    [
+      [
+        "Test weight",
+        "20"
+      ],
+      [
+        "Minimum grade"
+      ]
+    ],
+    [
+      [
+        "Test weight",
+        "20"
+      ],
+      [
+        "Minimum grade"
+      ]
+    ],
+    [
+      [
+        "Test weight",
+        "20"
+      ],
+      [
+        "Minimum grade",
+        "5.0"
+      ]
+    ],
+    [
+      [
+        "Enrolment period",
+        "15 November 2025 until 22 March 2026 23:59"
+      ]
+    ],
+    [
+      [
+        "Enrolment period",
+        "15 November 2025 until 22 March 2026 23:59"
+      ]
+    ],
+    [
+      [
+        "Enrolment period",
+        "15 November 2025 until 22 March 2026 23:59"
+      ]
+    ],
+    [
+      [
+        "Enrolment period",
+        "15 November 2025 until 22 March 2026 23:59"
+      ]
+    ],
+    [
+      [
+        "Enrolment period",
+        "15 November 2025 until 22 March 2026 23:59"
+      ],
+      [
+        "Unenrolment",
+        "until 22 March 2026"
+      ],
+      [
+        "Test date",
+        "7 April 2026"
+      ]
+    ],
+    [
+      [
+        "Enrolment period",
+        "15 November 2025 until 7 June 2026 23:59"
+      ],
+      [
+        "Unenrolment",
+        "until 7 June 2026"
+      ]
+    ],
+    [
+      [
+        "Enrolment period",
+        "15 November 2025 until 7 June 2026 23:59"
+      ],
+      [
+        "Unenrolment",
+        "until 7 June 2026"
+      ],
+      [
+        "Test date",
+        "22 June 2026"
+      ]
+    ],
+    [
+      [
+        "Enrolment period",
+        "15 November 2025 until 26 July 2026 23:59"
+      ],
+      [
+        "Unenrolment",
+        "until 26 July 2026"
+      ],
+      [
+        "Test date",
+        "10 August 2026"
+      ]
+    ]
+  ],
+  "full_text": "\n\nOsiris Student Mobile\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhomeHomedate_rangeCalendarevent_busyAttendance and absencegradingGradestrending_upProgressbusiness_centerCasesmailMessagesunarchiveUpload paperrss_feedNewsborder_colorEnrollocal_libraryCourse cataloguelanguageLearning AgreementslanguageStay abroad requestsbusinessInternshipssupervisor_accountSupervisorsspeaker_notesNotesCourse catalogue NL  Start  Courses  Education packages  Minors  Degree programmes  Study programmes Clear filtersAcademic yearexpand_moreexpand_less2026-2027 (1723)2025-2026 (1831)2024-2025 (2009)2023-2024 (2008)2022-2023 (1873)2021-2022 (1864)2020-2021 (1777)Quartile (start of course)expand_moreexpand_lessBlock 1 (268)Block 2 (202)Block 3 (243)Block 4 (145)Block GS1 (228)Block GS2 (184)Block GS3 (239)Block GS4 (166)Block JAAR (341)Timeslotexpand_moreexpand_lessA - Mo 1-4, We 9-10, Th 5-8 (290)A1 - Mo 1-2, Th 5-6 (18)A2 - Mo 3-4, Th 7-8 (19)A3 - We 9-10 (8)B - Mo 5-8, Th 9-10, We 1-4 (262)B1 - Mo 5-6, We 1-2 (16)B2 - Mo 7-8, We 3-4 (25)B3 - Th 9-10 (10)C - Tu 1-4, Fr 5-8 (220)C1 - Tu 1-2, Fr 5-6 (16)C2 - Tu 3-4, Fr 7-8 (20)D - We 5-8, Tu 9-10, Fr 1-4 (248)D1 - We 5-6, Fr 1-2 (11)D2 - We 7-8, Fr 3-4 (18)D3 - Tu 9-10 (3)E - Mo 9-10, Tu 5-8, Th 1-4 (254)E1 - Tu 5-6, Th 1-2 (23)E2 - Tu 7-8, Th 3-4 (22)E3 - Mo 9-10 (5)Exam timeslot A (1) search  More Categoryexpand_moreexpand_lessAdvanced (329)Deepening (213)Introductory (141)PhD / PDENG (124)Course typeexpand_moreexpand_lessBachelor College (655)Bachelor Final Project (37)Engineering Doctorate (83)Formal regular subject (2)Graduate School (658)Graduation (57)Informal subject for students (31)Internship (50)Overige (99)PhD (80)Pre master (31)Professional skills (1)TU/e Honors track assessment (47)Facultyexpand_moreexpand_lessApplied Physics and Science Education (98)Biomedical Engineering (153)Chemical Engineering and Chemistry (135)Eindhoven School of Education (78)Electrical Engineering (221)Honors Academy (32)Industrial Design (98)Industrial Engineering and Innovation Sciences (239)innovationSpace (2)Jheronimus Academy of Data Science (41)Mathematics and Computer Science (336)Mechanical Engineering (133)Student Facilities courses ESA (32)The Built Environment (233)Capacity group / Sectionexpand_moreexpand_lessApplied Physics (98)Bio-Organic Chemistry (2)Biointerface Science of Regenerative Medicine (2)Biomaterial engineering & biofabrication (2)Biomaterials (5)Biomedical Chemistry (7)Biomedical Engineering (17)Cardiovascular Biomechanics (12)Chemical Biology (8)Chemical Engineering and Chemistry (111)Chemical Reaction Engineering (4)Computational Biology (10)Computer Science domain (151)Control Systems (19)Control Systems Technology (28)Data Science domain (36)Dynamics and Control (19)Eindhoven School of Education (78)Electrical Energy Systems (19)Electrical Engineering (49) search  More Lecturerexpand_moreexpand_lessAaldering - Reulen, C.T.W. (Cécile) (2)Aarts, H.M.T. (Hélène) (10)Aarts, M.P.J. (Mariëlle) (10)Aarts, R.M. (Ronald) (1)Abbaspour Onari, M. (Mohsen) (2)Abdelmalik, M.R.A. (Michael) (4)Abdelmohsen, L.K.E.A. (Loai) (9)Abiad Monge, A. (Aida) (2)Abo Shama, Q.K.F. (Qusai) (2)Abraham, A.N. (Aakash) (1)Acuna, A.J. (Jessica) (4)Adan, I.J.B.F. (Ivo) (6)Adan, O.C.G. (Olaf) (9)Administration Back Office, (3)Aertssen, A.J. (Aron) (1)Akdag, E. (Erkut) (1)Akintola, E.R. (Lizzi) (8)Akker, W.F. van den (Wouter) (1)Al-Daffaie, S. (Shihab) (8)Albertazzi, L. (Lorenzo) (5) search  More Language of instructionexpand_moreexpand_lessDutch (202)English (1678)Learning Typeexpand_moreexpand_lessChallenge based (85)2025-2026clearfilter_list2025-2026clear     1831  courses found local_library 'The thinking eye' (drawing) (7XX4M0)   2025-2026  Department: The Built Environment  Coordinating unit: Unit Architectural Urban Design and Engineering  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library 3D modeling studio for PT (0HVL00)   2025-2026  Department: Industrial Engineering and Innovation Sciences  Coordinating unit: Human-Technology Interaction  Credits (ECTS): 5 EC  Category: Introductory  Course type: Bachelor College  Instruction language:  English local_library A designerly perspective on IoT; a growing systems approach (DCM110)   2025-2026  Department: Industrial Design  Coordinating unit: Industrial Design  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library AI compute clusters and datacenter networks (5LTF0)   2025-2026  Department: Electrical Engineering  Coordinating unit: Electro-optical Communication  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library AI medical imaging (8BE130)   2025-2026  Department: Biomedical Engineering  Coordinating unit: Medical image analysis  Credits (ECTS): 5 EC  Category: Advanced  Course type: Bachelor College  Instruction language:  English local_library AUDE project 1: Making & Structure (7PA1B20)   2025-2026  Department: The Built Environment  Coordinating unit: Unit Architectural Urban Design and Engineering  Credits (ECTS): 5 EC  Category: Deepening  Course type: Bachelor College  Instruction language:  English local_library Accelerators and beams (3MP140)   2025-2026  Department: Applied Physics and Science Education  Coordinating unit: Applied Physics  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library Acoustic awareness (7S5X0)   2025-2026  Department: The Built Environment  Coordinating unit: Unit Building Physics and Services  Credits (ECTS): 5 EC  Category: Introductory  Course type: Bachelor College  Instruction language:  English local_library Adaptive array signal processing (5SSC0)   2025-2026  Department: Electrical Engineering  Coordinating unit: Signal Processing System  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library Advanced Algorithms (2IMA10)   2025-2026  Department: Mathematics and Computer Science  Coordinating unit: Computer Science domain  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library Advanced Automotive Sensing (2PDASDAAS)   2025-2026  Department: Mathematics and Computer Science  Coordinating unit: Computer Science domain  Credits (ECTS): 3 EC  Category: PhD / PDENG  Course type: PhD  Instruction language:  English local_library Advanced CMOS design (5SFC0)   2025-2026  Department: Electrical Engineering  Coordinating unit: Integrated Circuits  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library Advanced Calculus I (2DL40)   2025-2026  Department: Mathematics and Computer Science  Coordinating unit: Mathematics domain  Credits (ECTS): 2.5 EC  Category:   Course type: Pre master  Instruction language:  English local_library Advanced Calculus for CE&C (6BBR05)   2025-2026  Department: Chemical Engineering and Chemistry  Coordinating unit: Chemical Engineering and Chemistry  Credits (ECTS): 5 EC  Category: Introductory  Course type: Bachelor College  Instruction language:  English local_library Advanced Calculus for premasters (6PMR01)   2025-2026  Department: Chemical Engineering and Chemistry  Coordinating unit: Chemical Engineering and Chemistry  Credits (ECTS): 2.5 EC  Category: Introductory  Course type: Pre master  Instruction language:  English local_library Advanced Computational Fluid and Plasma Dynamics (3MT120)   2025-2026  Department: Applied Physics and Science Education  Coordinating unit: Applied Physics  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library Advanced Computational and Experimental Skills (33ACE)   2025-2026  Department: Applied Physics and Science Education  Coordinating unit: Applied Physics  Credits (ECTS): 5 EC  Category: Advanced  Course type: Bachelor College  Instruction language:  English local_library Advanced Data Challenge (JBG040)   2025-2026  Department: Jheronimus Academy of Data Science  Coordinating unit: Jheronimus Academy of Data Science voor W&I  Credits (ECTS): 5 EC  Category: Deepening  Course type: Bachelor College  Instruction language:  English local_library Advanced Materials Modelling using Multiscale Methods (3MQ110)   2025-2026  Department: Applied Physics and Science Education  Coordinating unit: Applied Physics  Credits (ECTS): 10 EC  Category:   Course type: Graduate School  Instruction language:  English local_library Advanced Mechatronics (2PDASDAMS)   2025-2026  Department: Mathematics and Computer Science  Coordinating unit: Computer Science domain  Credits (ECTS): 2.5 EC  Category: PhD / PDENG  Course type: PhD  Instruction language:  English local_library Advanced Network Security (2IMS30)   2025-2026  Department: Mathematics and Computer Science  Coordinating unit: Computer Science domain  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library Advanced Numerical Methods (6PDPPD122)   2025-2026  Department: Chemical Engineering and Chemistry  Coordinating unit: Chemical Engineering and Chemistry  Credits (ECTS): 1.5 EC  Category:   Course type: PhD  Instruction language:  English local_library Advanced Optical Microscopy (3MN210)   2025-2026  Department: Applied Physics and Science Education  Coordinating unit: Applied Physics  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library Advanced Process Mining (2AMI20)   2025-2026  Department: Mathematics and Computer Science  Coordinating unit: Data Science domain  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library Advanced Quantum Physics (32AQP)   2025-2026  Department: Applied Physics and Science Education  Coordinating unit: Applied Physics  Credits (ECTS): 5 EC  Category: Advanced  Course type: Bachelor College  Instruction language:  English Loading more data...2025-2026Numerical Methods  (6BER03) Contentexpand_moreexpand_lessLearning objectives and content\n    Objectives\n\nThe student understands the following topics: existence and origin of numerical errors, solution techniques for (systems of) linear and non-linear equation(s). \nThe student understands the fundamental principles for solving linear and non-linear algebraic and differential equation solvers, and being able to implement basic solution methods. \nThe students is able to use Python functionalities and NumPy/SciPy/Matplotlib features to solve a wide range of Chemical Engineering problems (solving ODEs, optimisation problems, interpolation and integration). \nThe student is able to validate, verify and classify solution techniques according to the order of convergence, absolute and relative error. \nThe student is able to formulate solution strategies for chemical engineering questions, by identification of the equation type and consequently breaking down the problem into sizable parts and suggesting the right numerical tool(s) (e.g. solution techniques for systems of linear and non-linear algebraic and (partial) differential equations, optimization problems, numerical integration and interpolation), and being able to implement them into a script or program. \nThe student is able to demonstrate generic programming abilities in Python, i.e. being able to set up an algorithm based on input/output, variables and functions, computations and control statements. \n\n    ContentThis course teaches the following concepts in the field of Numerical Methods: Programming and Algorithms, Numerical Errors (and stability) in computer simulations, Linear Equations: matrix calculations (inverse, determinant ), Gaussian elimination, Partial Pivot Ting, LU factorization, sparse systems, iterative methods (Jacobi, Gauss-Seidel), Non-Linear equations: Newton's method Broyden’s method, Numerical interpolation and integration, Ordinary differential equations (explicit/implicit methods, systems of ODEs, higher-order methods), Partial differential equations (discretization, implicit and explicit solutions, time stepping, characterization of PDE), and Optimization and data regression (Simplex method, least squares method) \n\nExtra information about the assessment\n'TA’s will not be involved in the evaluation of friends or relatives and will not give any preferential treatment to others.'\n\n4 assignments, each 20% of the final result, that consist of an assignment done in groups of 2 people and the results will be addressed in a short report. The lecturers and/or PhD students will be grading the summative assignments 2, 3 and 4. I will use peer-assessment for the grading of the first summative assignments. The quality of the individually performed peer-review will also be part of the grade in the form of a factor that can vary between 0,8 and 1,2. This factor, multiplied with the mean grade from the peer-review gives the final grade for each assignment. There is a possibility to challenge flawed peer-review in order to remove them from the grade averaging. The exact arrangements for performing the peer review are given in the study guide and during the first lecture.\nThe final exam consists of an individual, supervised exam that combines programming skills and insight in the subject matter, which will cover all topics discussed in class. The final exam counts for 20% in the final grade. The final course grade will be the weighted average, which should be at least a 5.5 to pass the course. A student that has participated in the final exam, but has gotten a lower mark than a 5.5 for the final exam is awarded a NVD as final result, even when the weighted average of the results of all assignments and final exam yields a 5.5 or higher. The course is successfully completed when the final result is a 6 or higher.\n\nAll results of the assignments and final assignment are only valid in the academic year in which the assignments have been performed. For students who followed Numerical Methods (6BER03) and did not successfully finalize the individual assignment (notebook exam), and who have requested an extended validity for the assignments with the responsible lecturer, the following applies:\nThe results of the (interim) assignments are treated as a joined set and are valid for a period of 2 years. The results of the assignments that will be used in combination with the final exam, are the final assignment results of assignment 1 (including peer review component), and the final assessment of assignments 2, 3 and 4. It is not possible to select/combine assignment results from different academic years.\n\nPractical informationexpand_moreexpand_less    Course module6BER03    Course typeBachelor College    Credits (ECTS)5 EC    CategoryDeepening    Language of instructionEnglish    Offered byChemical Engineering and Chemistry - Chemical Engineering and Chemistry\n\n    Short promotional description of the courseThis course introduces the basics of numerical methods and scientific computing. After this course students understand the concepts, and are able to recognize and solve (systems of) linear, nonlinear, and differential equations, as well as numerical interpolation and integration. The mathematical and numerical background of several numerical techniques will be introduced and the key concepts will be implemented and demonstrated. Python is used as the main programming environment, introducing also the functionalities provided by the modules NumPy, SciPy and Matplotlib. Course enrolmentexpand_moreexpand_less    OSIRIS StudentYou can register yourself via OSIRIS Student. To do so, go to Enroll / Course.\n\nEnrolment periods    Block 3Timeslot(s)A - Mo 1-4, We 9-10, Th 5-8Enrolment period15 November 2025 until 4 January 2026 23:59Unenrolment until 2 February 2026 23:59Entrance requirementsexpand_moreexpand_less    Assumed previous knowledgeProgramming, linear algebra, calculus, basic statisticsInstructional modesexpand_moreexpand_lessInstructional modes    Lecture with notebookRemark Testsexpand_moreexpand_lessTests    Assignment 1Interim examinationTest weight20Minimum grade AssessmentFor this course, there will be 4 assignments throughout the quartile, and 1 written exam in the exam week.    Assignment 2Interim examinationTest weight20Minimum grade AssessmentFor this course, there will be 4 assignments throughout the quartile, and 1 written exam in the exam week.    Assignment 3Interim examinationTest weight20Minimum grade AssessmentFor this course, there will be 4 assignments throughout the quartile, and 1 written exam in the exam week.    Assignment 4Interim examinationTest weight20Minimum grade AssessmentFor this course, there will be 4 assignments throughout the quartile, and 1 written exam in the exam week.    Digi STEP AnsFinal examinationTest weight20Minimum grade5.0AssessmentFor this course, there will be 4 assignments throughout the quartile, and 1 written exam in the exam week.Test enrolmentexpand_moreexpand_less    OSIRIS StudentYou can register yourself via OSIRIS Student. To do so, go to Enroll / Test.\n\nAssignment 1    Block 3Enrolment period15 November 2025 until 22 March 2026 23:59Assignment 2    Block 3Enrolment period15 November 2025 until 22 March 2026 23:59Assignment 3    Block 3Enrolment period15 November 2025 until 22 March 2026 23:59Assignment 4    Block 3Enrolment period15 November 2025 until 22 March 2026 23:59Digi STEP Ans    Block 3Enrolment period15 November 2025 until 22 March 2026 23:59Unenrolmentuntil 22 March 2026Test date7 April 2026    Block 4Enrolment period15 November 2025 until 7 June 2026 23:59Unenrolmentuntil 7 June 2026    Block 4Enrolment period15 November 2025 until 7 June 2026 23:59Unenrolmentuntil 7 June 2026Test date22 June 2026    Block IEnrolment period15 November 2025 until 26 July 2026 23:59Unenrolmentuntil 26 July 2026Test date10 August 2026Lecturer(s)expand_moreexpand_lessCo-lecturer prof.dr.ir. M. van Sint AnnalandContactperson for the course dr.ir. I. RoghairResponsible lecturer dr.ir. I. RoghairSubject matter expert dr.ir. I. Roghair prof.dr.ir. M. van Sint AnnalandMaterialsexpand_moreexpand_lessRequired material Notebook with Python installed (mandatory)Recommended material Handouts via digital learning environmentDo you want to know more?expand_moreexpand_lessdr.ir. I. Roghair can tell you more about this course.\nSend an e-mail to I.Roghair@tue.nl\n\n\n"
+}

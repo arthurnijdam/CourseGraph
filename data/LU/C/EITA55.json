@@ -1,0 +1,71 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Communication Systems\nKommunikationssystem",
+    "EITA55, 7.5 credits, G1 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C2\nLanguage of instruction: The course will be given in Swedish",
+    "This course is an introduction to communication systems. It is also aimed at being a practical example of how a course at LTH can be designed and thereby an introduction to the studies on the C program.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The course is an introduction to communication systems. As an example of a communication network Internet, on local, regional, and global level, and Ethernet are used throughout the course. The starting point for the course is the knowledge most of us have regarding data communication - a computer connected to a wall outlet or a network device. Step by step new components, needed for local communication between several computers and later for global communication over networks of different types and with different protocols, are added. More in detail the course covers these areas:",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "The examination consists of a written exam, laboratory work, as well as a written and an oral report as the conclusion of the in-depth study. The written exam can result in a grade of 3, 4, or 5, which will also be the final grade for the course.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0125. Name: Exam. \n\nCredits: 3.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved written exam. \n        \n        \n          The module includes: Written exam.\n        \n        \n        \nCode: 0225. Name: Laboratory Work. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved assignments.\n        \n        \n          The module includes: Laboratory work and group assignment.\n        \n        \n        \nCode: 0325. Name: Project. \n\nCredits: 2.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved written report and oral presentation.\n        \n        \n          The module includes: Written and oral presentation on a phenomenon within the subject field.",
+    "The number of participants is limited to: No\nKursen överlappar följande kurser: \nETS130\nETSF15\nEITF25\nETS052\nETS302\nEITA60\nEITF45",
+    "Course coordinator: William Tärneberg,\n        william.tarneberg@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/eita55",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to describe simple signal and data flows for some of the protocol functions that are part of a data network in particular and a telephone networks to some extent",
+      "be able to give a perspicuous description of link handling and setup of connections and sessions between communicating devices on the link level",
+      "be able to give an overview of the creation of connections and sessions between communicating devices on the network and transport level",
+      "be able to describe multilayered protocol models and also the interplay between the different layers"
+    ],
+    [
+      "be able to use tools for studying data transfer in a local area network",
+      "from theory and practical analysis be able to explain phenomenons found in data transfer",
+      "be able to present, orally and in writing, a phenomenon within the subject field"
+    ],
+    [
+      "be able to value information of a phenomenon within the subject field, and from this information explain the phenomenon in an understandable way"
+    ],
+    [
+      "conversion between analogue information and binary data",
+      "error detection",
+      "error handling",
+      "protocols on different model layers",
+      "addressing methods",
+      "access methods",
+      "path selection algorithms",
+      "Ethernet",
+      "Internet",
+      "public switched telephone network",
+      "mobile telephone networks"
+    ],
+    [
+      "Maria Kihl, Jens A. Andersson: Datakommunikation och Nätverk (upplaga 2). Studentlitteratur, 2020, ISBN: 9789144135021.",
+      "Reports."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår17/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nCommunication Systems\nKommunikationssystem\nEITA55, 7.5 credits, G1 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C2\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nThis course is an introduction to communication systems. It is also aimed at being a practical example of how a course at LTH can be designed and thereby an introduction to the studies on the C program.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to describe simple signal and data flows for some of the protocol functions that are part of a data network in particular and a telephone networks to some extentbe able to give a perspicuous description of link handling and setup of connections and sessions between communicating devices on the link levelbe able to give an overview of the creation of connections and sessions between communicating devices on the network and transport levelbe able to describe multilayered protocol models and also the interplay between the different layers\nCompetences and skills\n      For a passing grade the student must\nbe able to use tools for studying data transfer in a local area networkfrom theory and practical analysis be able to explain phenomenons found in data transferbe able to present, orally and in writing, a phenomenon within the subject field\nJudgement and approach\n      For a passing grade the student must\nbe able to value information of a phenomenon within the subject field, and from this information explain the phenomenon in an understandable way\nContents\nThe course is an introduction to communication systems. As an example of a communication network Internet, on local, regional, and global level, and Ethernet are used throughout the course. The starting point for the course is the knowledge most of us have regarding data communication - a computer connected to a wall outlet or a network device. Step by step new components, needed for local communication between several computers and later for global communication over networks of different types and with different protocols, are added. More in detail the course covers these areas: conversion between analogue information and binary dataerror detectionerror handlingprotocols on different model layersaddressing methodsaccess methodspath selection algorithmsEthernetInternetpublic switched telephone networkmobile telephone networks\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: The examination consists of a written exam, laboratory work, as well as a written and an oral report as the conclusion of the in-depth study. The written exam can result in a grade of 3, 4, or 5, which will also be the final grade for the course.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0125. Name: Exam. \n\nCredits: 3.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved written exam. \n        \n        \n          The module includes: Written exam.\n        \n        \n        \nCode: 0225. Name: Laboratory Work. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved assignments.\n        \n        \n          The module includes: Laboratory work and group assignment.\n        \n        \n        \nCode: 0325. Name: Project. \n\nCredits: 2.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved written report and oral presentation.\n        \n        \n          The module includes: Written and oral presentation on a phenomenon within the subject field.\n        \n        \n        \n\nAdmission\n\nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nETS130\nETSF15\nEITF25\nETS052\nETS302\nEITA60\nEITF45\n\nReading list\n\nMaria Kihl, Jens A. Andersson: Datakommunikation och Nätverk (upplaga 2). Studentlitteratur, 2020, ISBN: 9789144135021.\nReports.\n\nContact\n\nCourse coordinator: William Tärneberg,\n        william.tarneberg@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/eita55\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

@@ -1,0 +1,820 @@
+<!DOCTYPE html><html lang="sv"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kursplan (en)</title>
+  <style type="text/css">:root, :host {
+  --fa-font-solid: normal 900 1em/1 'Font Awesome 7 Free';
+  --fa-font-regular: normal 400 1em/1 'Font Awesome 7 Free';
+  --fa-font-light: normal 300 1em/1 'Font Awesome 7 Pro';
+  --fa-font-thin: normal 100 1em/1 'Font Awesome 7 Pro';
+  --fa-font-duotone: normal 900 1em/1 'Font Awesome 7 Duotone';
+  --fa-font-duotone-regular: normal 400 1em/1 'Font Awesome 7 Duotone';
+  --fa-font-duotone-light: normal 300 1em/1 'Font Awesome 7 Duotone';
+  --fa-font-duotone-thin: normal 100 1em/1 'Font Awesome 7 Duotone';
+  --fa-font-brands: normal 400 1em/1 'Font Awesome 7 Brands';
+  --fa-font-sharp-solid: normal 900 1em/1 'Font Awesome 7 Sharp';
+  --fa-font-sharp-regular: normal 400 1em/1 'Font Awesome 7 Sharp';
+  --fa-font-sharp-light: normal 300 1em/1 'Font Awesome 7 Sharp';
+  --fa-font-sharp-thin: normal 100 1em/1 'Font Awesome 7 Sharp';
+  --fa-font-sharp-duotone-solid: normal 900 1em/1 'Font Awesome 7 Sharp Duotone';
+  --fa-font-sharp-duotone-regular: normal 400 1em/1 'Font Awesome 7 Sharp Duotone';
+  --fa-font-sharp-duotone-light: normal 300 1em/1 'Font Awesome 7 Sharp Duotone';
+  --fa-font-sharp-duotone-thin: normal 100 1em/1 'Font Awesome 7 Sharp Duotone';
+  --fa-font-slab-regular: normal 400 1em/1 'Font Awesome 7 Slab';
+  --fa-font-slab-press-regular: normal 400 1em/1 'Font Awesome 7 Slab Press';
+  --fa-font-whiteboard-semibold: normal 600 1em/1 'Font Awesome 7 Whiteboard';
+  --fa-font-thumbprint-light: normal 300 1em/1 'Font Awesome 7 Thumbprint';
+  --fa-font-notdog-solid: normal 900 1em/1 'Font Awesome 7 Notdog';
+  --fa-font-notdog-duo-solid: normal 900 1em/1 'Font Awesome 7 Notdog Duo';
+  --fa-font-etch-solid: normal 900 1em/1 'Font Awesome 7 Etch';
+  --fa-font-graphite-thin: normal 100 1em/1 'Font Awesome 7 Graphite';
+  --fa-font-jelly-regular: normal 400 1em/1 'Font Awesome 7 Jelly';
+  --fa-font-jelly-fill-regular: normal 400 1em/1 'Font Awesome 7 Jelly Fill';
+  --fa-font-jelly-duo-regular: normal 400 1em/1 'Font Awesome 7 Jelly Duo';
+  --fa-font-chisel-regular: normal 400 1em/1 'Font Awesome 7 Chisel';
+  --fa-font-utility-semibold: normal 600 1em/1 'Font Awesome 7 Utility';
+  --fa-font-utility-duo-semibold: normal 600 1em/1 'Font Awesome 7 Utility Duo';
+  --fa-font-utility-fill-semibold: normal 600 1em/1 'Font Awesome 7 Utility Fill';
+}
+
+.svg-inline--fa {
+  box-sizing: content-box;
+  display: var(--fa-display, inline-block);
+  height: 1em;
+  overflow: visible;
+  vertical-align: -0.125em;
+  width: var(--fa-width, 1.25em);
+}
+.svg-inline--fa.fa-2xs {
+  vertical-align: 0.1em;
+}
+.svg-inline--fa.fa-xs {
+  vertical-align: 0em;
+}
+.svg-inline--fa.fa-sm {
+  vertical-align: -0.0714285714em;
+}
+.svg-inline--fa.fa-lg {
+  vertical-align: -0.2em;
+}
+.svg-inline--fa.fa-xl {
+  vertical-align: -0.25em;
+}
+.svg-inline--fa.fa-2xl {
+  vertical-align: -0.3125em;
+}
+.svg-inline--fa.fa-pull-left,
+.svg-inline--fa .fa-pull-start {
+  float: inline-start;
+  margin-inline-end: var(--fa-pull-margin, 0.3em);
+}
+.svg-inline--fa.fa-pull-right,
+.svg-inline--fa .fa-pull-end {
+  float: inline-end;
+  margin-inline-start: var(--fa-pull-margin, 0.3em);
+}
+.svg-inline--fa.fa-li {
+  width: var(--fa-li-width, 2em);
+  inset-inline-start: calc(-1 * var(--fa-li-width, 2em));
+  inset-block-start: 0.25em; /* syncing vertical alignment with Web Font rendering */
+}
+
+.fa-layers-counter, .fa-layers-text {
+  display: inline-block;
+  position: absolute;
+  text-align: center;
+}
+
+.fa-layers {
+  display: inline-block;
+  height: 1em;
+  position: relative;
+  text-align: center;
+  vertical-align: -0.125em;
+  width: var(--fa-width, 1.25em);
+}
+.fa-layers .svg-inline--fa {
+  inset: 0;
+  margin: auto;
+  position: absolute;
+  transform-origin: center center;
+}
+
+.fa-layers-text {
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  transform-origin: center center;
+}
+
+.fa-layers-counter {
+  background-color: var(--fa-counter-background-color, #ff253a);
+  border-radius: var(--fa-counter-border-radius, 1em);
+  box-sizing: border-box;
+  color: var(--fa-inverse, #fff);
+  line-height: var(--fa-counter-line-height, 1);
+  max-width: var(--fa-counter-max-width, 5em);
+  min-width: var(--fa-counter-min-width, 1.5em);
+  overflow: hidden;
+  padding: var(--fa-counter-padding, 0.25em 0.5em);
+  right: var(--fa-right, 0);
+  text-overflow: ellipsis;
+  top: var(--fa-top, 0);
+  transform: scale(var(--fa-counter-scale, 0.25));
+  transform-origin: top right;
+}
+
+.fa-layers-bottom-right {
+  bottom: var(--fa-bottom, 0);
+  right: var(--fa-right, 0);
+  top: auto;
+  transform: scale(var(--fa-layers-scale, 0.25));
+  transform-origin: bottom right;
+}
+
+.fa-layers-bottom-left {
+  bottom: var(--fa-bottom, 0);
+  left: var(--fa-left, 0);
+  right: auto;
+  top: auto;
+  transform: scale(var(--fa-layers-scale, 0.25));
+  transform-origin: bottom left;
+}
+
+.fa-layers-top-right {
+  top: var(--fa-top, 0);
+  right: var(--fa-right, 0);
+  transform: scale(var(--fa-layers-scale, 0.25));
+  transform-origin: top right;
+}
+
+.fa-layers-top-left {
+  left: var(--fa-left, 0);
+  right: auto;
+  top: var(--fa-top, 0);
+  transform: scale(var(--fa-layers-scale, 0.25));
+  transform-origin: top left;
+}
+
+.fa-1x {
+  font-size: 1em;
+}
+
+.fa-2x {
+  font-size: 2em;
+}
+
+.fa-3x {
+  font-size: 3em;
+}
+
+.fa-4x {
+  font-size: 4em;
+}
+
+.fa-5x {
+  font-size: 5em;
+}
+
+.fa-6x {
+  font-size: 6em;
+}
+
+.fa-7x {
+  font-size: 7em;
+}
+
+.fa-8x {
+  font-size: 8em;
+}
+
+.fa-9x {
+  font-size: 9em;
+}
+
+.fa-10x {
+  font-size: 10em;
+}
+
+.fa-2xs {
+  font-size: calc(10 / 16 * 1em); /* converts a 10px size into an em-based value that's relative to the scale's 16px base */
+  line-height: calc(1 / 10 * 1em); /* sets the line-height of the icon back to that of it's parent */
+  vertical-align: calc((6 / 10 - 0.375) * 1em); /* vertically centers the icon taking into account the surrounding text's descender */
+}
+
+.fa-xs {
+  font-size: calc(12 / 16 * 1em); /* converts a 12px size into an em-based value that's relative to the scale's 16px base */
+  line-height: calc(1 / 12 * 1em); /* sets the line-height of the icon back to that of it's parent */
+  vertical-align: calc((6 / 12 - 0.375) * 1em); /* vertically centers the icon taking into account the surrounding text's descender */
+}
+
+.fa-sm {
+  font-size: calc(14 / 16 * 1em); /* converts a 14px size into an em-based value that's relative to the scale's 16px base */
+  line-height: calc(1 / 14 * 1em); /* sets the line-height of the icon back to that of it's parent */
+  vertical-align: calc((6 / 14 - 0.375) * 1em); /* vertically centers the icon taking into account the surrounding text's descender */
+}
+
+.fa-lg {
+  font-size: calc(20 / 16 * 1em); /* converts a 20px size into an em-based value that's relative to the scale's 16px base */
+  line-height: calc(1 / 20 * 1em); /* sets the line-height of the icon back to that of it's parent */
+  vertical-align: calc((6 / 20 - 0.375) * 1em); /* vertically centers the icon taking into account the surrounding text's descender */
+}
+
+.fa-xl {
+  font-size: calc(24 / 16 * 1em); /* converts a 24px size into an em-based value that's relative to the scale's 16px base */
+  line-height: calc(1 / 24 * 1em); /* sets the line-height of the icon back to that of it's parent */
+  vertical-align: calc((6 / 24 - 0.375) * 1em); /* vertically centers the icon taking into account the surrounding text's descender */
+}
+
+.fa-2xl {
+  font-size: calc(32 / 16 * 1em); /* converts a 32px size into an em-based value that's relative to the scale's 16px base */
+  line-height: calc(1 / 32 * 1em); /* sets the line-height of the icon back to that of it's parent */
+  vertical-align: calc((6 / 32 - 0.375) * 1em); /* vertically centers the icon taking into account the surrounding text's descender */
+}
+
+.fa-width-auto {
+  --fa-width: auto;
+}
+
+.fa-fw,
+.fa-width-fixed {
+  --fa-width: 1.25em;
+}
+
+.fa-ul {
+  list-style-type: none;
+  margin-inline-start: var(--fa-li-margin, 2.5em);
+  padding-inline-start: 0;
+}
+.fa-ul > li {
+  position: relative;
+}
+
+.fa-li {
+  inset-inline-start: calc(-1 * var(--fa-li-width, 2em));
+  position: absolute;
+  text-align: center;
+  width: var(--fa-li-width, 2em);
+  line-height: inherit;
+}
+
+/* Heads Up: Bordered Icons will not be supported in the future!
+  - This feature will be deprecated in the next major release of Font Awesome (v8)!
+  - You may continue to use it in this version *v7), but it will not be supported in Font Awesome v8.
+*/
+/* Notes:
+* --@{v.$css-prefix}-border-width = 1/16 by default (to render as ~1px based on a 16px default font-size)
+* --@{v.$css-prefix}-border-padding =
+  ** 3/16 for vertical padding (to give ~2px of vertical whitespace around an icon considering it's vertical alignment)
+  ** 4/16 for horizontal padding (to give ~4px of horizontal whitespace around an icon)
+*/
+.fa-border {
+  border-color: var(--fa-border-color, #eee);
+  border-radius: var(--fa-border-radius, 0.1em);
+  border-style: var(--fa-border-style, solid);
+  border-width: var(--fa-border-width, 0.0625em);
+  box-sizing: var(--fa-border-box-sizing, content-box);
+  padding: var(--fa-border-padding, 0.1875em 0.25em);
+}
+
+.fa-pull-left,
+.fa-pull-start {
+  float: inline-start;
+  margin-inline-end: var(--fa-pull-margin, 0.3em);
+}
+
+.fa-pull-right,
+.fa-pull-end {
+  float: inline-end;
+  margin-inline-start: var(--fa-pull-margin, 0.3em);
+}
+
+.fa-beat {
+  animation-name: fa-beat;
+  animation-delay: var(--fa-animation-delay, 0s);
+  animation-direction: var(--fa-animation-direction, normal);
+  animation-duration: var(--fa-animation-duration, 1s);
+  animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  animation-timing-function: var(--fa-animation-timing, ease-in-out);
+}
+
+.fa-bounce {
+  animation-name: fa-bounce;
+  animation-delay: var(--fa-animation-delay, 0s);
+  animation-direction: var(--fa-animation-direction, normal);
+  animation-duration: var(--fa-animation-duration, 1s);
+  animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.28, 0.84, 0.42, 1));
+}
+
+.fa-fade {
+  animation-name: fa-fade;
+  animation-delay: var(--fa-animation-delay, 0s);
+  animation-direction: var(--fa-animation-direction, normal);
+  animation-duration: var(--fa-animation-duration, 1s);
+  animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+}
+
+.fa-beat-fade {
+  animation-name: fa-beat-fade;
+  animation-delay: var(--fa-animation-delay, 0s);
+  animation-direction: var(--fa-animation-direction, normal);
+  animation-duration: var(--fa-animation-duration, 1s);
+  animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+}
+
+.fa-flip {
+  animation-name: fa-flip;
+  animation-delay: var(--fa-animation-delay, 0s);
+  animation-direction: var(--fa-animation-direction, normal);
+  animation-duration: var(--fa-animation-duration, 1s);
+  animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  animation-timing-function: var(--fa-animation-timing, ease-in-out);
+}
+
+.fa-shake {
+  animation-name: fa-shake;
+  animation-delay: var(--fa-animation-delay, 0s);
+  animation-direction: var(--fa-animation-direction, normal);
+  animation-duration: var(--fa-animation-duration, 1s);
+  animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  animation-timing-function: var(--fa-animation-timing, linear);
+}
+
+.fa-spin {
+  animation-name: fa-spin;
+  animation-delay: var(--fa-animation-delay, 0s);
+  animation-direction: var(--fa-animation-direction, normal);
+  animation-duration: var(--fa-animation-duration, 2s);
+  animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  animation-timing-function: var(--fa-animation-timing, linear);
+}
+
+.fa-spin-reverse {
+  --fa-animation-direction: reverse;
+}
+
+.fa-pulse,
+.fa-spin-pulse {
+  animation-name: fa-spin;
+  animation-direction: var(--fa-animation-direction, normal);
+  animation-duration: var(--fa-animation-duration, 1s);
+  animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  animation-timing-function: var(--fa-animation-timing, steps(8));
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fa-beat,
+  .fa-bounce,
+  .fa-fade,
+  .fa-beat-fade,
+  .fa-flip,
+  .fa-pulse,
+  .fa-shake,
+  .fa-spin,
+  .fa-spin-pulse {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+@keyframes fa-beat {
+  0%, 90% {
+    transform: scale(1);
+  }
+  45% {
+    transform: scale(var(--fa-beat-scale, 1.25));
+  }
+}
+@keyframes fa-bounce {
+  0% {
+    transform: scale(1, 1) translateY(0);
+  }
+  10% {
+    transform: scale(var(--fa-bounce-start-scale-x, 1.1), var(--fa-bounce-start-scale-y, 0.9)) translateY(0);
+  }
+  30% {
+    transform: scale(var(--fa-bounce-jump-scale-x, 0.9), var(--fa-bounce-jump-scale-y, 1.1)) translateY(var(--fa-bounce-height, -0.5em));
+  }
+  50% {
+    transform: scale(var(--fa-bounce-land-scale-x, 1.05), var(--fa-bounce-land-scale-y, 0.95)) translateY(0);
+  }
+  57% {
+    transform: scale(1, 1) translateY(var(--fa-bounce-rebound, -0.125em));
+  }
+  64% {
+    transform: scale(1, 1) translateY(0);
+  }
+  100% {
+    transform: scale(1, 1) translateY(0);
+  }
+}
+@keyframes fa-fade {
+  50% {
+    opacity: var(--fa-fade-opacity, 0.4);
+  }
+}
+@keyframes fa-beat-fade {
+  0%, 100% {
+    opacity: var(--fa-beat-fade-opacity, 0.4);
+    transform: scale(1);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(var(--fa-beat-fade-scale, 1.125));
+  }
+}
+@keyframes fa-flip {
+  50% {
+    transform: rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), var(--fa-flip-angle, -180deg));
+  }
+}
+@keyframes fa-shake {
+  0% {
+    transform: rotate(-15deg);
+  }
+  4% {
+    transform: rotate(15deg);
+  }
+  8%, 24% {
+    transform: rotate(-18deg);
+  }
+  12%, 28% {
+    transform: rotate(18deg);
+  }
+  16% {
+    transform: rotate(-22deg);
+  }
+  20% {
+    transform: rotate(22deg);
+  }
+  32% {
+    transform: rotate(-12deg);
+  }
+  36% {
+    transform: rotate(12deg);
+  }
+  40%, 100% {
+    transform: rotate(0deg);
+  }
+}
+@keyframes fa-spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.fa-rotate-90 {
+  transform: rotate(90deg);
+}
+
+.fa-rotate-180 {
+  transform: rotate(180deg);
+}
+
+.fa-rotate-270 {
+  transform: rotate(270deg);
+}
+
+.fa-flip-horizontal {
+  transform: scale(-1, 1);
+}
+
+.fa-flip-vertical {
+  transform: scale(1, -1);
+}
+
+.fa-flip-both,
+.fa-flip-horizontal.fa-flip-vertical {
+  transform: scale(-1, -1);
+}
+
+.fa-rotate-by {
+  transform: rotate(var(--fa-rotate-angle, 0));
+}
+
+.svg-inline--fa .fa-primary {
+  fill: var(--fa-primary-color, currentColor);
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+.svg-inline--fa .fa-secondary {
+  fill: var(--fa-secondary-color, currentColor);
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+.svg-inline--fa.fa-swap-opacity .fa-primary {
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+.svg-inline--fa.fa-swap-opacity .fa-secondary {
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+.svg-inline--fa mask .fa-primary,
+.svg-inline--fa mask .fa-secondary {
+  fill: black;
+}
+
+.svg-inline--fa.fa-inverse {
+  fill: var(--fa-inverse, #fff);
+}
+
+.fa-stack {
+  display: inline-block;
+  height: 2em;
+  line-height: 2em;
+  position: relative;
+  vertical-align: middle;
+  width: 2.5em;
+}
+
+.fa-inverse {
+  color: var(--fa-inverse, #fff);
+}
+
+.svg-inline--fa.fa-stack-1x {
+  --fa-width: 1.25em;
+  height: 1em;
+  width: var(--fa-width);
+}
+.svg-inline--fa.fa-stack-2x {
+  --fa-width: 2.5em;
+  height: 2em;
+  width: var(--fa-width);
+}
+
+.fa-stack-1x,
+.fa-stack-2x {
+  inset: 0;
+  margin: auto;
+  position: absolute;
+  z-index: var(--fa-stack-z-index, auto);
+}</style><link media="all" rel="stylesheet" href="/lot/lumall/styles/main.css">
+  <link rel="apple-touch-icon" sizes="180x180" href="/lot/lumall/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/lot/lumall/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/lot/lumall/favicon-16x16.png">
+  <link rel="manifest" href="/lot/lumall/site.webmanifest">
+  <link rel="mask-icon" href="/lot/lumall/safari-pinned-tab.svg" color="#875e29">
+  <meta name="msapplication-TileColor" content="#875e29">
+  <meta name="theme-color" content="#875e29">
+  <script type="module" crossorigin="" src="/lot/assets/index-CkE5mPmK.js"></script>
+  <link rel="stylesheet" crossorigin="" href="/lot/assets/index-CTCSF5hY.css">
+</head>
+
+<body>
+  <div id="app" data-v-app=""><div class="orchestrator-container"></div><header data-v-22791195="" class="header nav-undecorated"><div data-v-22791195="" class="bg-dark d-none d-lg-block"><div class="container-fluid mw-xl py-0"><nav class="navbar navbar-expand-md navbar-dark bg-dark font-size-sm p-0 text-white"><div id="navbarSupportedContent" class="collapse navbar-collapse nmx-2"><ul class="navbar-nav flex-row ms-auto"><li data-v-507b04bc="" class="nav-item"><a data-v-507b04bc="" href="/lot/curriculum" class="nav-link px-3">Min studieplan</a></li><li data-v-507b04bc="" class="nav-item"><a data-v-507b04bc="" class="nav-link px-3" href="https://kurser.lth.se/kursanmalan/">Kursanmälan</a></li><li data-v-507b04bc="" class="nav-item"><a data-v-507b04bc="" class="nav-link px-3" href="https://kurser.lth.se/kursplaner/">Kursplaner</a></li><li data-v-507b04bc="" class="nav-item"><a data-v-507b04bc="" class="nav-link px-3" href="https://www.student.lth.se/kurs-och-programinformation/programinnehaall/">Utbildningsplaner</a></li><li data-v-507b04bc="" class="nav-item"><a data-v-507b04bc="" href="/lot/about" class="nav-link px-3">Om</a></li></ul></div></nav></div></div><div data-v-22791195="" class="border-bottom"><div data-v-22791195="" class="container-fluid mw-xl"><div data-v-22791195="" class="row m-0 py-2"><div data-v-22791195="" class="col p-0"><div data-v-22791195="" class="d-flex justify-content-between align-items-center h-100"><div data-v-22791195="" class="header-logo header-logo-lu flex-grow-1 flex-lg-grow-0"><a data-v-22791195="" href="https://www.lth.se" title="Lunds Tekniska Högskola, LTH"><img data-v-22791195="" src="/lot/lumall/images/logo/lth_logo_sv.svg" alt="Lunds Tekniska Högskola, LTH" class="mw-100"></a></div><div data-v-22791195="" class="flex-shrink-1 flex-lg-shrink-0 flex-grow-0 d-flex flex-column justify-content-between h-100 mh-120"><div data-v-22791195="" class="h-lg-auto flex-column justify-content-between align-items-end font-size-sm font-size-sm-base flex-grow-0"><nav data-v-22791195="" class="nav text-center h-100 h-lg-auto align-items-center d-lg-none flex-nowrap"><div data-v-22791195="" class="nav-item"><a data-v-22791195="" class="ms-2 p-1 d-block nav-undecorated" href="#" aria-controls="header-login" aria-expanded="false" aria-label="Logga in"><svg data-v-22791195="" class="svg-inline--fa fa-arrow-right-to-bracket" data-prefix="fal" data-icon="arrow-right-to-bracket" role="img" viewBox="0 0 512 512" aria-hidden="true"><path class="" fill="currentColor" d="M347.3 267.3c6.2-6.2 6.2-16.4 0-22.6l-144-144c-6.2-6.2-16.4-6.2-22.6 0s-6.2 16.4 0 22.6L297.4 240 16 240c-8.8 0-16 7.2-16 16s7.2 16 16 16l281.4 0-116.7 116.7c-6.2 6.2-6.2 16.4 0 22.6s16.4 6.2 22.6 0l144-144zM336 448c-8.8 0-16 7.2-16 16s7.2 16 16 16l80 0c53 0 96-43 96-96l0-256c0-53-43-96-96-96l-80 0c-8.8 0-16 7.2-16 16s7.2 16 16 16l80 0c35.3 0 64 28.7 64 64l0 256c0 35.3-28.7 64-64 64l-80 0z"></path></svg><br data-v-22791195=""> Logga in</a></div><div data-v-22791195="" class="nav-item"><a data-v-22791195="" class="ms-2 p-1 d-block nav-undecorated" href="#" data-toggle="collapse" aria-controls="header-search-form" aria-expanded="false" aria-label="Visa och dölj sökfält"><svg data-v-22791195="" class="svg-inline--fa fa-magnifying-glass" data-prefix="fal" data-icon="magnifying-glass" role="img" viewBox="0 0 512 512" aria-hidden="true"><path class="" fill="currentColor" d="M384 208a176 176 0 1 0 -352 0 176 176 0 1 0 352 0zM343.3 366C307 397.2 259.7 416 208 416 93.1 416 0 322.9 0 208S93.1 0 208 0 416 93.1 416 208c0 51.7-18.8 99-50 135.3L507.3 484.7c6.2 6.2 6.2 16.4 0 22.6s-16.4 6.2-22.6 0L343.3 366z"></path></svg><br data-v-22791195=""> Sök</a></div><div data-v-22791195="" class="nav-item"><a data-v-22791195="" class="ms-2 p-1 d-block nav-undecorated" href="#" aria-controls="nav-mobile" aria-expanded="false" aria-label="Visa meny"><svg data-v-22791195="" class="svg-inline--fa fa-bars" data-prefix="fal" data-icon="bars" role="img" viewBox="0 0 448 512" aria-hidden="true"><path class="" fill="currentColor" d="M0 80c0-8.8 7.2-16 16-16l416 0c8.8 0 16 7.2 16 16s-7.2 16-16 16L16 96C7.2 96 0 88.8 0 80zM0 256c0-8.8 7.2-16 16-16l416 0c8.8 0 16 7.2 16 16s-7.2 16-16 16L16 272c-8.8 0-16-7.2-16-16zM448 432c0 8.8-7.2 16-16 16L16 448c-8.8 0-16-7.2-16-16s7.2-16 16-16l416 0c8.8 0 16 7.2 16 16z"></path></svg><br data-v-22791195=""> Meny</a></div></nav><div data-v-22791195="" class="d-none d-lg-flex flex-column flex-xl-row w-100 justify-content-end"><nav data-v-22791195="" class="nav align-items-center justify-content-end flex-1 mb-3 mb-xl-0"><div data-v-22791195="" class="nav-item flex-xl-grow-1"><form data-v-22791195="" class="form-inline pe-xl-3"><div data-v-22791195="" class="input-group input-group-round input-group-sm w-100 flex"><input data-v-22791195="" id="header-search-field" type="search" class="form-control form-control-sm border-end-0" placeholder="Kurskod eller namn"><div data-v-22791195="" class="input-group-append"><button data-v-22791195="" class="btn btn-primary px-2" type="submit"><span data-v-22791195="" class="me-2">Sök</span><svg data-v-22791195="" class="svg-inline--fa fa-magnifying-glass" data-prefix="fal" data-icon="magnifying-glass" role="img" viewBox="0 0 512 512" aria-hidden="true"><path class="" fill="currentColor" d="M384 208a176 176 0 1 0 -352 0 176 176 0 1 0 352 0zM343.3 366C307 397.2 259.7 416 208 416 93.1 416 0 322.9 0 208S93.1 0 208 0 416 93.1 416 208c0 51.7-18.8 99-50 135.3L507.3 484.7c6.2 6.2 6.2 16.4 0 22.6s-16.4 6.2-22.6 0L343.3 366z"></path></svg></button></div></div></form></div></nav><nav data-v-22791195="" class="nav align-items-center justify-content-end"><div data-v-22791195="" class="nav-item d-none d-lg-block"><a data-v-22791195="" class="nav-link px-0 ms-4" href="#"><span data-v-22791195="" class="me-1"><svg data-v-22791195="" class="svg-inline--fa fa-arrow-right-to-bracket fa-lg" data-prefix="fal" data-icon="arrow-right-to-bracket" role="img" viewBox="0 0 512 512" aria-hidden="true"><path class="" fill="currentColor" d="M347.3 267.3c6.2-6.2 6.2-16.4 0-22.6l-144-144c-6.2-6.2-16.4-6.2-22.6 0s-6.2 16.4 0 22.6L297.4 240 16 240c-8.8 0-16 7.2-16 16s7.2 16 16 16l281.4 0-116.7 116.7c-6.2 6.2-6.2 16.4 0 22.6s16.4 6.2 22.6 0l144-144zM336 448c-8.8 0-16 7.2-16 16s7.2 16 16 16l80 0c53 0 96-43 96-96l0-256c0-53-43-96-96-96l-80 0c-8.8 0-16 7.2-16 16s7.2 16 16 16l80 0c35.3 0 64 28.7 64 64l0 256c0 35.3-28.7 64-64 64l-80 0z"></path></svg></span> Logga in</a></div><div data-v-22791195="" class="nav-item d-none d-lg-block"><a data-v-22791195="" class="nav-link px-0 ms-4" href="#"><span data-v-22791195="" class="me-1"><svg data-v-22791195="" class="svg-inline--fa fa-globe fa-lg" data-prefix="fal" data-icon="globe" role="img" viewBox="0 0 512 512" aria-hidden="true"><path class="" fill="currentColor" d="M317.5 420.1C295.4 465 271.5 480 256 480s-39.4-15-61.5-59.9c-19-38.6-32.1-91.3-34.2-148.1l191.4 0c-2.1 56.8-15.2 109.5-34.2 148.1zM351.7 240l-191.4 0c2.1-56.8 15.2-109.5 34.2-148.1 22.1-44.9 46-59.9 61.5-59.9s39.4 15 61.5 59.9c19 38.6 32.1 91.3 34.2 148.1zm32 32l95.7 0c-6.5 92.5-69.2 169.5-154.2 197.1 33-44.2 55.8-117.8 58.5-197.1zm95.7-32l-95.7 0c-2.7-79.3-25.5-152.9-58.5-197.1 85 27.6 147.7 104.6 154.2 197.1zm-351.2 0l-95.7 0c6.5-92.5 69.2-169.5 154.2-197.1-33 44.2-55.8 117.8-58.5 197.1zM32.6 272l95.7 0c2.7 79.3 25.5 152.9 58.5 197.1-85-27.6-147.7-104.6-154.2-197.1zM256 512a256 256 0 1 0 0-512 256 256 0 1 0 0 512z"></path></svg></span> English </a></div><div data-v-22791195="" class="nav-item d-none d-lg-block d-xl-none border-start ms-3 ps-3"><a data-v-22791195="" class="nav-link" href="#" aria-controls="nav-mobile" aria-expanded="false" aria-label="Visa meny"><svg data-v-22791195="" class="svg-inline--fa fa-bars" data-prefix="fal" data-icon="bars" role="img" viewBox="0 0 448 512" aria-hidden="true"><path class="" fill="currentColor" d="M0 80c0-8.8 7.2-16 16-16l416 0c8.8 0 16 7.2 16 16s-7.2 16-16 16L16 96C7.2 96 0 88.8 0 80zM0 256c0-8.8 7.2-16 16-16l416 0c8.8 0 16 7.2 16 16s-7.2 16-16 16L16 272c-8.8 0-16-7.2-16-16zM448 432c0 8.8-7.2 16-16 16L16 448c-8.8 0-16-7.2-16-16s7.2-16 16-16l416 0c8.8 0 16 7.2 16 16z"></path></svg> Meny</a></div></nav></div></div><div data-v-22791195="" class="row d-none d-xl-block font-size-xl-lg font-weight-light"><ul class="nav justify-content-end nav-header-main flex-nowrap"><li class="nav-item"><a href="/lot/" class="nav-link text-nowrap" aria-haspopup="true">Start</a></li><li class="nav-item"><a href="/lot/programme" class="nav-link text-nowrap" aria-haspopup="true">Program läsår</a></li><li class="nav-item"><a href="/lot/kull" class="nav-link text-nowrap" aria-haspopup="true">Program kull</a></li><li class="nav-item"><a href="/lot/department" class="nav-link text-nowrap" aria-haspopup="true">Institution</a></li><li class="nav-item"><a href="/lot/degree-projects" class="nav-link text-nowrap" aria-haspopup="true">Exjobb</a></li><li class="nav-item"><a href="/lot/changes" class="nav-link text-nowrap" aria-haspopup="true">Ändringar</a></li></ul></div></div></div></div></div></div><div data-v-22791195="" id="header-search-form" class="header-search-form collapse-lg pb-2 px-2" style="display: none;"><form data-v-22791195="" class="form-inline px-lg-3"><div data-v-22791195="" class="input-group input-group-round input-group-sm w-100 flex"><input data-v-22791195="" id="header-search-field-mobile" type="search" class="form-control form-control-sm border-end-0" placeholder="Kurskod eller namn"><div data-v-22791195="" class="input-group-append"><button data-v-22791195="" class="btn btn-primary px-2" type="submit"><span data-v-22791195="" class="me-2">Sök</span><svg data-v-22791195="" class="svg-inline--fa fa-magnifying-glass" data-prefix="fal" data-icon="magnifying-glass" role="img" viewBox="0 0 512 512" aria-hidden="true"><path class="" fill="currentColor" d="M384 208a176 176 0 1 0 -352 0 176 176 0 1 0 352 0zM343.3 366C307 397.2 259.7 416 208 416 93.1 416 0 322.9 0 208S93.1 0 208 0 416 93.1 416 208c0 51.7-18.8 99-50 135.3L507.3 484.7c6.2 6.2 6.2 16.4 0 22.6s-16.4 6.2-22.6 0L343.3 366z"></path></svg></button></div></div></form></div></div><div data-v-22791195="" class="modal fade" tabindex="-1" aria-hidden="false" role="dialog"><div class="modal-dialog my-0 mx-auto" role="document"><div class="modal-content border-0 rounded-0"><div class="modal-body nav-mobile-body"><nav class="nav border-bottom p-3 flex-row justify-content-between align-items-center sticky-top bg-white"><div id="nav-mobile-label" class="h3 m-0"><span class="sr-only">Lunds universitet</span></div><button type="button" class="border-0 bg-transparent cursor-pointer lh-0 p-2 nm-2" aria-controls="mobileMenu" aria-expanded="false" aria-label="Göm meny"><span aria-hidden="true"><svg class="svg-inline--fa fa-xmark fa-lg" data-prefix="fal" data-icon="xmark" role="img" viewBox="0 0 384 512" aria-hidden="true"><path class="" fill="currentColor" d="M379.3 91.3c6.2-6.2 6.2-16.4 0-22.6s-16.4-6.2-22.6 0L192 233.4 27.3 68.7c-6.2-6.2-16.4-6.2-22.6 0s-6.2 16.4 0 22.6L169.4 256 4.7 420.7c-6.2 6.2-6.2 16.4 0 22.6s16.4 6.2 22.6 0L192 278.6 356.7 443.3c6.2 6.2 16.4 6.2 22.6 0s6.2-16.4 0-22.6L214.6 256 379.3 91.3z"></path></svg></span></button></nav><ul class="mobile-nav mobile-nav-root border-0 nav-collapse font-size-sm nav-undecorated"><li data-v-e982d287="" class="mobile-nav-item"><a data-v-e982d287="" href="/lot/" class="nav-link">Start</a></li><li data-v-e982d287="" class="mobile-nav-item"><a data-v-e982d287="" href="/lot/programme" class="nav-link">Program läsår</a></li><li data-v-e982d287="" class="mobile-nav-item"><a data-v-e982d287="" href="/lot/kull" class="nav-link">Program kull</a></li><li data-v-e982d287="" class="mobile-nav-item"><a data-v-e982d287="" href="/lot/department" class="nav-link">Institution</a></li><li data-v-e982d287="" class="mobile-nav-item"><a data-v-e982d287="" href="/lot/degree-projects" class="nav-link">Exjobb</a></li><li data-v-e982d287="" class="mobile-nav-item"><a data-v-e982d287="" href="/lot/changes" class="nav-link">Ändringar</a></li><li data-v-e982d287="" class="mobile-nav-item"><a data-v-e982d287="" href="/lot/curriculum" class="nav-link">Min studieplan</a></li><li data-v-e982d287="" class="mobile-nav-item"><a data-v-e982d287="" href="https://kurser.lth.se/kursplaner/" class="nav-link">Kursplaner</a></li><li data-v-e982d287="" class="mobile-nav-item"><a data-v-e982d287="" href="https://www.student.lth.se/kurs-och-programinformation/" class="nav-link">Utbildningsplaner</a></li><li data-v-e982d287="" class="mobile-nav-item"><a data-v-e982d287="" href="https://kurser.lth.se/kursanmalan/" class="nav-link">Kursanmälan</a></li><li data-v-e982d287="" class="mobile-nav-item"><a data-v-e982d287="" href="/lot/about" class="nav-link">Om</a></li><li data-v-de901509="" class="mobile-nav-item"><a data-v-de901509="" href="#" class="nav-link"><svg data-v-de901509="" class="svg-inline--fa fa-globe" data-prefix="fal" data-icon="globe" role="img" viewBox="0 0 512 512" aria-hidden="true"><path class="" fill="currentColor" d="M317.5 420.1C295.4 465 271.5 480 256 480s-39.4-15-61.5-59.9c-19-38.6-32.1-91.3-34.2-148.1l191.4 0c-2.1 56.8-15.2 109.5-34.2 148.1zM351.7 240l-191.4 0c2.1-56.8 15.2-109.5 34.2-148.1 22.1-44.9 46-59.9 61.5-59.9s39.4 15 61.5 59.9c19 38.6 32.1 91.3 34.2 148.1zm32 32l95.7 0c-6.5 92.5-69.2 169.5-154.2 197.1 33-44.2 55.8-117.8 58.5-197.1zm95.7-32l-95.7 0c-2.7-79.3-25.5-152.9-58.5-197.1 85 27.6 147.7 104.6 154.2 197.1zm-351.2 0l-95.7 0c6.5-92.5 69.2-169.5 154.2-197.1-33 44.2-55.8 117.8-58.5 197.1zM32.6 272l95.7 0c2.7 79.3 25.5 152.9 58.5 197.1-85-27.6-147.7-104.6-154.2-197.1zM256 512a256 256 0 1 0 0-512 256 256 0 1 0 0 512z"></path></svg> English</a></li></ul></div></div></div></div><div data-v-22791195="" style="display: none;"><div data-v-22791195="" id="__ba_launchpad"></div></div></header><main class="main mt-2"><div class="container"><div><div class=""><h1>Kursplan</h1><div class="row d-flex flex-wrap"><div id="BootstrapVueNext__ID__v-0__" role="group" class="col-md-4 b-form-group"><!----><!----><label id="BootstrapVueNext__ID__v-1___BV_label____" for="BootstrapVueNext__ID__v-6__input___" class="form-label d-block">Läsår</label><div><div class="input-group" role="group"><!----><button class="btn btn-sm btn-outline-primary rounded-0" type="button"><svg class="svg-inline--fa fa-arrow-left" data-prefix="fal" data-icon="arrow-left" role="img" viewBox="0 0 512 512" aria-hidden="true"><path class="" fill="currentColor" d="M4.7 244.7c-6.2 6.2-6.2 16.4 0 22.6l176 176c6.2 6.2 16.4 6.2 22.6 0s6.2-16.4 0-22.6L54.6 272 496 272c8.8 0 16-7.2 16-16s-7.2-16-16-16L54.6 240 203.3 91.3c6.2-6.2 6.2-16.4 0-22.6s-16.4-6.2-22.6 0l-176 176z"></path></svg></button><select id="BootstrapVueNext__ID__v-6__input___" class="form-select"><option value="15_16">15/16</option><option value="16_17">16/17</option><option value="17_18">17/18</option><option value="18_19">18/19</option><option value="19_20">19/20</option><option value="20_21">20/21</option><option value="21_22">21/22</option><option value="22_23">22/23</option><option value="23_24">23/24</option><option value="24_25">24/25</option><option value="25_26">25/26</option><option selected="" value="26_27">26/27</option></select><button class="btn btn-sm btn-outline-primary rounded-0 disabled" disabled="" type="button"><svg class="svg-inline--fa fa-arrow-right" data-prefix="fal" data-icon="arrow-right" role="img" viewBox="0 0 512 512" aria-hidden="true"><path class="" fill="currentColor" d="M507.3 267.3c6.2-6.2 6.2-16.4 0-22.6l-176-176c-6.2-6.2-16.4-6.2-22.6 0s-6.2 16.4 0 22.6L457.4 240 16 240c-8.8 0-16 7.2-16 16s7.2 16 16 16l441.4 0-148.7 148.7c-6.2 6.2-6.2 16.4 0 22.6s16.4 6.2 22.6 0l176-176z"></path></svg></button><!----></div></div><!----><!----><!----></div></div><!----><div class="row"><div class="col-12 col-lg-8 col-xl-8 mb-6 mb-lg-0"><div class="dynamic-content">
+  
+
+  <span class="italic">Course syllabus</span><br>
+  <h1>Bachelor Project in Mathematics<br>
+  <span lang="sv">Kandidatarbete i matematik</span></h1>
+  <h2>FMAL01, 15.0 credits, G2 (First Cycle)</h2>
+  <p>
+    <span class="bold">Valid for: </span>2026/27<br>
+    <span class="bold">Faculty: </span>Faculty of Engineering LTH<br>
+    <span class="bold">Decided by: </span>PLED F/Pi<br>
+    <span class="bold">Date of Decision: </span>2026-04-14
+    
+  </p>
+  <h2>General Information</h2>
+  <p>
+    
+      
+        <span class="bold">Main field: </span> Technology
+      
+      
+        <span class="bold">Depth of study relative to the degree requirements: </span> First cycle, has at least 60 credits in first-cycle course/s as entry requirements, contains degree project for Bachelor of Arts/Bachelor of Science
+      
+      <br> 
+    
+    
+    
+    
+      <span class="bold">Elective for: </span>C3, D3, E3, F3, Pi3<br>
+    
+    
+    
+  </p>
+  
+  
+    <h2>Aim</h2>
+<p>The aim of the degree project is for the student to develop and demonstrate the knowledge and skills required to exploit in an independent manner  the knowledge acquired during the course and apply this to a problem in engineering.</p>
+
+<h2>Learning outcomes</h2>
+
+<p><span class="italic">Knowledge and understanding</span><br>
+For a passing grade the student must</p>
+<ul>
+<li>demonstrate a knowledge and understanding of engineering including the scientific bases of engineering and knowledge about appropriate methodologies in the chosen field of the discipline.</li>
+</ul>
+
+<p><span class="italic">Competences and skills</span><br>
+For a passing grade the student must</p>
+<ul>
+<li>demonstrate an ability to critically, independently and creatively identify, formulate and handle relevant issues with a holistic view,</li>
+<li>demonstrate an ability to identify, formulate and solve a problem in the chosen field in an independent and creative manner within a given time period,</li>
+<li>be able to independently identify relevant sources of information, evaluate the relevance of this information and apply the correct conventions of documentation, and</li>
+<li>demonstrate an ability to clearly present and discuss his/her conclusions and arguments behind them, orally and in writing.</li>
+</ul>
+
+<p><span class="italic">Judgement and approach</span><br>
+For a passing grade the student must</p>
+<ul>
+<li>demonstrate an ability to assess his/her own degree project and those of other students with due regard to relevant artistic, scientific, social and ethical aspects.</li>
+</ul>
+
+<h2>Contents</h2>
+<p>The degree project is an independent project. It is to be executed individually or in groups of two.</p>
+<p>The degree project comprises:</p>
+<ul>
+<li>a document describing the goals of the degree project</li>
+<li>a written report in either Swedish or English and with a summary in English;</li>
+<li>an oral presentation of the degree project at a public seminar at the Faculty of Engineering; and</li>
+<li>an oral critical review of another student's degree project at the public seminar where it is presented.</li>
+</ul>
+<p>The document describing the goals of the degree project is to be written at an early stage and must be approved by all supervisors and the examiner. It is to include a description of the problem to solve. The document is also to include a general description of the approach, choice of method, resource requirements and time needed.</p><p>
+</p><p>The written report is to describe the degree project and its findings. If the degree project is carried out as a group, the contribution of each student must be clearly discernible.</p><p>
+</p><p>Tools used, for instance to enhance text quality, generate ideas, or process data, must be documented in the thesis. It should be clearly indicated how these tools have contributed to the final outcome. Generative AI may not be cited as a source.</p>
+<p>The report is to be made available in a form suitable for examination at least one week before the seminar, which is to be timetabled at some point between 15 August and the Monday of Midsummer week with the exception of the period 22 December - 6 January.</p><p>
+</p><p>The oral critical review is to be based on a fellow student's written report when it is presented at a public seminar. The author's degree project should be at the same level or higher. One degree project can be reviewed by more than one student.</p>
+
+
+<h2>Examination details</h2>
+<p><span class="bold">Grading scale: </span>UG - (U,G) - (Fail, Pass)<br>
+<span class="bold">Assessment: </span>Written and oral examinations.</p>
+<p>The assessed components are to demonstrate that the student has attained the learning outcomes.  For a pass on the degree project, the student must have passed all assessed components within 6 months, unless there are valid reasons. The report is a public document. The assessment may not be based on classified information.</p>
+<p>The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.</p>
+
+<h2>Admission</h2>
+<p><span class="bold">Admission requirements:</span><br>
+The student may commence work on the degree project when he/she has successfully completed at least 120 higher education credits in completed courses from year 1-3, at least one Level 2 course, which can count towards his/her Bachelor degree. In order to commence work on the degree project, the student must demonstrate appropriate knowledge in the field of study covered by the project. It is the responsibility of the examiner to ensure that this requirement is satisfied before work can begin.</p>
+
+<h2>Reading list</h2>
+<ul>
+<li>The course literature and other teaching material that is to be used is to be approved by the supervisor with due consideration taken of the nature of the degree project assignment.</li>
+</ul>
+
+<h2>Contact and other information</h2>
+<p><span class="bold">Examiner: </span>The examiner must be a member of academic staff at Lund University who holds a Licentiate, and be appointed by the head of department. The examiner should not act as a supervisor.<br>
+
+    
+      
+        <span class="bold">Director of studies: </span>Anders Holst,
+        <a href="mailto:studierektor@math.lth.se">studierektor@math.lth.se</a><br>
+      
+        <span class="bold">Course administrator: </span>Studerandeexpeditionen,
+        <a href="mailto:expedition@math.lth.se">expedition@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Alexandros Sopasakis,
+        <a href="mailto:alexandros.sopasakis@math.lth.se">alexandros.sopasakis@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Anders Heyden,
+        <a href="mailto:anders.heyden@math.lu.se">anders.heyden@math.lu.se</a><br>
+      
+        <span class="bold">Examinator: </span>Anders Holst,
+        <a href="mailto:anders.holst@math.lth.se">anders.holst@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Andreas Jakobsson,
+        <a href="mailto:andreas.jakobsson@matstat.lu.se">andreas.jakobsson@matstat.lu.se</a><br>
+      
+        <span class="bold">Examinator: </span>Andreas Langer,
+        <a href="mailto:andreas.langer@math.lth.se">andreas.langer@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Andrey Ghulchak,
+        <a href="mailto:andrey.ghulchak@math.lth.se">andrey.ghulchak@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Anna Torstensson,
+        <a href="mailto:anna.torstensson@math.lth.se">anna.torstensson@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Carl Olsson,
+        <a href="mailto:carl.olsson@math.lth.se">carl.olsson@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Einar Heiberg,
+        <a href="mailto:einar.heiberg@med.lu.se">einar.heiberg@med.lu.se</a><br>
+      
+        <span class="bold">Examinator: </span>Elin A. Topp,
+        <a href="mailto:elin_a.topp@cs.lth.se">elin_a.topp@cs.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Erik Martens,
+        <a href="mailto:erik.martens@math.lth.se">erik.martens@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Eskil Hansen,
+        <a href="mailto:eskil.hansen@math.lth.se">eskil.hansen@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Frank Wikström,
+        <a href="mailto:frank.wikstrom@math.lth.se">frank.wikstrom@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Gabriele Brüll,
+        <a href="mailto:gabriele.brull@math.lth.se">gabriele.brull@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Gabrielle Flood,
+        <a href="mailto:gabrielle.flood@math.lth.se">gabrielle.flood@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Håkan Ardö,
+        <a href="mailto:hakan.ardo@math.lth.se">hakan.ardo@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Ida Arvidsson,
+        <a href="mailto:ida.arvidsson@math.lth.se">ida.arvidsson@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Jacob Stordal Christiansen,
+        <a href="mailto:jacob_stordal.christiansen@math.lth.se">jacob_stordal.christiansen@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Johan Helsing,
+        <a href="mailto:johan.helsing@math.lth.se">johan.helsing@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Jonas Månsson,
+        <a href="mailto:jonas.mansson@math.lth.se">jonas.mansson@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Jörg Schmeling,
+        <a href="mailto:jorg.schmeling@math.lth.se">jorg.schmeling@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Karl Åström,
+        <a href="mailto:karl.astrom@math.lth.se">karl.astrom@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Kasper Andersen,
+        <a href="mailto:kasper.andersen@math.lth.se">kasper.andersen@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Magnus Aspenberg,
+        <a href="mailto:magnus.aspenberg@math.lth.se">magnus.aspenberg@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Magnus Goffeng,
+        <a href="mailto:magnus.goffeng@math.lth.se">magnus.goffeng@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Magnus Oskarsson,
+        <a href="mailto:magnus.oskarsson@math.lth.se">magnus.oskarsson@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Mattias Ohlsson,
+        <a href="mailto:mattias.ohlsson@cec.lu.se">mattias.ohlsson@cec.lu.se</a><br>
+      
+        <span class="bold">Examinator: </span>Mikael Nilsson,
+        <a href="mailto:mikael.nilsson@math.lth.se">mikael.nilsson@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Mikael Persson Sundqvist,
+        <a href="mailto:mikael.persson_sundqvist@math.lth.se">mikael.persson_sundqvist@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Monika Eisenmann,
+        <a href="mailto:monika.eisenmann@math.lth.se">monika.eisenmann@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Niels Christian Overgaard,
+        <a href="mailto:niels_christian.overgaard@math.lth.se">niels_christian.overgaard@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Patrik Nordbeck,
+        <a href="mailto:patrik.nordbeck@math.lth.se">patrik.nordbeck@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Pelle Pettersson,
+        <a href="mailto:pelle.pettersson@math.lth.se">pelle.pettersson@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Philipp Birken,
+        <a href="mailto:Philipp.Birken@math.lu.se">Philipp.Birken@math.lu.se</a><br>
+      
+        <span class="bold">Examinator: </span>Robert Klöfkorn,
+        <a href="mailto:robert.klofkorn@math.lu.se">robert.klofkorn@math.lu.se</a><br>
+      
+        <span class="bold">Examinator: </span>Sara Maad Sasane,
+        <a href="mailto:sara.maad_sasane@math.lth.se">sara.maad_sasane@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Stefan Diehl,
+        <a href="mailto:stefan.diehl@math.lth.se">stefan.diehl@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Ted Kronvall,
+        <a href="mailto:ted.kronvall@matstat.lu.se">ted.kronvall@matstat.lu.se</a><br>
+      
+        <span class="bold">Examinator: </span>Thomas Edlund,
+        <a href="mailto:thomas.edlund@math.lth.se">thomas.edlund@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Tomas Persson,
+        <a href="mailto:tomas.persson@math.lth.se">tomas.persson@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Tony Stillfjord,
+        <a href="mailto:tony.stillfjord@math.lth.se">tony.stillfjord@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Victor Ufnarovski,
+        <a href="mailto:victor.ufnarovski@math.lth.se">victor.ufnarovski@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Wilhelm Treschow,
+        <a href="mailto:wilhelm.treschow@math.lth.se">wilhelm.treschow@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Yang Xing,
+        <a href="mailto:yang.xing@math.lth.se">yang.xing@math.lth.se</a><br>
+      
+        <span class="bold">Examinator: </span>Yaqing Ding,
+        <a href="mailto:yaqing.ding@math.lth.se">yaqing.ding@math.lth.se</a><br>
+      
+    
+    
+    
+<span class="bold">Further information: </span>One or several supervisors shall be appointed for each degree project. At least one of the supervisors (the principal supervisor) must be an employee of Lund University and hold at least a degree of Master of Science or the equivalent. In addition to the principal supervisor, assistant supervisors may be appointed. The supervisors will provide continuous supervision throughout the work on the project and are to ensure that, among other things, it is possible for the student to complete the project within a period of 10 weeks of full-time study. The student can only request supervision for a period of no more than 6 months.</p>
+<p>The student is responsible for registering his or her passed degree project in LUP Student Papers. The degree project is then approved in LUP by the department. The department is responsible for filing the report.</p>
+<p>More information is available at https://www.student.lth.se/english/masters-students/degree-project/.</p>
+
+  
+
+  </div></div><div class="col-12 col-lg-4 mb-6 mb-lg-0"><div class="pimcore_area_snippet pimcore_area_content"><div class="pimcore_area_infobox pimcore_area_content"><div class="bg-sky-50 mb-6 p-5"><p class="h3 mt-0 mb-3">Originalkursplaner</p><p><svg class="svg-inline--fa fa-arrow-up-right-from-square" data-prefix="fal" data-icon="arrow-up-right-from-square" role="img" viewBox="0 0 512 512" aria-hidden="true"><path class="" fill="currentColor" d="M304 0c-8.8 0-16 7.2-16 16s7.2 16 16 16l153.4 0-260.7 260.7c-6.2 6.2-6.2 16.4 0 22.6s16.4 6.2 22.6 0L480 54.6 480 208c0 8.8 7.2 16 16 16s16-7.2 16-16l0-192c0-8.8-7.2-16-16-16L304 0zM80 96C35.8 96 0 131.8 0 176L0 432c0 44.2 35.8 80 80 80l256 0c44.2 0 80-35.8 80-80l0-96c0-8.8-7.2-16-16-16s-16 7.2-16 16l0 96c0 26.5-21.5 48-48 48L80 480c-26.5 0-48-21.5-48-48l0-256c0-26.5 21.5-48 48-48l96 0c8.8 0 16-7.2 16-16s-7.2-16-16-16L80 96z"></path></svg> <a href="https://kurser.lth.se/kursplaner/26_27/FMAL01.html">Webbsida (svensk)</a></p><p><svg class="svg-inline--fa fa-arrow-up-right-from-square" data-prefix="fal" data-icon="arrow-up-right-from-square" role="img" viewBox="0 0 512 512" aria-hidden="true"><path class="" fill="currentColor" d="M304 0c-8.8 0-16 7.2-16 16s7.2 16 16 16l153.4 0-260.7 260.7c-6.2 6.2-6.2 16.4 0 22.6s16.4 6.2 22.6 0L480 54.6 480 208c0 8.8 7.2 16 16 16s16-7.2 16-16l0-192c0-8.8-7.2-16-16-16L304 0zM80 96C35.8 96 0 131.8 0 176L0 432c0 44.2 35.8 80 80 80l256 0c44.2 0 80-35.8 80-80l0-96c0-8.8-7.2-16-16-16s-16 7.2-16 16l0 96c0 26.5-21.5 48-48 48L80 480c-26.5 0-48-21.5-48-48l0-256c0-26.5 21.5-48 48-48l96 0c8.8 0 16-7.2 16-16s-7.2-16-16-16L80 96z"></path></svg> <a href="https://kurser.lth.se/kursplaner/26_27-en/FMAL01.html">Webbsida (engelsk)</a></p><p><svg class="svg-inline--fa fa-file-pdf" data-prefix="fal" data-icon="file-pdf" role="img" viewBox="0 0 576 512" aria-hidden="true"><path class="" fill="currentColor" d="M224 32L96 32C78.3 32 64 46.3 64 64l0 384c0 17.7 14.3 32 32 32l80 0 0 32-80 0c-35.3 0-64-28.7-64-64L32 64C32 28.7 60.7 0 96 0L229.5 0c17 0 33.3 6.7 45.3 18.7L397.3 141.3c12 12 18.7 28.3 18.7 45.3l0 149.5-32 0 0-144-96 0c-35.3 0-64-28.7-64-64l0-96zM370.7 160L256 45.3 256 128c0 17.7 14.3 32 32 32l82.7 0zM240 384l32 0c30.9 0 56 25.1 56 56s-25.1 56-56 56l-16 0 0 32c0 8.8-7.2 16-16 16s-16-7.2-16-16l0-128c0-8.8 7.2-16 16-16zm32 80c13.3 0 24-10.7 24-24s-10.7-24-24-24l-16 0 0 48 16 0zm96-80l32 0c26.5 0 48 21.5 48 48l0 64c0 26.5-21.5 48-48 48l-32 0c-8.8 0-16-7.2-16-16l0-128c0-8.8 7.2-16 16-16zm32 128c8.8 0 16-7.2 16-16l0-64c0-8.8-7.2-16-16-16l-16 0 0 96 16 0zm80-112c0-8.8 7.2-16 16-16l48 0c8.8 0 16 7.2 16 16s-7.2 16-16 16l-32 0 0 32 32 0c8.8 0 16 7.2 16 16s-7.2 16-16 16l-32 0 0 48c0 8.8-7.2 16-16 16s-16-7.2-16-16l0-128z"></path></svg> <a href="https://kurser.lth.se/kursplaner/26_27/FMAL01.pdf">PDF (svensk)</a></p><p><svg class="svg-inline--fa fa-file-pdf" data-prefix="fal" data-icon="file-pdf" role="img" viewBox="0 0 576 512" aria-hidden="true"><path class="" fill="currentColor" d="M224 32L96 32C78.3 32 64 46.3 64 64l0 384c0 17.7 14.3 32 32 32l80 0 0 32-80 0c-35.3 0-64-28.7-64-64L32 64C32 28.7 60.7 0 96 0L229.5 0c17 0 33.3 6.7 45.3 18.7L397.3 141.3c12 12 18.7 28.3 18.7 45.3l0 149.5-32 0 0-144-96 0c-35.3 0-64-28.7-64-64l0-96zM370.7 160L256 45.3 256 128c0 17.7 14.3 32 32 32l82.7 0zM240 384l32 0c30.9 0 56 25.1 56 56s-25.1 56-56 56l-16 0 0 32c0 8.8-7.2 16-16 16s-16-7.2-16-16l0-128c0-8.8 7.2-16 16-16zm32 80c13.3 0 24-10.7 24-24s-10.7-24-24-24l-16 0 0 48 16 0zm96-80l32 0c26.5 0 48 21.5 48 48l0 64c0 26.5-21.5 48-48 48l-32 0c-8.8 0-16-7.2-16-16l0-128c0-8.8 7.2-16 16-16zm32 128c8.8 0 16-7.2 16-16l0-64c0-8.8-7.2-16-16-16l-16 0 0 96 16 0zm80-112c0-8.8 7.2-16 16-16l48 0c8.8 0 16 7.2 16 16s-7.2 16-16 16l-32 0 0 32 32 0c8.8 0 16 7.2 16 16s-7.2 16-16 16l-32 0 0 48c0 8.8-7.2 16-16 16s-16-7.2-16-16l0-128z"></path></svg> <a href="https://kurser.lth.se/kursplaner/26_27-en/FMAL01.pdf">PDF (engelsk)</a></p></div></div></div></div></div></div><div class="row"><div class="col-12 col-lg-8"><div class="border-top border-dark mt-5 py-3">Sidansvarig: <a href="mailto:kursval@lth.lu.se">kursval@lth.lu.se</a> &nbsp;|&nbsp; <strong>2026-05-27</strong><!----></div></div></div></div></div></main><button data-v-e015ad93="" id="btn--back-to-top" class="btn px-2" type="button" style="display: none;"><svg data-v-e015ad93="" class="svg-inline--fa fa-circle-chevron-up fa-2x align-middle me-2" data-prefix="fas" data-icon="circle-chevron-up" role="img" viewBox="0 0 512 512" aria-hidden="true"><path class="" fill="currentColor" d="M256 512a256 256 0 1 0 0-512 256 256 0 1 0 0 512zM377 271c9.4 9.4 9.4 24.6 0 33.9s-24.6 9.4-33.9 0l-87-87-87 87c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9L239 167c9.4-9.4 24.6-9.4 33.9 0L377 271z"></path></svg><span data-v-e015ad93="">Hela vägen upp</span></button></div>
+
+
+</body></html>

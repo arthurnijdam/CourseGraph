@@ -1,0 +1,62 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Advanced Course in Numerical Algorithms with Python/SciPy\nAvancerad kurs i numeriska algoritmer med Python/SciPy",
+    "FMNN25, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: D4, E4, F4, F4-bs, MMSR2, MSOC2, Pi4-bs\nLanguage of instruction: The course will be given in English",
+    "The course is intended as an algorithm oriented complement to most of the basic and specialized courses in numerical analysis, which are focused on analysis of methods. The course emphasizes the coupling between complex numerical algorithms and modern programming languages.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Introduction to Python for students already familiar with other programming languages.",
+    "The use of object oriented programming in scientific computing. Scipy/Numpy data structures.",
+    "Examples of complex numerical algorithms from various subjects in numerical analysis.",
+    "Automatic tests in scientific computing. Graphical representation of mathematical results (animation). The use of Python to control system processes.",
+    "The course may be complemented with special contributions of invited guest teachers.",
+    "Grading scale: UG - (U, G) - (Fail, Pass)\nAssessment:",
+    "Three major programming projects to be carried out in groups, and to be presented at a seminar. Opposition on the report of another group. Attendance at all presentations is compulsory.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0111. Name: Advanced Course in Numerical Algorithms with Python/SciPy. \n\nCredits: 7.5. Grading scale: UG - (U, G).",
+    "Assumed prior knowledge: \n        Basic course in numerical analysis. Programming experience in some of the languages Java, C, C++, Fortran, Python and Matlab.\n        \nThe number of participants is limited to: 40\nSelection: Completed university credits within the programme according to Ladok. (For students in master's programmes 180 credits corresponding to a bachelor degree are added.) Priority is given to students enrolled on programmes that include the course in their curriculum.\nKursen överlappar följande kurser: \n        \n          \n            NUMN25\n          \n        \n          \n            NUMN21",
+    "Course coordinator: Andreas Langer,\n        Andreas.Langer@math.lth.se\nDirector of studies: Anders Holst,\n        studierektor@math.lth.se\nCourse administrator: Student Office,\n        expedition@math.lth.se\nExaminator: Andreas Langer,\n        Andreas.Langer@math.lth.se\nExaminator: Robert Klöfkorn,\n        Robert.Klofkorn@math.lu.se\nCourse homepage: https://canvas.education.lu.se/courses/20391",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to account for the basic principles of computational algorithms.",
+      "be able to describe a number of important computational problems, and ways to attack them, in detail."
+    ],
+    [
+      "be able to write computational programmes at a high level.",
+      "be able to code, test and evaluate the results of complex numerical algorithms, using established programme libraries.",
+      "be able to carry out a group programming project, including identifying subproblems, distribution of tasks within the group and responsibility for the completion of his/her task.",
+      "be able to describe a computational project through an oral presentation of their own code."
+    ],
+    [
+      "be able to assess the performance of complex numerical algorithms.",
+      "be able to argue for the importance of developing programs in a modular and flexible way.",
+      "be able to critically analyse other students' solutions and presentations and evaluate alternative solutions in relation to their own solutions."
+    ],
+    [
+      "Führer, C, Solem, J.E., Verdier, O:: Scientific Computing with Python 3 - Second Edition. Packt Publishing, 2021, ISBN: 9781838822323."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår11/1212/1313/1414/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nAdvanced Course in Numerical Algorithms with Python/SciPy\nAvancerad kurs i numeriska algoritmer med Python/SciPy\nFMNN25, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: D4, E4, F4, F4-bs, MMSR2, MSOC2, Pi4-bs\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe course is intended as an algorithm oriented complement to most of the basic and specialized courses in numerical analysis, which are focused on analysis of methods. The course emphasizes the coupling between complex numerical algorithms and modern programming languages.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to account for the basic principles of computational algorithms.be able to describe a number of important computational problems, and ways to attack them, in detail.\nCompetences and skills\n      For a passing grade the student must\nbe able to write computational programmes at a high level.be able to code, test and evaluate the results of complex numerical algorithms, using established programme libraries.be able to carry out a group programming project, including identifying subproblems, distribution of tasks within the group and responsibility for the completion of his/her task.be able to describe a computational project through an oral presentation of their own code.\nJudgement and approach\n      For a passing grade the student must\nbe able to assess the performance of complex numerical algorithms.be able to argue for the importance of developing programs in a modular and flexible way.be able to critically analyse other students' solutions and presentations and evaluate alternative solutions in relation to their own solutions.\nContents\nIntroduction to Python for students already familiar with other programming languages. The use of object oriented programming in scientific computing. Scipy/Numpy data structures.Examples of complex numerical algorithms from various subjects in numerical analysis.Automatic tests in scientific computing. Graphical representation of mathematical results (animation). The use of Python to control system processes.The course may be complemented with special contributions of invited guest teachers.\nExamination details\n\nGrading scale: UG - (U, G) - (Fail, Pass)\nAssessment: Three major programming projects to be carried out in groups, and to be presented at a seminar. Opposition on the report of another group. Attendance at all presentations is compulsory.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0111. Name: Advanced Course in Numerical Algorithms with Python/SciPy. \n\nCredits: 7.5. Grading scale: UG - (U, G).\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        Basic course in numerical analysis. Programming experience in some of the languages Java, C, C++, Fortran, Python and Matlab.\n        \nThe number of participants is limited to: 40\nSelection: Completed university credits within the programme according to Ladok. (For students in master's programmes 180 credits corresponding to a bachelor degree are added.) Priority is given to students enrolled on programmes that include the course in their curriculum.\nKursen överlappar följande kurser: \n        \n          \n            NUMN25\n          \n        \n          \n            NUMN21\n          \n        \n      \n    \nReading list\n\nFührer, C, Solem, J.E., Verdier, O:: Scientific Computing with Python 3 - Second Edition. Packt Publishing, 2021, ISBN: 9781838822323.\n\nContact\n\nCourse coordinator: Andreas Langer,\n        Andreas.Langer@math.lth.se\nDirector of studies: Anders Holst,\n        studierektor@math.lth.se\nCourse administrator: Student Office,\n        expedition@math.lth.se\nExaminator: Andreas Langer,\n        Andreas.Langer@math.lth.se\nExaminator: Robert Klöfkorn,\n        Robert.Klofkorn@math.lu.se\nCourse homepage: https://canvas.education.lu.se/courses/20391\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

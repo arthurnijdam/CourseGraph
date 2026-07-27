@@ -1,0 +1,59 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Object-oriented Modelling and Design\nObjektorienterad modellering och design",
+    "EDAF60, 4.5 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C2, D2\nElective for: E4, F4, I4-pvs, Pi4\nLanguage of instruction: The course will be given in Swedish",
+    "The course will give ability to sustainable and resource aware construction of programs that can be reused and modified with respect to changing requirements in an industrial context.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Design principles for object-oriented programs. Design patterns and frameworks. A development environment for object-oriented modelling, implementation, and refactoring. Project with design and implementation.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "The course is examined through a written exam and two smaller projects that are carried out in groups. The final grade of the course is based on the result of the written exam.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0117. Name: Project. \n\nCredits: 2.0. Grading scale: UG - (U, G).\n        \n          Assessment: For a final grade, the students must have completed the project work.\n        \n        \n          The module includes: Project\n        \n        \n        \nCode: 0217. Name: Written Examination in Object-oriented Modelling and Design. \n\nCredits: 2.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: The final grade of the course is based on the result of the written exam.\n        \n        \n          The module includes: Written exam.",
+    "Admission requirements:",
+    "Course coordinator: Christian Söderberg,\n        christian.soderberg@cs.lth.se\nCourse administrator: Birger Swahn,\n        Birger.Swahn@cs.lth.se\nCourse administrator: Ulrika Templing,\n        ulrika.templing@cs.lth.se\nCourse homepage: https://cs.lth.se/edaf60",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to identify the use of common design principles and design patterns in given programs. This and all other course objectives refer to programs with some hundreds or thousands lines of code."
+    ],
+    [
+      "be able to design and implement object-oriented programs with many classes and a few packages,",
+      "be able to choose and implement suitable design patterns in typical problems,",
+      "be able to use the central parts of an integrated development environment to design, implementation, and refactoring of programs,",
+      "be able to describe program design with UML (Unified Modelling Language)."
+    ],
+    [
+      "be able to evaluate a program design with respect to design principles,",
+      "be able to construct programs that are easy to understand for those who need to modify them."
+    ],
+    [
+      "EDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course"
+    ],
+    [
+      "Materials provided by the department."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår17/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nObject-oriented Modelling and Design\nObjektorienterad modellering och design\nEDAF60, 4.5 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C2, D2\nElective for: E4, F4, I4-pvs, Pi4\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nThe course will give ability to sustainable and resource aware construction of programs that can be reused and modified with respect to changing requirements in an industrial context.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to identify the use of common design principles and design patterns in given programs. This and all other course objectives refer to programs with some hundreds or thousands lines of code.\nCompetences and skills\n      For a passing grade the student must\nbe able to design and implement object-oriented programs with many classes and a few packages,be able to choose and implement suitable design patterns in typical problems,be able to use the central parts of an integrated development environment to design, implementation, and refactoring of programs,be able to describe program design with UML (Unified Modelling Language).\nJudgement and approach\n      For a passing grade the student must\nbe able to evaluate a program design with respect to design principles,be able to construct programs that are easy to understand for those who need to modify them.\nContents\nDesign principles for object-oriented programs. Design patterns and frameworks. A development environment for object-oriented modelling, implementation, and refactoring. Project with design and implementation.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: The course is examined through a written exam and two smaller projects that are carried out in groups. The final grade of the course is based on the result of the written exam.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0117. Name: Project. \n\nCredits: 2.0. Grading scale: UG - (U, G).\n        \n          Assessment: For a final grade, the students must have completed the project work.\n        \n        \n          The module includes: Project\n        \n        \n        \nCode: 0217. Name: Written Examination in Object-oriented Modelling and Design. \n\nCredits: 2.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: The final grade of the course is based on the result of the written exam.\n        \n        \n          The module includes: Written exam.\n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nEDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course\n\nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEDA060\nEDA065\nEDA666\nEDAF10\nEDA061\n\nReading list\n\nMaterials provided by the department.\n\nContact\n\nCourse coordinator: Christian Söderberg,\n        christian.soderberg@cs.lth.se\nCourse administrator: Birger Swahn,\n        Birger.Swahn@cs.lth.se\nCourse administrator: Ulrika Templing,\n        ulrika.templing@cs.lth.se\nCourse homepage: https://cs.lth.se/edaf60\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

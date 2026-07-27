@@ -1,0 +1,92 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Secure Systems Engineering\nKonstruktion av säkra system",
+    "EITP20, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-sec, C4-pvs, D4-se, D4-ns, E4, R4\nLanguage of instruction: The course will be given in English",
+    "The goal of this course is to give insight in methodology and principles behind the design of secure software and hardware systems. In particular the course focuses on how to tackle security risks in the design process. The course intends to give understanding of the whole process from requirements gathering to design choice and analysis of a security critical system.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Introduction: Computer systems are becoming more complex and encompass more and more functions solving everyday problems as well as giving services for the society and enhancing our infrastructures. However, this trend comes with an increased risk for hacker or cyber-attacks. Hence, an important part of reducing this risk is knowledge and engineering skills in how to design more robust computer systems. The course focuses on methods and tools in secure systems engineering and how to apply the methods and tools to solve real life security problems.",
+    "The course is divided into three main blocks:",
+    "Security design methods and tools",
+    "Security and performance analysis of systems",
+    "Project",
+    "At the beginning of the course a list of project proposal will be given. Every project has as goal to make a security system design. The project group will consist of 2-4 people and the group will select one of the give projects in the proposal list. The group will make a complete security design including a protocol design for the chosen project problem. The group will also make a security analysis of a design made by another project group.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: For a passing grade, a passed project assignment (4.5 credits) and approved home assignments (3 credits) are required. The final grade is settled through a joint score based on the results on the home exams and the result of the project assignment.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0121. Name: Project. \n\nCredits: 4.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Project report, presentation and written individual analysis\n        \n        \n        \n        \nCode: 0221. Name: Take-home Exam. \n\nCredits: 3.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Two take-home exams that will give the grades U, 3, 4 or 5",
+    "Admission requirements:",
+    "Course coordinator: Christian Gehrmann,\n        christian.gehrmann@eit.lth.se",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "analyse a computer system use case from security perspective",
+      "narrate different threat analysis methods",
+      "understand how to define and break down software and hardware system security requirements",
+      "grasp how to describe computer security architectures",
+      "narrate different principles for security protocol design and specification",
+      "master a number of different security protocol analysis methods",
+      "understand how design choices influence the system robustness with respect to security incidents as well as the possibilities for system upgrades at security breaches"
+    ],
+    [
+      "make a threat analysis of a given computer system use-case",
+      "identify high level system security requirements from a use-case and corresponding threat analysis",
+      "compose a computer security architecture from a given use case and corresponding security requirements",
+      "design a security protocol from a given security architecture and we able to implement the protocol",
+      "analyse a security protocol, both theoretically and by using a protocol analysis tool",
+      "perform performance evaluation of a security function",
+      "make a penetration test of a security function"
+    ],
+    [
+      "apply the acquired knowledge in a project that will be performed jointly with other students. In order to finalize the project requires the student must gather additional knowledge and insight. Quality of motivation in solution in depth and reflection on alternatives will be judged in the project, in the home exams as well as in the final written exam."
+    ],
+    [
+      "Security design methods and tools",
+      "Security and performance analysis of systems",
+      "Project"
+    ],
+    [
+      "Identification of security needs in computer systems",
+      "Threat analysis methods",
+      "Security requirements specification and requirements break down",
+      "Computer security architectures and trust models",
+      "Design and specification of security functions",
+      "Construction of security protocols"
+    ],
+    [
+      "Security architectures and trust models analysis",
+      "Security evaluation of system components",
+      "Methods and tools for protocol analysis",
+      "Performance evaluation",
+      "Penetration testing"
+    ],
+    [
+      "EITA25 Computer Security"
+    ],
+    [
+      "PowerPoint slides and Lecture notes on the main course topics as well as articles."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår19/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nSecure Systems Engineering\nKonstruktion av säkra system\nEITP20, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-sec, C4-pvs, D4-se, D4-ns, E4, R4\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe goal of this course is to give insight in methodology and principles behind the design of secure software and hardware systems. In particular the course focuses on how to tackle security risks in the design process. The course intends to give understanding of the whole process from requirements gathering to design choice and analysis of a security critical system.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nanalyse a computer system use case from security perspectivenarrate different threat analysis methodsunderstand how to define and break down software and hardware system security requirementsgrasp how to describe computer security architecturesnarrate different principles for security protocol design and specificationmaster a number of different security protocol analysis methodsunderstand how design choices influence the system robustness with respect to security incidents as well as the possibilities for system upgrades at security breaches\nCompetences and skills\n      For a passing grade the student must\nmake a threat analysis of a given computer system use-caseidentify high level system security requirements from a use-case and corresponding threat analysiscompose a computer security architecture from a given use case and corresponding security requirementsdesign a security protocol from a given security architecture and we able to implement the protocolanalyse a security protocol, both theoretically and by using a protocol analysis toolperform performance evaluation of a security functionmake a penetration test of a security function\nJudgement and approach\n      For a passing grade the student must\napply the acquired knowledge in a project that will be performed jointly with other students. In order to finalize the project requires the student must gather additional knowledge and insight. Quality of motivation in solution in depth and reflection on alternatives will be judged in the project, in the home exams as well as in the final written exam.\nContents\nIntroduction: Computer systems are becoming more complex and encompass more and more functions solving everyday problems as well as giving services for the society and enhancing our infrastructures. However, this trend comes with an increased risk for hacker or cyber-attacks. Hence, an important part of reducing this risk is knowledge and engineering skills in how to design more robust computer systems. The course focuses on methods and tools in secure systems engineering and how to apply the methods and tools to solve real life security problems.The course is divided into three main blocks:Security design methods and toolsSecurity and performance analysis of systemsProjectSecurity design methods and toolsIdentification of security needs in computer systemsThreat analysis methodsSecurity requirements specification and requirements break downComputer security architectures and trust modelsDesign and specification of security functionsConstruction of security protocolsSecurity and performance analysis of systemsSecurity architectures and trust models analysisSecurity evaluation of system componentsMethods and tools for protocol analysisPerformance evaluationPenetration testingProjectAt the beginning of the course a list of project proposal will be given. Every project has as goal to make a security system design. The project group will consist of 2-4 people and the group will select one of the give projects in the proposal list. The group will make a complete security design including a protocol design for the chosen project problem. The group will also make a security analysis of a design made by another project group.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: For a passing grade, a passed project assignment (4.5 credits) and approved home assignments (3 credits) are required. The final grade is settled through a joint score based on the results on the home exams and the result of the project assignment.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0121. Name: Project. \n\nCredits: 4.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Project report, presentation and written individual analysis\n        \n        \n        \n        \nCode: 0221. Name: Take-home Exam. \n\nCredits: 3.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Two take-home exams that will give the grades U, 3, 4 or 5\n        \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nEITA25 Computer Security\n\nAssumed prior knowledge: \n        EITF06 Web Security\n        \nThe number of participants is limited to: 48\nSelection: Completed university credits within the programme. Priority is given to students enrolled on programmes that include the course in their curriculum.\n\nReading list\n\nPowerPoint slides and Lecture notes on the main course topics as well as articles.\n\nContact\n\nCourse coordinator: Christian Gehrmann,\n        christian.gehrmann@eit.lth.se\n\nFurther information\n      The course will give the student knowledge and skills in the security design and analysis of computer and communication systems. \n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

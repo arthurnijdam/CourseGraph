@@ -1,0 +1,67 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Hardware Hacking and Side-channel Security\nHårdvaruhackning och sidokanalssäkerhet",
+    "EITP60, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Main field:  Communication Systems\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: D4-hs, D4-is, E4-ns, E5-hp, F4, MMSR2, MSOC1, MWIR1, Pi4\nLanguage of instruction: The course will be given in English",
+    "The course aims to provide students with a comprehensive, hands-on understanding of hardware-level security. It will focus on the theory and practice of power side-channel analysis, fault injection (glitching), and microarchitectural attacks. Students will use tools like the ChipWhisperer platform, the Mastik software, and machine learning techniques to gain the practical skills necessary to identify, execute, and mitigate these advanced threats in modern computer/embedded systems.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Basics of Hardware Hacking: The shift from software to hardware-level security. Understanding physical attack surfaces on embedded systems and SoCs.",
+    "Power Side-Channel Attacks with ChipWhisperer: Understanding how power consumption relates to data processing, how this opens up for attacks and how to counter this.",
+    "Fault Injection Attacks with ChipWhisperer: Intentionally introducing errors into a system to disrupt its normal operation, and how to counter this.",
+    "Microarchitectural Attacks: Modern CPU & Memory Architecture: In-depth look at CPU caches, memory hierarchy, DRAM, and speculative execution work as attack surfaces, and mitigation techniques.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "Assessment is based on three mandatory laboratory assignments and a final report. All labs must receive a passing grade to be eligible to submit the report. The final grade (3, 4, 5) is determined by the quality of the report and an accompanying oral presentation.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0126. Name: Laboratory Work. \n\nCredits: 4.5. Grading scale: UG - (U, G).\n        \n          Assessment: Active participation in laboratory work.\n        \n        \n          The module includes: Three Labs.\n        \n        \n          Further information: A passing grade (G) on this module is required to be eligible to submit the final project.\n        \n        \nCode: 0226. Name: Project. \n\nCredits: 3.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: A project graded on the scale of U, 3, 4, or 5\n\n        \n        \n          The module includes: A written project report and an accompanying oral presentation.\n        \n        \n          Further information: This module's grade determines the final grade for the entire course.",
+    "Admission requirements:",
+    "Course coordinator: Qian Guo,\n        qian.guo@eit.lth.se",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "Describe the fundamental principles of hardware security and common attack vectors",
+      "Explain the theoretical foundations of side-channel analysis and fault injection",
+      "Detail the mechanisms behind power analysis attacks, microarchitectural attacks, and the application of machine learning models to side-channel analysis.-",
+      "Classify different hardware and software countermeasures and evaluate their effectiveness."
+    ],
+    [
+      "Set up and operate a laboratory environment for hardware security analysis using tools like ChipWhisperer.",
+      "Successfully execute power analysis, fault injection, and cache-timing attacks against vulnerable systems in a controlled environment.",
+      "Analyze physical leakage to extract sensitive information like cryptographic keys.",
+      "Develop a detailed report on an original hardware security investigation and present the findings to an audience."
+    ],
+    [
+      "Critically evaluate the security of a given hardware system against physical attacks.",
+      "Discuss and propose appropriate mitigation strategies for identified vulnerabilities.",
+      "Engage in ethical considerations and discussions surrounding the disclosure and exploitation of hardware vulnerabilities."
+    ],
+    [
+      "At least 90 ECTS credits from completed courses."
+    ],
+    [
+      "Powerpoint slides and notes on main areas and articles.",
+      "Woudenberg, Jasper van: The hardware hacking handbook : breaking embedded security with hardware attacks. San Francisco : No Starch Press, 2018, ISBN: 9781593278748."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår26/27\nCourse syllabus\nHardware Hacking and Side-channel Security\nHårdvaruhackning och sidokanalssäkerhet\nEITP60, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nMain field:  Communication Systems\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: D4-hs, D4-is, E4-ns, E5-hp, F4, MMSR2, MSOC1, MWIR1, Pi4\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe course aims to provide students with a comprehensive, hands-on understanding of hardware-level security. It will focus on the theory and practice of power side-channel analysis, fault injection (glitching), and microarchitectural attacks. Students will use tools like the ChipWhisperer platform, the Mastik software, and machine learning techniques to gain the practical skills necessary to identify, execute, and mitigate these advanced threats in modern computer/embedded systems.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nDescribe the fundamental principles of hardware security and common attack vectorsExplain the theoretical foundations of side-channel analysis and fault injectionDetail the mechanisms behind power analysis attacks, microarchitectural attacks, and the application of machine learning models to side-channel analysis.-Classify different hardware and software countermeasures and evaluate their effectiveness.\nCompetences and skills\n      For a passing grade the student must\nSet up and operate a laboratory environment for hardware security analysis using tools like ChipWhisperer.Successfully execute power analysis, fault injection, and cache-timing attacks against vulnerable systems in a controlled environment.Analyze physical leakage to extract sensitive information like cryptographic keys.Develop a detailed report on an original hardware security investigation and present the findings to an audience.\nJudgement and approach\n      For a passing grade the student must\nCritically evaluate the security of a given hardware system against physical attacks.Discuss and propose appropriate mitigation strategies for identified vulnerabilities.Engage in ethical considerations and discussions surrounding the disclosure and exploitation of hardware vulnerabilities.\nContents\nBasics of Hardware Hacking: The shift from software to hardware-level security. Understanding physical attack surfaces on embedded systems and SoCs.Power Side-Channel Attacks with ChipWhisperer: Understanding how power consumption relates to data processing, how this opens up for attacks and how to counter this.Fault Injection Attacks with ChipWhisperer: Intentionally introducing errors into a system to disrupt its normal operation, and how to counter this.Microarchitectural Attacks: Modern CPU & Memory Architecture: In-depth look at CPU caches, memory hierarchy, DRAM, and speculative execution work as attack surfaces, and mitigation techniques.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Assessment is based on three mandatory laboratory assignments and a final report. All labs must receive a passing grade to be eligible to submit the report. The final grade (3, 4, 5) is determined by the quality of the report and an accompanying oral presentation.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0126. Name: Laboratory Work. \n\nCredits: 4.5. Grading scale: UG - (U, G).\n        \n          Assessment: Active participation in laboratory work.\n        \n        \n          The module includes: Three Labs.\n        \n        \n          Further information: A passing grade (G) on this module is required to be eligible to submit the final project.\n        \n        \nCode: 0226. Name: Project. \n\nCredits: 3.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: A project graded on the scale of U, 3, 4, or 5\n\n        \n        \n          The module includes: A written project report and an accompanying oral presentation.\n        \n        \n          Further information: This module's grade determines the final grade for the entire course.\n        \n        \n\nAdmission\n\nAdmission requirements: \n\nAt least 90 ECTS credits from completed courses.\n\nAssumed prior knowledge: \n        A first course in programming. Basic mathemathics like linear algebra and probability theory.\n        \nThe number of participants is limited to: 24\nSelection: Completed university credits within the programme. Priority is given to students enrolled on programmes that include the course in their curriculum.\n\nReading list\n\nPowerpoint slides and notes on main areas and articles.\nWoudenberg, Jasper van: The hardware hacking handbook : breaking embedded security with hardware attacks. San Francisco : No Starch Press, 2018, ISBN: 9781593278748.\n\nContact\n\nCourse coordinator: Qian Guo,\n        qian.guo@eit.lth.se\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

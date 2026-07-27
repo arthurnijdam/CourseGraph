@@ -1,0 +1,73 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Geospatial Data Structures, Programming and Analysis\nGeospatiala datastrukturer, programmering och analys",
+    "EXTG80, 7.5 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED L\nDate of Decision: 2026-04-17",
+    "Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-adv, D4\nLanguage of instruction: The course will be given in English",
+    "The aim of the course is to achieve knowledge of concepts and methods in",
+    "management and analysis of geospatial data. The course also aims at giving skills in programming with geospatial data, and an insight into algorithms and principles of visualisation relevant to geographic information technology.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The course consists of two parts, where the first gives the basics of geospatial data and geographic analysis, while the second focuses on program development specific to geospatial data. This part treats algorithms and data structures, as well as how these are implemented in program libraries and APIs. Lectures cover the basic theory of spatial phenomena and their representation as geospatial data, where the representation and analysis of spatial elements are emphasized. The course contains practical exercises (LTH terminology = labs) using common standard GIS software. Through an independent  development of an application based on geospatial data the student will utilize the new knowledge in relation to his/her specific education program specialisation.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "The course grade is based on the result of a written examination test at the",
+    "end of the course and on an independent assignment. In order to pass the course the student is also required to complete compulsory exercises and other assignments. Students who fail the ordinary test will have an opportunity to take another test at the end of August every year.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the",
+    "regular form of examination in order to provide a permanently disabled student with a",
+    "form of examination equivalent to that of a student without a disability.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0124. Name: Theoretical Bases. \n\nCredits: 5.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Result constitute the total course grade\n        \n        \n          The module includes: Written examination which covers knowledge and understanding of the theoretical bases expressed in the learning outcomes of the course. The examination also assess the student's ability to relate the theoretical bases for geodata to programming implementations. \n        \n        \n        \nCode: 0224. Name: Practical Skills. \n\nCredits: 2.5. Grading scale: UG - (U, G).\n        \n          Assessment: Passed compulsory practical exercises, assignments and application task.\n        \n        \n          The module includes: Practical exercises and independent application task.",
+    "Admission requirements:",
+    "Course coordinator: Karin Larsson,\n        karin.larsson@nateko.lu.se\nExaminator: Lars Harrie,\n        lars.harrie@nateko.lu.se\nCourse administrator: Karin Larsson,\n        karin.larsson@nateko.lu.se",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be familiar with different conceptual models for spatial phenomena,",
+      "be able to thoroughly describe how geospatial data are structured in two and three dimensions, and how they can be used in application development,",
+      "be able to describe the implication of different map projections,",
+      "be able to explain basic methods for spatial analysis,",
+      "be able to describe cartographic aspects on visualisation of geospatial data,",
+      "be able to thoroughly describe how standard software for analysis of geospatial data are constructed and what type of typical functionality they have, and",
+      "be familiar with the most common data sources and how these can, and should, be used."
+    ],
+    [
+      "be able to use a geographic information system as a tool for geographical analysis,",
+      "be able to APIs and program libraries in order to develop programs which utilizes geospatial data,",
+      "be able to cartographically and graphically present geospatial data for specialists and lay persons,",
+      "independently develop an application based on geospatial data."
+    ],
+    [
+      "be able to critically assess geospatial data and have achieved a critical attitude towards analysis results,",
+      "have the ability to evaluate the relevance of the specific structures and properties of geospatial data and analysis in relation to other digital data and techniques,",
+      "show awareness of the technical and legal opportunities and limitations with applications of geospatial data."
+    ],
+    [
+      "EDAA45 Introduction to Programming or EDAA55 Programming, First Course or EDAB05 Introduction to Programming"
+    ],
+    [
+      "Harrie, L (red.): Geografisk informationsbehandling : teori, metoder och tillämpningar. Lund : Studentlitteratur, 2020, ISBN: 9789144131740. Course literature for Swedish speaking students.https://www.studentlitteratur.se/kurslitteratur/naturvetenskap-och-miljo/geovetenskap/geografisk-informationsbehandling",
+      "Kang-tsung Chang: Introduction to geographic information systems. McGraw-Hill, New York, 2018, ISBN: 9781260092585. Course literature English speaking students.\nEarlier versions are OK.",
+      "Dept. of physical geography and ecosystem science: Dept. of physical geography and ecosystem science: Exercise instructions. 2025. Course literature for all students.\nAccessible online via the learning platform."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår24/2525/2626/27\nCourse syllabus\nGeospatial Data Structures, Programming and Analysis\nGeospatiala datastrukturer, programmering och analys\nEXTG80, 7.5 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED L\nDate of Decision: 2026-04-17\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-adv, D4\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe aim of the course is to achieve knowledge of concepts and methods inmanagement and analysis of geospatial data. The course also aims at giving skills in programming with geospatial data, and an insight into algorithms and principles of visualisation relevant to geographic information technology.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe familiar with different conceptual models for spatial phenomena,be able to thoroughly describe how geospatial data are structured in two and three dimensions, and how they can be used in application development,be able to describe the implication of different map projections,be able to explain basic methods for spatial analysis,be able to describe cartographic aspects on visualisation of geospatial data,be able to thoroughly describe how standard software for analysis of geospatial data are constructed and what type of typical functionality they have, andbe familiar with the most common data sources and how these can, and should, be used.\nCompetences and skills\n      For a passing grade the student must\nbe able to use a geographic information system as a tool for geographical analysis,be able to APIs and program libraries in order to develop programs which utilizes geospatial data,be able to cartographically and graphically present geospatial data for specialists and lay persons,independently develop an application based on geospatial data.\nJudgement and approach\n      For a passing grade the student must\nbe able to critically assess geospatial data and have achieved a critical attitude towards analysis results,have the ability to evaluate the relevance of the specific structures and properties of geospatial data and analysis in relation to other digital data and techniques,show awareness of the technical and legal opportunities and limitations with applications of geospatial data.\nContents\nThe course consists of two parts, where the first gives the basics of geospatial data and geographic analysis, while the second focuses on program development specific to geospatial data. This part treats algorithms and data structures, as well as how these are implemented in program libraries and APIs. Lectures cover the basic theory of spatial phenomena and their representation as geospatial data, where the representation and analysis of spatial elements are emphasized. The course contains practical exercises (LTH terminology = labs) using common standard GIS software. Through an independent  development of an application based on geospatial data the student will utilize the new knowledge in relation to his/her specific education program specialisation.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: The course grade is based on the result of a written examination test at theend of the course and on an independent assignment. In order to pass the course the student is also required to complete compulsory exercises and other assignments. Students who fail the ordinary test will have an opportunity to take another test at the end of August every year.The examiner, in consultation with Disability Support Services, may deviate from theregular form of examination in order to provide a permanently disabled student with aform of examination equivalent to that of a student without a disability.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0124. Name: Theoretical Bases. \n\nCredits: 5.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Result constitute the total course grade\n        \n        \n          The module includes: Written examination which covers knowledge and understanding of the theoretical bases expressed in the learning outcomes of the course. The examination also assess the student's ability to relate the theoretical bases for geodata to programming implementations. \n        \n        \n        \nCode: 0224. Name: Practical Skills. \n\nCredits: 2.5. Grading scale: UG - (U, G).\n        \n          Assessment: Passed compulsory practical exercises, assignments and application task.\n        \n        \n          The module includes: Practical exercises and independent application task.\n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nEDAA45 Introduction to Programming or EDAA55 Programming, First Course or EDAB05 Introduction to Programming\n\nAssumed prior knowledge: \n        120 credits within LTH C or D program or equivalent\n        \nThe number of participants is limited to: 20\nSelection: Completed university credits within the programme. Priority is given to\nstudents enrolled on programmes that include the course in their curriculum.\nThe course might be cancelled:  if the number of applicants is less than 3.\nKursen överlappar följande kurser: \nEXTG75\nEXTF80\nEXTG20\n\nReading list\n\nHarrie, L (red.): Geografisk informationsbehandling : teori, metoder och tillämpningar. Lund : Studentlitteratur, 2020, ISBN: 9789144131740. Course literature for Swedish speaking students.https://www.studentlitteratur.se/kurslitteratur/naturvetenskap-och-miljo/geovetenskap/geografisk-informationsbehandling\nKang-tsung Chang: Introduction to geographic information systems. McGraw-Hill, New York, 2018, ISBN: 9781260092585. Course literature English speaking students.\nEarlier versions are OK.\nDept. of physical geography and ecosystem science: Dept. of physical geography and ecosystem science: Exercise instructions. 2025. Course literature for all students.\nAccessible online via the learning platform.\n\nContact\n\nCourse coordinator: Karin Larsson,\n        karin.larsson@nateko.lu.se\nExaminator: Lars Harrie,\n        lars.harrie@nateko.lu.se\nCourse administrator: Karin Larsson,\n        karin.larsson@nateko.lu.se\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

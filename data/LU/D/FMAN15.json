@@ -1,0 +1,55 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Nonlinear Dynamical Systems\nOlinjära dynamiska system",
+    "FMAN15, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: D4, F4, F4-bs, F4-bm, F4-mtm, MMSR2, Pi4-bs, Pi4-ssr, Pi4-biek, Pi4-mtm\nLanguage of instruction: The course will be given in English",
+    "To give knowledge of and familiarity with concepts and methods from the theory of dynamical systems which are important in applications within almost all subjects in science and technology. In addition, the course should develop the student's general ability to assimilate and communicate mathematical theory, to express problems from science and technology in mathematical terms and to solve problems using the theory of dynamical systems.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Dynamical systems in discrete and continuous time. The fixed point theorem and Picard's theorem on the existence and uniqueness of solutions to ordinary differential equations. Phase space analysis and Poincaré's geometrical methods. Local stability theory (Liapunov's method and Hartman-Grobman's theorem). The central manifold theorem. Basic local bifurcation theory. Global bifurcations and transition to chaos. Chaotic and strange attractors (dynamics, combinatorial description).",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written and/or oral test, to be decided by the examiner. Some written assignments to be completed before the exam.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0114. Name: Nonlinear Dynamical Systems. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).",
+    "Assumed prior knowledge: \n        FMAF05 Systems and Transforms or FMAF10 Applied Mathematics - Linear Systems.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFMA140\nFMA141",
+    "Course coordinator: Anders Holst,\n        studierektor@math.lth.se\nTeacher: Jörg Schmeling,\n        Jorg.Schmeling@math.lth.se\nCourse administrator: Studerandeexpeditionen,\n        expedition@math.lth.se\nExaminator: Jörg Schmeling,\n        Jorg.Schmeling@math.lth.se\nExaminator: Tomas Persson,\n        Tomas.Persson@math.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/20385",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "independently be able to explain different methods to describe, qualitatively or quantitatively, the solution sets of ordinary differential and difference equations.",
+      "be able to explain basic bifurcation theory and its relevance in technological contexts.",
+      "be able to explain the mathematical meaning of the concept chaotic behaviour and its relevance in technological contexts."
+    ],
+    [
+      "be able to choose and use methods appropriate to describe, qualitatively and quantitatively, the solution sets of ordinary differential and difference equations.",
+      "be able to use bifurcation theory to qualitatively describe how dynamical systems taken from applications in science and technology depend on a parameter.",
+      "be able independently to identify and describe chaotic behaviour in examples taken from the applications.",
+      "be able to write Matlab or Maple programs to solve mathematical problems within the framework of the course.",
+      "in writing and orally, with clear logic and proper terminology, be able to explain the solution to a mathematical problem within the course.",
+      "with access to the resources of a library, be able to independently assimilate and summarize the contents of a text in technology in which methods and results from the theory of dynamical systems are used."
+    ],
+    [
+      "Natiello, M & Schmeling, J: Lecture notes in Nonlinear Dynamics. Matematikcentrum, 2021. Available for download.",
+      "Solari, H.G., Natiello M.A. & Mindlin, G.B: Nonlinear dynamics - A two-way trip from physics to mathematics. Taylor & Francis, 1996, ISBN: 0750303808. Supplementary reading."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår14/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nNonlinear Dynamical Systems\nOlinjära dynamiska system\nFMAN15, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: D4, F4, F4-bs, F4-bm, F4-mtm, MMSR2, Pi4-bs, Pi4-ssr, Pi4-biek, Pi4-mtm\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nTo give knowledge of and familiarity with concepts and methods from the theory of dynamical systems which are important in applications within almost all subjects in science and technology. In addition, the course should develop the student's general ability to assimilate and communicate mathematical theory, to express problems from science and technology in mathematical terms and to solve problems using the theory of dynamical systems.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nindependently be able to explain different methods to describe, qualitatively or quantitatively, the solution sets of ordinary differential and difference equations.be able to explain basic bifurcation theory and its relevance in technological contexts.be able to explain the mathematical meaning of the concept chaotic behaviour and its relevance in technological contexts.\nCompetences and skills\n      For a passing grade the student must\nbe able to choose and use methods appropriate to describe, qualitatively and quantitatively, the solution sets of ordinary differential and difference equations.be able to use bifurcation theory to qualitatively describe how dynamical systems taken from applications in science and technology depend on a parameter.be able independently to identify and describe chaotic behaviour in examples taken from the applications.be able to write Matlab or Maple programs to solve mathematical problems within the framework of the course.in writing and orally, with clear logic and proper terminology, be able to explain the solution to a mathematical problem within the course.with access to the resources of a library, be able to independently assimilate and summarize the contents of a text in technology in which methods and results from the theory of dynamical systems are used.\nContents\nDynamical systems in discrete and continuous time. The fixed point theorem and Picard's theorem on the existence and uniqueness of solutions to ordinary differential equations. Phase space analysis and Poincaré's geometrical methods. Local stability theory (Liapunov's method and Hartman-Grobman's theorem). The central manifold theorem. Basic local bifurcation theory. Global bifurcations and transition to chaos. Chaotic and strange attractors (dynamics, combinatorial description).\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written and/or oral test, to be decided by the examiner. Some written assignments to be completed before the exam.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0114. Name: Nonlinear Dynamical Systems. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        FMAF05 Systems and Transforms or FMAF10 Applied Mathematics - Linear Systems.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFMA140\nFMA141\n\nReading list\n\nNatiello, M & Schmeling, J: Lecture notes in Nonlinear Dynamics. Matematikcentrum, 2021. Available for download.\nSolari, H.G., Natiello M.A. & Mindlin, G.B: Nonlinear dynamics - A two-way trip from physics to mathematics. Taylor & Francis, 1996, ISBN: 0750303808. Supplementary reading.\n\nContact\n\nCourse coordinator: Anders Holst,\n        studierektor@math.lth.se\nTeacher: Jörg Schmeling,\n        Jorg.Schmeling@math.lth.se\nCourse administrator: Studerandeexpeditionen,\n        expedition@math.lth.se\nExaminator: Jörg Schmeling,\n        Jorg.Schmeling@math.lth.se\nExaminator: Tomas Persson,\n        Tomas.Persson@math.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/20385\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

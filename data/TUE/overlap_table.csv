@@ -1,0 +1,75 @@
+Course,New_code,Overlap
+Advance Simulation Methods for Ordinary Differential Equations,2MBC50,2WN30
+Algebraic Structures,2MBD20,2WF50
+Algorithmic Aspects of Data Analysis,JBI045,JBI040
+Algorithmic Aspects of Game Theory,2IBA10,
+Analysis 1,2MBA40,2WA30 JBM060 JBM080
+Analysis 2,2MBA60,JBM060 JBM080 2DL40 2DL50 6BBR05 6BMR01 2DBN10 31MCA 5EZB0
+Applied Number Theory and Algebra,2MBD30,2WF70
+Automata and Formal Languages,2IRR90,2IT90 2ITS90
+Business Insights and Networks,JBE140,0HV150
+Calculus Variant 2,2WBB0,2WAB0 2WCB0
+Calculus Variant 3,2WCB0,2WAB0 2WCB0
+Capstone Heuristic Algorithms,2IRR60,2ILH0
+CBL Autonomous Systems Twinning,2IRR10,2IO75
+Cognitive Science and AI,JBC000,0HV60
+Combinatorial Optimization for Data Science,JBM090,2ILC0 2WF60 2MBD10
+Complex Analysis,2MBC60,2WA80
+Computer Systems,2IC30,5EIA0 5EIC0
+Data Management for Data Analytics,JBI050,2ID50
+Data Mining,JBI030,2IIG0 2IRR50 5XSL0 2IIG5 8BB020
+Datamodeling and Databases,2ID50,JBI050
+Data Science Ethics,JBG000,0SAB0 0LVX10 0LVX20 0LVX30 0LVX40
+Data Science Research Methods,JBM025,JBM020 0HV50
+Data Statistics,JBM015,JBM010 2DI90 0HV50
+Data Structures,2IL50,2IHA10
+Differential Geometry,2MBC70,2WAH0
+Discrete Mathematics,JBI026,JBI025; JBI020; 2IT060 + 2IT801; 2ITS60; 2MBA10; 2WF40
+Discrete Optimization Modeling,2MBD80,JBM090; JBM090-B-5
+Discrete Structures,2IT80,2IT50 2WF60 JBI026 2MBD10 JBI025
+Financial Mathematics,2DF40,1CK40
+Foundations of Data Analytics,2IAB1,2IAB0
+Foundations of Statistics,2MBS20,2WS30 JBM015 6A6X0 2DL70 2DRR10 2DW10 2DI90 2AS00 2DD80 0SV120 JBM010
+Graph Theory and Applications,2MBD10,2WF60 2ILC0 JBM090
+Impact of technology: engineering for society,0LVX20,0LVX40
+Insurance and Credit Risk,2DF30,2MBS90
+Introduction to Cryptology,2MBD60,2WF80
+Introduction to Numerical Analysis,2MBC10,2WN20 6BER03 6E5X0
+ITEC-Ethics of technology and engineering,0LVX10,0SAB0 JBG000 0LVX30
+Law and Data Science,JBL125,JBL120
+Linear Algebra 1,2MBA20,2WF20 JBM075 JBM070 2DBI00
+Linear Algebra 1+2,2MBD50,2MBA20 2WF20 JBM075
+Linear Algebra 2,2MBA50,2WF30
+Linear Algebra and Applications,2DRR00,2DBI00 2MBA20
+Linear Algebra for Data Analysis,JBM180,2DRR00 2MBA20
+Linear Algebra for Data Science,JBM075,JBM070 2DRR00
+Linear Optimization,2MBD40,2WO20 2DD50 2DD55 5EMA0 JBM035
+Linear Optimization for Data Science,JBM035,2MBD40 2DD50 2DD55
+Logic and Set Theory,2IT60,2ITS60 2WF40 2MBA10
+Mathematics 1,2DD40,2IT60 2DRR00 2DRR10 2WBB0
+Mathematics for AI,JBI120,8BA060
+Mathematical Analysis and Probability Theory for Data Science,JBM060,2WS20 2DL15 2DL10 2WS29 2DD40
+Mathematics and Practice in Historical Perspective,2MBA90,2WH60
+Measure and Probability Theory,2MBA70,2WAG0
+Multidisciplinary CBL,4CBLW00,4WBB0
+Multivariable Mathematical Analysis,JBM080,2WA40 2MBC60
+Networks,2IRR20,2IC60
+Numerical Linear Algebra,2MBC30,2WN40
+Partial Differential Equations and Applications,2MBC90,2WA90
+Probability and Modeling,2MBS10,2WS20 JBM060
+Probability and Statistics for CS,2DRR10,2DI90 2DL70 2MBS20 2WS30 2MBS10 2WS20
+Programming,2IP90,JBI010 0HV120 DBB100
+Programming,JBI010,2IP90 0HV120 DBB100
+Programming and Modeling (CBL Component),2MBA30,2WH20 1BK60 1BV30 JBI010
+Queuing Systems,2MBS70,2WB40
+Regression Models and Applications,2MBS50,2WS40
+"Risk, Reliability and Resilience",2MBS90,2DF30
+Security,2IRR40,2IC60
+"Sets, Logic and Mathematic Language",2MBA10,2WF40
+Statistics and Machine Learning,2IRR50,2IIG0 JBI030 2IIG5
+Stochastic Optimization Models for Data Science,JBM100,2MBS30 2WB20
+Stochastic Processes,2MBS30,2WB20 2WB29
+Stochastic Simulation and Modeling,2MBS40,2WB50 2DI66
+Stochastics and Simulation for Finance,2DF20,2WB50 2MBS40
+Theory and Applications of Ordinary Differential Equations (CBL Component),2MBC20,2WA70 2WA79
+Vector Analysis and Geometry,2MBC40,2WA60 32VAN

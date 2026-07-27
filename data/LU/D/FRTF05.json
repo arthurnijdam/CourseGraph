@@ -1,0 +1,61 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Automatic Control, Basic Course\nReglerteknik, allmän kurs",
+    "FRTF05, 7.5 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: D3, E3, F3, I3, M3, MD3, N3, Pi2\nElective for: BME4, C4\nLanguage of instruction: The course will be given in Swedish",
+    "The aim of the course is to give knowledge about the basic principles of feedback control. The course will give insight into what can be achieved with control, and the possibilities and limitations. The course covers linear continuous-time systems.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Introduction; overview of control; describing dynamical systems using time-invariant ordinary differential equations, transfer function, frequency responses, Bode and Nyquist diagrams; relations between different representations; controllability and observability; analysis of feedback systems, signal following and disturbance rejection; stability; overview of stability analysis methods: root locus and Nyquist criterion; practical stability; phase and amplitude marginals; synthesis and implementation of controllers; specifications; control principles and controller structures: PID control, cascade control, feedforward; synthesis of systems with a given transfer function: pole-placement through state feedback and output feedback; reconstruction suing Kalman filter; Bode and Nyquist compensation; delay compensation; application examples",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written exam (5 hours), three laboratory exercises. In the case of less than 5 registered students, the retake exams may be given in oral form.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0117. Name: Examination. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Passed exam.\n        \n        \n        \n        \nCode: 0217. Name: Laboratory Work 1. \n\nCredits: 0.5. Grading scale: UG - (U, G).\n        \n          Assessment: Preparation exercises and participation in laboratory.\n        \n        \n        \n        \nCode: 0317. Name: Laboratory Work 2. \n\nCredits: 0.5. Grading scale: UG - (U, G).\n        \n          Assessment: Preparation exercises and participation in laboratory.\n        \n        \n        \n        \nCode: 0417. Name: Laboratory Work 3. \n\nCredits: 0.5. Grading scale: UG - (U, G).\n        \n          Assessment: Preparation exercises and participation in laboratory.",
+    "Assumed prior knowledge: \n        Compulsory courses in mathematics (including calculus in several variables).\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFRT010\nFRT065\nFRT081\nFRT110\nFRTN25\nFRTF10\nFRTF11\nFRTN26",
+    "Course coordinator: Bo Bernhardsson,\n        bo.bernhardsson@control.lth.se\nCourse coordinator: Kristian Soltesz,\n        kristian.soltesz@control.lth.se\nCourse coordinator: Richard Pates,\n        richard.pates@control.lth.se\nDirector of studies: Björn Olofsson,\n        bjorn.olofsson@control.lth.se\nExaminator: Bo Bernhardsson,\n        bo.bernhardsson@control.lth.se\nExaminator: Kristian Soltesz,\n        kristian.soltesz@control.lth.se\nExaminator: Richard Pates,\n        richard.pates@control.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/37223",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to define the fundamental concepts of control.",
+      "be able to linearise nonlinear dynamical models.",
+      "be able to compute the relations between dynamical models in the form of transient responses, transfer functions, differential equations on state-space form, and frequency responses described with Bode or Nyquist diagrams.",
+      "be able to analyse dynamical systems with respect to stability, robustness, stationary characteristics, controllability, and observabilility.",
+      "be able to implement controllers using discretization of analog controllers."
+    ],
+    [
+      "be able to design controllers from given specifications on robustness and performance based on models on state-space form, transfer function form, Bode diagrams or Nyquist diagrams",
+      "be able to design controllers based on cascade connections, feedforward, and delay compensation",
+      "be able to evaluate controllers by analysing transient and frequency responses, and via laboratory experiments on real processes"
+    ],
+    [
+      "understand relationships and limitations when simplified models are used to describe complex dynamical systems.",
+      "show ability for teamwork and collaboration at laboratory exercises."
+    ],
+    [
+      "Glad T, Ljung L: Reglerteknik – grundläggande teori, Studentlitteratur, 2006 or.",
+      "Åström KJ, Murray RM: Feedback systems, Princeton 2008.",
+      "Compendium in Control, Hägglund, T.",
+      "Compendia with examples, formulas and instructions for laboratory work."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår17/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nAutomatic Control, Basic Course\nReglerteknik, allmän kurs\nFRTF05, 7.5 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: D3, E3, F3, I3, M3, MD3, N3, Pi2\nElective for: BME4, C4\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nThe aim of the course is to give knowledge about the basic principles of feedback control. The course will give insight into what can be achieved with control, and the possibilities and limitations. The course covers linear continuous-time systems.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to define the fundamental concepts of control.be able to linearise nonlinear dynamical models.be able to compute the relations between dynamical models in the form of transient responses, transfer functions, differential equations on state-space form, and frequency responses described with Bode or Nyquist diagrams.be able to analyse dynamical systems with respect to stability, robustness, stationary characteristics, controllability, and observabilility.be able to implement controllers using discretization of analog controllers.\nCompetences and skills\n      For a passing grade the student must\nbe able to design controllers from given specifications on robustness and performance based on models on state-space form, transfer function form, Bode diagrams or Nyquist diagramsbe able to design controllers based on cascade connections, feedforward, and delay compensationbe able to evaluate controllers by analysing transient and frequency responses, and via laboratory experiments on real processes\nJudgement and approach\n      For a passing grade the student must\nunderstand relationships and limitations when simplified models are used to describe complex dynamical systems.show ability for teamwork and collaboration at laboratory exercises.\nContents\nIntroduction; overview of control; describing dynamical systems using time-invariant ordinary differential equations, transfer function, frequency responses, Bode and Nyquist diagrams; relations between different representations; controllability and observability; analysis of feedback systems, signal following and disturbance rejection; stability; overview of stability analysis methods: root locus and Nyquist criterion; practical stability; phase and amplitude marginals; synthesis and implementation of controllers; specifications; control principles and controller structures: PID control, cascade control, feedforward; synthesis of systems with a given transfer function: pole-placement through state feedback and output feedback; reconstruction suing Kalman filter; Bode and Nyquist compensation; delay compensation; application examples\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written exam (5 hours), three laboratory exercises. In the case of less than 5 registered students, the retake exams may be given in oral form.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0117. Name: Examination. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Passed exam.\n        \n        \n        \n        \nCode: 0217. Name: Laboratory Work 1. \n\nCredits: 0.5. Grading scale: UG - (U, G).\n        \n          Assessment: Preparation exercises and participation in laboratory.\n        \n        \n        \n        \nCode: 0317. Name: Laboratory Work 2. \n\nCredits: 0.5. Grading scale: UG - (U, G).\n        \n          Assessment: Preparation exercises and participation in laboratory.\n        \n        \n        \n        \nCode: 0417. Name: Laboratory Work 3. \n\nCredits: 0.5. Grading scale: UG - (U, G).\n        \n          Assessment: Preparation exercises and participation in laboratory.\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        Compulsory courses in mathematics (including calculus in several variables).\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFRT010\nFRT065\nFRT081\nFRT110\nFRTN25\nFRTF10\nFRTF11\nFRTN26\n\nReading list\n\nGlad T, Ljung L: Reglerteknik – grundläggande teori, Studentlitteratur, 2006 or.\nÅström KJ, Murray RM: Feedback systems, Princeton 2008.\nCompendium in Control, Hägglund, T.\nCompendia with examples, formulas and instructions for laboratory work.\n\nContact\n\nCourse coordinator: Bo Bernhardsson,\n        bo.bernhardsson@control.lth.se\nCourse coordinator: Kristian Soltesz,\n        kristian.soltesz@control.lth.se\nCourse coordinator: Richard Pates,\n        richard.pates@control.lth.se\nDirector of studies: Björn Olofsson,\n        bjorn.olofsson@control.lth.se\nExaminator: Bo Bernhardsson,\n        bo.bernhardsson@control.lth.se\nExaminator: Kristian Soltesz,\n        kristian.soltesz@control.lth.se\nExaminator: Richard Pates,\n        richard.pates@control.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/37223\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

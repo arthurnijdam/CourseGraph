@@ -1,0 +1,74 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Data Analysis: Statistical Learning and Visualization\nDataanalys: statistisk inlärning och visualisering",
+    "FMSF86, 6.0 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED I\nDate of Decision: 2026-04-13",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: I2\nLanguage of instruction: The course will be given in English",
+    "The course begins with an overview of basic data wrangling and visualisation. With a focus on the student's ability to identify and illustrate important features of the data.",
+    "Then important methods in statistical learning are introduced. Emphasis is given supervised and unsupervised learning. Issues arising from fitting and evaluating multiple models as well as the methods relationship to linear regression are discussed. Computer based labs and projects form an important part of the learning activities.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Grading scale: UG - (U, G) - (Fail, Pass)\nAssessment:",
+    "Passing grade on all lab reports, peer review of reports, as well as having prepared materials and actively participated in at least six of the twelve scheduled labs, where of at least one scheduled lab per report.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0123. Name: Computer Lab 1. \n\nCredits: 2.0. Grading scale: UG - (U, G).\n        \n          Assessment: Reporting of preparatory tasks and the lab, as well as the student having prepared materials and actively participated in at least one scheduled lab.\n        \n        \n          The module includes: Data handling and visualisation.\n        \n        \n        \nCode: 0223. Name: Computer Lab 2. \n\nCredits: 2.0. Grading scale: UG - (U, G).\n        \n          Assessment: Reporting of preparatory tasks and the lab, as well as the student having prepared materials and actively participated in at least one scheduled lab.\n        \n        \n          The module includes: Continuous prediction (regression).\n        \n        \n        \nCode: 0323. Name: Computer Lab 3. \n\nCredits: 2.0. Grading scale: UG - (U, G).\n        \n          Assessment: Reporting of preparatory tasks and the lab, as well as the student having prepared materials and actively participated in at least one scheduled lab.\n        \n        \n          The module includes: Classification.",
+    "Admission requirements:",
+    "Director of studies: Johan Lindström,\n        studierektor@matstat.lu.se\nCourse administrator: Susann Nordqvist,\n        expedition@matstat.lu.se\nExaminator: Johan Lindström,\n        johan.lindstrom@matstat.lu.se\nExaminator: Linda Hartman,\n        linda.hartman@matstat.lu.se\nExaminator: Magnus Wiktorsson,\n        magnus.wiktorsson@matstat.lu.se\nExaminator: Ted Kronvall,\n        ted.kronvall@matstat.lu.se\nCourse homepage: https://www.maths.lu.se/utbildning/civilingenjoersutbildning/matematisk-statistik-paa-civilingenjoersprogram/",
+    "Given in parallell with FMSF90 and MASC06,. Only one of the courses FMSF86 and FMSF90 may be included in a degree.",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "Describe different ways of aggregating, summarising and visualising data.",
+      "Explain the principles of supervised learning.",
+      "Explain the importance of evaluating models based on their predictive ability."
+    ],
+    [
+      "be able to wrangle, present and visualise data to highlight important features in a complex data material.",
+      "be able to use common methods for supervised learning.",
+      "be able to draw conclusions regarding a data material, based on results from classification and regression methods.",
+      "be able to use common method for evaluation of predictive ability on out-of-sample data.",
+      "present the analysis and conclusions of a practical problem in a written report,by the help of literate programming."
+    ],
+    [
+      "Reflect over the limitations of the chosen model and method, as well as alternative solutions.",
+      "Reflect over the possible issues with fitting multiple models to the same data material."
+    ],
+    [
+      "Basic methods for data handling and common visualisation methods for data",
+      "Methods for supervised learning such as: regression and decision tree methods for classification and regression problems.",
+      "Overview of methods for unsupervised learning such as: clustering and hierarchical clustering",
+      "Methods for model selection and validation such as: bootstrap, split of data into training and test, and cross-validation."
+    ],
+    [
+      "At least 4.5 credits (hp) in Mathematical Statistics (FMSF20, FMSF50, FMSF70, FMSF75, FMSF80 or equivalent) OR both one course in Calculus in Several Variables and one course in Linear Algebra.",
+      "(FMAA20 Linear Algebra with Introduction to Computer Tools or FMAA21 Linear Algebra with Numerical Applications or FMAB20 Linear Algebra or FMAB22 Linear Algebra) and (FMAB30 Calculus in Several Variables or FMAB35 Calculus in Several Variables)"
+    ],
+    [
+      "Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani: An Introduction to Statistical Learning with Applications in R. Springer, 2021, ISBN: 978-1071614174. Either the book for Python or R.\nAvailable on https://www.statlearning.com.",
+      "Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor: An introduction to statistical learning with applications in Python. Springer, 2023, ISBN: 3031387465. Either the book for Python or R.\nAvailable on https://www.statlearning.com.https://www.statlearning.com",
+      "Vanderplas, Jacob T: Python data science handbook : essential tools for working with data. O'Reilly, 2022, ISBN: 1098121228. Side reading.",
+      "Hadley Wickham, Mine Cetinkaya-Rundel, Garrett Grolemund: R for Data Science, 2nd Edition. O'Reilly Media, 2023, ISBN: 1492097403. Side reading.\nAvailable at https://r4ds.hadley.nz.https://r4ds.hadley.nz"
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår23/2424/2525/2626/27\nCourse syllabus\nData Analysis: Statistical Learning and Visualization\nDataanalys: statistisk inlärning och visualisering\nFMSF86, 6.0 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED I\nDate of Decision: 2026-04-13\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: I2\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe course begins with an overview of basic data wrangling and visualisation. With a focus on the student's ability to identify and illustrate important features of the data.Then important methods in statistical learning are introduced. Emphasis is given supervised and unsupervised learning. Issues arising from fitting and evaluating multiple models as well as the methods relationship to linear regression are discussed. Computer based labs and projects form an important part of the learning activities.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nDescribe different ways of aggregating, summarising and visualising data.Explain the principles of supervised learning.Explain the importance of evaluating models based on their predictive ability.\nCompetences and skills\n      For a passing grade the student must\nbe able to wrangle, present and visualise data to highlight important features in a complex data material.be able to use common methods for supervised learning.be able to draw conclusions regarding a data material, based on results from classification and regression methods.be able to use common method for evaluation of predictive ability on out-of-sample data.present the analysis and conclusions of a practical problem in a written report,by the help of literate programming.\nJudgement and approach\n      For a passing grade the student must\nReflect over the limitations of the chosen model and method, as well as alternative solutions.Reflect over the possible issues with fitting multiple models to the same data material.\nContents\nBasic methods for data handling and common visualisation methods for dataMethods for supervised learning such as: regression and decision tree methods for classification and regression problems.Overview of methods for unsupervised learning such as: clustering and hierarchical clusteringMethods for model selection and validation such as: bootstrap, split of data into training and test, and cross-validation.\nExamination details\n\nGrading scale: UG - (U, G) - (Fail, Pass)\nAssessment: Passing grade on all lab reports, peer review of reports, as well as having prepared materials and actively participated in at least six of the twelve scheduled labs, where of at least one scheduled lab per report.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0123. Name: Computer Lab 1. \n\nCredits: 2.0. Grading scale: UG - (U, G).\n        \n          Assessment: Reporting of preparatory tasks and the lab, as well as the student having prepared materials and actively participated in at least one scheduled lab.\n        \n        \n          The module includes: Data handling and visualisation.\n        \n        \n        \nCode: 0223. Name: Computer Lab 2. \n\nCredits: 2.0. Grading scale: UG - (U, G).\n        \n          Assessment: Reporting of preparatory tasks and the lab, as well as the student having prepared materials and actively participated in at least one scheduled lab.\n        \n        \n          The module includes: Continuous prediction (regression).\n        \n        \n        \nCode: 0323. Name: Computer Lab 3. \n\nCredits: 2.0. Grading scale: UG - (U, G).\n        \n          Assessment: Reporting of preparatory tasks and the lab, as well as the student having prepared materials and actively participated in at least one scheduled lab.\n        \n        \n          The module includes: Classification.\n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nAt least 4.5 credits (hp) in Mathematical Statistics (FMSF20, FMSF50, FMSF70, FMSF75, FMSF80 or equivalent) OR both one course in Calculus in Several Variables and one course in Linear Algebra.\n(FMAA20 Linear Algebra with Introduction to Computer Tools or FMAA21 Linear Algebra with Numerical Applications or FMAB20 Linear Algebra or FMAB22 Linear Algebra) and (FMAB30 Calculus in Several Variables or FMAB35 Calculus in Several Variables)\n\nAssumed prior knowledge: \n        A basic course in mathematical statistics and knowledge in linear algebra.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFMSF90\n\nReading list\n\nGareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani: An Introduction to Statistical Learning with Applications in R. Springer, 2021, ISBN: 978-1071614174. Either the book for Python or R.\nAvailable on https://www.statlearning.com.\nGareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor: An introduction to statistical learning with applications in Python. Springer, 2023, ISBN: 3031387465. Either the book for Python or R.\nAvailable on https://www.statlearning.com.https://www.statlearning.com\nVanderplas, Jacob T: Python data science handbook : essential tools for working with data. O'Reilly, 2022, ISBN: 1098121228. Side reading.\nHadley Wickham, Mine Cetinkaya-Rundel, Garrett Grolemund: R for Data Science, 2nd Edition. O'Reilly Media, 2023, ISBN: 1492097403. Side reading.\nAvailable at https://r4ds.hadley.nz.https://r4ds.hadley.nz\n\nContact\n\nDirector of studies: Johan Lindström,\n        studierektor@matstat.lu.se\nCourse administrator: Susann Nordqvist,\n        expedition@matstat.lu.se\nExaminator: Johan Lindström,\n        johan.lindstrom@matstat.lu.se\nExaminator: Linda Hartman,\n        linda.hartman@matstat.lu.se\nExaminator: Magnus Wiktorsson,\n        magnus.wiktorsson@matstat.lu.se\nExaminator: Ted Kronvall,\n        ted.kronvall@matstat.lu.se\nCourse homepage: https://www.maths.lu.se/utbildning/civilingenjoersutbildning/matematisk-statistik-paa-civilingenjoersprogram/\n\nFurther information\nGiven in parallell with FMSF90 and MASC06,. Only one of the courses FMSF86 and FMSF90 may be included in a degree.\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

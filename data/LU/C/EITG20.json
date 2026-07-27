@@ -1,0 +1,57 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Queuing System\nKösystem",
+    "EITG20, 5.0 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C3, D3\nElective for: E4\nLanguage of instruction: The course will be given in Swedish",
+    "The purpose of the course is to introduce methods to predict the real-time behaviour of service systems, especially for telecommunucation systems.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The course treats real-time properties of communication systems. The students learn to predict the performance of systems, which also gives the ability to improve and optimise systems.",
+    "The course contains an overview of elementary queuing and queuing network theory and also introduces discrete event simulation. In queuing theory methods to calculate the average time a customer spends in a queue and the blocking probability are treated. In queuing network theory Jackson networks are studied. Discrete event simulation using a general programming language is studied.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: To pass, approved laboratory work and a passed exam are required. The final grade for the course is based on the results of the exam.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0123. Name: Exam. \n\nCredits: 3.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved exam\n        \n        \n          The module includes: Written exam\n        \n        \n        \nCode: 0223. Name: Laboratory Work. \n\nCredits: 2.0. Grading scale: UG - (U, G).\n        \n          Assessment: Approved laboratory work\n        \n        \n          The module includes: Laboratory work",
+    "Assumed prior knowledge: \n        FMS012/FMSF45/FMSF55 Mathematical Statistics. Knowledge corresponding to ETS130/EITA55 Communication Systems or ETS052/EITA45 Computer Communication. Basic knowledge in programming.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nETS075\nETS010\nETS020\nETS055\nEITF95",
+    "Course coordinator: Christian Nyberg,\n        christian.nyberg@eit.lth.se\nCourse homepage: www.eit.lth.se/course/eitg20",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "Solve problems in elementary queuing theory and queuing network theory",
+      "Use simple simulation tools"
+    ],
+    [
+      "Use simple queuing models to estimate the real-time properties of a system",
+      "Use discrete event simulation to study the performance of a system",
+      "Be able to interpret measurements and make estimations"
+    ],
+    [
+      "Show ability to critically interpret resluts from calculations and simulations",
+      "Show knowledge of limitations of mathemactical models of queuing systems"
+    ],
+    [
+      "Ulf Körner: Kösystem. Studentlitteratur.",
+      "Ulf Körner: Kösystem. Studentlitteratur."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår23/2424/2525/2626/27\nCourse syllabus\nQueuing System\nKösystem\nEITG20, 5.0 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C3, D3\nElective for: E4\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nThe purpose of the course is to introduce methods to predict the real-time behaviour of service systems, especially for telecommunucation systems.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nSolve problems in elementary queuing theory and queuing network theoryUse simple simulation tools\nCompetences and skills\n      For a passing grade the student must\nUse simple queuing models to estimate the real-time properties of a systemUse discrete event simulation to study the performance of a systemBe able to interpret measurements and make estimations\nJudgement and approach\n      For a passing grade the student must\nShow ability to critically interpret resluts from calculations and simulationsShow knowledge of limitations of mathemactical models of queuing systems\nContents\nThe course treats real-time properties of communication systems. The students learn to predict the performance of systems, which also gives the ability to improve and optimise systems.\nThe course contains an overview of elementary queuing and queuing network theory and also introduces discrete event simulation. In queuing theory methods to calculate the average time a customer spends in a queue and the blocking probability are treated. In queuing network theory Jackson networks are studied. Discrete event simulation using a general programming language is studied.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: To pass, approved laboratory work and a passed exam are required. The final grade for the course is based on the results of the exam.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0123. Name: Exam. \n\nCredits: 3.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved exam\n        \n        \n          The module includes: Written exam\n        \n        \n        \nCode: 0223. Name: Laboratory Work. \n\nCredits: 2.0. Grading scale: UG - (U, G).\n        \n          Assessment: Approved laboratory work\n        \n        \n          The module includes: Laboratory work\n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        FMS012/FMSF45/FMSF55 Mathematical Statistics. Knowledge corresponding to ETS130/EITA55 Communication Systems or ETS052/EITA45 Computer Communication. Basic knowledge in programming.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nETS075\nETS010\nETS020\nETS055\nEITF95\n\nReading list\n\nUlf Körner: Kösystem. Studentlitteratur.\nUlf Körner: Kösystem. Studentlitteratur.\n\nContact\n\nCourse coordinator: Christian Nyberg,\n        christian.nyberg@eit.lth.se\nCourse homepage: www.eit.lth.se/course/eitg20\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

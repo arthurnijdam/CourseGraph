@@ -1,0 +1,58 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Transducer Technology\nSensorteknik",
+    "BMEF10, 7.5 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED BME\nDate of Decision: 2026-04-13",
+    "Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4-bf, BME4, D5-hs, E4-se, F4, F4-mt, F4-r, F4-ss, IEA3, N4\nLanguage of instruction: The course will be given in English on demand",
+    "The importance of sensors in modern society is increasing rapidly. There are plenty of examples where sensors are needed to gain increased safety (i.e. cars), decreased influence on the environment (i.e. process control in industry, pollution control in cars) and more efficient use of energy (i.e. in-house climate control). Other examples where sensors are expected to get vital importance is Virtual Reality (i.e. remote controlled robotic operations in medicine as well as computer games and simulators).",
+    "The aim of this course is to give a broad overview of the most common sensor principles and measurement methods for measurements of physical, chemical and bio-chemical parameters i.e. temperature, pressure, oxygen level, pH, etc.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The course consider the most common sensors and measurement methods for measurement of physical, chemical and bio-chemical measurement parameters in the field of process- and manufacturing industry as well as medicine and society.",
+    "Furthermore, the interfacing, applied signal processing and data acquisition system are studied. The course includes a project that considers a specific measurement parameter or sensor principle. The project task is to gain information about sensor principles and use through literature studies and experimental work. The project is presented oral at a seminar and is finally put together in a written report. A large part of lectures are given by the students as projectseminars.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "For grade 3 it is required that the student has passed a number of compulsory parts: Written project report and oral project presentation, laboratory work and a less extensive written exam. For a higher grade a more extensive written exam is given.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0117. Name: Transducer Technology. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).",
+    "Assumed prior knowledge: \n        ESSF10 or BMEF05 Electrical Measurements or EEMF15 Sensors and Measurements or BMEF15 Sensors or BMEF35 Measurements and Sensors or EITA40 Circuits and Measurements.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEEM031",
+    "Course coordinator: Christian Antfolk,\n        christian.antfolk@bme.lth.se\nCourse coordinator: Nebojsa Malesevic,\n        nebojsa.malesevic@bme.lth.se\nTeacher: Ola Jakobsson,\n        ola.jakobsson@bme.lth.se\nDirector of studies: Lars Wallman,\n        lars.wallman@bme.lth.se\nCourse homepage: https://bme.lth.se/english/education/",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "have a broad overview of sensor design, properties and limitations when used for measurements of physical, chemical and bio-chemical parameters.",
+      "have a detailed knowledge of sensors principles and measurement parameters within a specific field."
+    ],
+    [
+      "be able to suggest proper sensor principles and measurement method for a given measurement task.",
+      "have gained experience in experimental work.",
+      "be able to give a written and oral report of acquired information and experimental results.",
+      "be able to perform a demonstration of a measurement principle and results."
+    ],
+    [
+      "be able to look for, sort out and acquire information from an extensive information material without any reading instructions."
+    ],
+    [
+      "Jacob Fraden: Handbook of Modern Sensors. Springer, New York, NY, 2016, ISBN: 978-3-319-19302-1. Availalble as e-book (https://doi.org/10.1007/978-1-4419-6466-3)."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår17/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nTransducer Technology\nSensorteknik\nBMEF10, 7.5 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED BME\nDate of Decision: 2026-04-13\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4-bf, BME4, D5-hs, E4-se, F4, F4-mt, F4-r, F4-ss, IEA3, N4\nLanguage of instruction: The course will be given in English on demand\n    \n  \nAim\nThe importance of sensors in modern society is increasing rapidly. There are plenty of examples where sensors are needed to gain increased safety (i.e. cars), decreased influence on the environment (i.e. process control in industry, pollution control in cars) and more efficient use of energy (i.e. in-house climate control). Other examples where sensors are expected to get vital importance is Virtual Reality (i.e. remote controlled robotic operations in medicine as well as computer games and simulators).\nThe aim of this course is to give a broad overview of the most common sensor principles and measurement methods for measurements of physical, chemical and bio-chemical parameters i.e. temperature, pressure, oxygen level, pH, etc.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nhave a broad overview of sensor design, properties and limitations when used for measurements of physical, chemical and bio-chemical parameters.have a detailed knowledge of sensors principles and measurement parameters within a specific field.\nCompetences and skills\n      For a passing grade the student must\nbe able to suggest proper sensor principles and measurement method for a given measurement task.have gained experience in experimental work.be able to give a written and oral report of acquired information and experimental results.be able to perform a demonstration of a measurement principle and results.\nJudgement and approach\n      For a passing grade the student must\nbe able to look for, sort out and acquire information from an extensive information material without any reading instructions.\nContents\nThe course consider the most common sensors and measurement methods for measurement of physical, chemical and bio-chemical measurement parameters in the field of process- and manufacturing industry as well as medicine and society.\nFurthermore, the interfacing, applied signal processing and data acquisition system are studied. The course includes a project that considers a specific measurement parameter or sensor principle. The project task is to gain information about sensor principles and use through literature studies and experimental work. The project is presented oral at a seminar and is finally put together in a written report. A large part of lectures are given by the students as projectseminars.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: For grade 3 it is required that the student has passed a number of compulsory parts: Written project report and oral project presentation, laboratory work and a less extensive written exam. For a higher grade a more extensive written exam is given. \n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0117. Name: Transducer Technology. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        ESSF10 or BMEF05 Electrical Measurements or EEMF15 Sensors and Measurements or BMEF15 Sensors or BMEF35 Measurements and Sensors or EITA40 Circuits and Measurements.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEEM031\n\nReading list\n\nJacob Fraden: Handbook of Modern Sensors. Springer, New York, NY, 2016, ISBN: 978-3-319-19302-1. Availalble as e-book (https://doi.org/10.1007/978-1-4419-6466-3).\n\nContact\n\nCourse coordinator: Christian Antfolk,\n        christian.antfolk@bme.lth.se\nCourse coordinator: Nebojsa Malesevic,\n        nebojsa.malesevic@bme.lth.se\nTeacher: Ola Jakobsson,\n        ola.jakobsson@bme.lth.se\nDirector of studies: Lars Wallman,\n        lars.wallman@bme.lth.se\nCourse homepage: https://bme.lth.se/english/education/\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

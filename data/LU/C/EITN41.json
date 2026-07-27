@@ -1,0 +1,70 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Advanced Web Security\nAvancerad webbsäkerhet",
+    "EITN41, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME5, C4-sec, C4-pvs, D4-ns, E5\nLanguage of instruction: The course will be given in English",
+    "The course aims at deepen the student’s knowledge about the security problems and solutions that relate to web based technology. Some areas requiring use of cryptographic primitives will be addressed in detail. Knowledge of these will give the student tools to understand also related areas.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Data representations: CMS, ASN.1, BER, CER and DER encoding",
+    "PKI and Web Security: PKCS#12, CRL, OCSP, signing procedures, identity based cryptosystems",
+    "Anonymity: Anonymity solutions, Chaum mixes, Tor, attacks",
+    "E-voting: E-voting protocols, homomorphic encryption, ZK-proofs, threshold decryption",
+    "Secure messaging: OTR, the Signal protocol",
+    "e-commerce: Electronic payments,  SET, 3D Secure, Bitcoin and Blockchains, untraceable E-cash",
+    "All course material and lectures will be in English.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "o obtain a pass, passing grades for the assignments, the theory quiz, and the hacking project are required. The hacking projects are carried out in pairs and are presented orally.For a grade of 4, an additional passing hacking project, a passing grade for a specified advanced implementation assignment (possibly completed in pairs), and a passing oral examination are required.For a grade of 5, an additional passing hacking project, a passing grade for an open, self-defined advanced implementation assignment, and a passing oral examination are required.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0119. Name: Home Assignments. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).",
+    "Admission requirements:",
+    "Course coordinator: Paul Stankovski Wagner,\n        paul.stankovski_wagner@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/EITN41",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "Describe some advanced security problems that arise when using web based services.",
+      "Describe how cryptographic data can be represented on the web.",
+      "Describe possibilities and problems related to e-commerce and electronic payments."
+    ],
+    [
+      "Be able to analyze the security protocols, identify weaknesses and problems and be able to propose solutions.",
+      "Show that you understand the technical solutions that are used to avoid a security flaw.",
+      "Show that you understand the security limitations in the protocols.",
+      "Apply the design choices of the studied protocols to other protocols.",
+      "Be able to implement a given security protocol"
+    ],
+    [
+      "Be able to discuss and present your solutions to the home assignments.",
+      "Be able to discuss the design choices of the security protocols discussed in the course."
+    ],
+    [
+      "(EDAA80 Introduction to Programming or EDAA50 Programming, First Course or EDAB05 Introduction to Programming or EDAA45 Introduction to Programming or EDAA55 Programming, First Course) and (EITA25 Computer Security or EIT060 Computer Security)"
+    ],
+    [
+      "Lecture notes.",
+      "Academic articles."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår14/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nAdvanced Web Security\nAvancerad webbsäkerhet\nEITN41, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME5, C4-sec, C4-pvs, D4-ns, E5\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe course aims at deepen the student’s knowledge about the security problems and solutions that relate to web based technology. Some areas requiring use of cryptographic primitives will be addressed in detail. Knowledge of these will give the student tools to understand also related areas.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nDescribe some advanced security problems that arise when using web based services.Describe how cryptographic data can be represented on the web.Describe possibilities and problems related to e-commerce and electronic payments.\nCompetences and skills\n      For a passing grade the student must\nBe able to analyze the security protocols, identify weaknesses and problems and be able to propose solutions.Show that you understand the technical solutions that are used to avoid a security flaw.Show that you understand the security limitations in the protocols.Apply the design choices of the studied protocols to other protocols.Be able to implement a given security protocol\nJudgement and approach\n      For a passing grade the student must\nBe able to discuss and present your solutions to the home assignments.Be able to discuss the design choices of the security protocols discussed in the course.\nContents\nData representations: CMS, ASN.1, BER, CER and DER encoding \nPKI and Web Security: PKCS#12, CRL, OCSP, signing procedures, identity based cryptosystems\n \nAnonymity: Anonymity solutions, Chaum mixes, Tor, attacks \nE-voting: E-voting protocols, homomorphic encryption, ZK-proofs, threshold decryption\nSecure messaging: OTR, the Signal protocol\ne-commerce: Electronic payments,  SET, 3D Secure, Bitcoin and Blockchains, untraceable E-cash\nAll course material and lectures will be in English.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: o obtain a pass, passing grades for the assignments, the theory quiz, and the hacking project are required. The hacking projects are carried out in pairs and are presented orally.For a grade of 4, an additional passing hacking project, a passing grade for a specified advanced implementation assignment (possibly completed in pairs), and a passing oral examination are required.For a grade of 5, an additional passing hacking project, a passing grade for an open, self-defined advanced implementation assignment, and a passing oral examination are required.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0119. Name: Home Assignments. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\n(EDAA80 Introduction to Programming or EDAA50 Programming, First Course or EDAB05 Introduction to Programming or EDAA45 Introduction to Programming or EDAA55 Programming, First Course) and (EITA25 Computer Security or EIT060 Computer Security)\n\nAssumed prior knowledge: \n        EITF05 Web Security or EITF06 Web Security and EDAA01 Programming - Second Course and EDAF90 Web Programming.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEITN40\n\nReading list\n\nLecture notes.\nAcademic articles.\n\nContact\n\nCourse coordinator: Paul Stankovski Wagner,\n        paul.stankovski_wagner@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/EITN41\n\nFurther information\n      The course material will be in English.\n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

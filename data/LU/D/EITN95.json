@@ -1,0 +1,77 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Simulation\nSimulering",
+    "EITN95, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-ks, D4-ns, E4-ns, I4, M4, Pi4\nLanguage of instruction: The course will be given in English on demand",
+    "The purpose of the course is to give an introduction to and ability to perform discrete event simulation, basic optimization approaches, and heuristic methods such as simulated annealing, tabu search and evolutionary algorithms. The course also covers the examination goals of being able to work effectively within different group settings and being able to carry out tasks within given set time frames.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The course covers two aspects of simulation; investigation of complex systems and optimisation of the same. The focus is on investigation of these systems.",
+    "In the course we start by studying discrete event simulation. Students learn to write process-oriented and event-scheduling simulation programs in Java. Estimation of accuracy, random number generation, methods for studying rare events, verification and validation are also covered.",
+    "Then we proceed to optimization techniques. We study linear programs (LP) and the simplex algorithm. After that we consider integer programming (IP) Mixed Integer Programming (MIP), the relation between IP and LP, and the branch-and-bound method for IP.",
+    "Finally, we consider heuristic and meta-heuristic methods for combinatorial optimization problems viewed as optimization through simulation. We explain the local search and its most common variations. We explain the basic meta-heuristics such as simulated annealing, tabu search and evolutionary algorithms. We also illustrate the Monte Carlo techniques.",
+    "Students work in groups where they together solve the technical tasks and write reports.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "Passing grades for the take-home assignments, laboratory work, and the oral examination are required for a pass. The result of the oral examination may determine grades 3–5. For the take-home assignments to be approved, the student must be able to work effectively in a group and contribute actively and consistently to the group’s completion of the assignments.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0119. Name: Home Assignments . \n\nCredits: 6.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Passing grades for the take-home assignments and the oral examination are required. The result of the oral examination may determine grades 3–5.\n        \n        \n          The module includes: Home Assignments\n        \n        \n        \nCode: 0219. Name: Laboratory Exercices. \n\nCredits: 1.0. Grading scale: UG - (U, G).\n        \n          Assessment: Approved laboratory work.\n        \n        \n          The module includes: Laboratory work",
+    "Assumed prior knowledge: \n        Programming in JAVA, Basic probability, Statistical methods, Mathematical analysis.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nETS060\nETS120\nETS061",
+    "Course coordinator: Björn Landfeldt,\n        bjorn.landfeldt@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/eitn95",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "Have knowledge about different kinds of dynamic models that are used in engineering",
+      "Describe the event-scheduling and the process-oriented approach to writing simulation programs, plan and structure implementation of simulations",
+      "Know how to estimate the accuracy of simulation results and their validity",
+      "Know the basic functions in optimization theory",
+      "Know how to solve linear optimization problems",
+      "Be familiar with the most common heuristic methods for optimization",
+      "Know how to solve integer optimisation problems."
+    ],
+    [
+      "Write well-structured simulation programs in a general programming language, specifically JAVA",
+      "Estimate the accuracy and reliability of simulation results",
+      "Be able to verify and validate simulation programs",
+      "Know the basic concepts of a Linear Program (LP), convexity, and duality",
+      "Be able to apply the simplex algorithm to linear programming problems",
+      "Know the basic concepts of Integer Program (IP) and the connection between IP and LP",
+      "Be able to apply the branch-and-bound method to IP",
+      "Have a thorough knowledge of the most common heuristic and meta-heuristic methods including local search and its variations, simulated annealing, tabu search and evolutionary algorithms",
+      "Be able to implement heuristic and meta-heuristic methods, and configure the parameters involved in these methods",
+      "Know the concepts of the Monte Carlo method, and be able to implement it for a given optimization problem.",
+      "Work effectively in a group setting",
+      "be able to plan and finish tasks within given set time frames"
+    ],
+    [
+      "Show knowledge of the possibilities and limitations of simulation experiments",
+      "Be able to construct models of systems, implement these in software and investigate the confidence in the results obtained from simulation studies.",
+      "Be able to independently construct models for optimization problems and to apply an optimization package (such as MATLAB or alike) for solving them with full understanding of the solution process and evaluate output data",
+      "Be able to choose and apply a heuristic method to solve optimization problems"
+    ],
+    [
+      "Harry Perros: Computer Simulation Techniques: The definitive introduction. 2021. H. Perros, Computer Simulation Techniques: The definitive introduction.",
+      "Michal Pioro: Network Optimization Techniques, Chapter 18 in E. Serpedin, E., Chen, T., and Rajan, D. (eds.): Signal Processing, Communications, and Networking,. CRC Press, 2012, ISBN: ISBN 978-1-4398-5513-3."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår17/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nSimulation\nSimulering\nEITN95, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-ks, D4-ns, E4-ns, I4, M4, Pi4\nLanguage of instruction: The course will be given in English on demand\n    \n  \nAim\nThe purpose of the course is to give an introduction to and ability to perform discrete event simulation, basic optimization approaches, and heuristic methods such as simulated annealing, tabu search and evolutionary algorithms. The course also covers the examination goals of being able to work effectively within different group settings and being able to carry out tasks within given set time frames.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nHave knowledge about different kinds of dynamic models that are used in engineeringDescribe the event-scheduling and the process-oriented approach to writing simulation programs, plan and structure implementation of simulationsKnow how to estimate the accuracy of simulation results and their validityKnow the basic functions in optimization theoryKnow how to solve linear optimization problemsBe familiar with the most common heuristic methods for optimizationKnow how to solve integer optimisation problems.\nCompetences and skills\n      For a passing grade the student must\nWrite well-structured simulation programs in a general programming language, specifically JAVAEstimate the accuracy and reliability of simulation resultsBe able to verify and validate simulation programsKnow the basic concepts of a Linear Program (LP), convexity, and dualityBe able to apply the simplex algorithm to linear programming problemsKnow the basic concepts of Integer Program (IP) and the connection between IP and LPBe able to apply the branch-and-bound method to IPHave a thorough knowledge of the most common heuristic and meta-heuristic methods including local search and its variations, simulated annealing, tabu search and evolutionary algorithmsBe able to implement heuristic and meta-heuristic methods, and configure the parameters involved in these methodsKnow the concepts of the Monte Carlo method, and be able to implement it for a given optimization problem.Work effectively in a group settingbe able to plan and finish tasks within given set time frames\nJudgement and approach\n      For a passing grade the student must\nShow knowledge of the possibilities and limitations of simulation experimentsBe able to construct models of systems, implement these in software and investigate the confidence in the results obtained from simulation studies.Be able to independently construct models for optimization problems and to apply an optimization package (such as MATLAB or alike) for solving them with full understanding of the solution process and evaluate output dataBe able to choose and apply a heuristic method to solve optimization problems\nContents\nThe course covers two aspects of simulation; investigation of complex systems and optimisation of the same. The focus is on investigation of these systems.In the course we start by studying discrete event simulation. Students learn to write process-oriented and event-scheduling simulation programs in Java. Estimation of accuracy, random number generation, methods for studying rare events, verification and validation are also covered.Then we proceed to optimization techniques. We study linear programs (LP) and the simplex algorithm. After that we consider integer programming (IP) Mixed Integer Programming (MIP), the relation between IP and LP, and the branch-and-bound method for IP.Finally, we consider heuristic and meta-heuristic methods for combinatorial optimization problems viewed as optimization through simulation. We explain the local search and its most common variations. We explain the basic meta-heuristics such as simulated annealing, tabu search and evolutionary algorithms. We also illustrate the Monte Carlo techniques.Students work in groups where they together solve the technical tasks and write reports.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Passing grades for the take-home assignments, laboratory work, and the oral examination are required for a pass. The result of the oral examination may determine grades 3–5. For the take-home assignments to be approved, the student must be able to work effectively in a group and contribute actively and consistently to the group’s completion of the assignments.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0119. Name: Home Assignments . \n\nCredits: 6.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Passing grades for the take-home assignments and the oral examination are required. The result of the oral examination may determine grades 3–5.\n        \n        \n          The module includes: Home Assignments\n        \n        \n        \nCode: 0219. Name: Laboratory Exercices. \n\nCredits: 1.0. Grading scale: UG - (U, G).\n        \n          Assessment: Approved laboratory work.\n        \n        \n          The module includes: Laboratory work\n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        Programming in JAVA, Basic probability, Statistical methods, Mathematical analysis.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nETS060\nETS120\nETS061\n\nReading list\n\nHarry Perros: Computer Simulation Techniques: The definitive introduction. 2021. H. Perros, Computer Simulation Techniques: The definitive introduction.\nMichal Pioro: Network Optimization Techniques, Chapter 18 in E. Serpedin, E., Chen, T., and Rajan, D. (eds.): Signal Processing, Communications, and Networking,. CRC Press, 2012, ISBN: ISBN 978-1-4398-5513-3.\n\nContact\n\nCourse coordinator: Björn Landfeldt,\n        bjorn.landfeldt@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/eitn95\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

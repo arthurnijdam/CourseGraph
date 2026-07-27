@@ -1,0 +1,62 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "IC-project 2\nIC-projekt 2",
+    "ETIN40, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED E\nDate of Decision: 2026-04-09",
+    "Main field:  Electronic Design\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: MSOC2\nElective for: D5, E4-is, N4\nLanguage of instruction: The course will be given in English",
+    "The aim is to provide knowledge about practical verification of integrated circuits, with an emphasis on system-on-chip. The circuits to verify are designed by the students in the course IC-project, and can be either analog, digital, computer oriented, or mixed mode, and the design work can be performed on either transistor or block level.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The course provides the students an opportunity to verify a complete chip from the course IC-project. The verification is performed by measurements, and it is important to measure several different properties of the circuits and understand the reason for differences between simulated and measured behavior. If the design of the student has been selected for fabrication he/she will verify his own circuit. Otherwise an already existing circuit can be verified. In special cases digital designs can be implemented and verified using FPGA (Field Programmable Gate Array) or EDA tools. The requirements on design complexity and volume of the report will in those cases be increased. The result of the verification is presented in a report, which is also presented orally.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Verification of integrated Circuits, designed by the students in the course IC-Project 1.The grade is based on the quality of the work as well as the report and oral presentation of the work. The work is performed in groups and an assessment is made of the efforts of the group as well as the individual participants. If the work is not finished within the given time frame, a higher grade than 3 can not be given.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0215. Name: Report. \n\nCredits: 0.0. Grading scale: UG - (U, G).\n        \n          Assessment: Written report and oral presentation of the work.\n        \n        \n        \n        \nCode: 0115. Name: Verification. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Verification of integrated Circuits, designed by the students in the course IC-Project 1.",
+    "Admission requirements:",
+    "Course coordinator: Baktash Behmanesh,\n        baktash.behmanesh@eit.lth.se\nCourse coordinator: Joachim Rodrigues (digital och dator),\n        joachim.rodrigues@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/etin40",
+    "To get access to the design tools used in the course, the software and technology providers require students to sign a non-disclosure agreement.",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "have knowledge about modern CAD-tools for integrated circuit design",
+      "understand the design process from specification to finished circuit",
+      "have knowledge about modern verification methods and meaurement equipment",
+      "understand why simulated and measured performance differ"
+    ],
+    [
+      "be able to verify an integrated circuit",
+      "be able to make a time plan according to a given time frame",
+      "be able to present his/her results in oral as well as written form"
+    ],
+    [
+      "feel familiar in a modern design environment for integrated circuits",
+      "be able to read and understand a specification and to handle the design process all the way to a finished and verified integrated circuit"
+    ],
+    [
+      "For digital projects; home assignments part of ETIN35 IC project 1. For other projects; ETIN35 IC project 1."
+    ],
+    [
+      "Course material will be available on the homepage of the course."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår12/1313/1414/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nIC-project 2\nIC-projekt 2\nETIN40, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED E\nDate of Decision: 2026-04-09\n    \n  \nGeneral Information\n\nMain field:  Electronic Design\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: MSOC2\nElective for: D5, E4-is, N4\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe aim is to provide knowledge about practical verification of integrated circuits, with an emphasis on system-on-chip. The circuits to verify are designed by the students in the course IC-project, and can be either analog, digital, computer oriented, or mixed mode, and the design work can be performed on either transistor or block level.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nhave knowledge about modern CAD-tools for integrated circuit designunderstand the design process from specification to finished circuithave knowledge about modern verification methods and meaurement equipmentunderstand why simulated and measured performance differ\nCompetences and skills\n      For a passing grade the student must\nbe able to verify an integrated circuitbe able to make a time plan according to a given time framebe able to present his/her results in oral as well as written form\nJudgement and approach\n      For a passing grade the student must\nfeel familiar in a modern design environment for integrated circuitsbe able to read and understand a specification and to handle the design process all the way to a finished and verified integrated circuit\nContents\nThe course provides the students an opportunity to verify a complete chip from the course IC-project. The verification is performed by measurements, and it is important to measure several different properties of the circuits and understand the reason for differences between simulated and measured behavior. If the design of the student has been selected for fabrication he/she will verify his own circuit. Otherwise an already existing circuit can be verified. In special cases digital designs can be implemented and verified using FPGA (Field Programmable Gate Array) or EDA tools. The requirements on design complexity and volume of the report will in those cases be increased. The result of the verification is presented in a report, which is also presented orally.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Verification of integrated Circuits, designed by the students in the course IC-Project 1.The grade is based on the quality of the work as well as the report and oral presentation of the work. The work is performed in groups and an assessment is made of the efforts of the group as well as the individual participants. If the work is not finished within the given time frame, a higher grade than 3 can not be given. \n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0215. Name: Report. \n\nCredits: 0.0. Grading scale: UG - (U, G).\n        \n          Assessment: Written report and oral presentation of the work.\n        \n        \n        \n        \nCode: 0115. Name: Verification. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Verification of integrated Circuits, designed by the students in the course IC-Project 1.\n        \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nFor digital projects; home assignments part of ETIN35 IC project 1. For other projects; ETIN35 IC project 1.\n\nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nETI210\nETIN01\n\nReading list\n\nCourse material will be available on the homepage of the course.\n\nContact\n\nCourse coordinator: Baktash Behmanesh,\n        baktash.behmanesh@eit.lth.se\nCourse coordinator: Joachim Rodrigues (digital och dator),\n        joachim.rodrigues@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/etin40\n\nFurther information\nTo get access to the design tools used in the course, the software and technology providers require students to sign a non-disclosure agreement.\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

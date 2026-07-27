@@ -1,0 +1,56 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Simulation Tools\nSimuleringsverktyg",
+    "FMNN05, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: D4, F4, F4-bs, Pi4-bs, Pi4-pv\nLanguage of instruction: The course will be given in English",
+    "Simulation techniques is a field which merges experience in modelling with knowledge in Scientific Computing and programming skills. The aim of the course is to give students in a late stage of their university studies the possibility to work, in a small team, with industrially relevant computational problems in connection with the modelling of complex mechanical systems. The participants will experience how mathematical methods may be found on different levels in industrial simulation tools. In particular, the numerical treatment of ordinary differential equations, with discontinuities and/or without algebraic constraints, and numerical methods for large systems of nonlinear equations will form the backbone of the course.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Theoretical part: Numerical treatment of ordinary differential equations with discontinuities and/or algebraic constraints and of time dependent partial differential equations. Variants of different modelling techniques, variational integrators and other special numerical methods suitable for modelling. Introduction to a modelling language.",
+    "Practical part: Numerical experiments with computational tools within commercial and industrial software packages, e.g. DUNE. Similar experiments with selfproduced code in Python/SciPy.",
+    "Grading scale: UG - (U, G) - (Fail, Pass)\nAssessment:",
+    "The examination consists of a written final report and an appurtenant oral presentation of the simulation projects at the end of the course.",
+    "Students who do not pass an assessment will be offered another opportunity for assessment soon thereafter.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0109. Name: Simulation Tools. \n\nCredits: 7.5. Grading scale: UG - (U, G).",
+    "Assumed prior knowledge: \n        FMNN10 Numerical Methods for Differential Equations or similar course.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFMN145\n          \n        \n          \n            NUMN05\n          \n        \n          \n            NUMN26",
+    "Course coordinator: Robert Klöfkorn,\n        Robert.Klofkorn@math.lu.se\nTeacher: Robert Klöfkorn,\n        Robert.Klofkorn@math.lu.se\nDirector of studies: Anders Holst,\n        Studierektor@math.lth.se\nCourse administrator: Student Office,\n        expedition@math.lth.se\nExaminator: Robert Klöfkorn,\n        Robert.Klofkorn@math.lu.se\nCourse homepage: https://canvas.education.lu.se/courses/20396",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to describe which questions the software in the course may answer.",
+      "be able to describe the numerical methods used in common commercial simulation tools.",
+      "be able to evaluate simulation results for some simple problems.",
+      "be able account for structural parallels between various engineering problems discussed during the course."
+    ],
+    [
+      "independently be able to apply and evaluate numerical methods within industrial software tools.",
+      "write an algorithmically well structured report in suitable terminology on the mathematical methods applied in industrial simulation tools."
+    ],
+    [
+      "Süli, Endre: An introduction to numerical analysis. Cambridge : Cambridge Univ. Press, 2003, ISBN: 0521810264. Also as Ebook via the Mathematics Library.",
+      "Hairer, Ernst: Solving ordinary differential equations II - Stiff and Differential-Algebraic Problems. Berlin : Springer, 1996, ISBN: 3540604529. Available as Ebook via the Mathematics library.",
+      "Führer, Claus, 1954-: Scientific computing with Python : high-performance scientific computing with NumPy, SciPy, and pandas. Birmingham : Packt Publishing, 2021, ISBN: 9781838822323. Available online via the Mathematics library."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår09/1010/1111/1212/1313/1414/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nSimulation Tools\nSimuleringsverktyg\nFMNN05, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: D4, F4, F4-bs, Pi4-bs, Pi4-pv\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nSimulation techniques is a field which merges experience in modelling with knowledge in Scientific Computing and programming skills. The aim of the course is to give students in a late stage of their university studies the possibility to work, in a small team, with industrially relevant computational problems in connection with the modelling of complex mechanical systems. The participants will experience how mathematical methods may be found on different levels in industrial simulation tools. In particular, the numerical treatment of ordinary differential equations, with discontinuities and/or without algebraic constraints, and numerical methods for large systems of nonlinear equations will form the backbone of the course.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to describe which questions the software in the course may answer.be able to describe the numerical methods used in common commercial simulation tools.be able to evaluate simulation results for some simple problems.be able account for structural parallels between various engineering problems discussed during the course.\nCompetences and skills\n      For a passing grade the student must\nindependently be able to apply and evaluate numerical methods within industrial software tools.write an algorithmically well structured report in suitable terminology on the mathematical methods applied in industrial simulation tools.\nContents\nTheoretical part: Numerical treatment of ordinary differential equations with discontinuities and/or algebraic constraints and of time dependent partial differential equations. Variants of different modelling techniques, variational integrators and other special numerical methods suitable for modelling. Introduction to a modelling language.\nPractical part: Numerical experiments with computational tools within commercial and industrial software packages, e.g. DUNE. Similar experiments with selfproduced code in Python/SciPy.\nExamination details\n\nGrading scale: UG - (U, G) - (Fail, Pass)\nAssessment: The examination consists of a written final report and an appurtenant oral presentation of the simulation projects at the end of the course.Students who do not pass an assessment will be offered another opportunity for assessment soon thereafter.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0109. Name: Simulation Tools. \n\nCredits: 7.5. Grading scale: UG - (U, G).\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        FMNN10 Numerical Methods for Differential Equations or similar course.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFMN145\n          \n        \n          \n            NUMN05\n          \n        \n          \n            NUMN26\n          \n        \n      \n    \nReading list\n\nSüli, Endre: An introduction to numerical analysis. Cambridge : Cambridge Univ. Press, 2003, ISBN: 0521810264. Also as Ebook via the Mathematics Library.\nHairer, Ernst: Solving ordinary differential equations II - Stiff and Differential-Algebraic Problems. Berlin : Springer, 1996, ISBN: 3540604529. Available as Ebook via the Mathematics library.\nFührer, Claus, 1954-: Scientific computing with Python : high-performance scientific computing with NumPy, SciPy, and pandas. Birmingham : Packt Publishing, 2021, ISBN: 9781838822323. Available online via the Mathematics library.\n\nContact\n\nCourse coordinator: Robert Klöfkorn,\n        Robert.Klofkorn@math.lu.se\nTeacher: Robert Klöfkorn,\n        Robert.Klofkorn@math.lu.se\nDirector of studies: Anders Holst,\n        Studierektor@math.lth.se\nCourse administrator: Student Office,\n        expedition@math.lth.se\nExaminator: Robert Klöfkorn,\n        Robert.Klofkorn@math.lu.se\nCourse homepage: https://canvas.education.lu.se/courses/20396\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

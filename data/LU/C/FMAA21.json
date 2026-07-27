@@ -1,0 +1,64 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Linear Algebra with Numerical Applications\nLinjär algebra med numeriska tillämpningar",
+    "FMAA21, 7.5 credits, G1 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C2\nLanguage of instruction: The course will be given in Swedish",
+    "The aim of the course is to give a basic introduction to linear algebra. A further aim is to give the student a basic ability to use Python to solve common linear algebra problems.",
+    "Particular emphasis is put on the role which linear algebra plays in applications in different areas of technology, in order to give the future engineer a good foundation for further studies in mathematics as well as other subjects. The aim is furthermore to develop the students' ability to solve problems and to assimilate mathematical text.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written exam on Linear Algebra. Computer sessions. The final grade is the grade obtained in the written exam.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0121. Name: Linear Algebra. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written exam.\n        \n        \n        \n          Further information: This is the same exam as for FMAB20.\n        \n        \nCode: 0221. Name: Numerical Applications. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: Compulsory attendance at lectures. Passed on the computer sessions.",
+    "Assumed prior knowledge: \n        Basic knowledge of programming - the ability to code and execute simple programs.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFMA420\nFMA421\nFMA656\nFMAB20\nFMAA55\nFMAA20\nFMAB22",
+    "Course coordinator: Anders Holst,\n        studierektor@math.lth.se\nTeacher: Jonas Månsson,\n        Jonas.Mansson@math.lth.se\nCourse administrator: Studerandeexpeditionen,\n        expedition@math.lth.se\nExaminator: Anders Holst,\n        Anders.Holst@math.lth.se\nExaminator: Jonas Månsson,\n        Jonas.Mansson@math.lth.se\nExaminator: Magnus Aspenberg,\n        magnus.aspenberg@math.lth.se\nExaminator: Monika Eisenmann,\n        monika.eisenmann@math.lth.se\nExaminator: Patrik Nordbeck,\n        patrik.nordbeck@math.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/20440",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "with confidence be able to solve linear systems of equations, with or without computer, and be able to demonstrate an ability to geometrically interpret the solutions of such systems.",
+      "be able to represent, handle and compute with - with and without computer - basic geometrical objects in three dimensions, such as points, vectors, lines and planes.",
+      "be able to show a general knowledge of the matrix concept and of its coupling to the concept of a linear transformation, and be able to carry out elementary matrix operations and to solve matrix equations, with and without computer.",
+      "be able to give an overview of and illustrate mathematical concepts in linear algebra that are used to construct and study mathematical models in applications.",
+      "be able to explain the contents of some central definitions, theorems and proofs.",
+      "be able to account for the method of least squares, and be able to implement it in Python for concrete problems."
+    ],
+    [
+      "be able to demonstrate a good ability to carry out algebraic calculations within in the framework of the course.",
+      "in connection with problem solving, be able to demonstrate an ability to independently choose and use mathematical methods within linear algebra.",
+      "in connection with problem solving, be able to demonstrate an ability to integrate concepts from the different parts of the course.",
+      "be able to demonstrate an ability to explain mathematical reasoning in a structured and logically clear way.",
+      "be able to graphically illustrate sets of points in the plane using a computer, and to adapt curves to these."
+    ],
+    [
+      "Systems of linear equations.",
+      "Vectors. Bases and coordinate systems. Equations for lines and planes in space. Scalar product with applications. Vector product with applications.",
+      "Matrices. Rank. Linear transformations. Determinants. Eigenvalues and eigenvectors. The method of least squares. Linear spaces and subspaces.",
+      "Numpy (in Python) as a tool for linear algebra."
+    ],
+    [
+      "Månsson, J & Nordbeck, P: Linjär algebra. Studentlitteratur, 2019, ISBN: 978-91-44-12740-8.",
+      "Månsson, J & Nordbeck, P: Övningar i Linjär algebra. Studentlitteratur, 2019, ISBN: 978-91-44-13355-3.",
+      "Tutorial for the computer experiments will be provided by the department."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår21/2222/2323/2424/2525/2626/27\nCourse syllabus\nLinear Algebra with Numerical Applications\nLinjär algebra med numeriska tillämpningar\nFMAA21, 7.5 credits, G1 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C2\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nThe aim of the course is to give a basic introduction to linear algebra. A further aim is to give the student a basic ability to use Python to solve common linear algebra problems.\nParticular emphasis is put on the role which linear algebra plays in applications in different areas of technology, in order to give the future engineer a good foundation for further studies in mathematics as well as other subjects. The aim is furthermore to develop the students' ability to solve problems and to assimilate mathematical text.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nwith confidence be able to solve linear systems of equations, with or without computer, and be able to demonstrate an ability to geometrically interpret the solutions of such systems.be able to represent, handle and compute with - with and without computer - basic geometrical objects in three dimensions, such as points, vectors, lines and planes.be able to show a general knowledge of the matrix concept and of its coupling to the concept of a linear transformation, and be able to carry out elementary matrix operations and to solve matrix equations, with and without computer.be able to give an overview of and illustrate mathematical concepts in linear algebra that are used to construct and study mathematical models in applications.be able to explain the contents of some central definitions, theorems and proofs.be able to account for the method of least squares, and be able to implement it in Python for concrete problems.\nCompetences and skills\n      For a passing grade the student must\nbe able to demonstrate a good ability to carry out algebraic calculations within in the framework of the course.in connection with problem solving, be able to demonstrate an ability to independently choose and use mathematical methods within linear algebra.in connection with problem solving, be able to demonstrate an ability to integrate concepts from the different parts of the course.be able to demonstrate an ability to explain mathematical reasoning in a structured and logically clear way.be able to graphically illustrate sets of points in the plane using a computer, and to adapt curves to these.\nContents\n\nSystems of linear equations.\nVectors. Bases and coordinate systems. Equations for lines and planes in space. Scalar product with applications. Vector product with applications.\nMatrices. Rank. Linear transformations. Determinants. Eigenvalues and eigenvectors. The method of least squares. Linear spaces and subspaces.\nNumpy (in Python) as a tool for linear algebra.\n\n \nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written exam on Linear Algebra. Computer sessions. The final grade is the grade obtained in the written exam.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0121. Name: Linear Algebra. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written exam.\n        \n        \n        \n          Further information: This is the same exam as for FMAB20.\n        \n        \nCode: 0221. Name: Numerical Applications. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: Compulsory attendance at lectures. Passed on the computer sessions.\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        Basic knowledge of programming - the ability to code and execute simple programs.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFMA420\nFMA421\nFMA656\nFMAB20\nFMAA55\nFMAA20\nFMAB22\n\nReading list\n\nMånsson, J & Nordbeck, P: Linjär algebra. Studentlitteratur, 2019, ISBN: 978-91-44-12740-8.\nMånsson, J & Nordbeck, P: Övningar i Linjär algebra. Studentlitteratur, 2019, ISBN: 978-91-44-13355-3.\nTutorial for the computer experiments will be provided by the department.\n\nContact\n\nCourse coordinator: Anders Holst,\n        studierektor@math.lth.se\nTeacher: Jonas Månsson,\n        Jonas.Mansson@math.lth.se\nCourse administrator: Studerandeexpeditionen,\n        expedition@math.lth.se\nExaminator: Anders Holst,\n        Anders.Holst@math.lth.se\nExaminator: Jonas Månsson,\n        Jonas.Mansson@math.lth.se\nExaminator: Magnus Aspenberg,\n        magnus.aspenberg@math.lth.se\nExaminator: Monika Eisenmann,\n        monika.eisenmann@math.lth.se\nExaminator: Patrik Nordbeck,\n        patrik.nordbeck@math.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/20440\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

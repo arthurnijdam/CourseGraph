@@ -1,0 +1,62 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Monte Carlo and Empirical Methods for Stochastic Inference\nMonte Carlo-baserade statistiska metoder",
+    "FMSN50, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED I\nDate of Decision: 2026-04-13",
+    "Main field:  Machine Learning, Systems and Control\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective mandatory for: MMSR1\nElective for: BME4, D4, E4, F4, F4-bm, F4-fm, I4-fir, Pi4-bs, Pi4-fm, Pi4-bam, R4-rm\nLanguage of instruction: The course will be given in English",
+    "The purpose of the course is to give the students tools and knowledge to handle complex statistical problems and models. The aim is that students shall gain proficiency with modern computer intencive statistical methods and use these to estimate quantities and parameters in complex models that arise in different applications (e.g. economics, signal processing, biology, climate, and environmental statistics). Further, the student should be able to assess the uncertainty of these estimates. The main aim lies in enhancing the scope of statistical problems that the student will be able to solve.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Simulation based methods of integration and statistical analysis. Monte Carlo methods for sequential problems. Markov chain methods, e.g. Gibbs sampling and the Metropolis-Hastings algorithm, for simulation and inference. Bayesian modelling and inference. The re-sampling principle, both non-parametric and parametric. Methods for constructing confidence intervals using re-sampling. Simulation based tests as an alternative to asymptotic parametric tests.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written and oral project presentation. The final grade is given by a summary of the results of the different parts of the examination.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0117. Name: Project Part 1. \n\nCredits: 2.5. Grading scale: UG - (U, G).\n        \n          Assessment: Written report on the first project\n        \n        \n        \n        \nCode: 0217. Name: Project Part 2. \n\nCredits: 5.0. Grading scale: UG - (U, G).\n        \n          Assessment: Written report on the rest of the projects and oral exam.",
+    "Admission requirements:",
+    "Director of studies: Johan Lindström,\n        studierektor@matstat.lu.se\nCourse administrator: Susann Nordqvist,\n        expedition@matstat.lu.se\nExaminator: Filip Tronarp,\n        filip.tronarp@matstat.lu.se\nExaminator: Johan Lindström,\n        johan.lindstrom@matstat.lu.se\nExaminator: Magnus Wiktorsson,\n        magnus.wiktorsson@matstat.lu.se\nCourse homepage: https://www.maths.lu.se/utbildning/civilingenjoersutbildning/matematisk-statistik-paa-civilingenjoersprogram/",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "describe fundamental principles of Monte Carlo integration and random variable generation.",
+      "explain and use the concept of statistical uncertainty from a frequentist perspective as well as from a Bayesian perspective,",
+      "describe fundamental principles of parametric and non-parametric resampling."
+    ],
+    [
+      "given a stochastic model and problem formulation, choose relevant quantities in a way that permits approximation using Monte Carlo methods,",
+      "given a (possibly multivariate) probability distribution, suggest and implement in a computer program, a method for generation of random variables from this distribution,",
+      "given a large number of generated random variables from a probability distribution, approximate relevant probabilities and expectations as well as estimate the uncertainty in the approximated quantities,",
+      "given a model description and a statistical problem, suggest a simple permutation test and implement it in a computer program,",
+      "given a model description and a statistical problem, suggest a resampling procedure and implement it in a computer program,",
+      "present the course of action taken and conclusions drawn in the solution of a given statistical problem."
+    ],
+    [
+      "be able to identify and problemise the possibilities and limitations of statistical inference."
+    ],
+    [
+      "FMSF10 Stationary Stochastic Processes or FMSF15 Markov Processes or FRTF25 Introduction to Machine Learning, Systems and Control"
+    ],
+    [
+      "Goef H. Givens & Jennifer A. Hoeting: Computational Statistics, 2 ed. Wiley, 2013, ISBN: 978-0-470-53331-4."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår17/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nMonte Carlo and Empirical Methods for Stochastic Inference\nMonte Carlo-baserade statistiska metoder\nFMSN50, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED I\nDate of Decision: 2026-04-13\n    \n  \nGeneral Information\n\nMain field:  Machine Learning, Systems and Control\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective mandatory for: MMSR1\nElective for: BME4, D4, E4, F4, F4-bm, F4-fm, I4-fir, Pi4-bs, Pi4-fm, Pi4-bam, R4-rm\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe purpose of the course is to give the students tools and knowledge to handle complex statistical problems and models. The aim is that students shall gain proficiency with modern computer intencive statistical methods and use these to estimate quantities and parameters in complex models that arise in different applications (e.g. economics, signal processing, biology, climate, and environmental statistics). Further, the student should be able to assess the uncertainty of these estimates. The main aim lies in enhancing the scope of statistical problems that the student will be able to solve.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\ndescribe fundamental principles of Monte Carlo integration and random variable generation.explain and use the concept of statistical uncertainty from a frequentist perspective as well as from a Bayesian perspective,describe fundamental principles of parametric and non-parametric resampling.\nCompetences and skills\n      For a passing grade the student must\ngiven a stochastic model and problem formulation, choose relevant quantities in a way that permits approximation using Monte Carlo methods,given a (possibly multivariate) probability distribution, suggest and implement in a computer program, a method for generation of random variables from this distribution,given a large number of generated random variables from a probability distribution, approximate relevant probabilities and expectations as well as estimate the uncertainty in the approximated quantities,given a model description and a statistical problem, suggest a simple permutation test and implement it in a computer program,given a model description and a statistical problem, suggest a resampling procedure and implement it in a computer program,present the course of action taken and conclusions drawn in the solution of a given statistical problem.\nJudgement and approach\n      For a passing grade the student must\nbe able to identify and problemise the possibilities and limitations of statistical inference.\nContents\nSimulation based methods of integration and statistical analysis. Monte Carlo methods for sequential problems. Markov chain methods, e.g. Gibbs sampling and the Metropolis-Hastings algorithm, for simulation and inference. Bayesian modelling and inference. The re-sampling principle, both non-parametric and parametric. Methods for constructing confidence intervals using re-sampling. Simulation based tests as an alternative to asymptotic parametric tests.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written and oral project presentation. The final grade is given by a summary of the results of the different parts of the examination.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0117. Name: Project Part 1. \n\nCredits: 2.5. Grading scale: UG - (U, G).\n        \n          Assessment: Written report on the first project\n        \n        \n        \n        \nCode: 0217. Name: Project Part 2. \n\nCredits: 5.0. Grading scale: UG - (U, G).\n        \n          Assessment: Written report on the rest of the projects and oral exam.\n        \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nFMSF10 Stationary Stochastic Processes or FMSF15 Markov Processes or FRTF25 Introduction to Machine Learning, Systems and Control\n\nAssumed prior knowledge: \n        Programming experience. FMSF05 Probability theory helps.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFMS091\n          \n        \n          \n            MASM11\n          \n        \n      \n    \nReading list\n\nGoef H. Givens & Jennifer A. Hoeting: Computational Statistics, 2 ed. Wiley, 2013, ISBN: 978-0-470-53331-4.\n\nContact\n\nDirector of studies: Johan Lindström,\n        studierektor@matstat.lu.se\nCourse administrator: Susann Nordqvist,\n        expedition@matstat.lu.se\nExaminator: Filip Tronarp,\n        filip.tronarp@matstat.lu.se\nExaminator: Johan Lindström,\n        johan.lindstrom@matstat.lu.se\nExaminator: Magnus Wiktorsson,\n        magnus.wiktorsson@matstat.lu.se\nCourse homepage: https://www.maths.lu.se/utbildning/civilingenjoersutbildning/matematisk-statistik-paa-civilingenjoersprogram/\n\nFurther information\n      The course is also given at the faculty of science with the code MASM11.\n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Introduction to Programming\nProgrammering, grundkurs",
+    "EDAB05, 10.5 credits, G1 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C1, D1\nLanguage of instruction: The course will be given in Swedish",
+    "The students shall learn to write small and medium-sized computer programs and attain basic knowledge of imperative programming, object-orientation and functional programming and software development tools that are useful during their continued education.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Basic programming constructs and construction of simple algorithms. Usage of common data types for collections: sequences, sets, maps. Basic object-orientation: object, class, encapsulation, inheritance, polymorphism, immutable objects, mutable state. Basic functional programming: functions as values, anonymous functions, pattern matching, usage of higher-order functions. The Linux terminal, typesetting with LaTeX, introduction to version management with Git, machine code programming. Scala is used as the main programming language.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "For a passing grade completed compulsory laboratory work, approved oral presentation of project and theory questions are required. Higher grades require a written exam.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0125. Name: Project and Theory. \n\nCredits: 3.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: For a passing grade (3), completed compulsory laboratory work is required, as well as an approved oral presentation of projects and theory questions. For higher grades, a written exam is also required. To be allowed to write the exam (for grades 4 or 5), all criteria for passing must be met.\n        \n        \n        \n        \nCode: 0225. Name: Laboratory Work Programming. \n\nCredits: 4.5. Grading scale: UG - (U, G).\n        \n          Assessment: The compulsory laboratory work must be completed to qualify for a passing grade.\n        \n        \n          The module includes: Laboratory work in programming.\n        \n        \n        \nCode: 0325. Name: Computer Introduction. \n\nCredits: 3.0. Grading scale: UG - (U, G).\n        \n          Assessment: The compulsory laboratory work must be completed to qualify for a passing grade.\n        \n        \n          The module includes: Laboratory work in software development tools.",
+    "The number of participants is limited to: No\nSelection: Students for whom the course is mandatory are assured enrollment. Others have a limited number of seats (10). Selection for these seats is based on the highest number of earned credits within the program.\nKursen överlappar följande kurser: \n        \n          \n            EDA010\n          \n        \n          \n            EDA011\nEDA015\nEDA017\nEDA390\nEDA500\nEDA501\nEDA616\nEDA618\nEDAA10\nEDAA20\nEDA016\nEDAA50\nEDAA55\nEDAA65\nEDAA60\nEITA65\nEDAA45\nEDAA80\nEDAA81\nEDAA85\nEDAA90\nEDAA70",
+    "Course coordinator: Prof. Björn Regnell,\n        bjorn.regnell@cs.lth.se\nTeacher: Mattias Nordahl,\n        mattias.nordahl@cs.lth.se\nDirector of studies: Studierektor,\n        studierektor@cs.lth.se\nCourse homepage: https://cs.lth.se/pgk",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to explain fundamental concepts in imperative programming, object-orientation and functional programming",
+      "be able to explain and give examples of use of simple algorithms",
+      "be able to describe and give examples of use of common data types for collections, such as sequences, sets and maps",
+      "know about different software development tools and basic computer usage, such as terminal, file systems, version management, type setting tools, and basic understanding of the relation between source code and machine code"
+    ],
+    [
+      "be able to develop and implement algorithms to solve simple problems",
+      "be able to implement classes from given requirements",
+      "be able to structure programs, using classes and methods",
+      "be able to use several different tools to write, test and debug programs",
+      "be able to use several different software development tools, such as the Linux terminal, LaTeX, Git, software repositories"
+    ],
+    [
+      "be able to estimate the degree of difficulty of writing different programs",
+      "be able to judge difficulties and advantages with mutable versus immutable data",
+      "be able to evaluate pros and cons of different software development tools and assess their utility"
+    ],
+    [
+      "Compendium, accessed trough the department."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår25/2626/27\nCourse syllabus\nIntroduction to Programming\nProgrammering, grundkurs\nEDAB05, 10.5 credits, G1 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C1, D1\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nThe students shall learn to write small and medium-sized computer programs and attain basic knowledge of imperative programming, object-orientation and functional programming and software development tools that are useful during their continued education.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to explain fundamental concepts in imperative programming, object-orientation and functional programmingbe able to explain and give examples of use of simple algorithmsbe able to describe and give examples of use of common data types for collections, such as sequences, sets and mapsknow about different software development tools and basic computer usage, such as terminal, file systems, version management, type setting tools, and basic understanding of the relation between source code and machine code\nCompetences and skills\n      For a passing grade the student must\nbe able to develop and implement algorithms to solve simple problemsbe able to implement classes from given requirementsbe able to structure programs, using classes and methodsbe able to use several different tools to write, test and debug programsbe able to use several different software development tools, such as the Linux terminal, LaTeX, Git, software repositories\nJudgement and approach\n      For a passing grade the student must\nbe able to estimate the degree of difficulty of writing different programsbe able to judge difficulties and advantages with mutable versus immutable databe able to evaluate pros and cons of different software development tools and assess their utility \nContents\nBasic programming constructs and construction of simple algorithms. Usage of common data types for collections: sequences, sets, maps. Basic object-orientation: object, class, encapsulation, inheritance, polymorphism, immutable objects, mutable state. Basic functional programming: functions as values, anonymous functions, pattern matching, usage of higher-order functions. The Linux terminal, typesetting with LaTeX, introduction to version management with Git, machine code programming. Scala is used as the main programming language.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: For a passing grade completed compulsory laboratory work, approved oral presentation of project and theory questions are required. Higher grades require a written exam.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0125. Name: Project and Theory. \n\nCredits: 3.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: For a passing grade (3), completed compulsory laboratory work is required, as well as an approved oral presentation of projects and theory questions. For higher grades, a written exam is also required. To be allowed to write the exam (for grades 4 or 5), all criteria for passing must be met.\n        \n        \n        \n        \nCode: 0225. Name: Laboratory Work Programming. \n\nCredits: 4.5. Grading scale: UG - (U, G).\n        \n          Assessment: The compulsory laboratory work must be completed to qualify for a passing grade.\n        \n        \n          The module includes: Laboratory work in programming.\n        \n        \n        \nCode: 0325. Name: Computer Introduction. \n\nCredits: 3.0. Grading scale: UG - (U, G).\n        \n          Assessment: The compulsory laboratory work must be completed to qualify for a passing grade.\n        \n        \n          The module includes: Laboratory work in software development tools.\n        \n        \n        \n\nAdmission\n\nThe number of participants is limited to: No\nSelection: Students for whom the course is mandatory are assured enrollment. Others have a limited number of seats (10). Selection for these seats is based on the highest number of earned credits within the program.\nKursen överlappar följande kurser: \n        \n          \n            EDA010\n          \n        \n          \n            EDA011\nEDA015\nEDA017\nEDA390\nEDA500\nEDA501\nEDA616\nEDA618\nEDAA10\nEDAA20\nEDA016\nEDAA50\nEDAA55\nEDAA65\nEDAA60\nEITA65\nEDAA45\nEDAA80\nEDAA81\nEDAA85\nEDAA90\nEDAA70\n\nReading list\n\nCompendium, accessed trough the department.\n\nContact\n\nCourse coordinator: Prof. Björn Regnell,\n        bjorn.regnell@cs.lth.se\nTeacher: Mattias Nordahl,\n        mattias.nordahl@cs.lth.se\nDirector of studies: Studierektor,\n        studierektor@cs.lth.se\nCourse homepage: https://cs.lth.se/pgk\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Medical Image Analysis\nMedicinsk bildanalys",
+    "FMAN30, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4-sbh, BME4-bdr, C5, D4, E4-mt, E4-bg, F4, F4-bg, F4-bm, MMSR2, Pi4-biek, Pi4-bam\nLanguage of instruction: The course will be given in English on demand",
+    "The main aim of the course is to give a basic introduction to theory and mathematical methods used in medical image analysis, to an extent that will allow the student to handle medical image processing problems. In addition the aim is to make the student develop his or her ability in problem solving, both with or without a computer. A further aim is to prepare the student for further studies and research in the border area between medicin and engineering.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Basic concepts: Images, volume data, 4D data, pixels and voxels, file-formats, DICOM (Digital Imaging and Communications in Medicine). .",
+    "Image acquisition techniequs: Radiography, CT (x-ray Computed Tomography), MR (Magnetic Resonance imaging), ultrasound, PET (Positron Emission Tomography), Scint (Scintigraphy) and SPECT (Single-Photon Emission Computed Tomography).",
+    "Noise and Image enhancement, lossless compression",
+    "Registration: Registration of medical images. Mutual information. Landmark based methods. Deformation models.",
+    "Segmentation: Active contours in 2D, 3D and 4D, active appearance models (AAM). Graph-methods.",
+    "Machine Learning: Training, testing, generalization, hypothesis spaces.",
+    "Validation: Databases. Ethics.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Compulsory assignments and oral exam.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0114. Name: Medical Image Analysis. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).",
+    "Assumed prior knowledge: \n        FMAN20 Image Analysis or corresponding knowledge.\n        \nThe number of participants is limited to: No",
+    "Course coordinator: Anders Holst,\n        studierektor@math.lth.se\nTeacher: Kalle Åström,\n        karl.astrom@math.lth.se\nCourse administrator: Studerandeexpeditionen,\n        expedition@math.lth.se\nExaminator: Anders Heyden,\n        anders.heyden@math.lth.se\nExaminator: Karl Åström,\n        karl.astrom@math.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/20384",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to explain clearly, and to independently use, basic mathematical concepts in medical image analysis, in particular regarding registration, segmentation and classification.",
+      "be able to describe and give an informal explanation of some of the different image acquisition techniques used in medical imaging, e.g. Radiography, X-ray Computed Tomography (CT), Magnetic Resonans imaging (MR), ultrasound, Positron-EmissionsTomografi (PET), Scintigraphy (Scint) and Single-Photon Emission Computed Tomography (SPECT).",
+      "be able to describe and give an informal explanation of the mathematical theory behind some central medical image processing algorithms",
+      "be able to briefly describe the statistical principles that constitute the basis for machine learning.",
+      "be able to give examples of ethical questions that arise in medical applications of image analysis."
+    ],
+    [
+      "in an engineering manner be able to use computer packages to solve problems in medical image analysis.",
+      "be able to independently apply basic methods in medical image processing to problems which are relevant in medical applications or research.",
+      "with proper terminology, in a well structured way and with clear logic be able to explain the solution to a problem in medical image analysis."
+    ],
+    [
+      "Material provided by the department."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår14/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nMedical Image Analysis\nMedicinsk bildanalys\nFMAN30, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4-sbh, BME4-bdr, C5, D4, E4-mt, E4-bg, F4, F4-bg, F4-bm, MMSR2, Pi4-biek, Pi4-bam\nLanguage of instruction: The course will be given in English on demand\n    \n  \nAim\nThe main aim of the course is to give a basic introduction to theory and mathematical methods used in medical image analysis, to an extent that will allow the student to handle medical image processing problems. In addition the aim is to make the student develop his or her ability in problem solving, both with or without a computer. A further aim is to prepare the student for further studies and research in the border area between medicin and engineering.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to explain clearly, and to independently use, basic mathematical concepts in medical image analysis, in particular regarding registration, segmentation and classification.be able to describe and give an informal explanation of some of the different image acquisition techniques used in medical imaging, e.g. Radiography, X-ray Computed Tomography (CT), Magnetic Resonans imaging (MR), ultrasound, Positron-EmissionsTomografi (PET), Scintigraphy (Scint) and Single-Photon Emission Computed Tomography (SPECT).be able to describe and give an informal explanation of the mathematical theory behind some central medical image processing algorithmsbe able to briefly describe the statistical principles that constitute the basis for machine learning.be able to give examples of ethical questions that arise in medical applications of image analysis.\nCompetences and skills\n      For a passing grade the student must\nin an engineering manner be able to use computer packages to solve problems in medical image analysis.be able to independently apply basic methods in medical image processing to problems which are relevant in medical applications or research.with proper terminology, in a well structured way and with clear logic be able to explain the solution to a problem in medical image analysis.\nContents\nBasic concepts: Images, volume data, 4D data, pixels and voxels, file-formats, DICOM (Digital Imaging and Communications in Medicine). .\nImage acquisition techniequs: Radiography, CT (x-ray Computed Tomography), MR (Magnetic Resonance imaging), ultrasound, PET (Positron Emission Tomography), Scint (Scintigraphy) and SPECT (Single-Photon Emission Computed Tomography).\nNoise and Image enhancement, lossless compression\nRegistration: Registration of medical images. Mutual information. Landmark based methods. Deformation models.\nSegmentation: Active contours in 2D, 3D and 4D, active appearance models (AAM). Graph-methods.\nMachine Learning: Training, testing, generalization, hypothesis spaces.\nValidation: Databases. Ethics.\n \nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Compulsory assignments and oral exam.\n\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0114. Name: Medical Image Analysis. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        FMAN20 Image Analysis or corresponding knowledge.\n        \nThe number of participants is limited to: No\n\nReading list\n\nMaterial provided by the department.\n\nContact\n\nCourse coordinator: Anders Holst,\n        studierektor@math.lth.se\nTeacher: Kalle Åström,\n        karl.astrom@math.lth.se\nCourse administrator: Studerandeexpeditionen,\n        expedition@math.lth.se\nExaminator: Anders Heyden,\n        anders.heyden@math.lth.se\nExaminator: Karl Åström,\n        karl.astrom@math.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/20384\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

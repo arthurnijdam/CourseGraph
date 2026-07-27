@@ -1,0 +1,57 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Design of Digital Circuits - A Systems Approach\nDigitalteknik",
+    "EITF65, 9.0 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: D2, E2\nElective for: BME4, C4, F4, Pi4\nLanguage of instruction: The course will be given in Swedish",
+    "The aim of the course is to give basic knowledge about digital systems. Especially the ability to construct and analyse models is emphasised.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Introduction of basic concepts, especially state descriptions and boolean algebra. Introduction to digital circuit elements, inclusive gates, flip-flops and memory, how these are designed on the transistor level and how they are parts of digital systems. Methods for realisation of state description and combinatorial functions with digital circuits. Analyses and partitioning of digital systems for realisation in form of state machines, combinatorial blocks and memories. Use of hardware description languages, simulation and synthesis.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "To obtain a pass, passing grades for the compulsory laboratory work and the examination are required. The final grade is based on the result of the examination.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0117. Name: Examination. \n\nCredits: 4.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Supervised, digital exam.\n        \n        \n          The module includes: The whole course.\n        \n        \n        \nCode: 0217. Name: Laboratory Work. \n\nCredits: 4.5. Grading scale: UG - (U, G).\n        \n          Assessment: Passed laboratory lessons.\n        \n        \n          The module includes: The course has five mandatory laboratory sessions. The last one is double work compared with the others. The lab part also includes a final mandatory on-line test.",
+    "The number of participants is limited to: No\nKursen överlappar följande kurser: \nEIT020",
+    "Course coordinator: Per Andersson,\n        per.andersson@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/eitf65",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to identify and formulate problems within the area of digital circuit switching.",
+      "be able to classify the level of difficulty of problems related to the his/her own level of knowledge.",
+      "be able to model digital systems of low complexity by use of state descriptions.",
+      "be able to analyse and describe digital systems of low and medium high complexity."
+    ],
+    [
+      "be able to realise digital systems of low and medium high complexity with digital circuits.",
+      "be able to show ability to handle new concepts, methods and results."
+    ],
+    [
+      "be able to show insight concerning possibilities and limitations of digital systems."
+    ],
+    [
+      "Sarah L. Harris, David Harris: Digital Design and Computer Architecture - RISC-V Edition. Morgan Kaufmann, 2022, ISBN: 978-0-12-820064-3."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår17/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nDesign of Digital Circuits - A Systems Approach\nDigitalteknik\nEITF65, 9.0 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: D2, E2\nElective for: BME4, C4, F4, Pi4\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nThe aim of the course is to give basic knowledge about digital systems. Especially the ability to construct and analyse models is emphasised.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to identify and formulate problems within the area of digital circuit switching.be able to classify the level of difficulty of problems related to the his/her own level of knowledge.be able to model digital systems of low complexity by use of state descriptions.be able to analyse and describe digital systems of low and medium high complexity.\nCompetences and skills\n      For a passing grade the student must\nbe able to realise digital systems of low and medium high complexity with digital circuits.be able to show ability to handle new concepts, methods and results.\nJudgement and approach\n      For a passing grade the student must\nbe able to show insight concerning possibilities and limitations of digital systems.\nContents\nIntroduction of basic concepts, especially state descriptions and boolean algebra. Introduction to digital circuit elements, inclusive gates, flip-flops and memory, how these are designed on the transistor level and how they are parts of digital systems. Methods for realisation of state description and combinatorial functions with digital circuits. Analyses and partitioning of digital systems for realisation in form of state machines, combinatorial blocks and memories. Use of hardware description languages, simulation and synthesis.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: To obtain a pass, passing grades for the compulsory laboratory work and the examination are required. The final grade is based on the result of the examination.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0117. Name: Examination. \n\nCredits: 4.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Supervised, digital exam.\n        \n        \n          The module includes: The whole course.\n        \n        \n        \nCode: 0217. Name: Laboratory Work. \n\nCredits: 4.5. Grading scale: UG - (U, G).\n        \n          Assessment: Passed laboratory lessons.\n        \n        \n          The module includes: The course has five mandatory laboratory sessions. The last one is double work compared with the others. The lab part also includes a final mandatory on-line test.\n        \n        \n        \n\nAdmission\n\nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEIT020\n\nReading list\n\nSarah L. Harris, David Harris: Digital Design and Computer Architecture - RISC-V Edition. Morgan Kaufmann, 2022, ISBN: 978-0-12-820064-3.\n\nContact\n\nCourse coordinator: Per Andersson,\n        per.andersson@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/eitf65\n\nFurther information\n      The course is given in Swedish, but some parts can be given in English.\n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

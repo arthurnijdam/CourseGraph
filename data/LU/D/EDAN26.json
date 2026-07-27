@@ -1,0 +1,65 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Multicore Programming\nMulticoreprogrammering",
+    "EDAN26, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-pvt, D4-is, D4-pv, E4-hp, F4, F4-pv, Pi4-pv\nLanguage of instruction: The course will be given in Swedish",
+    "The purpose of the course is that to learn how to implement an algorithm as efficiently as possible on a particular multicore computer with a focus on multiprocessors with shared memory. Another purpose of the course is to gain insights into advantages and disadvantages of different programming languages for multicore programming, such as Java, Scala, C, and OpenMP. The students will also learn about lock-free algorithms and data structures.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Multiprocessors, classification of cache misses, decomposition of the computation into tasks. Assignment of tasks to threads. Mapping of threads to processors. Programming models, synchronisation, and communication. Owner computes rule. Memory consistency models. Sequential consistency. Weak ordering. Release consistency, Pthreads, OpenMP, current research trends in multiprocessor computer architecture.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Oral exam. To pass the course, the exam, laboratory exercises, and a programming assignment must be passed. The final grade of the course is based om the result of the oral exam.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0122. Name: Compulsory Course Items. \n\nCredits: 3.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved compulsory itemns.\n        \n        \n          The module includes: Laboratory work and a project.\n        \n        \n        \nCode: 0222. Name: Examination. \n\nCredits: 4.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved examination.\n        \n        \n          The module includes: Oral examination.",
+    "Admission requirements:",
+    "Course coordinator: Jonas Skeppstedt,\n        jonas.skeppstedt@cs.lth.se\nCourse homepage: https://cs.lth.se",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "understand how cache memories work on multicores",
+      "understand the importance of reducing the number of cache misses",
+      "understand the importance of load-balancing between different processors",
+      "understand how a sequential C program can be parallelised while taking the above into consideration",
+      "understand advantages and disadvantages of these two multicore architectures with respect to (1) performance and (2) how complicated the programming becomes",
+      "understand advantages and disadvantages of different programming languages",
+      "understand when lock-free data structures are suitable"
+    ],
+    [
+      "be able to use Pthreads to create threads and synchronise these on a multiprocessor",
+      "be able to use OpenMP to parallelise compute intensive sequential C programs",
+      "be able to improve the performance of a given sequential program by parallelising it in a way which maximises its performance.",
+      "be able to decide on programming language for a given problem"
+    ],
+    [
+      "be able to implement a suitable version of an algorithm while taking into account both the demands of the application and the multicore architecture.",
+      "be able to judge which multicore architecture is suitable for a given algorithm.",
+      "be able to judge which programming language is suitable for a given algorithm."
+    ],
+    [
+      "EDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course"
+    ],
+    [
+      "Jonas Skeppstedt and Christian Söderberg: Writing Efficient C Code: - A Thorough Introduction. Amazon, 2026, ISBN: 9798265523341."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår16/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nMulticore Programming\nMulticoreprogrammering\nEDAN26, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-pvt, D4-is, D4-pv, E4-hp, F4, F4-pv, Pi4-pv\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nThe purpose of the course is that to learn how to implement an algorithm as efficiently as possible on a particular multicore computer with a focus on multiprocessors with shared memory. Another purpose of the course is to gain insights into advantages and disadvantages of different programming languages for multicore programming, such as Java, Scala, C, and OpenMP. The students will also learn about lock-free algorithms and data structures.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nunderstand how cache memories work on multicoresunderstand the importance of reducing the number of cache missesunderstand the importance of load-balancing between different processorsunderstand how a sequential C program can be parallelised while taking the above into considerationunderstand advantages and disadvantages of these two multicore architectures with respect to (1) performance and (2) how complicated the programming becomesunderstand advantages and disadvantages of different programming languagesunderstand when lock-free data structures are suitable\nCompetences and skills\n      For a passing grade the student must\nbe able to use Pthreads to create threads and synchronise these on a multiprocessorbe able to use OpenMP to parallelise compute intensive sequential C programsbe able to improve the performance of a given sequential program by parallelising it in a way which maximises its performance.be able to decide on programming language for a given problem\nJudgement and approach\n      For a passing grade the student must\nbe able to implement a suitable version of an algorithm while taking into account both the demands of the application and the multicore architecture.be able to judge which multicore architecture is suitable for a given algorithm.be able to judge which programming language is suitable for a given algorithm.\nContents\nMultiprocessors, classification of cache misses, decomposition of the computation into tasks. Assignment of tasks to threads. Mapping of threads to processors. Programming models, synchronisation, and communication. Owner computes rule. Memory consistency models. Sequential consistency. Weak ordering. Release consistency, Pthreads, OpenMP, current research trends in multiprocessor computer architecture.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Oral exam. To pass the course, the exam, laboratory exercises, and a programming assignment must be passed. The final grade of the course is based om the result of the oral exam.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0122. Name: Compulsory Course Items. \n\nCredits: 3.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved compulsory itemns.\n        \n        \n          The module includes: Laboratory work and a project.\n        \n        \n        \nCode: 0222. Name: Examination. \n\nCredits: 4.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved examination.\n        \n        \n          The module includes: Oral examination.\n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nEDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course\n\nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEDA116\nEDAN25\n\nReading list\n\nJonas Skeppstedt and Christian Söderberg: Writing Efficient C Code: - A Thorough Introduction. Amazon, 2026, ISBN: 9798265523341.\n\nContact\n\nCourse coordinator: Jonas Skeppstedt,\n        jonas.skeppstedt@cs.lth.se\nCourse homepage: https://cs.lth.se\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

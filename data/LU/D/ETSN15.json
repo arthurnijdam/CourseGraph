@@ -1,0 +1,80 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Requirements Engineering\nKravhantering",
+    "ETSN15, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-adv, C4-pvs, D4-se, E4, F4, F4-pv, I4, I4-pvs\nLanguage of instruction: The course will be given in Swedish",
+    "The objective of the course is to give basic and advanced knowledge and skills within requirements engineering for large-scale development of systems completely or partly based on software. The course gives both theoretical knowledge and practical skills in methods and techniques for requirements engineering. The course gives training in scientific paper reading.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Examination is based on both individual and group assessment. Project work is assessed in groups, lab sessions are assessed in pairs, and the written exam is assessed individually. The final mark is a combination of written exam marking and project marking.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0117. Name: Requirements Engineering. \n\nCredits: 4.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: The final grade of the course is to 60% based on the result of the written examination.\n        \n        \n          The module includes: Written exam.\n        \n        \n        \nCode: 0217. Name: Project. \n\nCredits: 3.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: The final grade of the course is to 40% based on project results. \n        \n        \n          The module includes: Project and laboratory work.",
+    "Admission requirements:",
+    "Course coordinator: Professor Björn Regnell,\n        bjorn.regnell@cs.lth.se\nCourse homepage: https://cs.lth.se/etsn15",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to define basic concepts and principles within requirements engineering",
+      "give an account of several different types of requirements",
+      "be able to describe and value several different methods and techniques for requirements engineering",
+      "be able to describe and relate different sub-processes within requirements engineering",
+      "be able to describe the relation between the requirements engineering process and other processes in the product lifecycle",
+      "be able to describe the relation between requirements engineering and market-driven product management",
+      "be able to discuss some scientific results within requirements engineering research"
+    ],
+    [
+      "be able to choose suitable requirements techniques for a given context",
+      "be able to apply several different techniques for requirements elicitation",
+      "be able to apply several different techniques for requirements specification",
+      "be able to apply several different techniques for requirements validation",
+      "be able to apply several different techniques for requirements prioritisation"
+    ],
+    [
+      "be able to consciously select a process depending on the nature of the requirements",
+      "show a systematic and long-term approach to processes",
+      "be able to consciously see the problem in the relation between the quality of requirements and the quality of the resulting implementation",
+      "be able to adequately involve users in the requirements engineering process",
+      "be able to consciously see the problem in the relation between requirements engineering and economical aspects of product development"
+    ],
+    [
+      "Requirements on different abstraction levels and in different contexts",
+      "Sub-processes of requirements engineering and their relation",
+      "Specification of data requirements, e.g. using virtual windows and data models",
+      "Specification of functional requirements, e.g. using textual feature requirements and task descriptions",
+      "Specification of different types of non-functional requirements, e.g. usability, performance, reliability",
+      "Different techniques for requirements elicitation, e.g. focus groups",
+      "Different techniques for requirements validation, e.g. inspections",
+      "Different techniques for requirements prioritisation, e.g. pair wise comparisons",
+      "Market-driven requirements engineering, product management and prioritisation"
+    ],
+    [
+      "EDA260 Software Development in Teams – Project or EDA270 Coaching of Programming Teams or EDAF45 Software Development in Teams - Project or EDAG05 Agile Software Development - Project or EDAN80 Coaching of Programming Teams or ETS032 Software Development for Large Systems or ETSA01 Software Engineering Process - Methodology or ETSA02 Software Engineering - Methodology or ETSA03 Software Engineering - Methodology or ETSA05 Software Engineering Process - Soft Issues or ETSF01 Software Engineering Process - Economy and Quality or ETSF20 Software Development for Large Projects or ETSF25 The Business of Software or ETSN05 Software Development for Large Systems or MAMN01 Advanced Interaction Design"
+    ],
+    [
+      "Lauesen S: Software Requirements – Styles and Techniques. Addison-Wesley, 2002, ISBN: 0-201-74570-4.",
+      "Additional literature assigned by the department."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår17/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nRequirements Engineering\nKravhantering\nETSN15, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-adv, C4-pvs, D4-se, E4, F4, F4-pv, I4, I4-pvs\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nThe objective of the course is to give basic and advanced knowledge and skills within requirements engineering for large-scale development of systems completely or partly based on software. The course gives both theoretical knowledge and practical skills in methods and techniques for requirements engineering. The course gives training in scientific paper reading.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to define basic concepts and principles within requirements engineeringgive an account of several different types of requirementsbe able to describe and value several different methods and techniques for requirements engineeringbe able to describe and relate different sub-processes within requirements engineeringbe able to describe the relation between the requirements engineering process and other processes in the product lifecyclebe able to describe the relation between requirements engineering and market-driven product managementbe able to discuss some scientific results within requirements engineering research\nCompetences and skills\n      For a passing grade the student must\nbe able to choose suitable requirements techniques for a given contextbe able to apply several different techniques for requirements elicitationbe able to apply several different techniques for requirements specificationbe able to apply several different techniques for requirements validationbe able to apply several different techniques for requirements prioritisation\nJudgement and approach\n      For a passing grade the student must\nbe able to consciously select a process depending on the nature of the requirementsshow a systematic and long-term approach to processesbe able to consciously see the problem in the relation between the quality of requirements and the quality of the resulting implementationbe able to adequately involve users in the requirements engineering processbe able to consciously see the problem in the relation between requirements engineering and economical aspects of product development\nContents\nRequirements on different abstraction levels and in different contextsSub-processes of requirements engineering and their relationSpecification of data requirements, e.g. using virtual windows and data modelsSpecification of functional requirements, e.g. using textual feature requirements and task descriptionsSpecification of different types of non-functional requirements, e.g. usability, performance, reliabilityDifferent techniques for requirements elicitation, e.g. focus groupsDifferent techniques for requirements validation, e.g. inspectionsDifferent techniques for requirements prioritisation, e.g. pair wise comparisonsMarket-driven requirements engineering, product management and prioritisationLectures give a theoretical overview and help for private studies. Projects give practical skills and training in different areas of requirements engineering. Exercises relate theory to practice through discussions of problems and solutions.\n    \n    Examination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Examination is based on both individual and group assessment. Project work is assessed in groups, lab sessions are assessed in pairs, and the written exam is assessed individually. The final mark is a combination of written exam marking and project marking.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0117. Name: Requirements Engineering. \n\nCredits: 4.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: The final grade of the course is to 60% based on the result of the written examination.\n        \n        \n          The module includes: Written exam.\n        \n        \n        \nCode: 0217. Name: Project. \n\nCredits: 3.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: The final grade of the course is to 40% based on project results. \n        \n        \n          The module includes: Project and laboratory work.\n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nEDA260 Software Development in Teams – Project or EDA270 Coaching of Programming Teams or EDAF45 Software Development in Teams - Project or EDAG05 Agile Software Development - Project or EDAN80 Coaching of Programming Teams or ETS032 Software Development for Large Systems or ETSA01 Software Engineering Process - Methodology or ETSA02 Software Engineering - Methodology or ETSA03 Software Engineering - Methodology or ETSA05 Software Engineering Process - Soft Issues or ETSF01 Software Engineering Process - Economy and Quality or ETSF20 Software Development for Large Projects or ETSF25 The Business of Software or ETSN05 Software Development for Large Systems or MAMN01 Advanced Interaction Design\n\nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nETS672\nETSF30\nETS170\n\nReading list\n\nLauesen S: Software Requirements – Styles and Techniques. Addison-Wesley, 2002, ISBN: 0-201-74570-4.\nAdditional literature assigned by the department.\n\nContact\n\nCourse coordinator: Professor Björn Regnell,\n        bjorn.regnell@cs.lth.se\nCourse homepage: https://cs.lth.se/etsn15\n\nFurther information\n      The course contains a project work which gives 3 credits.\n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

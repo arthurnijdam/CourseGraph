@@ -1,0 +1,99 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Software Testing\nProgramvarutestning",
+    "ETSN20, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-pvs, C4-pvt, C4-adv, D4-se, D4-pv, E4, F4, F4-pv, I4-pvs\nLanguage of instruction: The course will be given in English",
+    "The objective of the course is to give basic and advanced knowledge and skills within testing and reviews for large-scale development of systems completely or partly based on software. The course gives practical skills in methods and techniques for software testing. Further, the course aims to train the student in searching and assessing knowledge at the research front in software testing.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Verification and validation activities at different levels in software development",
+    "Different types of verification and validation and trade-offs between them",
+    "Testing techniques",
+    "Test management",
+    "Forms of teaching",
+    "Lectures give a theoretical overview and help for private studies.",
+    "Lab sessions give practical training in applying different test techniques and relate theory to practice through discussions of problems and solutions.",
+    "Projects give practical skills and training in different areas of software testing by literature search, analysis and presentation.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "Examination is based on both individual and group assessment. Project work is assessed in groups, lab performance and reports are assessed in pairs, and the written exam is assessed individually. For final mark the student must pass labs, project and written exam. The final mark is a combination of written exam marking and project marking.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0119. Name: Software Testing. \n\nCredits: 4.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written examination.\n        \n        \n          The module includes: Written exam\n        \n        \n        \nCode: 0219. Name: Project. \n\nCredits: 3.0. Grading scale: UG - (U, G).\n        \n          Assessment: Project in teams is graded pass/pass with distinction. Both report and oral presentation required for pass.\n        \n        \n          The module includes: Project in teams\n        \n        \n        \nCode: 0319. Name: Labs. \n\nCredits: 0.0. Grading scale: UG - (U, G).\n        \n          Assessment: Attendance at lab occasions and written lab reports\n        \n        \n          The module includes: Lab in pairs of students",
+    "Admission requirements:",
+    "Course coordinator: Prof. Per Runeson,\n        Per.Runeson@cs.lth.se\nCourse homepage: https://cs.lth.se/etsn20",
+    "Compulsory items: lectures in the first study week, project, lab sessions, presentations, reports.",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to define basic concepts and principles within software testing",
+      "give an account of the most common techniques for software testing and reviews",
+      "be able to describe the relation between the software testing process and other processes in the product lifecycle, as well as organizational issues",
+      "be able to describer foundational tools for testing and their features",
+      "be able to describe the relation between verification and the requirements of a software system in terms of functionality and quality",
+      "be able to report an in-depth area of own choice, and demonstrate theoretical depth or practical application, related to the state-of-art of the area"
+    ],
+    [
+      "be able to motivate the choise of test strategy and organization for different types of software systems",
+      "be able to analyse and create test cases for which box and black box testing",
+      "be able to perform a review",
+      "be able to apply a systematic approach for software debugging"
+    ],
+    [
+      "understand the complexity of the task to perform tests and reviews of different types of software systems and be aware of the costs and the impact of different testing activities during the development of a software product",
+      "be able to value and synthesize the information given in published scientific articles about software testing"
+    ],
+    [
+      "planning, design, execution/reporting, and analysis"
+    ],
+    [
+      "Test – review",
+      "Interface based – structure based verification (black-box – white-box)",
+      "Manual – automated",
+      "Functional tests – quality tests",
+      "Unit tests – Integration/regression/system tests",
+      "Developer tests – Acceptance tests"
+    ],
+    [
+      "Equivalence class partitioning",
+      "Coverage-based testing",
+      "Combinatorial testing"
+    ],
+    [
+      "Data collection during reviews and testing",
+      "Defect management",
+      "Test organizations",
+      "Test tools",
+      "Social aspects in reviews and tests",
+      "Differences and similarities between different types of systems"
+    ],
+    [
+      "EDAF45 Software Development in Teams - Project\nOR\nETSF25 The Business of Software\nOR\nETSN05 Software Development for Large Systems, performed course tasks\nOR\nADAG05 Agile Software Development - Project",
+      "EDA016 Programming, First Course or EDA017 Programming, First Course or EDAA10 Computer Programming in Java or EDAA20 Programming and Databases or EDAA45 Introduction to Programming or EDAA50 Programming, First Course or EDAA55 Programming, First Course or EDAA65 Programming, First Course or EDAB05 Introduction to Programming or EDAA85 Introduction to Programming"
+    ],
+    [
+      "K Naik and P Tripathy: Software Testing and Quality Assurance: Theory and Practice. Wiley, 2008, ISBN: 978-0-471-78911-6.",
+      "Additional literature assigned by the department."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår17/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nSoftware Testing\nProgramvarutestning\nETSN20, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-pvs, C4-pvt, C4-adv, D4-se, D4-pv, E4, F4, F4-pv, I4-pvs\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe objective of the course is to give basic and advanced knowledge and skills within testing and reviews for large-scale development of systems completely or partly based on software. The course gives practical skills in methods and techniques for software testing. Further, the course aims to train the student in searching and assessing knowledge at the research front in software testing.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to define basic concepts and principles within software testinggive an account of the most common techniques for software testing and reviewsbe able to describe the relation between the software testing process and other processes in the product lifecycle, as well as organizational issuesbe able to describer foundational tools for testing and their featuresbe able to describe the relation between verification and the requirements of a software system in terms of functionality and qualitybe able to report an in-depth area of own choice, and demonstrate theoretical depth or practical application, related to the state-of-art of the area\nCompetences and skills\n      For a passing grade the student must\nbe able to motivate the choise of test strategy and organization for different types of software systemsbe able to analyse and create test cases for which box and black box testingbe able to perform a reviewbe able to apply a systematic approach for software debugging\nJudgement and approach\n      For a passing grade the student must\nunderstand the complexity of the task to perform tests and reviews of different types of software systems and be aware of the costs and the impact of different testing activities during the development of a software productbe able to value and synthesize the information given in published scientific articles about software testing\nContents\nVerification and validation activities at different levels in software developmentplanning, design, execution/reporting, and analysisDifferent types of verification and validation and trade-offs between themTest – reviewInterface based – structure based verification (black-box – white-box)Manual – automatedFunctional tests – quality testsUnit tests – Integration/regression/system testsDeveloper tests – Acceptance testsTesting techniquesEquivalence class partitioningCoverage-based testingCombinatorial testingTest managementData collection during reviews and testingDefect managementTest organizationsTest toolsSocial aspects in reviews and testsDifferences and similarities between different types of systemsForms of teachingLectures give a theoretical overview and help for private studies.Lab sessions give practical training in applying different test techniques and relate theory to practice through discussions of problems and solutions.Projects give practical skills and training in different areas of software testing by literature search, analysis and presentation.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Examination is based on both individual and group assessment. Project work is assessed in groups, lab performance and reports are assessed in pairs, and the written exam is assessed individually. For final mark the student must pass labs, project and written exam. The final mark is a combination of written exam marking and project marking.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0119. Name: Software Testing. \n\nCredits: 4.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written examination.\n        \n        \n          The module includes: Written exam\n        \n        \n        \nCode: 0219. Name: Project. \n\nCredits: 3.0. Grading scale: UG - (U, G).\n        \n          Assessment: Project in teams is graded pass/pass with distinction. Both report and oral presentation required for pass.\n        \n        \n          The module includes: Project in teams\n        \n        \n        \nCode: 0319. Name: Labs. \n\nCredits: 0.0. Grading scale: UG - (U, G).\n        \n          Assessment: Attendance at lab occasions and written lab reports\n        \n        \n          The module includes: Lab in pairs of students\n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nEDAF45 Software Development in Teams - Project\nOR\nETSF25 The Business of Software\nOR\nETSN05 Software Development for Large Systems, performed course tasks\nOR\nADAG05 Agile Software Development - Project\nEDA016 Programming, First Course or EDA017 Programming, First Course or EDAA10 Computer Programming in Java or EDAA20 Programming and Databases or EDAA45 Introduction to Programming or EDAA50 Programming, First Course or EDAA55 Programming, First Course or EDAA65 Programming, First Course or EDAB05 Introduction to Programming or EDAA85 Introduction to Programming\n\nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nETS200\n\nReading list\n\nK Naik and P Tripathy: Software Testing and Quality Assurance: Theory and Practice. Wiley, 2008, ISBN: 978-0-471-78911-6.\nAdditional literature assigned by the department.\n\nContact\n\nCourse coordinator: Prof. Per Runeson,\n        Per.Runeson@cs.lth.se\nCourse homepage: https://cs.lth.se/etsn20\n\nFurther information\nCompulsory items: lectures in the first study week, project, lab sessions, presentations, reports.\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

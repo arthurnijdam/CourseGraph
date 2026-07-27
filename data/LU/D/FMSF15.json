@@ -1,0 +1,67 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Markov Processes\nMarkovprocesser",
+    "FMSF15, 7.5 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED I\nDate of Decision: 2026-04-13",
+    "Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4, C4-sec, D4-ns, E4, F4, F4-bg, F4-bm, I4, MMSR2, Pi4-ssr\nLanguage of instruction: The course will be given in English",
+    "Markov chains and processes are a class of models which, apart from a rich mathematical structure, also has applications in many disciplines, such as telecommunications and production (queue and inventory theory), reliability analysis, financial mathematics (e.g., hidden Markov models), automatic control, and image processing (Markov fields).",
+    "The aim of this course is to give the student the basic concepts and methods for Poisson processes, discrete Markov chains and processes, and also the ability to apply them. The course presents examples of applications in different fields, in order to facilitate the use of the knowledge in other courses where Markov models appear.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Markov chains: model graphs, Markov property, transition probabilities, persistent and transient states, positive and null persistent states, communication, existence and uniqueness of stationary distribution, and calculation thereof, absorption times.",
+    "Poisson process: Law of small numbers, counting processes, event distance, non-homogeneous processes, diluting and super positioning, processes on general spaces.",
+    "Markov processes: transition intensities, time dynamic, existence and uniqueness of stationary distribution, and calculation thereof, birth-death processes, absorption times.",
+    "Introduction to renewal theory and regenerative processes.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written exam and compulsory computer exercises.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0115. Name: Examination. \n\nCredits: 6.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written examination.\n        \n        \n        \n        \nCode: 0215. Name: Laboratory Work Part 1. \n\nCredits: 0.5. Grading scale: UG - (U, G).\n        \n          Assessment: The first computer exercise\n        \n        \n        \n        \nCode: 0315. Name: Laboratory work Part 2. \n\nCredits: 0.5. Grading scale: UG - (U, G).\n        \n          Assessment: The rest of the computer exercises",
+    "Admission requirements:",
+    "Director of studies: Johan Lindström,\n        studierektor@matstat.lu.se\nCourse administrator: Susann Nordqvist,\n        expedition@matstat.lu.se\nExaminator: Johan Lindström,\n        johan.lindstrom@matstat.lu.se\nExaminator: Magnus Wiktorsson,\n        magnus.wiktorsson@matstat.lu.se\nExaminator: Stanislav Volkov,\n        stanislav.volkov@matstat.lu.se\nCourse homepage: https://www.maths.lu.se/utbildning/civilingenjoersutbildning/matematisk-statistik-paa-civilingenjoersprogram/",
+    "The course is also given at the faculty of science with the code MASC13.",
+    "Please note that the course has re-examinations in exam period 2 (January) and exam period 6 (August).",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "explain the Markov property and the intensity concept, as well as the concepts of recurrence, communication, stationary distribution, and how they relate to each other,",
+      "perform calculations of stationary distributions and absorption times for discrete Markov chains and processes,",
+      "explain the suitability of the Poisson process as a model for rare events and perform calculations of probabilities using the properties of the Poisson process in one and several dimensions."
+    ],
+    [
+      "construct a model graph for a Markov chain or process describing a given system, and use the model for studying the system,",
+      "in connection with problem solving, show ability to integrate knowledge from the different parts of the course,",
+      "read and interpret easier literature with elements of Markov models and their applications."
+    ],
+    [
+      "identify problems that can be solved using Markov models, and choose an appropriate method,",
+      "use knowledge of Markov models in other courses, as transfer concepts, tools, and knowledge between different courses where Markov models are used."
+    ],
+    [
+      "((FMAA20 Linear Algebra with Introduction to Computer Tools or FMAA21 Linear Algebra with Numerical Applications or FMAB20 Linear Algebra or FMAB22 Linear Algebra) \n  and \n (FMAB30 Calculus in Several Variables or FMAB35 Calculus in Several Variables))  or(FMSF20 Mathematical Statistics, Basic Course or FMSF25 Mathematical Statistics - Complementary Project or FMSF32 Mathematical Statistics or FMSF45 Mathematical Statistics, Basic Course or FMSF50 Mathematical Statistics, Basic Course or FMSF55 Mathematical Statistics, Basic Course or FMSF70 Mathematical Statistics or FMSF75 Mathematical Statistics, Basic Course or FMSF80 Mathematical Statistics, Basic Course)"
+    ],
+    [
+      "Lindgren, G. & Rydén, T: Markovprocesser. KFS, 2002. One of the books is enough. Recommended for Swedish students.",
+      "Mark Pinsky and Samuel Karlin: An Introduction to Stochastic Modeling. Academic Press Inc, 2011, ISBN: 9780123814166. One of the books is enough. Recommended for exchange students."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår11/1212/1313/1414/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nMarkov Processes\nMarkovprocesser\nFMSF15, 7.5 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED I\nDate of Decision: 2026-04-13\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4, C4-sec, D4-ns, E4, F4, F4-bg, F4-bm, I4, MMSR2, Pi4-ssr\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nMarkov chains and processes are a class of models which, apart from a rich mathematical structure, also has applications in many disciplines, such as telecommunications and production (queue and inventory theory), reliability analysis, financial mathematics (e.g., hidden Markov models), automatic control, and image processing (Markov fields).\nThe aim of this course is to give the student the basic concepts and methods for Poisson processes, discrete Markov chains and processes, and also the ability to apply them. The course presents examples of applications in different fields, in order to facilitate the use of the knowledge in other courses where Markov models appear.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nexplain the Markov property and the intensity concept, as well as the concepts of recurrence, communication, stationary distribution, and how they relate to each other,perform calculations of stationary distributions and absorption times for discrete Markov chains and processes,explain the suitability of the Poisson process as a model for rare events and perform calculations of probabilities using the properties of the Poisson process in one and several dimensions.\nCompetences and skills\n      For a passing grade the student must\nconstruct a model graph for a Markov chain or process describing a given system, and use the model for studying the system,in connection with problem solving, show ability to integrate knowledge from the different parts of the course,read and interpret easier literature with elements of Markov models and their applications.\nJudgement and approach\n      For a passing grade the student must\nidentify problems that can be solved using Markov models, and choose an appropriate method,use knowledge of Markov models in other courses, as transfer concepts, tools, and knowledge between different courses where Markov models are used.\nContents\nMarkov chains: model graphs, Markov property, transition probabilities, persistent and transient states, positive and null persistent states, communication, existence and uniqueness of stationary distribution, and calculation thereof, absorption times.\nPoisson process: Law of small numbers, counting processes, event distance, non-homogeneous processes, diluting and super positioning, processes on general spaces.\nMarkov processes: transition intensities, time dynamic, existence and uniqueness of stationary distribution, and calculation thereof, birth-death processes, absorption times.\nIntroduction to renewal theory and regenerative processes.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written exam and compulsory computer exercises.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0115. Name: Examination. \n\nCredits: 6.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written examination.\n        \n        \n        \n        \nCode: 0215. Name: Laboratory Work Part 1. \n\nCredits: 0.5. Grading scale: UG - (U, G).\n        \n          Assessment: The first computer exercise\n        \n        \n        \n        \nCode: 0315. Name: Laboratory work Part 2. \n\nCredits: 0.5. Grading scale: UG - (U, G).\n        \n          Assessment: The rest of the computer exercises\n        \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\n((FMAA20 Linear Algebra with Introduction to Computer Tools or FMAA21 Linear Algebra with Numerical Applications or FMAB20 Linear Algebra or FMAB22 Linear Algebra) \n  and \n (FMAB30 Calculus in Several Variables or FMAB35 Calculus in Several Variables))  or(FMSF20 Mathematical Statistics, Basic Course or FMSF25 Mathematical Statistics - Complementary Project or FMSF32 Mathematical Statistics or FMSF45 Mathematical Statistics, Basic Course or FMSF50 Mathematical Statistics, Basic Course or FMSF55 Mathematical Statistics, Basic Course or FMSF70 Mathematical Statistics or FMSF75 Mathematical Statistics, Basic Course or FMSF80 Mathematical Statistics, Basic Course)\n\nAssumed prior knowledge: \n        A basic course in mathematical statistics.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFMS180\n          \n        \n          \n            MASC03\n          \n        \n          \n            MASC13\n          \n        \n      \n    \nReading list\n\nLindgren, G. & Rydén, T: Markovprocesser. KFS, 2002. One of the books is enough. Recommended for Swedish students.\nMark Pinsky and Samuel Karlin: An Introduction to Stochastic Modeling. Academic Press Inc, 2011, ISBN: 9780123814166. One of the books is enough. Recommended for exchange students.\n\nContact\n\nDirector of studies: Johan Lindström,\n        studierektor@matstat.lu.se\nCourse administrator: Susann Nordqvist,\n        expedition@matstat.lu.se\nExaminator: Johan Lindström,\n        johan.lindstrom@matstat.lu.se\nExaminator: Magnus Wiktorsson,\n        magnus.wiktorsson@matstat.lu.se\nExaminator: Stanislav Volkov,\n        stanislav.volkov@matstat.lu.se\nCourse homepage: https://www.maths.lu.se/utbildning/civilingenjoersutbildning/matematisk-statistik-paa-civilingenjoersprogram/\n\nFurther information\nThe course is also given at the faculty of science with the code MASC13.Please note that the course has re-examinations in exam period 2 (January) and exam period 6 (August).\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

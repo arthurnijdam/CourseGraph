@@ -1,0 +1,68 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Internet Protocols\nInternetprotokoll",
+    "ETSF10, 7.5 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C2\nElective for: D4-ns, E4-ns, MWIR1\nLanguage of instruction: The course will be given in English",
+    "The course aims to provide the students with thorough knowledge, both theoretical and practical, about the most central protocols underpinning the Internet. In particular, a deeper technical understanding is provided for:",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The course implies deepened studies of IP network technology. The elements of the course are theoretical as well as practical (primarily in the form of lectures, tutorials and labs).The course assumes basic knowledge of computer communication in general and TCP/IP in particular, where especially different types of link protocols, transport protocols and routing principles are treated. A central part of the course is the understanding of how the individual mechanisms in different protocols and functions together form the service delivery. To achieve this a strong focus is placed on self-study of the course literature.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: For passing the course (grades 3-5), students must have approved project reports and final exam. The final grade of the course is determined by the result in the final exam.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0123. Name: Project. \n\nCredits: 3.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved project reports.\n        \n        \n          The module includes: Two projects carried out online.\n        \n        \n        \nCode: 0223. Name: Exam. \n\nCredits: 4.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved exam.\n        \n        \n          The module includes: Written exam.",
+    "Assumed prior knowledge: \n        EITF45 Computer Communications or ETS150 Data Communications. Basic knowledge in programming.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nETS110\nETSF05",
+    "Course coordinator: Kaan Bür,\n        kaan.bur@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/etsf10",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "link protocols beyond Ethernet",
+      "network layer protocols (IP)",
+      "transport protocols",
+      "routing principles",
+      "application examples",
+      "performance and Quality of Service (QoS)",
+      "Data center networks using Software Defined Networks (SDN)"
+    ],
+    [
+      "be able to account for the underlying principles of some of the most central link protocols,",
+      "be able to account for the underlying principles of some of the most central internet protocols,",
+      "perform analysis and troubleshoot network traffic by interpreting and identifying the observed protocol behaviour from network data,",
+      "show knowledge and insight into how different protocols work together, supports and limits each other's functions and performance."
+    ],
+    [
+      "be able to build network structures using SDN in the Linux kernel,",
+      "be able to analyse protocols both mathematically and using analysis tools,",
+      "be able to emulate complex network configurations and pre-study before new services and protocols are implemented live in systems.",
+      "be able to independently aquire knowledge from the course literature, plan their studies and bring relevant questions to the teacher led sessions.",
+      "be able to work in groups and to be able to plan and finish tasks within given timeframes."
+    ],
+    [
+      "Be able to judge how individual components in different protocols affect performance and service experience of one's own and other data flows through a network."
+    ],
+    [
+      "Kurds and Ross: Computer Networking - A Top Down Approach 8th ed. Pearson, 2023, ISBN: 978-1-292-40546-9."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår10/1111/1212/1313/1414/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nInternet Protocols\nInternetprotokoll\nETSF10, 7.5 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C2\nElective for: D4-ns, E4-ns, MWIR1\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe course aims to provide the students with thorough knowledge, both theoretical and practical, about the most central protocols underpinning the Internet. In particular, a deeper technical understanding is provided for:link protocols beyond Ethernetnetwork layer protocols (IP)transport protocolsrouting principlesapplication examplesperformance and Quality of Service (QoS)Data center networks using Software Defined Networks (SDN)\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to account for the underlying principles of some of the most central link protocols,be able to account for the underlying principles of some of the most central internet protocols,perform analysis and troubleshoot network traffic by interpreting and identifying the observed protocol behaviour from network data,show knowledge and insight into how different protocols work together, supports and limits each other's functions and performance.\nCompetences and skills\n      For a passing grade the student must\nbe able to build network structures using SDN in the Linux kernel,be able to analyse protocols both mathematically and using analysis tools,be able to emulate complex network configurations and pre-study before new services and protocols are implemented live in systems.be able to independently aquire knowledge from the course literature, plan their studies and bring relevant questions to the teacher led sessions.be able to work in groups and to be able to plan and finish tasks within given timeframes.\nJudgement and approach\n      For a passing grade the student must\nBe able to judge how individual components in different protocols affect performance and service experience of one's own and other data flows through a network.\nContents\nThe course implies deepened studies of IP network technology. The elements of the course are theoretical as well as practical (primarily in the form of lectures, tutorials and labs).The course assumes basic knowledge of computer communication in general and TCP/IP in particular, where especially different types of link protocols, transport protocols and routing principles are treated. A central part of the course is the understanding of how the individual mechanisms in different protocols and functions together form the service delivery. To achieve this a strong focus is placed on self-study of the course literature.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: For passing the course (grades 3-5), students must have approved project reports and final exam. The final grade of the course is determined by the result in the final exam.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0123. Name: Project. \n\nCredits: 3.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved project reports.\n        \n        \n          The module includes: Two projects carried out online.\n        \n        \n        \nCode: 0223. Name: Exam. \n\nCredits: 4.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved exam.\n        \n        \n          The module includes: Written exam.\n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        EITF45 Computer Communications or ETS150 Data Communications. Basic knowledge in programming.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nETS110\nETSF05\n\nReading list\n\nKurds and Ross: Computer Networking - A Top Down Approach 8th ed. Pearson, 2023, ISBN: 978-1-292-40546-9.\n\nContact\n\nCourse coordinator: Kaan Bür,\n        kaan.bur@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/etsf10\n\nFurther information\n      In this course there are lectures, exercises, and laboratory projects.\n\nSuitable for exchange students with previous computer communications knowledge.\n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

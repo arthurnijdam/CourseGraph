@@ -1,0 +1,532 @@
+{
+  "title": "Courses / Real-Time Systems, Exercise Session (IN2060) - TUMonline - Technische Universität München",
+  "headings": [
+    "Overview",
+    "Description",
+    "Dates and Groups",
+    "Status within Curriculum",
+    "Equivalent courses",
+    "Die Seite ist nicht für diesen Browser optimiert. \nThis site is not optimised for your browser."
+  ],
+  "paragraphs": [],
+  "lists": [
+    [
+      "[20191]  Aerospace",
+      "Master Modules[...]",
+      "Domain Specific Modules",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject type-",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20191]  Automotive Engineering",
+      "Master Modules[...]",
+      "Flexibilization in Engineering Sciences (up to 15 Credits only)",
+      "Interdisciplinary Master Modules",
+      "Informatik",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20161]  Master`s Program Automotive Software Engineering",
+      "Required Modules Software Engineering[...]",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeCompulsory subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20151]  Extension of Degree Program Teaching Profession for Secondary School Education: Additional Teaching Subject Informatics",
+      "Bachelor[...]",
+      "Elective Modules in Informatics",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20151]  Extension of Degree Program Teaching Profession for Secondary School Education: Additional Teaching Subject Informatics",
+      "Master[...]",
+      "Elective Modules in Informatics",
+      "Artificial Intelligence and Robotics",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20181]  Data Engineering and Analytics",
+      "Elective Modules[...]",
+      "Elective Modules Informatics",
+      "Robotics",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20191]  Development, Production and Management in Mechanical Engineering",
+      "Master Modules[...]",
+      "Flexibilization in Engineering Sciences (up to 15 Credits only)",
+      "Interdisciplinary Master Modules",
+      "Informatik",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20181]  Bachelor's Program Electrical and Computer Engineering",
+      "Bachelor Exams[...]",
+      "Elective Modules",
+      "Elective Lectures Bachelor EI",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20191]  Energy and Process Technology",
+      "Master Modules[...]",
+      "Flexibilization in Engineering Sciences (up to 15 Credits only)",
+      "Interdisciplinary Master Modules",
+      "Informatik",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20191]  Engineering Science",
+      "Electives 2 (Focusing)[...]",
+      "Electives IN Informatics",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject type-",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20081]  Aufbaustudium Informatik",
+      "Vertiefungsschwerpunkt[...]",
+      "Künstliche Intelligenz",
+      "Vertiefende Vorlesung",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20181]  Informatics: Games Engineering",
+      "Elective Modules Informatics and Games Engineering[...]",
+      "Robotik",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20181]  Informatics: Games Engineering",
+      "Elective Modules Informatics: Games Engineering[...]",
+      "Elective Modules Informatics",
+      "Robotics",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20181]  Informatics (Parttime, 50%)",
+      "Elective Modules Informatics[...]",
+      "Robotics (ROB)",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20181]  Informatics (Parttime, 66%)",
+      "Elective Modules Informatics[...]",
+      "Robotics (ROB)",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20211]  Bachelor's Program Informatics",
+      "Elective Modules[...]",
+      "Robotics",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[0]  Informatics",
+      "Courses Informatics[...]",
+      "Artificial Intelligence and Robotics",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20181]  Master's Program Informatics",
+      "Elective Modules Informatics[...]",
+      "Robotics (ROB)",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20211]  Bachelor's Program Information Systems",
+      "Elective Modules Informatics[...]",
+      "Robotik",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20211]  Master's Program Information Systems",
+      "Elective Courses[...]",
+      "Robotics",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20221]  Information Systems",
+      "Elective Courses[...]",
+      "Robotics",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20211]  Bachelor's Program in Management & Technology",
+      "Electives in Management and/or Technology[...]",
+      "Computer Engineering",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20211]  Bachelor's Program in Management & Technology",
+      "Specialization in Technology[...]",
+      "Specialization in Technology: Computer Engineering",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20181]  Management and Technology",
+      "Specialization in Technology[...]",
+      "Specialization in Technology: Computer Engineering (minor)",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20181]  Management and Technology",
+      "Electives in Management and/or Technology[...]",
+      "Electives from Computer Engineering",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20191]  Maschinenwesen USP",
+      "Master Modules[...]",
+      "Interdisziplinäre Mastermodule",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject type-",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20201]  Master Science Education (Naturwissenschaftliche Bildung Lehramt Gymnasium) with Emphases on Mathematics and Informatics...",
+      "Informatics[...]",
+      "Elective Modules in Informatics",
+      "Artificial Intelligence and Robotics",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20191]  Mathematics in Science and Engineering",
+      "Elective Modules[...]",
+      "A1.7 Application modules",
+      "A1.7.1 Application modules at the Technical University of Munich",
+      "Informatics",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20191]  Bachelor Science Education (Naturwissenschaftliche Bildung Lehramt Gymnasium) with Emphases on Mathematics and Informati...",
+      "Elective Modules in Informatics[...]",
+      "Artificial Intelligence and Robotics",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20191]  Mechanical Engineering",
+      "Master Modules[...]",
+      "Adjacent Fields (up to 15 Credits)",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20191]  Mechatronics and Robotics",
+      "Master Modules[...]",
+      "Informatics/Computer-Aided Methods",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20191]  Medical Engineering and Assistance Systems",
+      "Master Modules[...]",
+      "Flexibilization in Engineering Sciences (up to 15 Credits only)",
+      "Interdisciplinary Master Modules",
+      "Informatik",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[0]  Exchange Program Physics",
+      "Modules from Other Disciplines[...]",
+      "General Catalogue of Elective Courses Non-Physics",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20181]  Physics (Applied and Engineering Physics)",
+      "Advanced Studies[...]",
+      "Non-Physics Elective",
+      "General Catalogue of Elective Courses Non-Physics",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20181]  Physics (Biophysics)",
+      "Advanced Studies[...]",
+      "Non-Physics Elective",
+      "General Catalogue of Elective Courses Non-Physics",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20181]  Physics (Condensed Matter Physics)",
+      "Advanced Studies[...]",
+      "Non-Physics Elective",
+      "General Catalogue of Elective Courses Non-Physics",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20181]  Physics (Nuclear, Particle, and Astrophysics)",
+      "Advanced Studies[...]",
+      "Non-Physics Elective",
+      "General Catalogue of Elective Courses Non-Physics",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20191]  Master's Program Robotics, Cognition, Intelligence",
+      "Elective Modules[...]",
+      "Elective Modules Systems and Control",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20191]  Master's Program Robotics, Cognition, Intelligence",
+      "Elective Modules[...]",
+      "Elective Modules Computation",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20211]  TUM Skills Excellence Program (Department of Informatics)",
+      "Subject-Related Modules of the previous Master's program[...]",
+      "Elective Modules Informatics",
+      "Robotics (ROB)",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "[20211]  TUM Skills Excellence Program (Department of Physics)",
+      "Subject-Related Modules from the Previous Master’s Program[...]",
+      "Physics Master’s Programs",
+      "General Catalogue of Elective Courses Non-Physics",
+      "[IN2060]  Real-Time Systems",
+      "Real-Time Systems, Exercise Session (IN2060)"
+    ],
+    [
+      "Subject typeElective subject",
+      "Recommendedno semester recommended",
+      "PreconditionsNone"
+    ],
+    [
+      "0000001018Real-Time Systems, Exercise Session (IN2060)UE2 SWS- ECTS2021 WMain lecturer Knoll, Alois ChristianLecturer Hashemi Farzaneh, MortezaLenz, Alexander"
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nCourses / Real-Time Systems, Exercise Session (IN2060) - TUMonline - Technische Universität München\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCourses / Real-Time Systems, Exercise Session (IN2060)Login Overview Title Real-Time Systems, Exercise Session (IN2060) Number 0000001018 Persons involvedHeadKnoll, Alois ChristianLecturer (Assistant)Hashemi Farzaneh, MortezaLenz, AlexanderType exercise (UE) Semester weekly hours 2 ECTS credits-Course language/s English Offered in Winter semester 2021/22 Organisation Informatics 6 - Chair of Robotics, Artificial Intelligence and Real-time Systems (Prof. Knoll)  Description ContentBasic concepts, scheduling, fault tolerance, real-time operating systems, \nreal-time programming languages, case-tools, clocks, concurrency and \ncommunication, fieldbus, applications, secure systems; Special hardware, \ncontrol engineering, fuzzy-control, reliabilityPrevious knowledge expected-Objectivesee Module description IN2060Teaching and learning methodnoneCourse Criteria and Registration-Further informationOnline informationcourse documents Dates and Groups Show all appointments in a list Show appointments in compact formStandardgruppe Lecturer Hashemi Farzaneh, MortezaLenz, AlexanderShow past dates Series Thursday  , 19:00 - 20:30 from 21.10.2021 to 10.02.2022 003, Hörsaal 2, \"Interims II\" (5416.01.003) Status within Curriculum Aerospace - Master of Science (437) ,20191  [20191]  AerospaceMaster Modules[...]Domain Specific Modules [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject type-Recommendedno semester recommendedPreconditionsNoneAutomotive Engineering - Master of Science (438) ,20191  [20191]  Automotive EngineeringMaster Modules[...]Flexibilization in Engineering Sciences (up to 15 Credits only)Interdisciplinary Master ModulesInformatik [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneAutomotive Software Engineering - Master of Science (142) ,20161  [20161]  Master`s Program Automotive Software EngineeringRequired Modules Software Engineering[...] [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeCompulsory subjectRecommendedno semester recommendedPreconditionsNoneComputer Science - Education: complementary teaching subject (Certificate) (028) ,20151  [20151]  Extension of Degree Program Teaching Profession for Secondary School Education: Additional Teaching Subject InformaticsBachelor[...]Elective Modules in Informatics [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneComputer Science - Education: complementary teaching subject (Certificate) (028) ,20151  [20151]  Extension of Degree Program Teaching Profession for Secondary School Education: Additional Teaching Subject InformaticsMaster[...]Elective Modules in InformaticsArtificial Intelligence and Robotics [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneData Engineering and Analytics - Master of Science (048) ,20181  [20181]  Data Engineering and AnalyticsElective Modules[...]Elective Modules InformaticsRobotics [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneDevelopment, Production and Management in Mechanical Engineering - Master of Science (429) ,20191  [20191]  Development, Production and Management in Mechanical EngineeringMaster Modules[...]Flexibilization in Engineering Sciences (up to 15 Credits only)Interdisciplinary Master ModulesInformatik [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneElectrical and Computer Engineering - Bachelor of Science (500) ,20181  [20181]  Bachelor's Program Electrical and Computer EngineeringBachelor Exams[...]Elective ModulesElective Lectures Bachelor EI [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneEnergy and Process Technology - Master of Science (443) ,20191  [20191]  Energy and Process TechnologyMaster Modules[...]Flexibilization in Engineering Sciences (up to 15 Credits only)Interdisciplinary Master ModulesInformatik [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneEngineering Science - Bachelor of Science (411) ,20191  [20191]  Engineering ScienceElectives 2 (Focusing)[...]Electives IN Informatics [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject type-Recommendedno semester recommendedPreconditionsNoneInformatics - Graduate studies with certificate (040) ,20081  [20081]  Aufbaustudium InformatikVertiefungsschwerpunkt[...]Künstliche IntelligenzVertiefende Vorlesung [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneInformatics: Games Engineering - Bachelor of Science (034) ,20181  [20181]  Informatics: Games EngineeringElective Modules Informatics and Games Engineering[...]Robotik [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneInformatics: Games Engineering - Master of Science (034) ,20181  [20181]  Informatics: Games EngineeringElective Modules Informatics: Games Engineering[...]Elective Modules InformaticsRobotics [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneInformatics (Parttime, 50%) - Master of Science (060) ,20181  [20181]  Informatics (Parttime, 50%)Elective Modules Informatics[...]Robotics (ROB) [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneInformatics (Parttime, 66%) - Master of Science (061) ,20181  [20181]  Informatics (Parttime, 66%)Elective Modules Informatics[...]Robotics (ROB) [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneInformatik - Bachelor of Science (030) ,20211  [20211]  Bachelor's Program InformaticsElective Modules[...]Robotics [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneInformatik - Exchange program (not subject to fees) (030) ,0  [0]  InformaticsCourses Informatics[...]Artificial Intelligence and Robotics [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneInformatik - Master of Science (030) ,20181  [20181]  Master's Program InformaticsElective Modules Informatics[...]Robotics (ROB) [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneInformation Systems - Bachelor of Science (043) ,20211  [20211]  Bachelor's Program Information SystemsElective Modules Informatics[...]Robotik [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneInformation Systems - Master of Science (043) ,20211  [20211]  Master's Program Information SystemsElective Courses[...]Robotics [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneInformation Systems - Master of Science (121) ,20221  [20221]  Information SystemsElective Courses[...]Robotics [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneManagement and Technology - Bachelor of Science (256) ,20211  [20211]  Bachelor's Program in Management & TechnologyElectives in Management and/or Technology[...]Computer Engineering  [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneManagement and Technology - Bachelor of Science (256) ,20211  [20211]  Bachelor's Program in Management & TechnologySpecialization in Technology[...]Specialization in Technology: Computer Engineering  [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneManagement and Technology - Master of Science (249) ,20181  [20181]  Management and TechnologySpecialization in Technology[...]Specialization in Technology: Computer Engineering (minor) [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneManagement and Technology - Master of Science (249) ,20181  [20181]  Management and TechnologyElectives in Management and/or Technology[...]Electives from Computer Engineering [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneMaschinenwesen USP - Exchange program (not subject to fees) (444) ,20191  [20191]  Maschinenwesen USPMaster Modules[...]Interdisziplinäre Mastermodule [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject type-Recommendedno semester recommendedPreconditionsNoneMathematics Computer Science - Master of Education (016 028) ,20201  [20201]  Master Science Education (Naturwissenschaftliche Bildung Lehramt Gymnasium) with Emphases on Mathematics and Informatics...Informatics[...]Elective Modules in InformaticsArtificial Intelligence and Robotics [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneMathematics in Science and Engineering - Master of Science (023) ,20191  [20191]  Mathematics in Science and EngineeringElective Modules[...]A1.7 Application modulesA1.7.1 Application modules at the Technical University of MunichInformatics [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneMathematics Informatics - Bachelor of Education (016 028) ,20191  [20191]  Bachelor Science Education (Naturwissenschaftliche Bildung Lehramt Gymnasium) with Emphases on Mathematics and Informati...Elective Modules in Informatics[...]Artificial Intelligence and Robotics [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneMechanical Engineering - Master of Science (400) ,20191  [20191]  Mechanical EngineeringMaster Modules[...]Adjacent Fields (up to 15 Credits) [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneMechatronics and Robotics - Master of Science (439) ,20191  [20191]  Mechatronics and RoboticsMaster Modules[...]Informatics/Computer-Aided Methods [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneMedical Engineering and Assistance Systems - Master of Science (441) ,20191  [20191]  Medical Engineering and Assistance SystemsMaster Modules[...]Flexibilization in Engineering Sciences (up to 15 Credits only) Interdisciplinary Master ModulesInformatik [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNonePhysics - Exchange program (not subject to fees) (051) ,0  [0]  Exchange Program PhysicsModules from Other Disciplines[...]General Catalogue of Elective Courses Non-Physics [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNonePhysics (Applied and Engineering Physics) - Master of Science (067) ,20181  [20181]  Physics (Applied and Engineering Physics)Advanced Studies[...]Non-Physics ElectiveGeneral Catalogue of Elective Courses Non-Physics [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNonePhysics (Biophysics) - Master of Science (068) ,20181  [20181]  Physics (Biophysics)Advanced Studies[...]Non-Physics ElectiveGeneral Catalogue of Elective Courses Non-Physics [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNonePhysics (Condensed Matter Physics) - Master of Science (069) ,20181  [20181]  Physics (Condensed Matter Physics)Advanced Studies[...]Non-Physics ElectiveGeneral Catalogue of Elective Courses Non-Physics [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNonePhysics (Nuclear, Particle and Astrophysics) - Master of Science (066) ,20181  [20181]  Physics (Nuclear, Particle, and Astrophysics)Advanced Studies[...]Non-Physics ElectiveGeneral Catalogue of Elective Courses Non-Physics [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneRobotics, Cognition, Intelligence - Master of Science (141) ,20191  [20191]  Master's Program Robotics, Cognition, IntelligenceElective Modules[...]Elective Modules Systems and Control [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneRobotics, Cognition, Intelligence - Master of Science (141) ,20191  [20191]  Master's Program Robotics, Cognition, IntelligenceElective Modules[...]Elective Modules Computation [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneTUM Skills Excellence Program (Department of Informatics) - TUM Skills Excellence Program with certificate (639) ,20211  [20211]  TUM Skills Excellence Program (Department of Informatics)Subject-Related Modules of the previous Master's program[...]Elective Modules InformaticsRobotics (ROB) [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNoneTUM Skills Excellence Program (Department of Physics) - TUM Skills Excellence Program with certificate (629) ,20211  [20211]  TUM Skills Excellence Program (Department of Physics)Subject-Related Modules from the Previous Master’s Program[...]Physics Master’s ProgramsGeneral Catalogue of Elective Courses Non-Physics [IN2060]  Real-Time SystemsReal-Time Systems, Exercise Session (IN2060)Subject typeElective subjectRecommendedno semester recommendedPreconditionsNone Equivalent courses Winter semester 2021/220000001018Real-Time Systems, Exercise Session (IN2060)UE2 SWS- ECTS2021 WMain lecturer Knoll, Alois ChristianLecturer Hashemi Farzaneh, MortezaLenz, AlexanderFurther loading... Top\nPlease enable JavaScript to continue using this application.\n\n\n×\n\nDie Seite ist nicht für diesen Browser optimiert. \nThis site is not optimised for your browser. \n\n\n\n\nCourses / Real-Time Systems, Exercise Session (IN2060)"
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Computer Graphics\nDatorgrafik",
+    "EDAF80, 7.5 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Main field:  Virtual Reality and Augmented Reality\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: MVAR1\nElective for: C4-adv, D4-bg, E4-bg, F4, F4-bg, IDA3, L4-gi, MMSR2, Pi4-bam\nLanguage of instruction: The course will be given in English",
+    "To give a fundamental understanding of methods and techniques for 3D computer graphics and practical experience of graphics programming.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Construction of geometric objects. Describing and calculating object movement. User interaction. Translation of geometries in 3D space to the screen. Models of light and surface materials. Mapping and buffer techniques.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written examination and completed course items. To qualify for the written examination students must have completed the compulsory items. The final grade of the course is based on the result of the written examination.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0117. Name: Compulsory Course Items. \n\nCredits: 3.5. Grading scale: UG - (U, G).\n        \n          Assessment: To qualify for a passing grade the laboratory work and the project must be completed.\n        \n        \n          The module includes: Laboratory work and a small project.\n        \n        \n        \nCode: 0217. Name: Written Examination. \n\nCredits: 4.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: To qualify for the written exam the compulsory course items must be completed. The final grade of the course is based on the result of the written examination.\n        \n        \n          The module includes: Written examination.",
+    "Admission requirements:",
+    "Course coordinator: Michael Doggett,\n        Michael.Doggett@cs.lth.se\nCourse homepage: https://cs.lth.se/edaf80",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "know the different steps comprising the translation of a scene description to an image",
+      "understand the structure and design of interfaces to graphics hardware."
+    ],
+    [
+      "be able to perform the mathematical calculations needed in the rendering process",
+      "use OpenGL to implement a hardware accelerated renderer"
+    ],
+    [
+      "(EDA011 Programming, First Course or EDA016 Programming, First Course or EDA017 Programming, First Course or EDA501 Programming, First Course or EDAA10 Computer Programming in Java or EDAA20 Programming and Databases or EDAA45 Introduction to Programming or EDAA50 Programming, First Course or EDAA55 Programming, First Course or EDAA65 Programming, First Course or EDAA80 Introduction to Programming or EDAA81 Introduction to Programming or EDAA85 Introduction to Programming or EDAA90 Introduction to Programming and Databases or EDAA90 Introduction to Programming and Databases or EDAB05 Introduction to Programming)  and(FMA420 Linear Algebra or FMAA55 Mathematics, Linear Algebra or FMAB20 Linear Algebra or FMAA21 Linear Algebra with Numerical Applications)"
+    ],
+    [
+      "See the course home page."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår17/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nComputer Graphics\nDatorgrafik\nEDAF80, 7.5 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nMain field:  Virtual Reality and Augmented Reality\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: MVAR1\nElective for: C4-adv, D4-bg, E4-bg, F4, F4-bg, IDA3, L4-gi, MMSR2, Pi4-bam\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nTo give a fundamental understanding of methods and techniques for 3D computer graphics and practical experience of graphics programming.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nknow the different steps comprising the translation of a scene description to an imageunderstand the structure and design of interfaces to graphics hardware.\nCompetences and skills\n      For a passing grade the student must\nbe able to perform the mathematical calculations needed in the rendering processuse OpenGL to implement a hardware accelerated renderer\nContents\nConstruction of geometric objects. Describing and calculating object movement. User interaction. Translation of geometries in 3D space to the screen. Models of light and surface materials. Mapping and buffer techniques.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written examination and completed course items. To qualify for the written examination students must have completed the compulsory items. The final grade of the course is based on the result of the written examination.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0117. Name: Compulsory Course Items. \n\nCredits: 3.5. Grading scale: UG - (U, G).\n        \n          Assessment: To qualify for a passing grade the laboratory work and the project must be completed.\n        \n        \n          The module includes: Laboratory work and a small project.\n        \n        \n        \nCode: 0217. Name: Written Examination. \n\nCredits: 4.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: To qualify for the written exam the compulsory course items must be completed. The final grade of the course is based on the result of the written examination.\n        \n        \n          The module includes: Written examination.\n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\n(EDA011 Programming, First Course or EDA016 Programming, First Course or EDA017 Programming, First Course or EDA501 Programming, First Course or EDAA10 Computer Programming in Java or EDAA20 Programming and Databases or EDAA45 Introduction to Programming or EDAA50 Programming, First Course or EDAA55 Programming, First Course or EDAA65 Programming, First Course or EDAA80 Introduction to Programming or EDAA81 Introduction to Programming or EDAA85 Introduction to Programming or EDAA90 Introduction to Programming and Databases or EDAA90 Introduction to Programming and Databases or EDAB05 Introduction to Programming)  and(FMA420 Linear Algebra or FMAA55 Mathematics, Linear Algebra or FMAB20 Linear Algebra or FMAA21 Linear Algebra with Numerical Applications)\n\nAssumed prior knowledge: \n        EDAA01 Programming - Second Course\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEDA221\n          \n        \n          \n            EDA220\n          \n        \n      \n    \nReading list\n\nSee the course home page.\n\nContact\n\nCourse coordinator: Michael Doggett,\n        Michael.Doggett@cs.lth.se\nCourse homepage: https://cs.lth.se/edaf80\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

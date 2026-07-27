@@ -1,0 +1,67 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Computer Architecture\nDatorarkitektur",
+    "EITF20, 7.5 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-sec, D4-is, D4-hs, E4-is, E4-hp, F4, MSOC1\nLanguage of instruction: The course will be given in English",
+    "The goal of this course is to introduce the operation of computer systems at the level of Instruction Set Architectures (ISA). It aims to provide a basic understanding of the design principles that govern modern computer architectures and their components. Especially it pays attention to (super scalar) pipelining and memory hierarchy techniques including caches. Implementation and efficiency issues are exemplified. Metrical performance analysis methods are discussed to evaluate architectural alternatives.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The course introduces the foundations of low-level computer functioning. The course syllabus includes, among other things, the main parts of computer system and low-level programming techniques and the techniques of RISC-processors and pipelining, cache memory and virtual memory. The course also illuminates the alternative design principles of modern computer architectures in order to provide an understanding of their impact on performance. Quantitative methods to evaluate design principles for performance constitutes an important subject of the course. In coarse overview the lectures treat:",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "To pass the course, approved laboratory work and a passed exam are required.The final grade is based on the results of the written exam.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0112. Name: Examination. \n\nCredits: 4.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written exam.\n        \n        \n        \n        \nCode: 0212. Name: Laboratory Work. \n\nCredits: 3.5. Grading scale: UG - (U, G).\n        \n          Assessment: Passed laboratory work.",
+    "Assumed prior knowledge: \n        EIT070 or EITF70 Computer Organization\n\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEIT090",
+    "Course coordinator: Liang Liu,\n        liang.liu@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/eitf20",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "understand a computer architecture",
+      "know how to quantify the potential performance of a computer",
+      "have an overview of the architectural alternatives and technological restrictions to solve a computing problem."
+    ],
+    [
+      "Be skilled in establishing computer functionality",
+      "Be well-versed in system simulation",
+      "Be experienced in architecture quantification",
+      "Have an operational knowledge of architectures"
+    ],
+    [
+      "have learnt trade-offs in creating computer support for solving problems"
+    ],
+    [
+      "Performance",
+      "ISA principles",
+      "Pipelining",
+      "Memory Systems",
+      "I/O, Multiprocessor",
+      "ASIP (Application specific instruction set architecture)"
+    ],
+    [
+      "Hennesy, J L, Patterson, D A: Computer Architecture – A Quantitative Approach. Morgan Kaufman Publishers, 2017, ISBN: 9780128119051. 6th edition.",
+      "Articles and documents from the Web.",
+      "Course notes and labs."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår10/1111/1212/1313/1414/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nComputer Architecture\nDatorarkitektur\nEITF20, 7.5 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-sec, D4-is, D4-hs, E4-is, E4-hp, F4, MSOC1\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe goal of this course is to introduce the operation of computer systems at the level of Instruction Set Architectures (ISA). It aims to provide a basic understanding of the design principles that govern modern computer architectures and their components. Especially it pays attention to (super scalar) pipelining and memory hierarchy techniques including caches. Implementation and efficiency issues are exemplified. Metrical performance analysis methods are discussed to evaluate architectural alternatives.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nunderstand a computer architectureknow how to quantify the potential performance of a computerhave an overview of the architectural alternatives and technological restrictions to solve a computing problem.\nCompetences and skills\n      For a passing grade the student must\nBe skilled in establishing computer functionalityBe well-versed in system simulationBe experienced in architecture quantificationHave an operational knowledge of architectures\nJudgement and approach\n      For a passing grade the student must\nhave learnt trade-offs in creating computer support for solving problems\nContents\nThe course introduces the foundations of low-level computer functioning. The course syllabus includes, among other things, the main parts of computer system and low-level programming techniques and the techniques of RISC-processors and pipelining, cache memory and virtual memory. The course also illuminates the alternative design principles of modern computer architectures in order to provide an understanding of their impact on performance. Quantitative methods to evaluate design principles for performance constitutes an important subject of the course. In coarse overview the lectures treat:PerformanceISA principlesPipeliningMemory SystemsI/O, MultiprocessorASIP (Application specific instruction set architecture)\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: To pass the course, approved laboratory work and a passed exam are required.The final grade is based on the results of the written exam.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0112. Name: Examination. \n\nCredits: 4.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written exam.\n        \n        \n        \n        \nCode: 0212. Name: Laboratory Work. \n\nCredits: 3.5. Grading scale: UG - (U, G).\n        \n          Assessment: Passed laboratory work.\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        EIT070 or EITF70 Computer Organization\n\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEIT090\n\nReading list\n\nHennesy, J L, Patterson, D A: Computer Architecture – A Quantitative Approach. Morgan Kaufman Publishers, 2017, ISBN: 9780128119051. 6th edition.\nArticles and documents from the Web.\nCourse notes and labs.\n\nContact\n\nCourse coordinator: Liang Liu,\n        liang.liu@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/eitf20\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

@@ -1,0 +1,238 @@
+{
+  "title": "Osiris Student Mobile",
+  "headings": [],
+  "paragraphs": [],
+  "lists": [
+    [
+      "Algebraic Skills, Functions (C1)Recapitulation of elementary algebra and high school mathematics with emphasis on algebraic skills (such solving inequalities), Cartesian coordinates, and functions;in particular, algebraic manipulation of trigonometric, exponential and logarithmic functions.",
+      "Limits (C2)Understanding the conceptual definition of limits; able to compute various types of limits; able to determine whether a function is continuous, or can be extended to a continuous function.",
+      "Differentiation I(C3a)Understanding the notion of differentiable functions; able to interpret derivatives in terms of tangent line; able to compute derivatives using the product, quotient, and chain rules; able to use implicit differentiation.",
+      "Differentation II (C3b)Higher order derivatives; linear approximations of a function; Taylor polynomials; l'Hopital's rule and Taylor polynomials as tools to determine limits.",
+      "Transcendental functions(C4)Able to determine inverse functions of one-to-one (injective) functions; in particular, knowing the main properties of the natural logarithm (as inverse of the exponential function) and of the inverse trigonometric functions.",
+      "Integration(C5)Able to compute definite and improper integrals using various techniques such as integration by substitution, integration by parts, and partial fractions;understanding sums and Sigma notation, Riemann sums.",
+      "First-Order Differential Equations(C6a)Able to solve simple first-order differential equations (separable differential equations) and linear first-order differential equations.",
+      "Vectors in the Plane and in Space(L1a)Able to find equations and parametric (vector) equations for lines in the plane and in space, for planes in space;able to interpret and compute with dot products and cross products;able to determine lengths of vectors, distances and angles between vectors."
+    ],
+    [
+      "Algebraic Skills, Functions(C1)Recapitulation of elementary algebra and high school mathematics with emphasis on algebraic skills (such solving inequalities), Cartesian coordinates, and functions;in particular, algebraic manipulation of trigonometric, exponential and logarithmic functions.",
+      "Limits(C2)Conceptual definition of limits; various types of limits; concept of continuity.",
+      "Differentiation I(C3a)Differentiable functions; interpretation of derivatives in terms of tangent line; computation of derivatives using the product, quotient, and chain rules; implicit differentiation.",
+      "Differentiation II (C3b)Taylor polynomials of functions; l'Hopital's rule for computing limits.",
+      "Transcendental functions(C4)Inverse functions of one-to-one (injective) functions; in particular, the main properties of the natural logarithm (as inverse of the exponential function) and of the inverse trigonometric functions.",
+      "Integration(C5)Computation of definite and improper integrals using various techniques such as integration by substitution, integration by parts, and partial fractions;sums and Sigma notation, Riemann sums.",
+      "First-Order Differential Equations(C6a)Simple first-order differential equations (separable differential equations) and linear first-order differential equations.",
+      "Vectors in the Plane and in Space(L1a)Equations and parametric (vector) equations for lines in the plane and in space, for planes in space; dot products and cross products; lengths of vectors, distances and angles between vectors."
+    ],
+    [
+      "Block 1Timeslot(s)A - Mo 1-4, We 9-10, Th 5-8, B - Mo 5-8, Th 9-10, We 1-4, C - Tu 1-4, Fr 5-8Enrolment period15 June 2025 until 24 August 2025 23:59Unenrolment until 1 September 2025 23:59"
+    ],
+    [
+      "Lecture BCSRemark",
+      "Lecture BDSRemark",
+      "Lecture BEI/ BAURemark",
+      "Lecture BPT/ BSIRemark",
+      "Lecture BSTRemark",
+      "Lecture BTBRemark",
+      "Lecture BWRemark",
+      "Tutor hourRemark"
+    ],
+    [
+      "Midterm testInterim examinationTest weight10Minimum grade RemarkTest duration: 60 minutes",
+      "Online testsInterim examinationTest weight10Minimum grade RemarkWeekly test (homework)",
+      "Start testInterim examinationTest weight0Minimum grade RemarkThe students are not entitled to use extra time even though they have the eligibility during these two exam moments",
+      "Start test: contribution to final gradeInterim examinationTest weight10Minimum grade",
+      "Written examinationFinal examinationTest weight70Minimum grade5.0"
+    ],
+    [
+      "Block 1Enrolment period15 June 2025 until 12 October 2025 23:59"
+    ],
+    [
+      "Block 1Enrolment period15 June 2025 until 12 October 2025 23:59"
+    ],
+    [
+      "Block 1Enrolment period15 June 2025 until 12 October 2025 23:59"
+    ],
+    [
+      "Block 1Enrolment period15 June 2025 until 12 October 2025 23:59"
+    ],
+    [
+      "Block 1Enrolment period15 June 2025 until 12 October 2025 23:59Unenrolmentuntil 12 October 2025Test date3 November 2025",
+      "Block 2Enrolment period15 June 2025 until 4 January 2026 23:59Unenrolmentuntil 4 January 2026Test date24 January 2026"
+    ],
+    [
+      "dr. M.E. Hochstenbach",
+      "Dr. rer. nat. L. Kusch",
+      "J.M. Tabeart",
+      "M.L. Goering",
+      "S. Kapçak"
+    ],
+    [
+      "prof.dr. F.G.M.T. Cuypers"
+    ],
+    [
+      "prof.dr. F.G.M.T. Cuypers"
+    ],
+    [
+      "prof.dr. F.G.M.T. Cuypers"
+    ],
+    [
+      "Algebraic skills dict nr 2611",
+      "•\tWe advise students to purchase the hardcopy: Adams & Essex, Calculus, A complete course, Pearson, Tenth Edition ISBN 9780135732588\n•\tStudents may choose to purchase the ebook: ISBN 9780135766781"
+    ]
+  ],
+  "tables": [
+    [
+      [
+        "Timeslot(s)",
+        "A - Mo 1-4, We 9-10, Th 5-8, B - Mo 5-8, Th 9-10, We 1-4, C - Tu 1-4, Fr 5-8"
+      ],
+      [
+        "Enrolment period",
+        "15 June 2025 until 24 August 2025 23:59"
+      ],
+      [
+        "Unenrolment",
+        "until 1 September 2025 23:59"
+      ]
+    ],
+    [
+      [
+        "Remark"
+      ]
+    ],
+    [
+      [
+        "Remark"
+      ]
+    ],
+    [
+      [
+        "Remark"
+      ]
+    ],
+    [
+      [
+        "Remark"
+      ]
+    ],
+    [
+      [
+        "Remark"
+      ]
+    ],
+    [
+      [
+        "Remark"
+      ]
+    ],
+    [
+      [
+        "Remark"
+      ]
+    ],
+    [
+      [
+        "Remark"
+      ]
+    ],
+    [
+      [
+        "Test weight",
+        "10"
+      ],
+      [
+        "Minimum grade"
+      ]
+    ],
+    [
+      [
+        "Test weight",
+        "10"
+      ],
+      [
+        "Minimum grade"
+      ]
+    ],
+    [
+      [
+        "Test weight",
+        "0"
+      ],
+      [
+        "Minimum grade"
+      ]
+    ],
+    [
+      [
+        "Test weight",
+        "10"
+      ],
+      [
+        "Minimum grade"
+      ]
+    ],
+    [
+      [
+        "Test weight",
+        "70"
+      ],
+      [
+        "Minimum grade",
+        "5.0"
+      ]
+    ],
+    [
+      [
+        "Enrolment period",
+        "15 June 2025 until 12 October 2025 23:59"
+      ]
+    ],
+    [
+      [
+        "Enrolment period",
+        "15 June 2025 until 12 October 2025 23:59"
+      ]
+    ],
+    [
+      [
+        "Enrolment period",
+        "15 June 2025 until 12 October 2025 23:59"
+      ]
+    ],
+    [
+      [
+        "Enrolment period",
+        "15 June 2025 until 12 October 2025 23:59"
+      ]
+    ],
+    [
+      [
+        "Enrolment period",
+        "15 June 2025 until 12 October 2025 23:59"
+      ],
+      [
+        "Unenrolment",
+        "until 12 October 2025"
+      ],
+      [
+        "Test date",
+        "3 November 2025"
+      ]
+    ],
+    [
+      [
+        "Enrolment period",
+        "15 June 2025 until 4 January 2026 23:59"
+      ],
+      [
+        "Unenrolment",
+        "until 4 January 2026"
+      ],
+      [
+        "Test date",
+        "24 January 2026"
+      ]
+    ]
+  ],
+  "full_text": "\n\nOsiris Student Mobile\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhomeHomedate_rangeCalendarevent_busyAttendance and absencegradingGradestrending_upProgressbusiness_centerCasesmailMessagesunarchiveUpload paperrss_feedNewsborder_colorEnrollocal_libraryCourse cataloguelanguageLearning AgreementslanguageStay abroad requestsbusinessInternshipssupervisor_accountSupervisorsspeaker_notesNotesCourse catalogue NL  Start  Courses  Education packages  Minors  Degree programmes  Study programmes Clear filtersAcademic yearexpand_moreexpand_less2026-2027 (1723)2025-2026 (2154)2024-2025 (4015)2023-2024 (4015)2022-2023 (3746)2021-2022 (3728)2020-2021 (3554)Quartile (start of course)expand_moreexpand_lessBlock 1 (320)Block 2 (245)Block 3 (293)Block 4 (172)Block GS1 (265)Block GS2 (214)Block GS3 (277)Block GS4 (191)Block JAAR (382)Timeslotexpand_moreexpand_lessA - Mo 1-4, We 9-10, Th 5-8 (360)A1 - Mo 1-2, Th 5-6 (20)A2 - Mo 3-4, Th 7-8 (19)A3 - We 9-10 (8)B - Mo 5-8, Th 9-10, We 1-4 (326)B1 - Mo 5-6, We 1-2 (19)B2 - Mo 7-8, We 3-4 (25)B3 - Th 9-10 (11)C - Tu 1-4, Fr 5-8 (281)C1 - Tu 1-2, Fr 5-6 (18)C2 - Tu 3-4, Fr 7-8 (20)D - We 5-8, Tu 9-10, Fr 1-4 (313)D1 - We 5-6, Fr 1-2 (14)D2 - We 7-8, Fr 3-4 (20)D3 - Tu 9-10 (3)E - Mo 9-10, Tu 5-8, Th 1-4 (316)E1 - Tu 5-6, Th 1-2 (26)E2 - Tu 7-8, Th 3-4 (23)E3 - Mo 9-10 (5)Exam timeslot A (1) search  More Categoryexpand_moreexpand_lessAdvanced (399)Deepening (251)Introductory (177)PhD / PDENG (125)Course typeexpand_moreexpand_lessBachelor College (778)Bachelor Final Project (49)Engineering Doctorate (84)Formal regular subject (4)Graduate School (764)Graduation (63)Informal subject for students (31)Internship (57)Overige (110)PhD (119)Pre master (44)Professional skills (1)TU/e Honors track assessment (50)Facultyexpand_moreexpand_lessApplied Physics and Science Education (98)Biomedical Engineering (238)Chemical Engineering and Chemistry (265)Eindhoven School of Education (78)Electrical Engineering (221)Honors Academy (32)Industrial Design (98)Industrial Engineering and Innovation Sciences (239)innovationSpace (2)Jheronimus Academy of Data Science (41)Mathematics and Computer Science (336)Mechanical Engineering (147)Student Facilities courses ESA (32)The Built Environment (327)Capacity group / Sectionexpand_moreexpand_lessApplied Physics (98)Bio-Organic Chemistry (3)Biointerface Science of Regenerative Medicine (3)Biomaterial engineering & biofabrication (3)Biomaterials (9)Biomedical Chemistry (14)Biomedical Engineering (31)Cardiovascular Biomechanics (23)Chemical Biology (12)Chemical Engineering and Chemistry (217)Chemical Reaction Engineering (8)Computational Biology (18)Computer Science domain (151)Control Systems (19)Control Systems Technology (30)Data Science domain (36)Dynamics and Control (22)Eindhoven School of Education (78)Electrical Energy Systems (19)Electrical Engineering (49) search  More Lecturerexpand_moreexpand_lessAaldering - Reulen, C.T.W. (Cécile) (2)Aarts, H.M.T. (Hélène) (14)Aarts, M.P.J. (Mariëlle) (15)Aarts, R.M. (Ronald) (1)Abbaspour Onari, M. (Mohsen) (2)Abdelmalik, M.R.A. (Michael) (4)Abdelmohsen, L.K.E.A. (Loai) (17)Abiad Monge, A. (Aida) (2)Abo Shama, Q.K.F. (Qusai) (2)Abraham, A.N. (Aakash) (1)Acuna, A.J. (Jessica) (4)Adan, I.J.B.F. (Ivo) (6)Adan, O.C.G. (Olaf) (9)Administration Back Office, (6)Aertssen, A.J. (Aron) (1)Akdag, E. (Erkut) (1)Akintola, E.R. (Lizzi) (10)Akker, W.F. van den (Wouter) (1)Al-Daffaie, S. (Shihab) (8)Albertazzi, L. (Lorenzo) (8) search  More Language of instructionexpand_moreexpand_lessDutch (254)English (1975)Learning Typeexpand_moreexpand_lessChallenge based (97)2025-2026clearfilter_list2025-2026clear     2154  courses found local_library 'The thinking eye' (drawing) (7XX4M0)   2025-2026  Department: The Built Environment  Coordinating unit: Unit Architectural Urban Design and Engineering  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library 3D modeling studio for PT (0HVL00)   2025-2026  Department: Industrial Engineering and Innovation Sciences  Coordinating unit: Human-Technology Interaction  Credits (ECTS): 5 EC  Category: Introductory  Course type: Bachelor College  Instruction language:  English local_library A designerly perspective on IoT; a growing systems approach (DCM110)   2025-2026  Department: Industrial Design  Coordinating unit: Industrial Design  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library AI compute clusters and datacenter networks (5LTF0)   2025-2026  Department: Electrical Engineering  Coordinating unit: Electro-optical Communication  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library AI medical imaging (8BE130)   2025-2026  Department: Biomedical Engineering  Coordinating unit: Medical image analysis  Credits (ECTS): 5 EC  Category: Advanced  Course type: Bachelor College  Instruction language:  English local_library AUDE project 1: Making & Structure (7PA1B20)   2025-2026  Department: The Built Environment  Coordinating unit: Unit Architectural Urban Design and Engineering  Credits (ECTS): 5 EC  Category: Deepening  Course type: Bachelor College  Instruction language:  English local_library Accelerators and beams (3MP140)   2025-2026  Department: Applied Physics and Science Education  Coordinating unit: Applied Physics  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library Acoustic awareness (7S5X0)   2025-2026  Department: The Built Environment  Coordinating unit: Unit Building Physics and Services  Credits (ECTS): 5 EC  Category: Introductory  Course type: Bachelor College  Instruction language:  English local_library Acoustic awareness (7S5X0)   2025-2026  Department: The Built Environment  Coordinating unit: Unit Building Physics and Services  Credits (ECTS): 5 EC  Category: Introductory  Course type: Bachelor College  Instruction language:  English local_library Adaptive array signal processing (5SSC0)   2025-2026  Department: Electrical Engineering  Coordinating unit: Signal Processing System  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library Advanced Algorithms (2IMA10)   2025-2026  Department: Mathematics and Computer Science  Coordinating unit: Computer Science domain  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library Advanced Automotive Sensing (2PDASDAAS)   2025-2026  Department: Mathematics and Computer Science  Coordinating unit: Computer Science domain  Credits (ECTS): 3 EC  Category: PhD / PDENG  Course type: PhD  Instruction language:  English local_library Advanced CMOS design (5SFC0)   2025-2026  Department: Electrical Engineering  Coordinating unit: Integrated Circuits  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library Advanced Calculus I (2DL40)   2025-2026  Department: Mathematics and Computer Science  Coordinating unit: Mathematics domain  Credits (ECTS): 2.5 EC  Category:   Course type: Pre master  Instruction language:  English local_library Advanced Calculus for CE&C (6BBR05)   2025-2026  Department: Chemical Engineering and Chemistry  Coordinating unit: Chemical Engineering and Chemistry  Credits (ECTS): 5 EC  Category: Introductory  Course type: Bachelor College  Instruction language:  English local_library Advanced Calculus for CE&C (6BBR05)   2025-2026  Department: Chemical Engineering and Chemistry  Coordinating unit: Chemical Engineering and Chemistry  Credits (ECTS): 5 EC  Category: Introductory  Course type: Bachelor College  Instruction language:  English local_library Advanced Calculus for premasters (6PMR01)   2025-2026  Department: Chemical Engineering and Chemistry  Coordinating unit: Chemical Engineering and Chemistry  Credits (ECTS): 2.5 EC  Category: Introductory  Course type: Pre master  Instruction language:  English local_library Advanced Calculus for premasters (6PMR01)   2025-2026  Department: Chemical Engineering and Chemistry  Coordinating unit: Chemical Engineering and Chemistry  Credits (ECTS): 2.5 EC  Category: Introductory  Course type: Pre master  Instruction language:  English local_library Advanced Computational Fluid and Plasma Dynamics (3MT120)   2025-2026  Department: Applied Physics and Science Education  Coordinating unit: Applied Physics  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library Advanced Computational and Experimental Skills (33ACE)   2025-2026  Department: Applied Physics and Science Education  Coordinating unit: Applied Physics  Credits (ECTS): 5 EC  Category: Advanced  Course type: Bachelor College  Instruction language:  English local_library Advanced Data Challenge (JBG040)   2025-2026  Department: Jheronimus Academy of Data Science  Coordinating unit: Jheronimus Academy of Data Science voor W&I  Credits (ECTS): 5 EC  Category: Deepening  Course type: Bachelor College  Instruction language:  English local_library Advanced Materials Modelling using Multiscale Methods (3MQ110)   2025-2026  Department: Applied Physics and Science Education  Coordinating unit: Applied Physics  Credits (ECTS): 10 EC  Category:   Course type: Graduate School  Instruction language:  English local_library Advanced Mechatronics (2PDASDAMS)   2025-2026  Department: Mathematics and Computer Science  Coordinating unit: Computer Science domain  Credits (ECTS): 2.5 EC  Category: PhD / PDENG  Course type: PhD  Instruction language:  English local_library Advanced Network Security (2IMS30)   2025-2026  Department: Mathematics and Computer Science  Coordinating unit: Computer Science domain  Credits (ECTS): 5 EC  Category:   Course type: Graduate School  Instruction language:  English local_library Advanced Numerical Methods (6PDPPD122)   2025-2026  Department: Chemical Engineering and Chemistry  Coordinating unit: Chemical Engineering and Chemistry  Credits (ECTS): 1.5 EC  Category:   Course type: PhD  Instruction language:  English Loading more data...2025-2026Calculus Variant 2  (2WBB0) Contentexpand_moreexpand_lessLearning objectives and content\n    ObjectivesAlgebraic Skills, Functions (C1)Recapitulation of elementary algebra and high school mathematics with emphasis on algebraic skills (such solving inequalities), Cartesian coordinates, and functions;in particular, algebraic manipulation of trigonometric, exponential and logarithmic functions.Limits (C2)Understanding the conceptual definition of limits; able to compute various types of limits; able to determine whether a function is continuous, or can be extended to a continuous function.Differentiation I(C3a)Understanding the notion of differentiable functions; able to interpret derivatives in terms of tangent line; able to compute derivatives using the product, quotient, and chain rules; able to use implicit differentiation. Differentation II (C3b)Higher order derivatives; linear approximations of a function; Taylor polynomials; l'Hopital's rule and Taylor polynomials as tools to determine limits.Transcendental functions(C4)Able to determine inverse functions of one-to-one (injective) functions; in particular, knowing the main properties of the natural logarithm (as inverse of the exponential function) and of the inverse trigonometric functions.Integration(C5)Able to compute definite and improper integrals using various techniques such as integration by substitution, integration by parts, and partial fractions;understanding sums and Sigma notation, Riemann sums.First-Order Differential Equations(C6a)Able to solve simple first-order differential equations (separable differential equations) and linear first-order differential equations. Vectors in the Plane and in Space(L1a)Able to find equations and parametric (vector) equations for lines in the plane and in space, for planes in space;able to interpret and compute with dot products and cross products;able to determine lengths of vectors, distances and angles between vectors.     ContentAlgebraic Skills, Functions(C1)Recapitulation of elementary algebra and high school mathematics with emphasis on algebraic skills (such solving inequalities), Cartesian coordinates, and functions;in particular, algebraic manipulation of trigonometric, exponential and logarithmic functions.Limits(C2)Conceptual definition of limits; various types of limits; concept of continuity.Differentiation I(C3a)Differentiable functions; interpretation of derivatives in terms of tangent line; computation of derivatives using the product, quotient, and chain rules; implicit differentiation. Differentiation II (C3b)Taylor polynomials of functions; l'Hopital's rule for computing limits.Transcendental functions(C4)Inverse functions of one-to-one (injective) functions; in particular, the main properties of the natural logarithm (as inverse of the exponential function) and of the inverse trigonometric functions.Integration(C5)Computation of definite and improper integrals using various techniques such as integration by substitution, integration by parts, and partial fractions;sums and Sigma notation, Riemann sums.First-Order Differential Equations(C6a)Simple first-order differential equations (separable differential equations) and linear first-order differential equations. Vectors in the Plane and in Space(L1a)Equations and parametric (vector) equations for lines in the plane and in space, for planes in space; dot products and cross products; lengths of vectors, distances and angles between vectors. A detailed description of the modules C1, C2, C3, C4, C5, C6a, C10a en L1a can be found  here .Practical informationexpand_moreexpand_less    Course module2WBB0    Course typeBachelor College    Credits (ECTS)5 EC    CategoryIntroductory    Language of instructionEnglish    Offered byMathematics and Computer Science - Mathematics domain\n\n    Short promotional description of the courseTechnical science uses mathematics as a language to describe phenomena and to solve problems. With trigonometry one can describe waves. In many problems an optimal setting of parameters should be found. This can be done with mathematical techniques such as differentiation. Integral calculus is needed for the calculation of energy and power. Many models use differential equations. In this course you will learn these and other basic techniques but also the formal aspects of mathematics.Course enrolmentexpand_moreexpand_less    OSIRIS StudentYou can register yourself via OSIRIS Student. To do so, go to Enroll / Course.\n\nEnrolment periods    Block 1Timeslot(s)A - Mo 1-4, We 9-10, Th 5-8, B - Mo 5-8, Th 9-10, We 1-4, C - Tu 1-4, Fr 5-8Enrolment period15 June 2025 until 24 August 2025 23:59Unenrolment until 1 September 2025 23:59Entrance requirementsexpand_moreexpand_less    Assumed previous knowledgeVWO-Wiskunde BInstructional modesexpand_moreexpand_lessInstructional modes    Lecture BCSRemark     Lecture BDSRemark     Lecture BEI/ BAURemark     Lecture BPT/ BSIRemark     Lecture BSTRemark     Lecture BTBRemark     Lecture BWRemark     Tutor hourRemark Testsexpand_moreexpand_lessTests    Midterm testInterim examinationTest weight10Minimum grade RemarkTest duration: 60 minutes    Online testsInterim examinationTest weight10Minimum grade RemarkWeekly test (homework)    Start testInterim examinationTest weight0Minimum grade RemarkThe students are not entitled to use extra time even though they have the eligibility during these two exam moments    Start test: contribution to final gradeInterim examinationTest weight10Minimum grade     Written examinationFinal examinationTest weight70Minimum grade5.0Test enrolmentexpand_moreexpand_less    OSIRIS StudentYou can register yourself via OSIRIS Student. To do so, go to Enroll / Test.\n\nMidterm test    Block 1Enrolment period15 June 2025 until 12 October 2025 23:59Online tests    Block 1Enrolment period15 June 2025 until 12 October 2025 23:59Start test    Block 1Enrolment period15 June 2025 until 12 October 2025 23:59Start test: contribution to final grade    Block 1Enrolment period15 June 2025 until 12 October 2025 23:59Written examination    Block 1Enrolment period15 June 2025 until 12 October 2025 23:59Unenrolmentuntil 12 October 2025Test date3 November 2025    Block 2Enrolment period15 June 2025 until 4 January 2026 23:59Unenrolmentuntil 4 January 2026Test date24 January 2026Lecturer(s)expand_moreexpand_lessCo-lecturer dr. M.E. Hochstenbach Dr. rer. nat. L. Kusch J.M. Tabeart M.L. Goering S. KapçakContactperson for the course prof.dr. F.G.M.T. CuypersResponsible lecturer prof.dr. F.G.M.T. CuypersSubject matter expert prof.dr. F.G.M.T. CuypersMaterialsexpand_moreexpand_lessRecommended material Algebraic skills dict nr 2611 •\tWe advise students to purchase the hardcopy: Adams & Essex, Calculus, A complete course, Pearson, Tenth Edition ISBN 9780135732588\n•\tStudents may choose to purchase the ebook: ISBN 9780135766781Do you want to know more?expand_moreexpand_lessprof.dr. F.G.M.T. Cuypers can tell you more about this course.\nSend an e-mail to f.g.m.t.cuypers@tue.nl\n\n\n"
+}

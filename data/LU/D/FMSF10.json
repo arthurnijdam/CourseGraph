@@ -1,0 +1,75 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Stationary Stochastic Processes\nStationära stokastiska processer",
+    "FMSF10, 7.5 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED I\nDate of Decision: 2026-04-13",
+    "Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: Pi3\nElective for: BME4-sbh, C4-ks, D4-bg, D4-ssr, D4-mai, E4-sb, E4-bg, F4, F4-bg, F4-bm, F4-fm, F4-r, F4-ss, F4-mai, I4-fir, M4, MMSR2, MWIR1, R4-rm\nLanguage of instruction: The course will be given in English",
+    "The student shall aquire a toolbox containing concepts and models for description and handling of stationary stochastic processes within many different areas, such as, signal processing, automatic control, information theory, economics, biology, chemistry, and medicine. The mathematical and statistical elements are therefore illustrated using a wide variety of examples from different areas of application.",
+    "The course shall also give the student the ability to identify the presence of stationary processes in other courses in the education, use the knowledge of stationary processes in other courses, and translate the concepts and tools between different courses, building on stationary processes.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written exam and compulsory computer exercises.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0315. Name: Laboratory part 2. \n\nCredits: 1.0. Grading scale: UG - (U, G).\n        \n          Assessment: The rest of the computer exercises\n        \n        \n        \n        \nCode: 0115. Name: Examination. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written examination.\n        \n        \n        \n        \nCode: 0215. Name: Laboratory part 1. \n\nCredits: 0.5. Grading scale: UG - (U, G).\n        \n          Assessment: The first computer exercise",
+    "Admission requirements:",
+    "Director of studies: Johan Lindström,\n        studierektor@matstat.lu.se\nCourse administrator: Susann Nordqvist,\n        expedition@matstat.lu.se\nExaminator: Johan Lindström,\n        johan.lindstrom@matstat.lu.se\nExaminator: Magnus Wiktorsson,\n        magnus.wiktorsson@matstat.lu.se\nExaminator: Maria Sandsten,\n        maria.sandsten@matstat.lu.se\nCourse homepage: https://www.maths.lu.se/utbildning/civilingenjoersutbildning/matematisk-statistik-paa-civilingenjoersprogram/",
+    "Also given at the faculty of science with the course code MASC14.",
+    "Please note that the course has re-examinations in exam period 2 (January) and exam period 6 (August).",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to perform calculations using expectations, variance, covariance, and cross-covariance within and between different stationary processes,",
+      "be able to calculate the relationship between covariance properties in the timedomain and spectral properties in the frequency domain for one and several processes,",
+      "be able to formulate linear filters using covariance and spectral properties,",
+      "be able to estimate covariance function, spectrum, and other parameters in stationary processes using data.",
+      "Model observational data as a simple stochastic process."
+    ],
+    [
+      "be able to identify natural situations where a stationary process is a suitable mathematical model, e.g., within at least one engineering, science, or economics application,",
+      "be able to formulate a stationary stochastic process model using a concrete problem within the chosen application,",
+      "be able to suggest model parameters, with the help of data,",
+      "be able to interpret the model and translate model concepts to a conclusion regarding the original problem."
+    ],
+    [
+      "be able to read and interpret technical literature with elements of stationary processes within the chosen application,",
+      "be able to describe the model structure and the conclusions,",
+      "be able to describe the possibilities and limitations of stochastic models."
+    ],
+    [
+      "Models for stochastic dependence.",
+      "Concepts of description of stationary stochastic processes in the time domain: expectation, covariance, and cross-covariance functions.",
+      "Concepts of description of stationary stochastic processes in the frequency domain: effect spectrum, cross spectrum.",
+      "Special processes: Gaussian process, Wiener process, white noise, Gaussian fields in time and space.",
+      "Stochastic processes in linear filters: relationships between in- and out-signals, auto regression and moving average (AR, MA, ARMA), derivation and integration of stochastic processes.",
+      "The basics in statistical signal processing: estimation of expectations, covariance function, and spectrum.",
+      "Application of linear filters: frequency analysis and optimal filters."
+    ],
+    [
+      "((FMAA20 Linear Algebra with Introduction to Computer Tools or FMAA21 Linear Algebra with Numerical Applications or FMAB20 Linear Algebra or FMAB22 Linear Algebra) \n    and \n  (FMAB30 Calculus in Several Variables or FMAB35 Calculus in Several Variables))  or(FMSF20 Mathematical Statistics, Basic Course or FMSF25 Mathematical Statistics - Complementary Project or FMSF32 Mathematical Statistics or FMSF45 Mathematical Statistics, Basic Course or FMSF50 Mathematical Statistics, Basic Course or FMSF55 Mathematical Statistics, Basic Course or FMSF70 Mathematical Statistics or FMSF75 Mathematical Statistics, Basic Course or FMSF80 Mathematical Statistics, Basic Course)"
+    ],
+    [
+      "Lindgren, G., Rootzén, H., Sandsten, M: Introduction to Stationary Stochastic Processes: Applications in Science and Engineering. Chapman & Hall, 2013, ISBN: 9781466586185."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår09/1010/1111/1212/1313/1414/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nStationary Stochastic Processes\nStationära stokastiska processer\nFMSF10, 7.5 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED I\nDate of Decision: 2026-04-13\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: Pi3\nElective for: BME4-sbh, C4-ks, D4-bg, D4-ssr, D4-mai, E4-sb, E4-bg, F4, F4-bg, F4-bm, F4-fm, F4-r, F4-ss, F4-mai, I4-fir, M4, MMSR2, MWIR1, R4-rm\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe student shall aquire a toolbox containing concepts and models for description and handling of stationary stochastic processes within many different areas, such as, signal processing, automatic control, information theory, economics, biology, chemistry, and medicine. The mathematical and statistical elements are therefore illustrated using a wide variety of examples from different areas of application.\nThe course shall also give the student the ability to identify the presence of stationary processes in other courses in the education, use the knowledge of stationary processes in other courses, and translate the concepts and tools between different courses, building on stationary processes.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to perform calculations using expectations, variance, covariance, and cross-covariance within and between different stationary processes,be able to calculate the relationship between covariance properties in the timedomain and spectral properties in the frequency domain for one and several processes,be able to formulate linear filters using covariance and spectral properties,be able to estimate covariance function, spectrum, and other parameters in stationary processes using data.Model observational data as a simple stochastic process.\nCompetences and skills\n      For a passing grade the student must\nbe able to identify natural situations where a stationary process is a suitable mathematical model, e.g., within at least one engineering, science, or economics application,be able to formulate a stationary stochastic process model using a concrete problem within the chosen application,be able to suggest model parameters, with the help of data,be able to interpret the model and translate model concepts to a conclusion regarding the original problem.\nJudgement and approach\n      For a passing grade the student must\nbe able to read and interpret technical literature with elements of stationary processes within the chosen application,be able to describe the model structure and the conclusions,be able to describe the possibilities and limitations of stochastic models.\nContents\n\nModels for stochastic dependence.\nConcepts of description of stationary stochastic processes in the time domain: expectation, covariance, and cross-covariance functions.\nConcepts of description of stationary stochastic processes in the frequency domain: effect spectrum, cross spectrum.\nSpecial processes: Gaussian process, Wiener process, white noise, Gaussian fields in time and space.\nStochastic processes in linear filters: relationships between in- and out-signals, auto regression and moving average (AR, MA, ARMA), derivation and integration of stochastic processes.\nThe basics in statistical signal processing: estimation of expectations, covariance function, and spectrum.\nApplication of linear filters: frequency analysis and optimal filters.\n\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written exam and compulsory computer exercises.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0315. Name: Laboratory part 2. \n\nCredits: 1.0. Grading scale: UG - (U, G).\n        \n          Assessment: The rest of the computer exercises\n        \n        \n        \n        \nCode: 0115. Name: Examination. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written examination.\n        \n        \n        \n        \nCode: 0215. Name: Laboratory part 1. \n\nCredits: 0.5. Grading scale: UG - (U, G).\n        \n          Assessment: The first computer exercise\n        \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\n((FMAA20 Linear Algebra with Introduction to Computer Tools or FMAA21 Linear Algebra with Numerical Applications or FMAB20 Linear Algebra or FMAB22 Linear Algebra) \n    and \n  (FMAB30 Calculus in Several Variables or FMAB35 Calculus in Several Variables))  or(FMSF20 Mathematical Statistics, Basic Course or FMSF25 Mathematical Statistics - Complementary Project or FMSF32 Mathematical Statistics or FMSF45 Mathematical Statistics, Basic Course or FMSF50 Mathematical Statistics, Basic Course or FMSF55 Mathematical Statistics, Basic Course or FMSF70 Mathematical Statistics or FMSF75 Mathematical Statistics, Basic Course or FMSF80 Mathematical Statistics, Basic Course)\n\nAssumed prior knowledge: \n        A basic course in mathematical statistics and knowledge in complex and linear analysis.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFMS045\nFMS047\n          \n        \n          \n            MASC04\n          \n        \n          \n            MASC14\n          \n        \n      \n    \nReading list\n\nLindgren, G., Rootzén, H., Sandsten, M: Introduction to Stationary Stochastic Processes: Applications in Science and Engineering. Chapman & Hall, 2013, ISBN: 9781466586185.\n\nContact\n\nDirector of studies: Johan Lindström,\n        studierektor@matstat.lu.se\nCourse administrator: Susann Nordqvist,\n        expedition@matstat.lu.se\nExaminator: Johan Lindström,\n        johan.lindstrom@matstat.lu.se\nExaminator: Magnus Wiktorsson,\n        magnus.wiktorsson@matstat.lu.se\nExaminator: Maria Sandsten,\n        maria.sandsten@matstat.lu.se\nCourse homepage: https://www.maths.lu.se/utbildning/civilingenjoersutbildning/matematisk-statistik-paa-civilingenjoersprogram/\n\nFurther information\nAlso given at the faculty of science with the course code MASC14.Please note that the course has re-examinations in exam period 2 (January) and exam period 6 (August).\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

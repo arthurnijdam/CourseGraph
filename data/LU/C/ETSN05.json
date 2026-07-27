@@ -1,0 +1,59 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Software Development for Large Systems\nProgramvaruutveckling för stora system",
+    "ETSN05, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4, C4-pvs, D4-se, E4, F4, F4-pv, I4-pvs, Pi4-pv\nLanguage of instruction: The course will be given in English on demand",
+    "The aim of the course is to give the students fundamental knowledge in the principal of project management and development processes and the central concepts in large-scale development of systems containing a significant share of software. The aim is also to give the student experiences of the problems that arise in large projects, where many involved actors and parallel work create situations that have to be handled.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Lectures, exercises and computer lab sessions are a direct introduction to the project, while the main part of the course is project work. Computer lab sessions and inspection meetings are mandatory elements in the course.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: The assessment is based on both individual and group performance. The individual examination consists of a written report and participation in mandatory course elements. The project group examination consists of a written report and an acceptance test of the system delivered by the project group. The grade is based on the project group’s performance and the student’s individual performance. Re-examination will be performed with an individually adapted assignment.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0121. Name: Computer Labs. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: For a passing grade, completed laboratory work in programming is required.\n        \n        \n        \n        \nCode: 0221. Name: Project. \n\nCredits: 3.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: The project group examination consists of a written report and an acceptance test of the system delivered by the project group.\n        \n        \n          The module includes: Project i teams\n        \n        \n        \nCode: 0321. Name: Report. \n\nCredits: 2.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: The individual examination consists of a written report and participation in mandatory course elements. The grade is based on the project group’s performance and the student’s individual performance. Re-examination will be performed with an individually adapted assignment.\n        \n        \n          The module includes: Written report\n        \n        \n        \nCode: 0421. Name: Exercises. \n\nCredits: 0.5. Grading scale: UG - (U, G).\n        \n          Assessment: Participation in exercises is required for approved results.",
+    "Admission requirements:",
+    "Course coordinator: Alma Orucevic,\n        Alma.Orucevic-Alagic@cs.lth.se\nDirector of studies: Studierektor,\n        studierektor@cs.lth.se\nCourse homepage: http://cs.lth.se/etsn05/",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to explain why a process and belonging documents are needed and why problems in this kind of projects are organisational rather than technical.",
+      "be able to explain how cooperation and systematic approaches are important ingredients in the solution of these problems.",
+      "be able to describe learning outcomes and possible improvements related to his/her role in the project and explain the aim of the project."
+    ],
+    [
+      "on the basis of a given project assignment within the context of a given development process develop key deliverables.",
+      "be able to add new well-functioning functionality to a given existing system.",
+      "actively contribute in a large software development project that follows a defined process."
+    ],
+    [
+      "In a deliberate way be able to see the problems in the choice of development process and balance the organisational problems against the technical problems."
+    ],
+    [
+      "(EDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course)"
+    ],
+    [
+      "Compendium from the department (in Swedish)."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår11/1212/1313/1414/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nSoftware Development for Large Systems\nProgramvaruutveckling för stora system\nETSN05, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4, C4-pvs, D4-se, E4, F4, F4-pv, I4-pvs, Pi4-pv\nLanguage of instruction: The course will be given in English on demand\n    \n  \nAim\nThe aim of the course is to give the students fundamental knowledge in the principal of project management and development processes and the central concepts in large-scale development of systems containing a significant share of software. The aim is also to give the student experiences of the problems that arise in large projects, where many involved actors and parallel work create situations that have to be handled.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to explain why a process and belonging documents are needed and why problems in this kind of projects are organisational rather than technical.be able to explain how cooperation and systematic approaches are important ingredients in the solution of these problems.be able to describe learning outcomes and possible improvements related to his/her role in the project and explain the aim of the project.\nCompetences and skills\n      For a passing grade the student must\non the basis of a given project assignment within the context of a given development process develop key deliverables.be able to add new well-functioning functionality to a given existing system.actively contribute in a large software development project that follows a defined process.\nJudgement and approach\n      For a passing grade the student must\nIn a deliberate way be able to see the problems in the choice of development process and balance the organisational problems against the technical problems.\nContents\n    The focus in the course is on how software is engineered in an industrial environment. The students begin with an existing system, which gives some limitations. The students use a systematic and well-defined development process, in which requirements specifications, design and test specifications are important documents to be developed. Quality inspections are made of the project group’s work as part of the development process. Different roles are distributed over the project members, such as project leaders, technical leaders, developers, and testers. Furthermore, the teachers act in other roles, e.g. department manager, quality auditor and technical experts.Lectures, exercises and computer lab sessions are a direct introduction to the project, while the main part of the course is project work. Computer lab sessions and inspection meetings are mandatory elements in the course.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: The assessment is based on both individual and group performance. The individual examination consists of a written report and participation in mandatory course elements. The project group examination consists of a written report and an acceptance test of the system delivered by the project group. The grade is based on the project group’s performance and the student’s individual performance. Re-examination will be performed with an individually adapted assignment.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0121. Name: Computer Labs. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: For a passing grade, completed laboratory work in programming is required.\n        \n        \n        \n        \nCode: 0221. Name: Project. \n\nCredits: 3.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: The project group examination consists of a written report and an acceptance test of the system delivered by the project group.\n        \n        \n          The module includes: Project i teams\n        \n        \n        \nCode: 0321. Name: Report. \n\nCredits: 2.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: The individual examination consists of a written report and participation in mandatory course elements. The grade is based on the project group’s performance and the student’s individual performance. Re-examination will be performed with an individually adapted assignment.\n        \n        \n          The module includes: Written report\n        \n        \n        \nCode: 0421. Name: Exercises. \n\nCredits: 0.5. Grading scale: UG - (U, G).\n        \n          Assessment: Participation in exercises is required for approved results.\n        \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\n(EDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course)\n\nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nETS032\nETS312\n\nReading list\n\nCompendium from the department (in Swedish).\n\nContact\n\nCourse coordinator: Alma Orucevic,\n        Alma.Orucevic-Alagic@cs.lth.se\nDirector of studies: Studierektor,\n        studierektor@cs.lth.se\nCourse homepage: http://cs.lth.se/etsn05/\n\nFurther information\n      Note: Most of the teaching in class is scheduled during the first four weeks. The project endures over nine weeks and is finished the second week of the subsequent study period. Due to dependencies within the project, the course requires personal presence during all weeks of the course.\n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

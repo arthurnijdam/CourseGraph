@@ -1,0 +1,55 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Computer Organization\nDatorteknik",
+    "EITF70, 6.0 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: D2, E3\nElective for: C4, F4, I4, Pi4\nLanguage of instruction: The course will be given in Swedish",
+    "The course aims at giving an introduction to how a computer systems works on the machine language and hardware level.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The course gives an introduction to the basic function of a computer system on a machine language level. Among the topics are data representation, basic computer arithmetic, the components and functions of a computer system, basic machine language level programming techniques, and the hardware support needed for these, for example, different addressing modes, stack, subroutines, and interrupts. Laboratory exercises allows practical investigations, for example of program execution, debugging, and different types of communication with the external world.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: The examination is performed by practical exercises, online tests and written exam. To receive a pass, that is grade 3, it is required to pass a given set of practical exercises and the online tests which is executed during the course. For higher grades, that is 4 and 5, it is required, in addition to what is needed for grade 3, to pass additional practical exercises and the written test (at the end of the course).",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0117. Name: Examination. \n\nCredits: 3.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Grades are given as a combination of online tests and supervised online examination\n        \n        \n        \n        \nCode: 0217. Name: Laboratory Work. \n\nCredits: 3.0. Grading scale: UG - (U, G).\n        \n          Assessment: Laboratory Work is examined on-line\n        \n        \n        \n          Further information: All laboratory exercises are to be completed while the course is active and all   laboratory exercises are to be completed within the same academic year.",
+    "Assumed prior knowledge: \n        EDA011/EDAA50, EDA016, EDA017/EDAA55 Programming, First Course, or EDAA45 Introduction to Programming or EDAB05 Introduction to Programming and Digital Design EITF65.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEIT070",
+    "Course coordinator: Per Andersson,\n        per.andersson@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/eitf70",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "Understand the function of a computer system and its parts",
+      "Understand the interconnection between hardware, machine language, and high-level language",
+      "Understand the basic operating systems and how a computer system can communicate with the external world"
+    ],
+    [
+      "Have some skills and experience in programming on a machine language level",
+      "Be able to analyze simple designs of systems where computer systems are used as system components",
+      "Be able to analyze and evaluate different solutions for programming on a machine language level"
+    ],
+    [
+      "Show an insight into possibilities and limitations of computer organization"
+    ],
+    [
+      "Sarah L. Harris, David Harris: Digital Design and Computer Architecture - RISC-V Edition. Morgan Kaufmann, 2022, ISBN: 978-0-12-820064-3."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår17/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nComputer Organization\nDatorteknik\nEITF70, 6.0 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: D2, E3\nElective for: C4, F4, I4, Pi4\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nThe course aims at giving an introduction to how a computer systems works on the machine language and hardware level.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nUnderstand the function of a computer system and its partsUnderstand the interconnection between hardware, machine language, and high-level languageUnderstand the basic operating systems and how a computer system can communicate with the external world\nCompetences and skills\n      For a passing grade the student must\nHave some skills and experience in programming on a machine language levelBe able to analyze simple designs of systems where computer systems are used as system componentsBe able to analyze and evaluate different solutions for programming on a machine language level\nJudgement and approach\n      For a passing grade the student must\nShow an insight into possibilities and limitations of computer organization\nContents\nThe course gives an introduction to the basic function of a computer system on a machine language level. Among the topics are data representation, basic computer arithmetic, the components and functions of a computer system, basic machine language level programming techniques, and the hardware support needed for these, for example, different addressing modes, stack, subroutines, and interrupts. Laboratory exercises allows practical investigations, for example of program execution, debugging, and different types of communication with the external world.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: The examination is performed by practical exercises, online tests and written exam. To receive a pass, that is grade 3, it is required to pass a given set of practical exercises and the online tests which is executed during the course. For higher grades, that is 4 and 5, it is required, in addition to what is needed for grade 3, to pass additional practical exercises and the written test (at the end of the course).\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0117. Name: Examination. \n\nCredits: 3.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Grades are given as a combination of online tests and supervised online examination\n        \n        \n        \n        \nCode: 0217. Name: Laboratory Work. \n\nCredits: 3.0. Grading scale: UG - (U, G).\n        \n          Assessment: Laboratory Work is examined on-line\n        \n        \n        \n          Further information: All laboratory exercises are to be completed while the course is active and all   laboratory exercises are to be completed within the same academic year. \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        EDA011/EDAA50, EDA016, EDA017/EDAA55 Programming, First Course, or EDAA45 Introduction to Programming or EDAB05 Introduction to Programming and Digital Design EITF65.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEIT070\n\nReading list\n\nSarah L. Harris, David Harris: Digital Design and Computer Architecture - RISC-V Edition. Morgan Kaufmann, 2022, ISBN: 978-0-12-820064-3.\n\nContact\n\nCourse coordinator: Per Andersson,\n        per.andersson@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/eitf70\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

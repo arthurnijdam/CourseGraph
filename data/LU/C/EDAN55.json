@@ -1,0 +1,69 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Advanced Algorithms\nAvancerade algoritmer",
+    "EDAN55, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4, D4-pv, E4, F4, Pi4-pv, Pi4-mtm\nLanguage of instruction: The course will be given in English",
+    "Algorithms play an important role in computer science and many other science and engineering disciplines. Part of this knowledge has found its way into many science and engineering undergraduate curricula. This advanced algorithms course covers a number of modern topics outside of this basic curriculum.",
+    "First, randomization plays an important role in all aspects of algorithms and data structures. This includes basic solutions, such as hash tables and quick sort, that are part of standard data structure libraries used by every programmer. A large part of the internet, from routing tables to massive-scale companies such as Google, are completely reliant on randomization. But even though these ideas are often both simple, very efficient, and highly practical, they are typically not included in a basic course because of lacking prerequisites from discrete probability theory.",
+    "Second, a large number of problems are known to be computationally intractable, in the strict sense of being hard for complexity classes like NP or #P. However, this problems still need to be solved. The course presents design and analysis techniques outside of the basic algorithmic undergraduate curriculum for attacking these problems, such as approximation algorithms, exponential time algorithms, parameterized complexity, heuristics and randomized solutions.",
+    "Third, many algorithmic solutions must be viewed in the face of massive data encountered today in many application areas, such as google-size databases and information-age science. As instance size grow to mega- and gigabytes, basic data structures and even storage models need to be reconsidered, and new questions arise. Often, randomization plays a central role in the solutions.",
+    "Many of these topics are active research questions and the course is at the cutting edge of algorithmic research with rich opportunities for thesis or beginning research work.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Parameterized algorithms and complexity. Design, applications, and analysis of randomized algorithms; hash functions, randomized data structures, Markov chains and random walks, Chernoff bounds, method of conditional probability, the probabilistic method, balls and bins. Approximation algorithms. Models and data structures for massive data.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "The examination consists of a written exam, laboratory work and hand-in assignments. The final grade of the course is based on the result of the written exam.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0112. Name: Examination. \n\nCredits: 4.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Passed examination.\n        \n        \n          The module includes: Written examination.\n        \n        \n        \nCode: 0212. Name: Compulsory Course Items. \n\nCredits: 3.0. Grading scale: UG - (U, G).\n        \n          Assessment: Approved laboratory work and hand-in assignments.\n        \n        \n          The module includes: Laboratory work and a hand-in assignments.",
+    "Admission requirements:",
+    "Course coordinator: Noah Fleming,\n        noah.fleming@cs.lth.se\nCourse homepage: https://cs.lth.se/edan55",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be informed about basic randomized algorithms and data structures",
+      "recognize various computational paradigms for the solution or hard problems",
+      "be informed about modern data structures for massive data sets",
+      "be able to reason in various models of computation for massive data"
+    ],
+    [
+      "be able to analyze a randomized algorithm using tools from discrete probability theory, with respect to both performance and correctness guarantees",
+      "be able to analyze the approximation hardness of a computationally hard problem",
+      "be able to implement and test a solution to computationally hard problem",
+      "be able to implement and test an efficient data structure for a massive scale problem"
+    ],
+    [
+      "be able to suggest informed and well-reasoned solutions to computationally hard problems",
+      "be able to select between probabilistic models for randomized computation",
+      "be able to assess the viability of algorithmic solutions based on both experimental and formal analyses of their efficiency and soundness",
+      "be able to evaluate the relevance of an algorithmic solution presented in the research literature"
+    ],
+    [
+      "A passing grade in the course EDAA01 (Programming - Second Course) and completed compulsory course items or a passing grade in the written exam in EDAF05 (Algorithms, Data structures and Complexity) and  FMS012/FMSF45 (Mathematical Statistics, Basic Course)"
+    ],
+    [
+      "Kleinberg, Jon, 1971-: Algorithm design. [Malmö] : MTM, 2023, ISBN: 9789130062546.",
+      "Jeff Erickson: Algorithms. ISBN: 978-1-792-644832-2.https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf"
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår12/1313/1414/1515/1616/1717/1822/2323/2424/2525/2626/27\nCourse syllabus\nAdvanced Algorithms\nAvancerade algoritmer\nEDAN55, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4, D4-pv, E4, F4, Pi4-pv, Pi4-mtm\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nAlgorithms play an important role in computer science and many other science and engineering disciplines. Part of this knowledge has found its way into many science and engineering undergraduate curricula. This advanced algorithms course covers a number of modern topics outside of this basic curriculum.\nFirst, randomization plays an important role in all aspects of algorithms and data structures. This includes basic solutions, such as hash tables and quick sort, that are part of standard data structure libraries used by every programmer. A large part of the internet, from routing tables to massive-scale companies such as Google, are completely reliant on randomization. But even though these ideas are often both simple, very efficient, and highly practical, they are typically not included in a basic course because of lacking prerequisites from discrete probability theory.\nSecond, a large number of problems are known to be computationally intractable, in the strict sense of being hard for complexity classes like NP or #P. However, this problems still need to be solved. The course presents design and analysis techniques outside of the basic algorithmic undergraduate curriculum for attacking these problems, such as approximation algorithms, exponential time algorithms, parameterized complexity, heuristics and randomized solutions.\nThird, many algorithmic solutions must be viewed in the face of massive data encountered today in many application areas, such as google-size databases and information-age science. As instance size grow to mega- and gigabytes, basic data structures and even storage models need to be reconsidered, and new questions arise. Often, randomization plays a central role in the solutions.\nMany of these topics are active research questions and the course is at the cutting edge of algorithmic research with rich opportunities for thesis or beginning research work.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe informed about basic randomized algorithms and data structuresrecognize various computational paradigms for the solution or hard problemsbe informed about modern data structures for massive data setsbe able to reason in various models of computation for massive data\nCompetences and skills\n      For a passing grade the student must\nbe able to analyze a randomized algorithm using tools from discrete probability theory, with respect to both performance and correctness guaranteesbe able to analyze the approximation hardness of a computationally hard problembe able to implement and test a solution to computationally hard problembe able to implement and test an efficient data structure for a massive scale problem\nJudgement and approach\n      For a passing grade the student must\nbe able to suggest informed and well-reasoned solutions to computationally hard problemsbe able to select between probabilistic models for randomized computationbe able to assess the viability of algorithmic solutions based on both experimental and formal analyses of their efficiency and soundnessbe able to evaluate the relevance of an algorithmic solution presented in the research literature\nContents\nParameterized algorithms and complexity. Design, applications, and analysis of randomized algorithms; hash functions, randomized data structures, Markov chains and random walks, Chernoff bounds, method of conditional probability, the probabilistic method, balls and bins. Approximation algorithms. Models and data structures for massive data.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: The examination consists of a written exam, laboratory work and hand-in assignments. The final grade of the course is based on the result of the written exam.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0112. Name: Examination. \n\nCredits: 4.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Passed examination.\n        \n        \n          The module includes: Written examination.\n        \n        \n        \nCode: 0212. Name: Compulsory Course Items. \n\nCredits: 3.0. Grading scale: UG - (U, G).\n        \n          Assessment: Approved laboratory work and hand-in assignments.\n        \n        \n          The module includes: Laboratory work and a hand-in assignments.\n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nA passing grade in the course EDAA01 (Programming - Second Course) and completed compulsory course items or a passing grade in the written exam in EDAF05 (Algorithms, Data structures and Complexity) and  FMS012/FMSF45 (Mathematical Statistics, Basic Course)\n\nThe number of participants is limited to: No\n\nReading list\n\nKleinberg, Jon, 1971-: Algorithm design. [Malmö] : MTM, 2023, ISBN: 9789130062546.\nJeff Erickson: Algorithms. ISBN: 978-1-792-644832-2.https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf\n\nContact\n\nCourse coordinator: Noah Fleming,\n        noah.fleming@cs.lth.se\nCourse homepage: https://cs.lth.se/edan55\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

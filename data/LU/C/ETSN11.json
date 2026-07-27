@@ -1,0 +1,75 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Wireless Networks and Applications - System Design and Performance\nTrådlösa nätverk och applikationer - Systemdesign och prestanda",
+    "ETSN11, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Main field:  Communication Systems\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C3\nElective for: D4-ns, E4-ns, I4-pvs, MWIR2\nLanguage of instruction: The course will be given in English",
+    "The course gives a deep understanding of the principles of system design of wireless networks and applications, with regards to performance aspects. The course mainly focuses on network systems for Internet of Everything (IoE). The course goal is to go beyond \"ordinary\" Internet applications. The course includes topics as cellular networks, wireless LANs, self-organizing network architectures, sensor networks, and data communication and networks for outer space and underwater. Also, the course covers resource-constrained networking and delay-tolerant applications. Furthermore, the course covers functions, models, and mechanisms for performance analysis. The application of theory is mainly performed using complex reality-based scenarios, which are treated in discussions, seminars, and a project.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The course gives a deep understanding of principles, functions and techniques that form the foundation of wireless communication networks and applications. The course includes distributed architectures, cellular networks, wireless LANs, self-organizing networks, sensor networks, and data communication and network architectures for outer space and underwater. Also, the course covers resource-constrained networking and delay-tolerant applications. Furthermore, the course covers functions and mechanisms for performance analysis. The course covers both theoretical aspects through modelling as well as practical studies through complex reality-based scenarios and a project.",
+    "The course structure contains lectures, exercises, and system design seminars. Further, students will complete a group-based project with focus on system design.",
+    "The following systems and technologies are covered:",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: The course assessment is divided in two sections, a written exam and a project assignment. The grade of the course is based on the written exam.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0123. Name: Exam. \n\nCredits: 5.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved exam\n        \n        \n          The module includes: Written exam\n        \n        \n        \nCode: 0223. Name: Project. \n\nCredits: 2.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved project\n        \n        \n          The module includes: Project",
+    "Admission requirements:",
+    "Course coordinator: Maria Kihl,\n        maria.kihl@eit.lth.se",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "Understand the different network systems and protocols covered in the course",
+      "Explain the models covered in the course, and describe key results drawn from these models, such as fundamental performance bounds",
+      "Give reasons for the design choices made in reality-based scenarios, with reference to system performance requirements and user perspectives",
+      "Describe current research and development in different network systems"
+    ],
+    [
+      "Describe and explain fundamental theory for the network systems and applications covered in the course",
+      "Design suitable network systems based on a specified reality-based scenario with specified performance requirements",
+      "Perform correct performance analysis and modelling of network system",
+      "Analyse network performance using theoretical tools covered in the course, such as stochastic processes and queueing theory",
+      "Find information in the scientific literature within the course's field of knowledge"
+    ],
+    [
+      "Compare different network systems, algorithms and protocols, and give their relative advantages and disadvantages in a specified scenario",
+      "Evaluate network systems and identify their performance goals and constraints",
+      "Evaluate the advantages, disadvantages and limitations of different methods for modelling, analysing, and testing network performance",
+      "Critically evaluate information in the scientific literature within the course's field of study"
+    ],
+    [
+      "Basic functions and paradigms for wireless networks",
+      "Network architectures for time-critical applications",
+      "Self-organizing network architectures",
+      "Sensor networks",
+      "Resource-constrained networking",
+      "Delay-tolerant networking",
+      "Data communication and networking in outer space",
+      "Underwater data communication and networking",
+      "Performance analysis and modelling of the above network systems"
+    ],
+    [
+      "At least 90 ECTS in completed courses within the program.",
+      "FMAB65 Calculus in One Variable B1 or FMAB70 Calculus in One Variable B2"
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår23/2424/2525/2626/27\nCourse syllabus\nWireless Networks and Applications - System Design and Performance\nTrådlösa nätverk och applikationer - Systemdesign och prestanda\nETSN11, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nMain field:  Communication Systems\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C3\nElective for: D4-ns, E4-ns, I4-pvs, MWIR2\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe course gives a deep understanding of the principles of system design of wireless networks and applications, with regards to performance aspects. The course mainly focuses on network systems for Internet of Everything (IoE). The course goal is to go beyond \"ordinary\" Internet applications. The course includes topics as cellular networks, wireless LANs, self-organizing network architectures, sensor networks, and data communication and networks for outer space and underwater. Also, the course covers resource-constrained networking and delay-tolerant applications. Furthermore, the course covers functions, models, and mechanisms for performance analysis. The application of theory is mainly performed using complex reality-based scenarios, which are treated in discussions, seminars, and a project.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nUnderstand the different network systems and protocols covered in the courseExplain the models covered in the course, and describe key results drawn from these models, such as fundamental performance boundsGive reasons for the design choices made in reality-based scenarios, with reference to system performance requirements and user perspectivesDescribe current research and development in different network systems\nCompetences and skills\n      For a passing grade the student must\nDescribe and explain fundamental theory for the network systems and applications covered in the courseDesign suitable network systems based on a specified reality-based scenario with specified performance requirementsPerform correct performance analysis and modelling of network systemAnalyse network performance using theoretical tools covered in the course, such as stochastic processes and queueing theoryFind information in the scientific literature within the course's field of knowledge\nJudgement and approach\n      For a passing grade the student must\nCompare different network systems, algorithms and protocols, and give their relative advantages and disadvantages in a specified scenarioEvaluate network systems and identify their performance goals and constraintsEvaluate the advantages, disadvantages and limitations of different methods for modelling, analysing, and testing network performanceCritically evaluate information in the scientific literature within the course's field of study\nContents\nThe course gives a deep understanding of principles, functions and techniques that form the foundation of wireless communication networks and applications. The course includes distributed architectures, cellular networks, wireless LANs, self-organizing networks, sensor networks, and data communication and network architectures for outer space and underwater. Also, the course covers resource-constrained networking and delay-tolerant applications. Furthermore, the course covers functions and mechanisms for performance analysis. The course covers both theoretical aspects through modelling as well as practical studies through complex reality-based scenarios and a project.\nThe course structure contains lectures, exercises, and system design seminars. Further, students will complete a group-based project with focus on system design.\nThe following systems and technologies are covered:\n\nBasic functions and paradigms for wireless networks\nNetwork architectures for time-critical applications\nSelf-organizing network architectures\nSensor networks\nResource-constrained networking\nDelay-tolerant networking\nData communication and networking in outer space\nUnderwater data communication and networking\nPerformance analysis and modelling of the above network systems\n\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: The course assessment is divided in two sections, a written exam and a project assignment. The grade of the course is based on the written exam.\n\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0123. Name: Exam. \n\nCredits: 5.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved exam\n        \n        \n          The module includes: Written exam\n        \n        \n        \nCode: 0223. Name: Project. \n\nCredits: 2.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved project\n        \n        \n          The module includes: Project\n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nAt least 90 ECTS in completed courses within the program.\nFMAB65 Calculus in One Variable B1 or FMAB70 Calculus in One Variable B2\n\nAssumed prior knowledge: \n        Assumed prior knowledge: Basic knowledge in Internet protocol corresponding to EITF45 Computer Communication, ETSF15 Communication systems and networks, or EITA55 Communication Systems. Basic knowledge in statistics and probability theory corresponding to FMSF20/FMSF80/FMSF55 Mathematical Statistics, Basic Course.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nETSN10\n\nReading list\n\n\nContact\n\nCourse coordinator: Maria Kihl,\n        maria.kihl@eit.lth.se\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

@@ -1,0 +1,71 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Biomedical Signal Processing\nMedicinsk signalbehandling",
+    "BMEN01, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED BME\nDate of Decision: 2026-04-13",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4-sbh, C4, D4, E4-mt, E4-sb, F4, F4-mt, F4-bm, F4-ss, Pi4-biek\nLanguage of instruction: The course will be given in English on demand",
+    "The course provides an overview of methods suitable for solving problems in biomedical signal processing. The student should obtain sufficient insights on the origin on biomedical signals and analysis methods to independently determine suitable methods.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Bioelectrical signals",
+    "Brain signals",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Exam at the end of the course. A comprehensive, mandatory project pursued from a problem-oriented perspective where the student will have to take considerable responsability in formulating and solving the assigned task.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0118. Name: Examination. \n\nCredits: 5.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Passed exam\n        \n        \n          The module includes: Written exam\n        \n        \n        \nCode: 0218. Name: Project. \n\nCredits: 2.0. Grading scale: UG - (U, G).\n        \n          Assessment: Passed project\n        \n        \n          The module includes: Project for max two students",
+    "Assumed prior knowledge: \n        ESS040 /EITF75 Systems and Signals, ETI265 /EITA50 Signal Processing in Multimedia, BMEA05 Signals and Systems or EITF15 Signal Processing - Theory and Applications.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nETI160\nETIF15",
+    "Course coordinator: Martin Stridh,\n        Martin.Stridh@bme.lth.se\nDirector of studies: Lars Wallman,\n        lars.wallman@bme.lth.se",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "have knowledge about biomedical signals and methods which are particularly useful for their processing.",
+      "to apply the most common methods on clinical problems (Matlab level)",
+      "to define simple mathematical models and to determine related, optimal methods for estimation of relevant information."
+    ],
+    [
+      "to understand the origin of bioelectrical signals and their manifestation on the body surface.",
+      "to describe the most common clinical applications where such signals are used.",
+      "to describe the most common methods for analysis of both periodic and aperiodic biomedical signals. The description is to be done in catchall terms, i.e., block diagrams and text, as well as with the help of equations.",
+      "to formulate and describe statistical signal models being suitable for modelling of specific signal properties.",
+      "to implement a method and evaluate its performance in clinically relevant terms.",
+      "analyze and solve a specific signal processing problem in the framework of a project."
+    ],
+    [
+      "be able to analyze, assess, and implement algorithms, and also to interpret and to describe their inherent principles.",
+      "have insight on the fact that seemingly different technical problems can be dealt with using the same methods."
+    ],
+    [
+      "Their origin, especially concerning signals reflecting the activity of the brain, the muscles, and the heart.",
+      "Information-carrying components in bioelectrical signals.",
+      "Common clinical applications of bioelectrical signals."
+    ],
+    [
+      "Analysis of both spontaneous activity and evoked potentials",
+      "Spectral analysis (nonparametric and parametric) and characterization of power spectra.",
+      "Time-frequency analysis."
+    ],
+    [
+      "Sörnmo L, Laguna P: Biomedical Signal Processing in Cardiac and Neurological Applications. Elsevier, 2005, ISBN: 0-12-437552-9."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår14/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nBiomedical Signal Processing\nMedicinsk signalbehandling\nBMEN01, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED BME\nDate of Decision: 2026-04-13\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4-sbh, C4, D4, E4-mt, E4-sb, F4, F4-mt, F4-bm, F4-ss, Pi4-biek\nLanguage of instruction: The course will be given in English on demand\n    \n  \nAim\nThe course provides an overview of methods suitable for solving problems in biomedical signal processing. The student should obtain sufficient insights on the origin on biomedical signals and analysis methods to independently determine suitable methods.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nhave knowledge about biomedical signals and methods which are particularly useful for their processing.to apply the most common methods on clinical problems (Matlab level)to define simple mathematical models and to determine related, optimal methods for estimation of relevant information.\nCompetences and skills\n      For a passing grade the student must\nto understand the origin of bioelectrical signals and their manifestation on the body surface.to describe the most common clinical applications where such signals are used.to describe the most common methods for analysis of both periodic and aperiodic biomedical signals. The description is to be done in catchall terms, i.e., block diagrams and text, as well as with the help of equations.to formulate and describe statistical signal models being suitable for modelling of specific signal properties.to implement a method and evaluate its performance in clinically relevant terms.analyze and solve a specific signal processing problem in the framework of a project.\nJudgement and approach\n      For a passing grade the student must\nbe able to analyze, assess, and implement algorithms, and also to interpret and to describe their inherent principles.have insight on the fact that seemingly different technical problems can be dealt with using the same methods.\nContents\nBioelectrical signalsTheir origin, especially concerning signals reflecting the activity of the brain, the muscles, and the heart.Information-carrying components in bioelectrical signals.Common clinical applications of bioelectrical signals.Brain signalsAnalysis of both spontaneous activity and evoked potentialsSpectral analysis (nonparametric and parametric) and characterization of power spectra.Time-frequency analysis.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Exam at the end of the course. A comprehensive, mandatory project pursued from a problem-oriented perspective where the student will have to take considerable responsability in formulating and solving the assigned task. \n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0118. Name: Examination. \n\nCredits: 5.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Passed exam\n        \n        \n          The module includes: Written exam\n        \n        \n        \nCode: 0218. Name: Project. \n\nCredits: 2.0. Grading scale: UG - (U, G).\n        \n          Assessment: Passed project\n        \n        \n          The module includes: Project for max two students\n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        ESS040 /EITF75 Systems and Signals, ETI265 /EITA50 Signal Processing in Multimedia, BMEA05 Signals and Systems or EITF15 Signal Processing - Theory and Applications.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nETI160\nETIF15\n\nReading list\n\nSörnmo L, Laguna P: Biomedical Signal Processing in Cardiac and Neurological Applications. Elsevier, 2005, ISBN: 0-12-437552-9.\n\nContact\n\nCourse coordinator: Martin Stridh,\n        Martin.Stridh@bme.lth.se\nDirector of studies: Lars Wallman,\n        lars.wallman@bme.lth.se\n\nFurther information\n      With less than 16 participants, the course may be given with reduced teaching and more self studies.\n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

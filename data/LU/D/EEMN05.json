@@ -1,0 +1,57 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "EMC, Noise and Noise Reduction\nEMC, störningar och störningsbegränsning",
+    "EEMN05, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED BME\nDate of Decision: 2026-04-13",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME5, D5, E4-sb, E5-mt, E4-is, E4-el, E4-he, E4-se, F4, F4-mt, F4-ss, N5\nLanguage of instruction: The course will be given in English on demand",
+    "EMC - ElectroMagnetic Compatibility - means that electrical equipment must be able to function as intended without interfering or being interfered by its environment. The minimum requirement is defined by the legislation. Knowledge within this area is essential for everyone that will be active as a designer of electronic systems. The course is intended to give the students a fundamental understanding of how electromagnetic noise is generated and how it affects electronic systems and how it can be reduced to avoid malfunction of the systems. An overview is also given of the standards and directives that are mandatory to be fulfilled by electronic equipment.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The concept of decibels, Fourier series. Electromagnetic fields. Sources of interference. Cables. Earthing. Balancing and filtering. Screening. Electrostatic discharge. Frequency properties of passive components. Interference in digital constructions. Noise. Standards and directives. CE marking. EMC measuremets.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: For grade 3: Passed compulsory parts: Lab exercises including written reports, Project including oral presentation and written report and a short written examination (2 hours). For grade 4 or 5: Larger examination that may be written or oral (5 hours).",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0112. Name: EMC, Noise and Noise Reduction. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).",
+    "Assumed prior knowledge: \n        Elektronics: EITA35 (E), EITF90 (BME, F, N), EITA10 (D) or equiv. \nElectrical mesurements/Sensors: ESSF10 (E, D), EEMF15 (BME), BMEF05 (F), BMEF15 (N), BMEF35 (BME/N) or equiv. EITA40 Circuits and Measurements AND ETEF15 Circuits and Measurements, Advanced Course (IEA)\n        \nThe number of participants is limited to: 36\nSelection: Completed university credits within the programme. Priority is given to students enrolled on programmes that include the course in their curriculum.\nKursen överlappar följande kurser: \nEEM060",
+    "Course coordinator: Johan Gran,\n        johan.gran@bme.lth.se\nCourse coordinator: Lars Wallman,\n        lars.wallman@bme.lth.se\nDirector of studies: Lars Wallman,\n        lars.wallman@bme.lth.se",
+    "The first lecture is a mandatory call. Enrolled and registered students who do not have notified absence may receive a cancellation of the course.",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "Be able to identify different sources and coupling paths of electromagnetic noise.",
+      "Be able to analyse and suggest suitable measures to avoid interference."
+    ],
+    [
+      "Be able to design a simple electronic system where the EMC requirements are fulfilled.",
+      "Be able to perform basic EMC measurements and evaluate those.",
+      "Be able to sort out and acquire information from a comprehensive material, e.g. a text book or lab exercise material, with limited reading instructions.",
+      "Be able to orally and in writing communicate and discuss the results of a project."
+    ],
+    [
+      "Have realised the importance of taking EMC aspects into consideration throughout the complete design process of electronic systems."
+    ],
+    [
+      "Williams T: EMC for product designers. Newnes, 2006."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår12/1313/1414/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nEMC, Noise and Noise Reduction\nEMC, störningar och störningsbegränsning\nEEMN05, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED BME\nDate of Decision: 2026-04-13\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME5, D5, E4-sb, E5-mt, E4-is, E4-el, E4-he, E4-se, F4, F4-mt, F4-ss, N5\nLanguage of instruction: The course will be given in English on demand\n    \n  \nAim\nEMC - ElectroMagnetic Compatibility - means that electrical equipment must be able to function as intended without interfering or being interfered by its environment. The minimum requirement is defined by the legislation. Knowledge within this area is essential for everyone that will be active as a designer of electronic systems. The course is intended to give the students a fundamental understanding of how electromagnetic noise is generated and how it affects electronic systems and how it can be reduced to avoid malfunction of the systems. An overview is also given of the standards and directives that are mandatory to be fulfilled by electronic equipment.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nBe able to identify different sources and coupling paths of electromagnetic noise.Be able to analyse and suggest suitable measures to avoid interference.\nCompetences and skills\n      For a passing grade the student must\nBe able to design a simple electronic system where the EMC requirements are fulfilled.Be able to perform basic EMC measurements and evaluate those.Be able to sort out and acquire information from a comprehensive material, e.g. a text book or lab exercise material, with limited reading instructions.Be able to orally and in writing communicate and discuss the results of a project.\nJudgement and approach\n      For a passing grade the student must\nHave realised the importance of taking EMC aspects into consideration throughout the complete design process of electronic systems.\nContents\nThe concept of decibels, Fourier series. Electromagnetic fields. Sources of interference. Cables. Earthing. Balancing and filtering. Screening. Electrostatic discharge. Frequency properties of passive components. Interference in digital constructions. Noise. Standards and directives. CE marking. EMC measuremets.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: For grade 3: Passed compulsory parts: Lab exercises including written reports, Project including oral presentation and written report and a short written examination (2 hours). For grade 4 or 5: Larger examination that may be written or oral (5 hours).\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0112. Name: EMC, Noise and Noise Reduction. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        Elektronics: EITA35 (E), EITF90 (BME, F, N), EITA10 (D) or equiv. \nElectrical mesurements/Sensors: ESSF10 (E, D), EEMF15 (BME), BMEF05 (F), BMEF15 (N), BMEF35 (BME/N) or equiv. EITA40 Circuits and Measurements AND ETEF15 Circuits and Measurements, Advanced Course (IEA)\n        \nThe number of participants is limited to: 36\nSelection: Completed university credits within the programme. Priority is given to students enrolled on programmes that include the course in their curriculum.\nKursen överlappar följande kurser: \nEEM060\n\nReading list\n\nWilliams T: EMC for product designers. Newnes, 2006.\n\nContact\n\nCourse coordinator: Johan Gran,\n        johan.gran@bme.lth.se\nCourse coordinator: Lars Wallman,\n        lars.wallman@bme.lth.se\nDirector of studies: Lars Wallman,\n        lars.wallman@bme.lth.se\n\nFurther information\nThe first lecture is a mandatory call. Enrolled and registered students who do not have notified absence may receive a cancellation of the course. \nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

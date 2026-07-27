@@ -1,0 +1,67 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Multiple Antenna Systems\nMultipelantennsystem",
+    "EITN10, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED E\nDate of Decision: 2026-04-09",
+    "Main field:  Communication Systems\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: MWIR2\nElective for: C5-ks, D5, E5-tk\nLanguage of instruction: The course will be given in English",
+    "The aim of this course is to provide a comprehensive treatment of the area of multiple antenna systems for wireless communications. It begins with the theoretical aspects of multiple antenna or multiple-input-multiple-output (MIMO) systems, which predicts huge performance gains in comparison to conventional single antenna systems. The theoretical results provided the momentum for practical implementations, several aspects of which will be covered in the course in order to give an understanding of how the system works in reality.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The course is presented from an interdisciplinary perspective, across different aspects of the communication systems, including coding/modulation, antennas, propagation channel, medium access control. This is because the performance gains from multiple antenna systems can only be achieved by a holistic consideration of these issues. In particular, the following topics will be presented:",
+    "Background of multiple antenna systems and basic concepts",
+    "Propagation channel in multiple antenna systems",
+    "Capacity of multiple antenna systems",
+    "Space-time coding",
+    "Receiver structures",
+    "Exploiting channel knowledge at the transmitter",
+    "Multiuser scheme",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written examination and assignments.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0110. Name: Multiple Antenna Systems. \n\nCredits: 3.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Passed written examination. Optional tasks can give bonus points to examination results.\n        \n        \n          The module includes: Multiple antenna systems and concepts.\n        \n        \n        \nCode: 0210. Name: Assignments. \n\nCredits: 4.0. Grading scale: UG - (U, G).\n        \n          Assessment: Passed assignments.",
+    "Assumed prior knowledge: \n        EITN85 Wireless Communication Channels.\n        \nThe number of participants is limited to: No",
+    "Course coordinator: Buon Kiong Lau,\n        buon_kiong.lau@eit.lth.se\nTeacher: Juan Vidal Alegría,\n        juan.vidal_alegria@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/eitn10",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to establish the key benefits of applying multiple antenna systems",
+      "be able to distinguish between different types of multiple antenna systems",
+      "be able to explain the role of propagation channel (including effects of antennas) on the capacity of multiple antenna systems",
+      "be able to account for the differences in system performance resulting from the possible availability of channel knowledge",
+      "be able to identify relevant implementation issues of multiple antenna systems, including practical coding schemes and performance limits/tradeoffs."
+    ],
+    [
+      "be able to qualitatively demonstrate the operating principles of multiple antenna systems, under both spatial multiplexing and spatial diversity schemes",
+      "be able to calculate the channel capacity of multiple antenna systems for a given setup",
+      "be able to quantitatively demonstrate the benefit of spatial multiplexing and spatial diversity.",
+      "be able to implement, in simulations, different receiver structures and evaluate their respective performance",
+      "be able to make use of simulation tools such as Matlab to solve simple design problems with a set of system performance requirements"
+    ],
+    [
+      "Have a comprehensive view of how multiple antenna systems influence the system performance and how the technology can be used in wireless links.",
+      "Feel confident in the ability to evaluate the use of multiple antenna systems in a given wireless communication scenario."
+    ],
+    [
+      "Paulraj A, Nabar R, Gore D: Introduction to Space-Time Wireless Communications. Cambridge University Press, 2006, ISBN: 0-521-82615-2."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår08/0909/1010/1111/1212/1313/1414/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nMultiple Antenna Systems\nMultipelantennsystem\nEITN10, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED E\nDate of Decision: 2026-04-09\n    \n  \nGeneral Information\n\nMain field:  Communication Systems\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: MWIR2\nElective for: C5-ks, D5, E5-tk\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe aim of this course is to provide a comprehensive treatment of the area of multiple antenna systems for wireless communications. It begins with the theoretical aspects of multiple antenna or multiple-input-multiple-output (MIMO) systems, which predicts huge performance gains in comparison to conventional single antenna systems. The theoretical results provided the momentum for practical implementations, several aspects of which will be covered in the course in order to give an understanding of how the system works in reality.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to establish the key benefits of applying multiple antenna systemsbe able to distinguish between different types of multiple antenna systemsbe able to explain the role of propagation channel (including effects of antennas) on the capacity of multiple antenna systemsbe able to account for the differences in system performance resulting from the possible availability of channel knowledgebe able to identify relevant implementation issues of multiple antenna systems, including practical coding schemes and performance limits/tradeoffs.\nCompetences and skills\n      For a passing grade the student must\nbe able to qualitatively demonstrate the operating principles of multiple antenna systems, under both spatial multiplexing and spatial diversity schemesbe able to calculate the channel capacity of multiple antenna systems for a given setupbe able to quantitatively demonstrate the benefit of spatial multiplexing and spatial diversity.be able to implement, in simulations, different receiver structures and evaluate their respective performancebe able to make use of simulation tools such as Matlab to solve simple design problems with a set of system performance requirements\nJudgement and approach\n      For a passing grade the student must\nHave a comprehensive view of how multiple antenna systems influence the system performance and how the technology can be used in wireless links.Feel confident in the ability to evaluate the use of multiple antenna systems in a given wireless communication scenario.\nContents\nThe course is presented from an interdisciplinary perspective, across different aspects of the communication systems, including coding/modulation, antennas, propagation channel, medium access control. This is because the performance gains from multiple antenna systems can only be achieved by a holistic consideration of these issues. In particular, the following topics will be presented:\nBackground of multiple antenna systems and basic concepts\nPropagation channel in multiple antenna systems\nCapacity of multiple antenna systems\nSpace-time coding\nReceiver structures\nExploiting channel knowledge at the transmitter\nMultiuser scheme\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written examination and assignments.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0110. Name: Multiple Antenna Systems. \n\nCredits: 3.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Passed written examination. Optional tasks can give bonus points to examination results.\n        \n        \n          The module includes: Multiple antenna systems and concepts.\n        \n        \n        \nCode: 0210. Name: Assignments. \n\nCredits: 4.0. Grading scale: UG - (U, G).\n        \n          Assessment: Passed assignments.\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        EITN85 Wireless Communication Channels.\n        \nThe number of participants is limited to: No\n\nReading list\n\nPaulraj A, Nabar R, Gore D: Introduction to Space-Time Wireless Communications. Cambridge University Press, 2006, ISBN: 0-521-82615-2.\n\nContact\n\nCourse coordinator: Buon Kiong Lau,\n        buon_kiong.lau@eit.lth.se\nTeacher: Juan Vidal Alegría,\n        juan.vidal_alegria@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/eitn10\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

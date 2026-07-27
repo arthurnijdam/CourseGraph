@@ -1,0 +1,128 @@
+/* Overwrite Default Setting Variables from base here in custom */
+
+:root {
+
+  /* COLOR DEFINITION */
+  --primary-color: #3070b3;
+  --primary-dark-color: #014c8a;
+  --primary-light-color: #98C6EA;
+
+  --secondary-color:  #005293;
+  --secondary-dark-color: #003359;
+  --secondary-light-color: #64A0C8;
+
+  --white: #fff;
+
+  --panel-background-color: #f7f7f7;
+
+  /* LOGO SPECS */
+  --logo-url: url('https://campus.tum.de/tumonline/ee/theme/ca2/images/logos/TUM_Logo_blau_l.gif?theme_b504af3ddc143cf794225b8df3563c827cec17d2');
+  --logo-background-size: 273px 28px;
+  --logo-width: 280px;
+  --logo-height: 40px;
+
+  /* LOGO MOBILE */
+  --logo-mobile-url: url('https://campus.tum.de/tumonline/ee/theme/ca2/images/logos/TUM_Logo_blau_rgb_s.svg?theme_b504af3ddc143cf794225b8df3563c827cec17d2');
+  --logo-mobile-background-size: 50px 30px;
+  --logo-mobile-width: 70px;
+  --logo-mobile-height: 40px;
+
+  /* LOGO EXTRA SMALL DEVICES */
+  --logo-mobile-xs-url: url('https://campus.tum.de/tumonline/ee/theme/ca2/images/logos/TUM_Logo_blau_rgb_s.svg?theme_b504af3ddc143cf794225b8df3563c827cec17d2');
+  --logo-mobile-xs-background-size: 50px 30px;
+  --logo-mobile-xs-width: 70px;
+  --logo-mobile-xs-height: 40px;
+
+  /* HEADER */
+  --ca-primary-header-row-height: 40px;
+  --ca-primary-header-row-text-color: #333;
+  --ca-primary-header-row-background-color: var(--white);
+  --ca-primary-header-row-height: 40px;
+  --header-button-background-color-hover: var(--white);
+  --header-button-text-color-hover: var(--primary-color);
+  --ca-secondary-header-row-background-color: #f7f7f7;
+
+  /* LANGUAGE SWITCH */
+  --header-button-toggle-checked: #8f8f8f;
+  --header-button-toggle-text-checked: var(--white);
+
+  /* FOOTER */
+  --footer-background-color: #f7f7f7;
+  --footer-text-color: #000;
+  /* keep aware, there should be enough contrast to --footer-background-color */
+  --footer-link-text-color: var(--primary-color);
+
+  /* PRIMARY BUTTON */
+  --primary-button-background-color: var(--primary-color);
+  --primary-button-background-color-hover: var(--primary-dark-color);
+
+  --primary-button-border-color: transparent;
+  --primary-button-border-color-hover: transparent;
+
+  --primary-button-text-color: var(--white);
+  --primary-button-text-color-hover: var(--white);
+
+  /* SECONDARY (DEFAULT) BUTTON */
+  --default-button-background-color: transparent;
+  --default-button-background-color-hover: var(--secondary-color);
+
+  --default-button-border-color: var(--secondary-color);
+  --default-button-border-color-hover: var(--secondary-color);
+
+  --default-button-text-color: var(--secondary-color);
+  --default-button-text-color-hover: var(--white);
+
+  /* FILTER & SORT BUTTON */
+  --list-tool-button-background-color-hover: var(--secondary-dark-color);
+  --list-tool-button-background-color-hover: var(--secondary-light-color);
+  --list-tool-button-text-color:          var(--white);
+  --list-tool-button-text-color-hover:    var(--white);
+  --list-tool-button-border-color:        var(--list-tool-button-background-color);
+  --list-tool-button-border-color-hover:  var(--list-tool-button-background-color-hover);*/
+
+  /* Feedback & support BUTTON */
+  /*--feedback-button-background-color:     var(--white);
+  --feedback-button-border-color:         var(--secondary-color);
+  --feedback-button-text-color            var(--secondary-color);
+  */
+
+  /* GLOBAL TEXTUAL LINK COLOR */
+  --link-color:                 #333;
+  --link-color-hover:           var(--primary-color);
+  --link-background-color-hover: transparent;
+  --link-text-decoration-hover: underline;
+
+  /* SIDENAV-TOGGLE */
+  --sidebar-logx-text-color: #333;
+  --sidebar-logx-background-color: #fff;
+  --sidebar-logx-background-color-hover: #fff;
+  --sidebar-logx-text-color-hover: var(--primary-color);
+
+  /* DETAILVIEW-TOGGLE */
+  --button-toggle-checked:          #8f8f8f;
+  /*--button-toggle-text-checked:     var(--white);*/
+
+  /* LOGIN */
+    --login-background-color: #e6e6e6;
+    --login-background-image: url('https://campus.tum.de/tumonline/ee/theme/ca2/images/tum_uhrturm_loginpage_bg.png?theme_b504af3ddc143cf794225b8df3563c827cec17d2');
+    --login-text-color: #333;
+    --login-button-color: var(--login-background-color);
+    --login-button-background-hover: var(--primary-color);
+    --login-button-color-hover: var(--primary-buton-text-color-hover);
+
+  /* Home/Desktop - folder background */
+   --folder-background-color:       #f7f7f7;
+   --folder-background-color-hover: #eee;
+   --folder-border-color:           transparent;
+   --folder-border-color-hover:      var(--primary-color);
+   --folder-text-color:             #333;
+   --folder-text-color-hover:       var(--primary-color);
+
+  /* Home/Desktop - Application background */
+  --access-entry-background-color:       #f7f7f7;
+  --access-entry-background-color-hover: var(--folder-background-color-hover);
+  --access-entry-border-color:     transparent;
+  --access-entry-border-color-hover: var(--primary-color);
+  --access-entry-text-color:        #333;
+  --access-entry-text-color-hover:  var(--primary-color);
+  }

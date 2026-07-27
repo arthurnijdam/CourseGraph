@@ -1,0 +1,63 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Applied Robotics\nTillämpad robotik",
+    "FRTN85, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14",
+    "Main field:  Production and Materials Engineering\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: D4-mai, E4, F4, I4, M4-me, M4-prr, MD4, MMSR2, MPRR2, Pi4\nLanguage of instruction: The course will be given in English",
+    "The purpose of the course is to give basic knowledge in industrial robotics where theory is applied on industrial applied problems. The purpose is to provide an understanding on how theory within the subject of the course can be applied in a practical way from an engineering point of view to create models for analysis, simulation and programming, and create solutions on problems which focus on efficient use of robots in industry.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "The course covers fundamental aspects of robotics for industrail use and focuses, in principle, on three problem areas: (1) Modelling of robots, (2) Programming and simulation of robots and (3) Design and development of robots in, e.g., manufacturing systems. The problem areas are defined in more detail at the start of each course. Within the problem areas, the following will in general be studied: characteristic features of robots with emphasis on the use in industry, programming and methods used in calibration and simulation, modelling and analysis of robot structures, use of robots in industry with adaptation and integration to processes, end-effectors and tools, safety and peripherals. The following teaching elements are included:",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "The course includes compulsory computer lab exercises and a hand-in assignment performed individually, as well as a course project performed in groups. To pass the course (grade 3) students need to successfully complete the computer lab exercises, the hand-in assignment, and the project. For higher grades (4 and 5), a written examination is also required.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0123. Name: Applied Robotics. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).",
+    "Assumed prior knowledge: \n        FRTF05 Automatic Control, Basic Course\n        \nThe number of participants is limited to: 60\nSelection: Completed university credits within the programme. Priority is given to students enrolled on programmes that include the course in their curriculum.\nKursen överlappar följande kurser: \nMMKF15\nMMT150\nFRTF20\nFRTN80",
+    "Course coordinator: Björn Olofsson,\n        bjorn.olofsson@control.lth.se\nDirector of studies: Björn Olofsson,\n        bjorn.olofsson@control.lth.se\nExaminator: Björn Olofsson,\n        bjorn.olofsson@control.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/37223",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to understand characteristic features of robots and their significance when used in industrial processes",
+      "be able to explain and use methods for modelling and analysis of kinematics of robots",
+      "be able to model robot systems for simulation and modelling",
+      "be able to design a robot system for (industrial) use with respect to given requirement specification",
+      "be able to critically assess a design and the features of a robot system for use in an industrial setting."
+    ],
+    [
+      "be able to solve direct and inverse kinematics problems for a given robot structure",
+      "be able to model a robot system and perform simulations and produce robot programs of the system",
+      "be able to produce and present a design solution of a robot system for a given task",
+      "be able to present, orally and in writing, suggested solutions on given tasks."
+    ],
+    [
+      "Lecture series with basic robotic concepts to be applied in exercises and project work.",
+      "Exercises with mandatory hand-in assignment for kinematic and dynamic modelling of robots as well as simulations and robot programming (individually).",
+      "Mandatory computer lab exercises with experiments on robot (individually).",
+      "Mandatory course project developing a robot system or robot application (in groups).",
+      "Optional lab exercise with focus on motion control, and study visit or guest lecturer."
+    ],
+    [
+      "Compendia and other material such as software and films are available on the Canvas page of the course."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår23/2424/2525/2626/27\nCourse syllabus\nApplied Robotics\nTillämpad robotik\nFRTN85, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14\n    \n  \nGeneral Information\n\nMain field:  Production and Materials Engineering\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: D4-mai, E4, F4, I4, M4-me, M4-prr, MD4, MMSR2, MPRR2, Pi4\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe purpose of the course is to give basic knowledge in industrial robotics where theory is applied on industrial applied problems. The purpose is to provide an understanding on how theory within the subject of the course can be applied in a practical way from an engineering point of view to create models for analysis, simulation and programming, and create solutions on problems which focus on efficient use of robots in industry.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to understand characteristic features of robots and their significance when used in industrial processesbe able to explain and use methods for modelling and analysis of kinematics of robotsbe able to model robot systems for simulation and modellingbe able to design a robot system for (industrial) use with respect to given requirement specificationbe able to critically assess a design and the features of a robot system for use in an industrial setting.\nCompetences and skills\n      For a passing grade the student must\nbe able to solve direct and inverse kinematics problems for a given robot structurebe able to model a robot system and perform simulations and produce robot programs of the systembe able to produce and present a design solution of a robot system for a given taskbe able to present, orally and in writing, suggested solutions on given tasks.\nContents\nThe course covers fundamental aspects of robotics for industrail use and focuses, in principle, on three problem areas: (1) Modelling of robots, (2) Programming and simulation of robots and (3) Design and development of robots in, e.g., manufacturing systems. The problem areas are defined in more detail at the start of each course. Within the problem areas, the following will in general be studied: characteristic features of robots with emphasis on the use in industry, programming and methods used in calibration and simulation, modelling and analysis of robot structures, use of robots in industry with adaptation and integration to processes, end-effectors and tools, safety and peripherals. The following teaching elements are included:Lecture series with basic robotic concepts to be applied in exercises and project work.Exercises with mandatory hand-in assignment for kinematic and dynamic modelling of robots as well as simulations and robot programming (individually).Mandatory computer lab exercises with experiments on robot (individually).Mandatory course project developing a robot system or robot application (in groups).Optional lab exercise with focus on motion control, and study visit or guest lecturer.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: The course includes compulsory computer lab exercises and a hand-in assignment performed individually, as well as a course project performed in groups. To pass the course (grade 3) students need to successfully complete the computer lab exercises, the hand-in assignment, and the project. For higher grades (4 and 5), a written examination is also required.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0123. Name: Applied Robotics. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        FRTF05 Automatic Control, Basic Course\n        \nThe number of participants is limited to: 60\nSelection: Completed university credits within the programme. Priority is given to students enrolled on programmes that include the course in their curriculum.\nKursen överlappar följande kurser: \nMMKF15\nMMT150\nFRTF20\nFRTN80\n\nReading list\n\nCompendia and other material such as software and films are available on the Canvas page of the course.\n\nContact\n\nCourse coordinator: Björn Olofsson,\n        bjorn.olofsson@control.lth.se\nDirector of studies: Björn Olofsson,\n        bjorn.olofsson@control.lth.se\nExaminator: Björn Olofsson,\n        bjorn.olofsson@control.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/37223\n\nFurther information\n      A student who has been offered a seat in the course must confirm his/her participation within a week, or else the seat will be offered to the next student according to the selection criteria.\n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

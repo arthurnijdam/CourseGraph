@@ -1,0 +1,60 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Image Analysis\nBildanalys",
+    "FMAN20, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14",
+    "Main field:  Machine Learning, Systems and Control\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nMain field:  Virtual Reality and Augmented Reality\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: MMSR1, MVAR1\nElective for: BME4-sbh, BME4-bdr, C5, D4-bg, E4-mt, E4-bg, F4, F4-bg, F4-bm, L5-gi, Pi4-biek, Pi4-bam\nLanguage of instruction: The course will be given in English on demand",
+    "The main aim of the course is to give a basic introduction to theory and mathematical methods used in image analysis, to an extent that will allow the student to handle industrial image processing problems. In addition the aim is to help the student develop his or her ability in problem solving, both with or without a computer. A further aim is to prepare the student for further studies in e.g. computer vision, multispectral image analysis and statistical image analysis.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Basic mathematical concepts: Image transforms, Discrete Fourier Transform, Fast Fourier Transform.",
+    "Image enhancement: Grey level transforms, filtering.",
+    "Image restoration: Filterings, inverse methods.",
+    "Scale space theory: Continuous versus discrete theory, interpolation.",
+    "Extraction of special features: Filtering, edge and corner detection.",
+    "Segmentation: graph-methods, active contours, mathematical morphology.",
+    "Bayesian image handling: Maximum A Posterori (MAP) estimations, simulation.",
+    "Pattern recognition: Classification, SVM (Support Vector Machine), Principal Component Analysis (PCA), learning.",
+    "Registration",
+    "Machine Learning: Training, testing, generalization, hypothesis spaces.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Compulsory assignments comprising both theory and computer implementations. Approved results on these are enough to pass the course. To get a higher grade, a written and an oral test are required.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0117. Name: Image Analysis. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).",
+    "Assumed prior knowledge: \n        FMAF05 Mathematics - Systems and Transforms, or similar (for example FMAF10 Applied Mathematics - Linear Systems).\n        \nThe number of participants is limited to: 145\nSelection: Incoming qualified exchange students have priority to 10 places. The ranking among such applicants is performed by the course coordinator based on relevant courses taken. Among the remaining applicants priority is given according to the number of completed university credits within the program. Priority is given to students enrolled on programmes that include the course in their curriculum. Among such students place is guaranteed to students in the Master's Programmes in Machine Learning, Systems and Control and in Virtual Reality and Augmented Reality, for whom the course is compulsory.\nKursen överlappar följande kurser: \nFMA170\nFMA172\n          \n        \n          \n            MATC20",
+    "Teacher: Magnus Oskarsson,\n        Magnus.Oskarsson@math.lth.se\nDirector of studies: Anders Holst,\n        studierektor@math.lth.se\nCourse administrator: Studerandeexpeditionen,\n        expedition@math.lth.se\nExaminator: Magnus Oskarsson,\n        Magnus.Oskarsson@math.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/20289",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to explain clearly, and to independently use, basic mathematical concepts in image analysis, in particular regarding transform theory (in space as well as in the frequency domain), image enhancement methods, image compression and pattern recognition.",
+      "be able to describe and give an informal explanation of the mathematical theory behind some central image processing algorithms (both deterministic and stochastic).",
+      "have an understanding of the statistical principles used in machine learning."
+    ],
+    [
+      "in an engineering manner be able to use computer packages to solve problems in image analysis.",
+      "be able to independently apply basic methods in image processing to problems which are relevant in industrial applications or research.",
+      "with proper terminology, in a well structured manner and with clear logic be able to explain the solution to a problem in image analysis."
+    ],
+    [
+      "Szeliski, R: Computer Vision - Algorithms and Applications. Springer, 2022, ISBN: ‎ 978-3030343712. Second edition. The first edition, from 2010, should work.\n It is possible to pass the course without owning the book, using material available through the course home page."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår14/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nImage Analysis\nBildanalys\nFMAN20, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14\n    \n  \nGeneral Information\n\nMain field:  Machine Learning, Systems and Control\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nMain field:  Virtual Reality and Augmented Reality\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: MMSR1, MVAR1\nElective for: BME4-sbh, BME4-bdr, C5, D4-bg, E4-mt, E4-bg, F4, F4-bg, F4-bm, L5-gi, Pi4-biek, Pi4-bam\nLanguage of instruction: The course will be given in English on demand\n    \n  \nAim\nThe main aim of the course is to give a basic introduction to theory and mathematical methods used in image analysis, to an extent that will allow the student to handle industrial image processing problems. In addition the aim is to help the student develop his or her ability in problem solving, both with or without a computer. A further aim is to prepare the student for further studies in e.g. computer vision, multispectral image analysis and statistical image analysis.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to explain clearly, and to independently use, basic mathematical concepts in image analysis, in particular regarding transform theory (in space as well as in the frequency domain), image enhancement methods, image compression and pattern recognition.be able to describe and give an informal explanation of the mathematical theory behind some central image processing algorithms (both deterministic and stochastic).have an understanding of the statistical principles used in machine learning.\nCompetences and skills\n      For a passing grade the student must\nin an engineering manner be able to use computer packages to solve problems in image analysis.be able to independently apply basic methods in image processing to problems which are relevant in industrial applications or research.with proper terminology, in a well structured manner and with clear logic be able to explain the solution to a problem in image analysis.\nContents\nBasic mathematical concepts: Image transforms, Discrete Fourier Transform, Fast Fourier Transform.\nImage enhancement: Grey level transforms, filtering.\nImage restoration: Filterings, inverse methods.\nScale space theory: Continuous versus discrete theory, interpolation.\nExtraction of special features: Filtering, edge and corner detection.\nSegmentation: graph-methods, active contours, mathematical morphology.\nBayesian image handling: Maximum A Posterori (MAP) estimations, simulation.\nPattern recognition: Classification, SVM (Support Vector Machine), Principal Component Analysis (PCA), learning.\nRegistration\nMachine Learning: Training, testing, generalization, hypothesis spaces.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Compulsory assignments comprising both theory and computer implementations. Approved results on these are enough to pass the course. To get a higher grade, a written and an oral test are required.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0117. Name: Image Analysis. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        FMAF05 Mathematics - Systems and Transforms, or similar (for example FMAF10 Applied Mathematics - Linear Systems).\n        \nThe number of participants is limited to: 145\nSelection: Incoming qualified exchange students have priority to 10 places. The ranking among such applicants is performed by the course coordinator based on relevant courses taken. Among the remaining applicants priority is given according to the number of completed university credits within the program. Priority is given to students enrolled on programmes that include the course in their curriculum. Among such students place is guaranteed to students in the Master's Programmes in Machine Learning, Systems and Control and in Virtual Reality and Augmented Reality, for whom the course is compulsory.\nKursen överlappar följande kurser: \nFMA170\nFMA172\n          \n        \n          \n            MATC20\n          \n        \n      \n    \nReading list\n\nSzeliski, R: Computer Vision - Algorithms and Applications. Springer, 2022, ISBN: ‎ 978-3030343712. Second edition. The first edition, from 2010, should work.\n It is possible to pass the course without owning the book, using material available through the course home page.\n\nContact\n\nTeacher: Magnus Oskarsson,\n        Magnus.Oskarsson@math.lth.se\nDirector of studies: Anders Holst,\n        studierektor@math.lth.se\nCourse administrator: Studerandeexpeditionen,\n        expedition@math.lth.se\nExaminator: Magnus Oskarsson,\n        Magnus.Oskarsson@math.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/20289\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

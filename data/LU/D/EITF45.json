@@ -1,0 +1,71 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Computer Communication\nDatorkommunikation",
+    "EITF45, 7.5 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: D2\nElective mandatory for: I3\nElective for: BME4, F4, Pi4\nLanguage of instruction: The course will be given in Swedish",
+    "The course teaches the basics of computer communications and networks. Also, there is a project that improves the students’ competences in technical writing and oral communication.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The course gives an overview of the basic principles and techniques for modern data communication systems. Internet is used throughout the course as an example of network architecture. Ethernet is used as an example of a local area network. The course describes various network entities that are necessary both for local and global communication between computers. The entities’ function and cooperation are described, as well as the functions and protocols needed for global communication across several networks. In more detail, the course includes the following:",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "To pass the course, approved laboratory work, approved project, and a passed exam (digital) are required. The final grade is based on the results of the written exam.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0116. Name: Examination. \n\nCredits: 3.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved written exam.\n        \n        \n        \n        \nCode: 0216. Name: Project. \n\nCredits: 3.0. Grading scale: UG - (U, G).\n        \n          Assessment: Approved project.\n        \n        \n        \n        \nCode: 0316. Name: Laboratory Work. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved laboratory work.",
+    "Assumed prior knowledge: \n        Basic knowledge in programming.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEITF25\nETS055\nETSF05\nETSF15\nETS052\nEITG01\nEITA60",
+    "Course coordinator: Kaan Bür,\n        kaan.bur@eit.lth.se\nCourse homepage: https://www.eit.lth.se/kurs/eitf45",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "Be able to describe signal- and dataflows for some of the protocol functions in computer networks.",
+      "Be able to present the objectives and consequences of using multi-layer protocol models.",
+      "Be able to describe the basic functions of link layer protocols.",
+      "Be able to describe the procedures of connection and session establishment on both the network layer and higher protocol layers.",
+      "Be able to describe the entities of a communication network and present the function of each entity and its role as a part of the communication system."
+    ],
+    [
+      "From theory and empirical analysis be able to describe different data transfer issues.",
+      "Be able to use network tools for monitoring the data transfer in a local area network.",
+      "Be able to present own work in the area in both written and oral form"
+    ],
+    [
+      "have a basic knowledge about the Internet protocols and systems, and be able to relate to these from the perspective of his/her own use of the Internet."
+    ],
+    [
+      "Basic principles of packet-switched networks",
+      "Network architectures",
+      "Wide Area Networks (WAN), Local Area Networks (LAN)",
+      "TCP/IP vs. OSI-model for communication and application protocols",
+      "The functions of different protocol layers",
+      "Network interfaces, active and passive components for networks",
+      "Error detection and control",
+      "Internet, its general architecture and protocols",
+      "Ethernet, IEEE 802.2 and 802.3",
+      "Wireless LAN, IEEE 802.11"
+    ],
+    [
+      "Maria Kihl & Jens A. Andersson: Datakommunikation och nätverk. Studentlitteratur, 2020, ISBN: 9789144135021.https://www.studentlitteratur.se/kurslitteratur/teknik-datorer-it-och-bygg/tele--och-datakommunikation/datakommunikation-och-natverk",
+      "William Stallings: Data and Computer Communications. Pearson, 2013, ISBN: 9781292014388.https://www.pearson.com/uk/educators/higher-education-educators/program/Stallings-Data-and-Computer-Communications-International-Edition-10th-Edition/PGM1085991.html"
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår16/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nComputer Communication\nDatorkommunikation\nEITF45, 7.5 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: D2\nElective mandatory for: I3\nElective for: BME4, F4, Pi4\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nThe course teaches the basics of computer communications and networks. Also, there is a project that improves the students’ competences in technical writing and oral communication.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nBe able to describe signal- and dataflows for some of the protocol functions in computer networks.Be able to present the objectives and consequences of using multi-layer protocol models.Be able to describe the basic functions of link layer protocols.Be able to describe the procedures of connection and session establishment on both the network layer and higher protocol layers.Be able to describe the entities of a communication network and present the function of each entity and its role as a part of the communication system.\nCompetences and skills\n      For a passing grade the student must\nFrom theory and empirical analysis be able to describe different data transfer issues.Be able to use network tools for monitoring the data transfer in a local area network.Be able to present own work in the area in both written and oral form\nJudgement and approach\n      For a passing grade the student must\nhave a basic knowledge about the Internet protocols and systems, and be able to relate to these from the perspective of his/her own use of the Internet.\nContents\nThe course gives an overview of the basic principles and techniques for modern data communication systems. Internet is used throughout the course as an example of network architecture. Ethernet is used as an example of a local area network. The course describes various network entities that are necessary both for local and global communication between computers. The entities’ function and cooperation are described, as well as the functions and protocols needed for global communication across several networks. In more detail, the course includes the following:Basic principles of packet-switched networksNetwork architecturesWide Area Networks (WAN), Local Area Networks (LAN)TCP/IP vs. OSI-model for communication and application protocolsThe functions of different protocol layersNetwork interfaces, active and passive components for networksError detection and controlInternet, its general architecture and protocolsEthernet, IEEE 802.2 and 802.3Wireless LAN, IEEE 802.11 \nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: To pass the course, approved laboratory work, approved project, and a passed exam (digital) are required. The final grade is based on the results of the written exam.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0116. Name: Examination. \n\nCredits: 3.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved written exam.\n        \n        \n        \n        \nCode: 0216. Name: Project. \n\nCredits: 3.0. Grading scale: UG - (U, G).\n        \n          Assessment: Approved project.\n        \n        \n        \n        \nCode: 0316. Name: Laboratory Work. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved laboratory work.\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        Basic knowledge in programming.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEITF25\nETS055\nETSF05\nETSF15\nETS052\nEITG01\nEITA60\n\nReading list\n\nMaria Kihl & Jens A. Andersson: Datakommunikation och nätverk. Studentlitteratur, 2020, ISBN: 9789144135021.https://www.studentlitteratur.se/kurslitteratur/teknik-datorer-it-och-bygg/tele--och-datakommunikation/datakommunikation-och-natverk\nWilliam Stallings: Data and Computer Communications. Pearson, 2013, ISBN: 9781292014388.https://www.pearson.com/uk/educators/higher-education-educators/program/Stallings-Data-and-Computer-Communications-International-Edition-10th-Edition/PGM1085991.html\n\nContact\n\nCourse coordinator: Kaan Bür,\n        kaan.bur@eit.lth.se\nCourse homepage: https://www.eit.lth.se/kurs/eitf45\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

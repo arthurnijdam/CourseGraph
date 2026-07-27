@@ -1,0 +1,59 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Database Technology\nDatabasteknik",
+    "EDAF75, 7.5 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C3\nElective for: BME4, D4-pv, D4-se, E4, F4, F4-pv, I4-pvs, L4-gi, Pi4-pv\nLanguage of instruction: The course will be given in Swedish",
+    "The course gives basic theoretical and practical knowledge about database systems and their organisation. The emphasis is on relational databases.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "For a final grade, approved laboratory work, approved assignment and an approved written exam, are required. The final grade is based on the result of the written exam.﻿",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0117. Name: Laboratory Work and Assignment. \n\nCredits: 3.0. Grading scale: UG - (U, G).\n        \n          Assessment: To qualify for a passing grade the laboratory exercises and the assignment must be completed.\n        \n        \n          The module includes: Laboratory work and assignment.\n        \n        \n        \nCode: 0217. Name: Written Examination. \n\nCredits: 4.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: The final grade of the course is based on the exam.\n        \n        \n          The module includes: Written exam.",
+    "Admission requirements:",
+    "Course coordinator: Christian Söderberg,\n        christian.soderberg@cs.lth.se\nCourse administrator: Birger Swahn,\n        Birger.Swahn@cs.lth.se\nCourse administrator: Ulrika Templing,\n        ulrika.templing@cs.lth.se\nCourse homepage: https://cs.lth.se/edaf75",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to describe information systems with E/R models and UML notation, and translate such models into relational form",
+      "be able to normalise database schemas",
+      "be able to use the query language SQL to create and update a database, and to retrieve information from the database",
+      "know about alternative ways to organise data in databases and about the design of database management systems"
+    ],
+    [
+      "be able to use tools to implement a database",
+      "be able to develop application programming interfaces to databases"
+    ],
+    [
+      "Introduction to database systems. Basics of the relational model, the query language SQL. Methods for data modelling and database design, E/R diagrams and UML diagrams. Theory for the relational model: functional dependencies, normalisation, relational algebra. Stored procedures, triggers. Program and web interfaces to databases.",
+      "Other data models: NoSQL-databases, semistructured data (JSON).",
+      "Security and integrity in databases, concurrency, transactions. Implementation of database management systems and query languages."
+    ],
+    [
+      "EDA011 Programming, First Course or EDA016 Programming, First Course or EDA017 Programming, First Course or EDAA10 Computer Programming in Java or EDAA20 Programming and Databases or EDAA45 Introduction to Programming or EDAA50 Programming, First Course or EDAA55 Programming, First Course or EDAA65 Programming, First Course or EDAA90 Introduction to Programming and Databases or EDAB05 Introduction to Programming"
+    ],
+    [
+      "Course material will be available on the course web site (you don't need to buy any book)."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår17/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nDatabase Technology\nDatabasteknik\nEDAF75, 7.5 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C3\nElective for: BME4, D4-pv, D4-se, E4, F4, F4-pv, I4-pvs, L4-gi, Pi4-pv\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nThe course gives basic theoretical and practical knowledge about database systems and their organisation. The emphasis is on relational databases.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to describe information systems with E/R models and UML notation, and translate such models into relational formbe able to normalise database schemasbe able to use the query language SQL to create and update a database, and to retrieve information from the databaseknow about alternative ways to organise data in databases and about the design of database management systems\nCompetences and skills\n      For a passing grade the student must\nbe able to use tools to implement a databasebe able to develop application programming interfaces to databases\nContents\n\nIntroduction to database systems. Basics of the relational model, the query language SQL. Methods for data modelling and database design, E/R diagrams and UML diagrams. Theory for the relational model: functional dependencies, normalisation, relational algebra. Stored procedures, triggers. Program and web interfaces to databases.\nOther data models: NoSQL-databases, semistructured data (JSON).\nSecurity and integrity in databases, concurrency, transactions. Implementation of database management systems and query languages.\n\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: For a final grade, approved laboratory work, approved assignment and an approved written exam, are required. The final grade is based on the result of the written exam.﻿\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0117. Name: Laboratory Work and Assignment. \n\nCredits: 3.0. Grading scale: UG - (U, G).\n        \n          Assessment: To qualify for a passing grade the laboratory exercises and the assignment must be completed.\n        \n        \n          The module includes: Laboratory work and assignment.\n        \n        \n        \nCode: 0217. Name: Written Examination. \n\nCredits: 4.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: The final grade of the course is based on the exam.\n        \n        \n          The module includes: Written exam. \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nEDA011 Programming, First Course or EDA016 Programming, First Course or EDA017 Programming, First Course or EDAA10 Computer Programming in Java or EDAA20 Programming and Databases or EDAA45 Introduction to Programming or EDAA50 Programming, First Course or EDAA55 Programming, First Course or EDAA65 Programming, First Course or EDAA90 Introduction to Programming and Databases or EDAB05 Introduction to Programming\n\nAssumed prior knowledge: \n        EDAA01 Programming - Second Course.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEDA215\nEDA636\nEDAF20\nEDA216\n\nReading list\n\nCourse material will be available on the course web site (you don't need to buy any book).\n\nContact\n\nCourse coordinator: Christian Söderberg,\n        christian.soderberg@cs.lth.se\nCourse administrator: Birger Swahn,\n        Birger.Swahn@cs.lth.se\nCourse administrator: Ulrika Templing,\n        ulrika.templing@cs.lth.se\nCourse homepage: https://cs.lth.se/edaf75\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Optimising Compilers\nOptimerande kompilatorer",
+    "EDAN75, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C5, D5-is, D5-pv, E4-hp, F5, F5-pv, Pi4\nLanguage of instruction: The course will be given in Swedish",
+    "The purpose of the course is that the students should understand the possibilities and limitations of modern optimising compilers, and thereby understand what they must optimise manually and what the compiler can do automatically.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Control-flow analysis, data-flow analysis, dependence analysis, alias analysis, redundancy elimination, loop optimisations, procedure optimisations, register allocation, code scheduling, optimisation for object oriented languages, optimisation of the memory hierarchy and vectorisation for processors with SIMD instructions.",
+    ".",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: To pass the course it is required to pass the compulsory course items (exercises, laboratory work, project) and the oral exam. The project must be completed within one month after the end of the course. The final grade of the course is based on the result of the oral exam and a additional voluntarily project.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0122. Name: Examination. \n\nCredits: 4.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved examination.\n        \n        \n          The module includes: Oral examination.\n        \n        \n        \nCode: 0222. Name: Compulsory Course Items. \n\nCredits: 3.0. Grading scale: UG - (U, G).\n        \n          Assessment: Approved compulsory itemns.\n        \n        \n          The module includes: Exercises, laboratory work and project.",
+    "Admission requirements:",
+    "Course coordinator: Jonas Skeppstedt,\n        jonas.skeppstedt@cs.lth.se\nCourse homepage: cs.lth.se/edan75",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "understand which algorithms and data structures are used when modern optimising compilers are implemented, and",
+      "understand which language constucts limit the compiler's ability to optimise code."
+    ],
+    [
+      "be able to analyse benchmark programs in order to understand which optimisation algorithms are suitable to implement, and",
+      "be able to implement optimisation algorithms on SSA form, validate that they are implemented correctly and to measure their performance effects."
+    ],
+    [
+      "without assistance be able to read and understand a scientific article on optimising compilers and to present it to the other students,",
+      "be able to make a rough estimation of how long it may take to implement the ideas of the article, and make a judgement of whether that amount of work is worthwhile,",
+      "and finally to determine whether the optimisation ideas can be suitable to perform by hand, if the compiler cannot do it automatically."
+    ],
+    [
+      "EDAF05 Algorithms, Data Structures and Complexity or EDAG01 Efficient C or EDAN26 Multicore Programming or EDAN65 Compilers"
+    ],
+    [
+      "Jonas Skeppstedt: An Introduction to the Theory of Optimizing Compilers - with performance measurements on POWER. Skeppberg, 2020, ISBN: 978-1537091129."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår17/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nOptimising Compilers\nOptimerande kompilatorer\nEDAN75, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C5, D5-is, D5-pv, E4-hp, F5, F5-pv, Pi4\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nThe purpose of the course is that the students should understand the possibilities and limitations of modern optimising compilers, and thereby understand what they must optimise manually and what the compiler can do automatically.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nunderstand which algorithms and data structures are used when modern optimising compilers are implemented, andunderstand which language constucts limit the compiler's ability to optimise code.\nCompetences and skills\n      For a passing grade the student must\nbe able to analyse benchmark programs in order to understand which optimisation algorithms are suitable to implement, andbe able to implement optimisation algorithms on SSA form, validate that they are implemented correctly and to measure their performance effects.\nJudgement and approach\n      For a passing grade the student must\nwithout assistance be able to read and understand a scientific article on optimising compilers and to present it to the other students,be able to make a rough estimation of how long it may take to implement the ideas of the article, and make a judgement of whether that amount of work is worthwhile,and finally to determine whether the optimisation ideas can be suitable to perform by hand, if the compiler cannot do it automatically.\nContents\nControl-flow analysis, data-flow analysis, dependence analysis, alias analysis, redundancy elimination, loop optimisations, procedure optimisations, register allocation, code scheduling, optimisation for object oriented languages, optimisation of the memory hierarchy and vectorisation for processors with SIMD instructions.\n.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: To pass the course it is required to pass the compulsory course items (exercises, laboratory work, project) and the oral exam. The project must be completed within one month after the end of the course. The final grade of the course is based on the result of the oral exam and a additional voluntarily project.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0122. Name: Examination. \n\nCredits: 4.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved examination.\n        \n        \n          The module includes: Oral examination.\n        \n        \n        \nCode: 0222. Name: Compulsory Course Items. \n\nCredits: 3.0. Grading scale: UG - (U, G).\n        \n          Assessment: Approved compulsory itemns.\n        \n        \n          The module includes: Exercises, laboratory work and project.\n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nEDAF05 Algorithms, Data Structures and Complexity or EDAG01 Efficient C or EDAN26 Multicore Programming or EDAN65 Compilers \n\nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEDA230\n\nReading list\n\nJonas Skeppstedt: An Introduction to the Theory of Optimizing Compilers - with performance measurements on POWER. Skeppberg, 2020, ISBN: 978-1537091129.\n\nContact\n\nCourse coordinator: Jonas Skeppstedt,\n        jonas.skeppstedt@cs.lth.se\nCourse homepage: cs.lth.se/edan75\n\nFurther information\n      Compulsory course items: Exercises, labs and a project.\n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

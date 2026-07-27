@@ -1,0 +1,88 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Optimum and Adaptive Signal Processing\nOptimal och adaptiv signalbehandling",
+    "EITN60, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED BME\nDate of Decision: 2026-04-13",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4-sbh, C4, D4-ssr, E4-sb, E4-bg, F5, F5-ss, MSOC2, MWIR2, Pi4-ssr\nLanguage of instruction: The course will be given in English",
+    "The course provides basic knowledge in statistical signal processing and the theory of optimal methods and how they can be applied. The course presents signal processing methodology and solutions to problems where digital systems tune in automatically and adapt to the environment. The student is given enough theoretical and practical knowledge to independently be able to formulate the mathematical problem, solve it and implement the solution for use with real-life signals.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Optimum filtering",
+    "Basics about adaptive filters",
+    "The LMS family",
+    "The RLS family",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: The grade is based on the exam in the end of the course.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0119. Name: Written Exam. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written Examination.\n        \n        \n        \n        \nCode: 0219. Name: Project. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: Project Report.",
+    "Assumed prior knowledge: \n        EITF75  Digital signal processing OR EITA50  Signal processing in  multimedia OR EITF15, BMEF25 Digital signal processing  - theory and applications OR BMEA05 Signals and systems OR EITG10 Systems, Signals and Discrete Transforms\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nETTN05\nETT042",
+    "Course coordinator: Martin Stridh,\n        martin.stridh@bme.lth.se\nDirector of studies: Lars Wallman,\n        lars.wallman@bme.lth.se",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "have knowledge about and understand the main concepts in optimum and adaptive filter theory",
+      "be able to apply the most commonly used methods to real problems and real-life signals (Matlab-level)",
+      "be able to formulate mathematical problems based on described situations"
+    ],
+    [
+      "be able to explain the main principles behind the most common adaptive methods (LMS and RLS)",
+      "be able to explain/calculate the convergence and stability properties for these methods",
+      "be able to sketch the most common block diagrams/structures used for adaptive filters and their properties",
+      "be able to set parameters needed to make the algorithms work",
+      "be able to foresee the consequences for the algorithms when implemented in fixed-point arithmetic",
+      "be able to implement adaptive filters"
+    ],
+    [
+      "have the ability to analyze, evaluate and implement adaptive algorithms, and be able to interpret and describe the principles which they are based on.",
+      "have the insight that many different technical problems can be solved using the same methods."
+    ],
+    [
+      "Wiener filters",
+      "Linear prediciton",
+      "The Levinson-Durbin algorithm"
+    ],
+    [
+      "From optimal to adaptive filters",
+      "Cost functions, minimization problems and iterative procedures",
+      "Convergence and tracking capability, implementation aspects",
+      "Strategies for how to connect adaptive filters"
+    ],
+    [
+      "Principle and derivation",
+      "Convergence analysis and parameter settings",
+      "Variants including Normalized LMS, Leaky LMS, Fast LMS and Sign LMS",
+      "Matlab implementation",
+      "LMS in fixed-point arithmetic",
+      "Principle and derivation",
+      "Parameter settings"
+    ],
+    [
+      "Aspects when used",
+      "Matlab implementation",
+      "Numerical properties"
+    ],
+    [
+      "Haykin S: Adaptive Filter Theory - Fifth Edition. Pearson, 2014, ISBN: 0-273-76408-X."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår14/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nOptimum and Adaptive Signal Processing\nOptimal och adaptiv signalbehandling\nEITN60, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED BME\nDate of Decision: 2026-04-13\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4-sbh, C4, D4-ssr, E4-sb, E4-bg, F5, F5-ss, MSOC2, MWIR2, Pi4-ssr\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe course provides basic knowledge in statistical signal processing and the theory of optimal methods and how they can be applied. The course presents signal processing methodology and solutions to problems where digital systems tune in automatically and adapt to the environment. The student is given enough theoretical and practical knowledge to independently be able to formulate the mathematical problem, solve it and implement the solution for use with real-life signals.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nhave knowledge about and understand the main concepts in optimum and adaptive filter theorybe able to apply the most commonly used methods to real problems and real-life signals (Matlab-level)be able to formulate mathematical problems based on described situations\nCompetences and skills\n      For a passing grade the student must\nbe able to explain the main principles behind the most common adaptive methods (LMS and RLS)be able to explain/calculate the convergence and stability properties for these methodsbe able to sketch the most common block diagrams/structures used for adaptive filters and their propertiesbe able to set parameters needed to make the algorithms workbe able to foresee the consequences for the algorithms when implemented in fixed-point arithmeticbe able to implement adaptive filters\nJudgement and approach\n      For a passing grade the student must\nhave the ability to analyze, evaluate and implement adaptive algorithms, and be able to interpret and describe the principles which they are based on.have the insight that many different technical problems can be solved using the same methods.\nContents\nOptimum filtering\n \n\nWiener filters\nLinear prediciton\nThe Levinson-Durbin algorithm\n\n \nBasics about adaptive filters\n\nFrom optimal to adaptive filters\nCost functions, minimization problems and iterative procedures\nConvergence and tracking capability, implementation aspects\nStrategies for how to connect adaptive filters\n\nThe LMS family\n\nPrinciple and derivation\nConvergence analysis and parameter settings\nVariants including Normalized LMS, Leaky LMS, Fast LMS and Sign LMS\nMatlab implementation\nLMS in fixed-point arithmetic\nPrinciple and derivation\nParameter settings\n\nThe RLS family\n\nAspects when used\nMatlab implementation\nNumerical properties\n\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: The grade is based on the exam in the end of the course. \n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0119. Name: Written Exam. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written Examination.\n        \n        \n        \n        \nCode: 0219. Name: Project. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: Project Report.\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        EITF75  Digital signal processing OR EITA50  Signal processing in  multimedia OR EITF15, BMEF25 Digital signal processing  - theory and applications OR BMEA05 Signals and systems OR EITG10 Systems, Signals and Discrete Transforms\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nETTN05\nETT042\n\nReading list\n\nHaykin S: Adaptive Filter Theory - Fifth Edition. Pearson, 2014, ISBN: 0-273-76408-X.\n\nContact\n\nCourse coordinator: Martin Stridh,\n        martin.stridh@bme.lth.se\nDirector of studies: Lars Wallman,\n        lars.wallman@bme.lth.se\n\nFurther information\n      Exercises 14 h, computer exercises 14 h and laboratory work 2 x 4 h. The course might be given in English.\n\nWith less than 16 participants, the course may be given with reduced teaching and more self studies.\n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

@@ -1,0 +1,58 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Design of Experiments\nFörsöksplanering",
+    "FMSF65, 7.5 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED I\nDate of Decision: 2026-04-13",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4, D4, E4, F4, F4-bm, MLIV1, MWIR1, N4, Pi4-biek, W4\nLanguage of instruction: The course will be given in English",
+    "This is a basic course in designing experiments and analyzing the resulting data. It is intended for engineers, physical/chemical scientists and scientists from other fields such as biotechnology and biology. The course deals with the types of experiments that are frequently conducted in industrial settings. Its objective is to learn how to plan, design and conduct experiments efficiently and effectively, and analyze the resulting data to obtain objective conclusions. Both design and statistical analysis issues are discussed. Opportunities to use the principles taught in the course arise in all phases of engineering and scientific work, including technology development, new product design and development, process development, and manufacturing process improvement. Applications from various fields of engineering (including chemical, mechanical, electrical, materials science, industrial, etc.) will be illustrated throughout the course.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Simple design with fixed and random effects. Simultaneous confidence intervals. Requirements for analysis of variance: transformations, model validation, residual analysis. Factorial design with fixed, random, and mixed effects. Additivity and interaction. Complete and incomplete designs. Randomised block designs, Latin squares and confounding. Regression and analysis of covariance.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "Oral exam and computer exercises with written reports.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0124. Name: Examination. \n\nCredits: 4.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Oral exam\n        \n        \n        \n        \nCode: 0224. Name: Computer Exercises. \n\nCredits: 3.5. Grading scale: UG - (U, G).\n        \n          Assessment: Computer exercises with written reports.",
+    "Admission requirements:",
+    "Director of studies: Johan Lindström,\n        studierektor@matstat.lu.se\nCourse administrator: Susann Nordqvist,\n        expedition@matstat.lu.se\nExaminator: Johan Lindström,\n        johan.lindstrom@matstat.lu.se\nExaminator: Magnus Wiktorsson,\n        magnus.wiktorsson@matstat.lu.se\nExaminator: Ted Kronvall,\n        ted.kronvall@matstat.lu.se\nCourse homepage: https://www.maths.lu.se/utbildning/civilingenjoersutbildning/matematisk-statistik-paa-civilingenjoersprogram/",
+    "The course is also given at the Faculty of Science with the code MASC15.",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to explain and use basic methods in factorial experiments,",
+      "be able to explain and use basic methods in analysis of variance with fixed and random effects, regression and analysis of covariance."
+    ],
+    [
+      "be able to plan a factorial experiment,",
+      "be able to suggest an experimental plan suitable for a given problem,",
+      "be able to structure and analyse sets of data using a computer package and critically examine the result,",
+      "be able to, both in written reports and orally at seminars, account for the solutions of statistical problems"
+    ],
+    [
+      "((FMAA20 Linear Algebra with Introduction to Computer Tools or FMAA21 Linear Algebra with Numerical Applications or FMAB20 Linear Algebra or FMAB22 Linear Algebra) \n  and \n (FMAB30 Calculus in Several Variables or FMAB35 Calculus in Several Variables))  or(FMSF20 Mathematical Statistics, Basic Course or FMSF25 Mathematical Statistics - Complementary Project or FMSF32 Mathematical Statistics or FMSF45 Mathematical Statistics, Basic Course or FMSF50 Mathematical Statistics, Basic Course or FMSF55 Mathematical Statistics, Basic Course or FMSF70 Mathematical Statistics or FMSF75 Mathematical Statistics, Basic Course or FMSF80 Mathematical Statistics, Basic Course)"
+    ],
+    [
+      "Box, Hunter, and Hunter: Statistics for experimenters - Design, Innovation, and Discovery, 2nd Edition. Wiley, 2005, ISBN: 978-0-471-71813-0. One of the two course books will be sufficient.",
+      "Douglas C. Montgomery: Design and Analysis of Experiments, 10th Edition. wiley, 2019, ISBN: 978-1-119-49244-3. One of the two course books will be sufficient."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår17/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nDesign of Experiments\nFörsöksplanering\nFMSF65, 7.5 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED I\nDate of Decision: 2026-04-13\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4, D4, E4, F4, F4-bm, MLIV1, MWIR1, N4, Pi4-biek, W4\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThis is a basic course in designing experiments and analyzing the resulting data. It is intended for engineers, physical/chemical scientists and scientists from other fields such as biotechnology and biology. The course deals with the types of experiments that are frequently conducted in industrial settings. Its objective is to learn how to plan, design and conduct experiments efficiently and effectively, and analyze the resulting data to obtain objective conclusions. Both design and statistical analysis issues are discussed. Opportunities to use the principles taught in the course arise in all phases of engineering and scientific work, including technology development, new product design and development, process development, and manufacturing process improvement. Applications from various fields of engineering (including chemical, mechanical, electrical, materials science, industrial, etc.) will be illustrated throughout the course.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to explain and use basic methods in factorial experiments,be able to explain and use basic methods in analysis of variance with fixed and random effects, regression and analysis of covariance.\nCompetences and skills\n      For a passing grade the student must\nbe able to plan a factorial experiment,be able to suggest an experimental plan suitable for a given problem,be able to structure and analyse sets of data using a computer package and critically examine the result,be able to, both in written reports and orally at seminars, account for the solutions of statistical problems\nContents\nSimple design with fixed and random effects. Simultaneous confidence intervals. Requirements for analysis of variance: transformations, model validation, residual analysis. Factorial design with fixed, random, and mixed effects. Additivity and interaction. Complete and incomplete designs. Randomised block designs, Latin squares and confounding. Regression and analysis of covariance.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Oral exam and computer exercises with written reports.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0124. Name: Examination. \n\nCredits: 4.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Oral exam\n        \n        \n        \n        \nCode: 0224. Name: Computer Exercises. \n\nCredits: 3.5. Grading scale: UG - (U, G).\n        \n          Assessment: Computer exercises with written reports.\n        \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\n((FMAA20 Linear Algebra with Introduction to Computer Tools or FMAA21 Linear Algebra with Numerical Applications or FMAB20 Linear Algebra or FMAB22 Linear Algebra) \n  and \n (FMAB30 Calculus in Several Variables or FMAB35 Calculus in Several Variables))  or(FMSF20 Mathematical Statistics, Basic Course or FMSF25 Mathematical Statistics - Complementary Project or FMSF32 Mathematical Statistics or FMSF45 Mathematical Statistics, Basic Course or FMSF50 Mathematical Statistics, Basic Course or FMSF55 Mathematical Statistics, Basic Course or FMSF70 Mathematical Statistics or FMSF75 Mathematical Statistics, Basic Course or FMSF80 Mathematical Statistics, Basic Course)\n\nAssumed prior knowledge: \n        Basic mathematical statistics and programming experience.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFMS072\n          \n        \n          \n            MASC05\n          \n        \n      \n    \nReading list\n\nBox, Hunter, and Hunter: Statistics for experimenters - Design, Innovation, and Discovery, 2nd Edition. Wiley, 2005, ISBN: 978-0-471-71813-0. One of the two course books will be sufficient.\nDouglas C. Montgomery: Design and Analysis of Experiments, 10th Edition. wiley, 2019, ISBN: 978-1-119-49244-3. One of the two course books will be sufficient.\n\nContact\n\nDirector of studies: Johan Lindström,\n        studierektor@matstat.lu.se\nCourse administrator: Susann Nordqvist,\n        expedition@matstat.lu.se\nExaminator: Johan Lindström,\n        johan.lindstrom@matstat.lu.se\nExaminator: Magnus Wiktorsson,\n        magnus.wiktorsson@matstat.lu.se\nExaminator: Ted Kronvall,\n        ted.kronvall@matstat.lu.se\nCourse homepage: https://www.maths.lu.se/utbildning/civilingenjoersutbildning/matematisk-statistik-paa-civilingenjoersprogram/\n\nFurther information\nThe course is also given at the Faculty of Science with the code MASC15.\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

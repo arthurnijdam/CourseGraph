@@ -1,0 +1,71 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Language Technology\nSpråkteknologi",
+    "EDAN20, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-pvs, C4-pvt, D4-pv, D4-mai, E4-mi, F4, F4-pv, F4-mai, MMSR2, Pi4-pv, Pi4-bam\nLanguage of instruction: The course will be given in English",
+    "In the past 15 years, language technology has considerably matured driven by the massive increase of textual and spoken data and the need to process them automatically. Although there are few systems entirely dedicated to language processing, there are now scores of applications that are to some extent \"language-enabled\" and embed language processing techniques such as spelling and grammar checkers, information retrieval and extraction, or spoken dialogue systems. This makes the field form a new requirement for the CS engineers.",
+    "The course introduces theories used in language technology. It attempts to cover the whole field from character encoding and statistical language models to semantics and conversational agents, going through syntax and parsing. It focuses on proven techniques as well as significant industrial or laboratory applications.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "To achieve a grade 3, approved assignment submissions (laboratory work and individual reports) are required. For the possibility of higher grades, a written exam is also required. The assignment (laboratory work) are to be carried out in groups of two students, but can also be done individually. The first laboratory session is dedicated to the programming tools used in the course. The remaining six assignments are addressed in subsequent laboratory sessions.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0113. Name: Statistical Techniques for Text Analysis. \n\nCredits: 3.5. Grading scale: UG - (U, G).\n        \n          Assessment: To qualify for a passing grade the laboratory work must be completed.\n        \n        \n          The module includes: Laboratory work.\n        \n        \n        \nCode: 0213. Name: Syntactic and Semantic Processing of Text. \n\nCredits: 4.0. Grading scale: UG - (U, G).\n        \n          Assessment: To qualify for a passing grade the laboratory work must be completed.\n        \n        \n          The module includes: Laboratory work.\n        \n        \n        \nCode: 0313. Name: Written Examination. \n\nCredits: 0.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Passing the course with a mark of 3 will consist in passing all the assignments. Optionally, the students will be able to take the written examination and improve their mark to 4 or 5.\n        \n        \n          The module includes: Optional written examination.",
+    "Admission requirements:",
+    "Course coordinator: Professor Pierre Nugues,\n        Pierre.Nugues@cs.lth.se\nCourse homepage: https://cs.lth.se/edan20",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "Understand the field of language technology and major applications using them",
+      "Know the most important techniques, fundamental algorithms, and most common architectures used in applications",
+      "Create and implement language processing algorithms. Write, interpret, evaluate, and improve them during the programming laboratories."
+    ],
+    [
+      "Understand and develop annotation schemes, create and process structured documents",
+      "Understand and write regular expressions and use them in languages like Python",
+      "Understand and use machine--learning algorithms and statistical techniques",
+      "Develop and evaluate algorithms in major fields of language technology: language models, partial parsing, dependency parsing, and semantic parsing using real data."
+    ],
+    [
+      "Show curiosity, creativity, and problem solving aptitudes",
+      "Show an understanding of industrial and research issues in language technology"
+    ],
+    [
+      "An overview of language technology: disciplines, applications, and examples",
+      "Corpus and word processing: regular expressions, automata, an introduction to Python, concordances, tokenization, counting words, collocations",
+      "Morphology and part-of-speech tagging: word morphology, transducers, part-of-speech tagging,",
+      "Phrase-structure grammars: constituents, trees, DCG rules, unification.",
+      "Partial parsing: multiword detection, noun group and verb group extraction, information extraction, evaluation",
+      "Syntax: formalisms, constituency and dependency, functions, parsing, statistical parsing, dependency parsing.",
+      "Semantics: formal semantics, lambda-calculus, lexical semantics, predicate--argument structures, frame semantics, semantic parsing.",
+      "Discourse and dialogue: reference and coreference, discourse and rhetoric, discourse relations, parsing discourse relations, dialogue automata, speech acts, multimodality."
+    ],
+    [
+      "EDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course or FRTF25 Introduction to Machine Learning, Systems and Control"
+    ],
+    [
+      "Pierre Nugues: Python for Natural Language Processing - Programming with NumPy, scikit-learn, Keras, and PyTorch. Springer Verlag, 2025, ISBN: 978-3-031-57549-5."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår10/1111/1212/1313/1414/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nLanguage Technology\nSpråkteknologi\nEDAN20, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-pvs, C4-pvt, D4-pv, D4-mai, E4-mi, F4, F4-pv, F4-mai, MMSR2, Pi4-pv, Pi4-bam\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nIn the past 15 years, language technology has considerably matured driven by the massive increase of textual and spoken data and the need to process them automatically. Although there are few systems entirely dedicated to language processing, there are now scores of applications that are to some extent \"language-enabled\" and embed language processing techniques such as spelling and grammar checkers, information retrieval and extraction, or spoken dialogue systems. This makes the field form a new requirement for the CS engineers.\nThe course introduces theories used in language technology. It attempts to cover the whole field from character encoding and statistical language models to semantics and conversational agents, going through syntax and parsing. It focuses on proven techniques as well as significant industrial or laboratory applications.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nUnderstand the field of language technology and major applications using themKnow the most important techniques, fundamental algorithms, and most common architectures used in applicationsCreate and implement language processing algorithms. Write, interpret, evaluate, and improve them during the programming laboratories.\nCompetences and skills\n      For a passing grade the student must\nUnderstand and develop annotation schemes, create and process structured documentsUnderstand and write regular expressions and use them in languages like PythonUnderstand and use machine--learning algorithms and statistical techniquesDevelop and evaluate algorithms in major fields of language technology: language models, partial parsing, dependency parsing, and semantic parsing using real data.\nJudgement and approach\n      For a passing grade the student must\nShow curiosity, creativity, and problem solving aptitudesShow an understanding of industrial and research issues in language technology\nContents\n\nAn overview of language technology: disciplines, applications, and examples\nCorpus and word processing: regular expressions, automata, an introduction to Python, concordances, tokenization, counting words, collocations\nMorphology and part-of-speech tagging: word morphology, transducers, part-of-speech tagging,\nPhrase-structure grammars: constituents, trees, DCG rules, unification.\nPartial parsing: multiword detection, noun group and verb group extraction, information extraction, evaluation\nSyntax: formalisms, constituency and dependency, functions, parsing, statistical parsing, dependency parsing.\nSemantics: formal semantics, lambda-calculus, lexical semantics, predicate--argument structures, frame semantics, semantic parsing.\nDiscourse and dialogue: reference and coreference, discourse and rhetoric, discourse relations, parsing discourse relations, dialogue automata, speech acts, multimodality.\n\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: To achieve a grade 3, approved assignment submissions (laboratory work and individual reports) are required. For the possibility of higher grades, a written exam is also required. The assignment (laboratory work) are to be carried out in groups of two students, but can also be done individually. The first laboratory session is dedicated to the programming tools used in the course. The remaining six assignments are addressed in subsequent laboratory sessions.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0113. Name: Statistical Techniques for Text Analysis. \n\nCredits: 3.5. Grading scale: UG - (U, G).\n        \n          Assessment: To qualify for a passing grade the laboratory work must be completed.\n        \n        \n          The module includes: Laboratory work.\n        \n        \n        \nCode: 0213. Name: Syntactic and Semantic Processing of Text. \n\nCredits: 4.0. Grading scale: UG - (U, G).\n        \n          Assessment: To qualify for a passing grade the laboratory work must be completed.\n        \n        \n          The module includes: Laboratory work.\n        \n        \n        \nCode: 0313. Name: Written Examination. \n\nCredits: 0.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Passing the course with a mark of 3 will consist in passing all the assignments. Optionally, the students will be able to take the written examination and improve their mark to 4 or 5.\n        \n        \n          The module includes: Optional written examination.\n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nEDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course or FRTF25 Introduction to Machine Learning, Systems and Control\n\nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEDA171\n\nReading list\n\nPierre Nugues: Python for Natural Language Processing - Programming with NumPy, scikit-learn, Keras, and PyTorch. Springer Verlag, 2025, ISBN: 978-3-031-57549-5.\n\nContact\n\nCourse coordinator: Professor Pierre Nugues,\n        Pierre.Nugues@cs.lth.se\nCourse homepage: https://cs.lth.se/edan20\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

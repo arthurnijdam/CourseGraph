@@ -1,0 +1,58 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Artificial Intelligence\nArtificiell intelligens",
+    "EDAP01, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Main field:  Machine Learning, Systems and Control\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective mandatory for: MVAR1\nElective for: BME4, C4-pvs, C4-pvt, D4-pv, D4-mai, E4-mi, F4, F4-mai, I4, IDA3, MMSR1, MSOC2, Pi4-bam\nLanguage of instruction: The course will be given in English",
+    "To give an introduction to several subdomains of artificial intelligence and to give an orientation about fundamental methods within these domains. To convey knowledge about breath and depth of the domain. To provide insight about the ethical consequences of AI-based technology.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Intelligent agents. Heuristic search. Adversarial search. Knowledge based systems. Machine learning. Natural language. Semantic Web. Probabilistic reasoning. Intelligent robots. Planning. Ethics of AI.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "For a passing grade an approved written exam and passed assignments are required. The final grade of the course is based on the result of the written examination.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0124. Name: Compulsory Course Items. \n\nCredits: 3.0. Grading scale: UG - (U, G).\n        \n          Assessment: To qualify for a passing grade the assignments must be completed.\n        \n        \n          The module includes: Assignments related to some of the treated subdomains are implemented to give practical experience of difficulties such as computational complexity, scalability and result interpretation.\n        \n        \n          Further information: Details regarding the compulsory assignments will be found in the course program (syllabus) at the course web site.\n        \n        \nCode: 0224. Name: Exam. \n\nCredits: 4.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: To qualify for the exam all assignments must be completed and submitted in assessable state. The final grade of the course is based on the result of the written examination.\n        \n        \n          The module includes: Written exam",
+    "Admission requirements:",
+    "Course coordinator: Elin A. Topp,\n        elin_a.topp@cs.lth.se\nCourse coordinator: Eren Aksoy,\n        eren.aksoy@cs.lth.se\nTeacher: Eren Aksoy,\n        eren.aksoy@cs.lth.se\nTeacher: Professor Pierre Nugues,\n        Pierre.Nugues@cs.lth.se\nTeacher: Stefan Larsson,\n        Stefan.Larsson@lth.lu.se\nCourse homepage: https://cs.lth.se/edap01",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "display basic knowledge concerning theories and methods related to the following subdomains: intelligent agents, heuristic search, game programming, knowledge representation, knowledge-based systems, probabilistic reasoning, various machine learning approaches, natural language processing."
+    ],
+    [
+      "complete a number of assignments based on problems related to some of the following subdomains: heuristic search, knowledge-based systems, probabilistic reasoning, machine learning, natural language processing.",
+      "demonstrate ability to critically, autonomously and creatively identify, formulate and handle problems requiring algorithms belonging to AI"
+    ],
+    [
+      "demonstrate ability to acquire additional knowledge and to continuously develop new skills.",
+      "demonstrate ability to critically judge the ethical and societal consequences of using AI in particular context."
+    ],
+    [
+      "EDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course or FRTF25 Introduction to Machine Learning, Systems and Control"
+    ],
+    [
+      "Stuart Russell, Peter Norvig: Artificial Intelligence - A Modern Approach. Pearson Education, 2021, ISBN: 13 978-1-292-40113-3 / 101-292-40113-3. 4th edition, recommended textbook."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår19/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nArtificial Intelligence\nArtificiell intelligens\nEDAP01, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nMain field:  Machine Learning, Systems and Control\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective mandatory for: MVAR1\nElective for: BME4, C4-pvs, C4-pvt, D4-pv, D4-mai, E4-mi, F4, F4-mai, I4, IDA3, MMSR1, MSOC2, Pi4-bam\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nTo give an introduction to several subdomains of artificial intelligence and to give an orientation about fundamental methods within these domains. To convey knowledge about breath and depth of the domain. To provide insight about the ethical consequences of AI-based technology.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\ndisplay basic knowledge concerning theories and methods related to the following subdomains: intelligent agents, heuristic search, game programming, knowledge representation, knowledge-based systems, probabilistic reasoning, various machine learning approaches, natural language processing.\nCompetences and skills\n      For a passing grade the student must\ncomplete a number of assignments based on problems related to some of the following subdomains: heuristic search, knowledge-based systems, probabilistic reasoning, machine learning, natural language processing.demonstrate ability to critically, autonomously and creatively identify, formulate and handle problems requiring algorithms belonging to AI\nJudgement and approach\n      For a passing grade the student must\ndemonstrate ability to acquire additional knowledge and to continuously develop new skills.demonstrate ability to critically judge the ethical and societal consequences of using AI in particular context.\nContents\nIntelligent agents. Heuristic search. Adversarial search. Knowledge based systems. Machine learning. Natural language. Semantic Web. Probabilistic reasoning. Intelligent robots. Planning. Ethics of AI.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: For a passing grade an approved written exam and passed assignments are required. The final grade of the course is based on the result of the written examination.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0124. Name: Compulsory Course Items. \n\nCredits: 3.0. Grading scale: UG - (U, G).\n        \n          Assessment: To qualify for a passing grade the assignments must be completed.\n        \n        \n          The module includes: Assignments related to some of the treated subdomains are implemented to give practical experience of difficulties such as computational complexity, scalability and result interpretation.\n        \n        \n          Further information: Details regarding the compulsory assignments will be found in the course program (syllabus) at the course web site.\n        \n        \nCode: 0224. Name: Exam. \n\nCredits: 4.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: To qualify for the exam all assignments must be completed and submitted in assessable state. The final grade of the course is based on the result of the written examination.\n        \n        \n          The module includes: Written exam\n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nEDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course or FRTF25 Introduction to Machine Learning, Systems and Control\n\nAssumed prior knowledge: \n        FMAB65 Calculus in One Variable B1, FMAB70 Calculus in One Variable B2, FMAB20 Linear Algebra and FMAB30 Calculus in Several Variables.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEDA132\nEDAF70\nTFRP20\n\nReading list\n\nStuart Russell, Peter Norvig: Artificial Intelligence - A Modern Approach. Pearson Education, 2021, ISBN: 13 978-1-292-40113-3 / 101-292-40113-3. 4th edition, recommended textbook.\n\nContact\n\nCourse coordinator: Elin A. Topp,\n        elin_a.topp@cs.lth.se\nCourse coordinator: Eren Aksoy,\n        eren.aksoy@cs.lth.se\nTeacher: Eren Aksoy,\n        eren.aksoy@cs.lth.se\nTeacher: Professor Pierre Nugues,\n        Pierre.Nugues@cs.lth.se\nTeacher: Stefan Larsson,\n        Stefan.Larsson@lth.lu.se\nCourse homepage: https://cs.lth.se/edap01\n\nFurther information\n      Detailed rules concerning the assignments will be found in the course web site.\n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

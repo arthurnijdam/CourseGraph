@@ -1,0 +1,60 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Digital Communications\nDigital kommunikation",
+    "EITG05, 7.5 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMain field:  Communication Systems\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: MWIR1\nElective for: BME4, C4-ks, D4-ssr, D4-ns, E4-tk, F4, F4-f, M4, MFOT1, MMSR2, Pi4\nLanguage of instruction: The course will be given in English",
+    "The aim of this course is to give basic knowledge of principles, concepts, functioning, performance and limitations of digital communication systems.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Introduction: An overview is given of a general communication link consisting of the three parts transmitter – communication channel – receiver. Examples of digital communication methods are introduced for realistic bit rates and noise levels.",
+    "The transmitter: The principles, structure and functioning of the transmitter are explained. Basic binary and M-ary digital communication methods are presented such as: phase shift keying (PSK), quadrature amplitude modulation (QAM), frequency shift keying (FSK) and orthogonal frequency division multiplex (OFDM). Communication methods that use several transmitter and receiver antennas (MIMO system) are briefly discussed. The efficiency with respect to bit rate, bandwidth and signal power is evaluated for different methods. Multiple access techniques are briefly discussed in connection with multi-user communication systems.",
+    "The communication channel: The influence of the communication channel on the transmitted information carrying signals is investigated. The consequences of multi-path propagation and noise on the bit rate is also studied. Disturbing signals, noise and other unwanted signals are described and modelled (typically as additive white Gaussian noise in this course). The influence of different transmission media such as air, metallic conductors and optical fibers are briefly discussed.",
+    "The receiver: The principles (MAP and ML), structure and functioning of the receiver are explained. Synchronisation issues are described. The bit error probability of the receiver is analysed and calculated. The connection between bit rate, received signal power, noise level, bandwidth and error probability is clarified. The concept of diversity is briefly discussed and illustrated. Technical challenges when using very high bit rates, such as the presence of inter-symbol interference (ISI), is described.",
+    "Applications: Some of the following applications are considered in the course: Mobile digital telephony (3G, EDGE, GSM), WLAN, modem, ADSL, digital TV, Bluetooth, navigation (GPS), surveillance systems.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "A passing grade requires a passing result on the written exam as well as approved laboratory work. Approved laboratory work is a prerequisite for taking the written exam. The final grade is based on the result of the written exam.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0117. Name: Examination. \n\nCredits: 6.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written exam.\n        \n        \n          The module includes: The whole course.\n        \n        \n        \nCode: 0217. Name: Laboratory Work. \n\nCredits: 1.0. Grading scale: UG - (U, G).\n        \n          Assessment: Passed laboratory lesson.\n        \n        \n          The module includes: The course has one mandatory laboration.",
+    "Assumed prior knowledge: \n        FMAA01 Calculus in one variable or corresponding, and two years of studies at a technical university.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nETT051",
+    "Course coordinator: Michael Lentmaier,\n        michael.lentmaier@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/eitg05",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to identify and formulate problems within the area of digital communications",
+      "be able to classify the level of difficulty of problems related to the his/her own level of knowledge",
+      "be able to make a model of a low-complexity communication link using the blocks transmitter - communication channel - receiver",
+      "be able to analyse and describe uncoded digital communication system of low and medium complexity"
+    ],
+    [
+      "be able to suggest and formulate technical solutions for uncoded digital communication systems of low and medium complexity",
+      "be able to show ability to handle new concepts, methods and results"
+    ],
+    [
+      "be able to show insight concerning possibilities and limitations of digital communication systems"
+    ],
+    [
+      "Lindell, G: Introduction to Digital Communications. 2006. Compendium."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår17/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nDigital Communications\nDigital kommunikation\nEITG05, 7.5 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMain field:  Communication Systems\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: MWIR1\nElective for: BME4, C4-ks, D4-ssr, D4-ns, E4-tk, F4, F4-f, M4, MFOT1, MMSR2, Pi4\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe aim of this course is to give basic knowledge of principles, concepts, functioning, performance and limitations of digital communication systems.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to identify and formulate problems within the area of digital communicationsbe able to classify the level of difficulty of problems related to the his/her own level of knowledgebe able to make a model of a low-complexity communication link using the blocks transmitter - communication channel - receiverbe able to analyse and describe uncoded digital communication system of low and medium complexity\nCompetences and skills\n      For a passing grade the student must\nbe able to suggest and formulate technical solutions for uncoded digital communication systems of low and medium complexitybe able to show ability to handle new concepts, methods and results\nJudgement and approach\n      For a passing grade the student must\nbe able to show insight concerning possibilities and limitations of digital communication systems\nContents\nIntroduction: An overview is given of a general communication link consisting of the three parts transmitter – communication channel – receiver. Examples of digital communication methods are introduced for realistic bit rates and noise levels.The transmitter: The principles, structure and functioning of the transmitter are explained. Basic binary and M-ary digital communication methods are presented such as: phase shift keying (PSK), quadrature amplitude modulation (QAM), frequency shift keying (FSK) and orthogonal frequency division multiplex (OFDM). Communication methods that use several transmitter and receiver antennas (MIMO system) are briefly discussed. The efficiency with respect to bit rate, bandwidth and signal power is evaluated for different methods. Multiple access techniques are briefly discussed in connection with multi-user communication systems.The communication channel: The influence of the communication channel on the transmitted information carrying signals is investigated. The consequences of multi-path propagation and noise on the bit rate is also studied. Disturbing signals, noise and other unwanted signals are described and modelled (typically as additive white Gaussian noise in this course). The influence of different transmission media such as air, metallic conductors and optical fibers are briefly discussed.The receiver: The principles (MAP and ML), structure and functioning of the receiver are explained. Synchronisation issues are described. The bit error probability of the receiver is analysed and calculated. The connection between bit rate, received signal power, noise level, bandwidth and error probability is clarified. The concept of diversity is briefly discussed and illustrated. Technical challenges when using very high bit rates, such as the presence of inter-symbol interference (ISI), is described.Applications: Some of the following applications are considered in the course: Mobile digital telephony (3G, EDGE, GSM), WLAN, modem, ADSL, digital TV, Bluetooth, navigation (GPS), surveillance systems.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: A passing grade requires a passing result on the written exam as well as approved laboratory work. Approved laboratory work is a prerequisite for taking the written exam. The final grade is based on the result of the written exam.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0117. Name: Examination. \n\nCredits: 6.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written exam.\n        \n        \n          The module includes: The whole course.\n        \n        \n        \nCode: 0217. Name: Laboratory Work. \n\nCredits: 1.0. Grading scale: UG - (U, G).\n        \n          Assessment: Passed laboratory lesson.\n        \n        \n          The module includes: The course has one mandatory laboration.\n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        FMAA01 Calculus in one variable or corresponding, and two years of studies at a technical university.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nETT051\n\nReading list\n\nLindell, G: Introduction to Digital Communications. 2006. Compendium.\n\nContact\n\nCourse coordinator: Michael Lentmaier,\n        michael.lentmaier@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/eitg05\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

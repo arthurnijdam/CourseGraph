@@ -1,0 +1,62 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Mechatronics, Industrial Product Design\nMekatronik, industriell produktframtagning",
+    "EIEN70, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED E\nDate of Decision: 2026-04-09",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: D4, E4, F4, M4-me, MD4\nLanguage of instruction: The course will be given in English on demand",
+    "The course aims at giving the student knowledge, skills and experience from taking part in an industrially based mechatronic development project, which is conducted up to a working prototype. The principal design of the product has been formed in the course Applied Mechatronics. It is essential that the work is done in a team with competences from various fields.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The project is done during two study periods. The course participants should develop the mechatronic parts of those projects or other purely mechatronic products.",
+    "The development process starts with extensive information search, brain storming, and evaluation, activities which often encompass 30-40% of the total work load. This has been done in the course EIEN65 Applied Mechatronics. Then follows in this course selection of concept, constructive design of the product idea, ordering of components, building, testing, and adjustments.",
+    "The course concludes with the official presentation of the designed products, where representatives from industry, course leaders, and the press take part.",
+    "Grading scale: UG - (U, G) - (Fail, Pass)\nAssessment: Approved project presentation and written report.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0123. Name: Mechatronics, Industrial Product Design. \n\nCredits: 7.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved project presentation and written report.",
+    "Assumed prior knowledge: \n        Applied Mechatronics.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEIEN01",
+    "Course coordinator: Fran Marquez,\n        fran.marquez@iea.lth.se\nCourse homepage: https://www.lth.se/iea/utbildning/valfria-kurser-i-lund/mekatronik-industriell-produktframtagning/",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to analyze the various parts in a product specification and freely define and evaluate a number of solution concepts according to the principles of product development,",
+      "be able to identify the best solution concept according to selection criteria",
+      "be able to identify constructive components in the given product concept with adequate electronic, mechanical, thermal, and magnetic characteristics,",
+      "be able to define production methods for the selected construction materials,",
+      "be able to describe the principles for real time programming and communication for the integrated control system in the product concept and calculate its data,",
+      "be able to calculate the data for the control electronics and the power electronic and electromagnetic energy converters of the product."
+    ],
+    [
+      "be able to use applicable methods for product development in a mechatronic team,",
+      "be able to make a specification for suitable materials, production methods, control electronics, and the power electronic and electromagnetic energy converters of a certain product,",
+      "be able to implement a mechatronic concept all the way to a working prototype for industrial application,",
+      "be able to test and evaluate the prototype."
+    ],
+    [
+      "be able to work and cooperate with all relevant competences represented in a mechatronic team",
+      "have the understanding and judgment to respect and demand all the various competences that are necessary for mechatronic constructive design."
+    ],
+    [
+      "W. Bolton: Mechatronics – Electronic control systems in Mechanical and Electrical Engineering. – optional as a reference."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår23/2424/2525/2626/27\nCourse syllabus\nMechatronics, Industrial Product Design\nMekatronik, industriell produktframtagning\nEIEN70, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED E\nDate of Decision: 2026-04-09\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: D4, E4, F4, M4-me, MD4\nLanguage of instruction: The course will be given in English on demand\n    \n  \nAim\nThe course aims at giving the student knowledge, skills and experience from taking part in an industrially based mechatronic development project, which is conducted up to a working prototype. The principal design of the product has been formed in the course Applied Mechatronics. It is essential that the work is done in a team with competences from various fields.\n \nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to analyze the various parts in a product specification and freely define and evaluate a number of solution concepts according to the principles of product development,be able to identify the best solution concept according to selection criteriabe able to identify constructive components in the given product concept with adequate electronic, mechanical, thermal, and magnetic characteristics,be able to define production methods for the selected construction materials,be able to describe the principles for real time programming and communication for the integrated control system in the product concept and calculate its data,be able to calculate the data for the control electronics and the power electronic and electromagnetic energy converters of the product.\nCompetences and skills\n      For a passing grade the student must\nbe able to use applicable methods for product development in a mechatronic team,be able to make a specification for suitable materials, production methods, control electronics, and the power electronic and electromagnetic energy converters of a certain product,be able to implement a mechatronic concept all the way to a working prototype for industrial application,be able to test and evaluate the prototype.\nJudgement and approach\n      For a passing grade the student must\nbe able to work and cooperate with all relevant competences represented in a mechatronic teamhave the understanding and judgment to respect and demand all the various competences that are necessary for mechatronic constructive design.\nContents\nThe project is done during two study periods. The course participants should develop the mechatronic parts of those projects or other purely mechatronic products.\nThe development process starts with extensive information search, brain storming, and evaluation, activities which often encompass 30-40% of the total work load. This has been done in the course EIEN65 Applied Mechatronics. Then follows in this course selection of concept, constructive design of the product idea, ordering of components, building, testing, and adjustments.\nThe course concludes with the official presentation of the designed products, where representatives from industry, course leaders, and the press take part.\nExamination details\n\nGrading scale: UG - (U, G) - (Fail, Pass)\nAssessment: Approved project presentation and written report.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0123. Name: Mechatronics, Industrial Product Design. \n\nCredits: 7.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved project presentation and written report.\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        Applied Mechatronics.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEIEN01\n\nReading list\n\nW. Bolton: Mechatronics – Electronic control systems in Mechanical and Electrical Engineering. – optional as a reference.\n\nContact\n\nCourse coordinator: Fran Marquez,\n        fran.marquez@iea.lth.se\nCourse homepage: https://www.lth.se/iea/utbildning/valfria-kurser-i-lund/mekatronik-industriell-produktframtagning/\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

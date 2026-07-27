@@ -1,0 +1,75 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Intelligent Autonomous Systems\nIntelligenta autonoma system",
+    "EDAP20, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4, C4-sec, C4-pvs, D4-mai, E4-mi, F4, M4, MMSR2, Pi4-pv\nLanguage of instruction: The course will be given in English",
+    "To give an introduction to several subdomains of intelligent autonomous systems and robotics, and to give an orientation about fundamental methods and algorithms within these domains. To convey knowledge about breadth and depth of the domain.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: To qualify for a passing grade (3) the laboratory work must be completed. With passing all assignments a student qualifies for participation in an optional exam, which gives opportunity to improve the course mark, i.e. if a 4 or 5 is achieved in the written exam, this will be the overall mark for the course.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0120. Name: Intelligent Autonomous Systems. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: To qualify for a passing grade (3) the laboratory work must be completed.\nWith passing all assignments a student qualifies for participation in an optional exam, which gives opportunity to improve the course mark, i.e. if a 4 or 5 is achieved in the written exam, this will be the overall mark for the course.\n        \n        \n          The module includes: Laboratory work (passing all assignments is required for passing the course).\nOptional written exam.",
+    "Admission requirements:",
+    "Course coordinator: Volker Krueger,\n        volker.krueger@cs.lth.se\nTeacher: Elin Anna Topp,\n        elin_anna.topp@cs.lth.se\nCourse homepage: http://cs.lth.se/EDAP20",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "display basic knowledge concerning theory and methods related to the following subdomains:",
+      "integration of high-level knowledge with sensing, reasoning and actuation",
+      "robot planning on behavioural level as well as on actuation level",
+      "robot learning and calibration",
+      "robot vision",
+      "robot skills",
+      "human-robot interaction, ethical considerations",
+      "robotic architectures for autonomous robots that supports intelligent decision making capabilities"
+    ],
+    [
+      "complete a number of problem based assignments related to:",
+      "demonstrating the ability to evaluate the approaches in relevant scenarios",
+      "prepare relevant approaches",
+      "the ability to adapt the relevant approaches in relevant scenario"
+    ],
+    [
+      "be able to judge suitability of a given approaches for intelligent robotics to a given problem,",
+      "understand limitations of applicability of methods for intelligent robotics"
+    ],
+    [
+      "Three layer architecture, Perception Action Cycle, Robotic architectures, world models,",
+      "Robot Perception: Robot vision, 3D perception, sensors, 3D pose estimation",
+      "SLAM, Reasoning under uncertainty, MAP-Slam",
+      "Actuation: generic problem, navigation for mobile robots, path planning for the arm, parking, autonomous car (non-holonomic constraints for complicated motion planning), drones flying, Picking + placing as two examples",
+      "Picking: Table-top segmentation, object poses + grasping poses, Grippers",
+      "Placing: Force-based interaction, noisy actuation, visual servoing, iTasC, compliance",
+      "Skills, Reasoning and Planning: Skills, World knowledge, Planning"
+    ],
+    [
+      "EDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course or FRTF25 Introduction to Machine Learning, Systems and Control"
+    ],
+    [
+      "Peter Corke: Robotics, Vision and Control - Fundamental Algorithms in MATLAB. Springer, 2011, ISBN: 9783319544120. reference text about Intelligent Robotics.",
+      "Sebastian Thrun, Wolfram Burgard, Dieter Fox: Probabilistic Robotics. MIT Press, 2005, ISBN: 9780262201629. reference text on robotics under uncertainty."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår20/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nIntelligent Autonomous Systems\nIntelligenta autonoma system\nEDAP20, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4, C4-sec, C4-pvs, D4-mai, E4-mi, F4, M4, MMSR2, Pi4-pv\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nTo give an introduction to several subdomains of intelligent autonomous systems and robotics, and to give an orientation about fundamental methods and algorithms within these domains. To convey knowledge about breadth and depth of the domain.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\ndisplay basic knowledge concerning theory and methods related to the following subdomains:integration of high-level knowledge with sensing, reasoning and actuationrobot planning on behavioural level as well as on actuation levelrobot learning and calibrationrobot visionrobot skillshuman-robot interaction, ethical considerationsrobotic architectures for autonomous robots that supports intelligent decision making capabilities\nCompetences and skills\n      For a passing grade the student must\ncomplete a number of problem based assignments related to: demonstrating the ability to evaluate the approaches in relevant scenariosprepare relevant approachesthe ability to adapt the relevant approaches in relevant scenario\nJudgement and approach\n      For a passing grade the student must\nbe able to judge suitability of a given approaches for intelligent robotics to a given problem,understand limitations of applicability of methods for intelligent robotics\nContents\n\nThree layer architecture, Perception Action Cycle, Robotic architectures, world models,\nRobot Perception: Robot vision, 3D perception, sensors, 3D pose estimation\nSLAM, Reasoning under uncertainty, MAP-Slam\nActuation: generic problem, navigation for mobile robots, path planning for the arm, parking, autonomous car (non-holonomic constraints for complicated motion planning), drones flying, Picking + placing as two examples\nPicking: Table-top segmentation, object poses + grasping poses, Grippers\nPlacing: Force-based interaction, noisy actuation, visual servoing, iTasC, compliance\nSkills, Reasoning and Planning: Skills, World knowledge, Planning\n\n \n \nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: To qualify for a passing grade (3) the laboratory work must be completed. With passing all assignments a student qualifies for participation in an optional exam, which gives opportunity to improve the course mark, i.e. if a 4 or 5 is achieved in the written exam, this will be the overall mark for the course.\n\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0120. Name: Intelligent Autonomous Systems. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: To qualify for a passing grade (3) the laboratory work must be completed.\nWith passing all assignments a student qualifies for participation in an optional exam, which gives opportunity to improve the course mark, i.e. if a 4 or 5 is achieved in the written exam, this will be the overall mark for the course.\n        \n        \n          The module includes: Laboratory work (passing all assignments is required for passing the course).\nOptional written exam. \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nEDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course or FRTF25 Introduction to Machine Learning, Systems and Control\n\nThe number of participants is limited to: 30\nSelection: Completed university credits within the program. Priority is given to students enrolled on programmes that include the course in their curriculum.\n\nReading list\n\nPeter Corke: Robotics, Vision and Control - Fundamental Algorithms in MATLAB. Springer, 2011, ISBN: 9783319544120. reference text about Intelligent Robotics.\nSebastian Thrun, Wolfram Burgard, Dieter Fox: Probabilistic Robotics. MIT Press, 2005, ISBN: 9780262201629. reference text on robotics under uncertainty.\n\nContact\n\nCourse coordinator: Volker Krueger,\n        volker.krueger@cs.lth.se\nTeacher: Elin Anna Topp,\n        elin_anna.topp@cs.lth.se\nCourse homepage: http://cs.lth.se/EDAP20\n\nFurther information\n      Detailed rules concerning the assignments will be found in the course web site.\n\n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

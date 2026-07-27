@@ -1,0 +1,61 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Electronics\nElektronik",
+    "EITA10, 5.0 credits, G1 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED E\nDate of Decision: 2026-04-09",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: D2\nLanguage of instruction: The course will be given in Swedish",
+    "The student should get an understanding for the basics of circuit theory and analysis, and the related electronic components. The student will be able to use this knowledge together with an introduction to the electronic components given in the course to be able to build simple electronic circuits to interface with embedded systems. The student will also get an insight into embedded systems, and the interaction between software-hardware-interface electronics in such systems.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The course covers the fundamentals of circuit theory. It covers the basic circuit elements, signals in time and frequency. This is applied on simple circuits, with a primary focus on the interfaces between a microcontroller and the world. The theoretical knowledge is applied in the laboratory exercises.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Laboratory, lab reports and online home assignments are required for grade 3 and passing the course. In addition, grade 4 or 5 can be obtained from an optional written exam.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0117. Name: Examination. \n\nCredits: 2.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Online home assignments. For grade 4 or 5 a written exam is required.\n        \n        \n          The module includes: The complete course\n        \n        \n        \nCode: 0217. Name: Laboratory Work. \n\nCredits: 2.5. Grading scale: UG - (U, G).\n        \n          Assessment: Passed laboratory work.\n        \n        \n        \n          Further information: The laboratory work is only given once each year.",
+    "The number of participants is limited to: No\nKursen överlappar följande kurser: \nESS010\nETE022\nETE115\nETIA01\nEITA35\nEITF90",
+    "Course coordinator: Iman Ghotbi,\n        iman.ghotbi@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/EITA10",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "understand how electronic capabilities influence the speed and power consumption of computers.",
+      "be able to describe fundamental circuit theory",
+      "understand the interaction between software-hardware-interface electronics"
+    ],
+    [
+      "be able to design and analyse electronic circuits",
+      "be able to connect measurements with theory and analyse measurement accuracy",
+      "be able to describe laboratory experiments and results in a report",
+      "be able to perform electrical measurements in a professional manner",
+      "be able to write a technical report."
+    ],
+    [
+      "have acquired a good understanding of the field of engineering",
+      "be able to compare and evaluate different electronic solutions",
+      "have knowledge of the compromises necessary when implementing technology."
+    ],
+    [
+      "kompendium Grundläggande A/D- och D/A-omvandling.",
+      "Elektronik Laborationshandledning, Elektrovetenskap.",
+      "Sjöberg, D, Gustafsson, M: Kretsteori, ellära och elektronik."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår16/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nElectronics\nElektronik\nEITA10, 5.0 credits, G1 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED E\nDate of Decision: 2026-04-09\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: D2\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nThe student should get an understanding for the basics of circuit theory and analysis, and the related electronic components. The student will be able to use this knowledge together with an introduction to the electronic components given in the course to be able to build simple electronic circuits to interface with embedded systems. The student will also get an insight into embedded systems, and the interaction between software-hardware-interface electronics in such systems.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nunderstand how electronic capabilities influence the speed and power consumption of computers.be able to describe fundamental circuit theoryunderstand the interaction between software-hardware-interface electronics\nCompetences and skills\n      For a passing grade the student must\nbe able to design and analyse electronic circuitsbe able to connect measurements with theory and analyse measurement accuracybe able to describe laboratory experiments and results in a reportbe able to perform electrical measurements in a professional mannerbe able to write a technical report.\nJudgement and approach\n      For a passing grade the student must\nhave acquired a good understanding of the field of engineeringbe able to compare and evaluate different electronic solutionshave knowledge of the compromises necessary when implementing technology.\nContents\nThe course covers the fundamentals of circuit theory. It covers the basic circuit elements, signals in time and frequency. This is applied on simple circuits, with a primary focus on the interfaces between a microcontroller and the world. The theoretical knowledge is applied in the laboratory exercises.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Laboratory, lab reports and online home assignments are required for grade 3 and passing the course. In addition, grade 4 or 5 can be obtained from an optional written exam.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0117. Name: Examination. \n\nCredits: 2.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Online home assignments. For grade 4 or 5 a written exam is required.\n        \n        \n          The module includes: The complete course\n        \n        \n        \nCode: 0217. Name: Laboratory Work. \n\nCredits: 2.5. Grading scale: UG - (U, G).\n        \n          Assessment: Passed laboratory work.\n        \n        \n        \n          Further information: The laboratory work is only given once each year.\n        \n        \n\nAdmission\n\nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nESS010\nETE022\nETE115\nETIA01\nEITA35\nEITF90\n\nReading list\n\nkompendium Grundläggande A/D- och D/A-omvandling.\nElektronik Laborationshandledning, Elektrovetenskap.\nSjöberg, D, Gustafsson, M: Kretsteori, ellära och elektronik.\n\nContact\n\nCourse coordinator: Iman Ghotbi,\n        iman.ghotbi@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/EITA10\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

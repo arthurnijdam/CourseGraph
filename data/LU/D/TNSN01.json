@@ -1,0 +1,60 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Service Robotics\nServicerobotik",
+    "TNSN01, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED ID\nDate of Decision: 2026-03-24",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-pvt, D4-mai, E4, M4-me, MD4\nLanguage of instruction: The course will be given in English on demand",
+    "The aim of the course is to give knowledge in service robotics and illustrate this with experimental work which shows the different parts and applications in mobile robotics, e.g. autonomous search and rescue robots in climate-related natural disasters or sensor technology for increased traffic safety. The course also trains the ability to solve complex problems in groups where different skills are required.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The course consists of a part with a practically oriented project assignment and a theoretical part.",
+    "The students choose in groups a service robotics topic to study and present this orally to the other students. The theoretical part is deepened at a literature seminar where scientific articles are discussed. Examples of service robotics topics are: different service robotics applications, human-robot interaction, levels of robot autonomy, navigation of mobile robots, SLAM (simultaneous localization and mapping), maze-solving algorithms, line-following algorithms, wheeled locomotion, odometry, anthropomorphic robots, robot ethics or a service robotics topics of the students’ own choice.",
+    "The practical part consists of a project which is carried out in groups of usually four students. A functioning service robot is developed by integrating an Arduino controller, servos, sensors and mechanical components produced by for example laser cutting or 3D printing. The project applies knowledge in mechanics, electronics and programming.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Oral presentation of a selected service robotics topic.\nLiterature seminar on a selected scientific article on service robotics.\nService robotics project that is presented with a practical demonstration of a produced service robot and a written report. The project is carried out in groups of usually four students.\nThe grade is a weighting of the results from the practical demonstration and the written report.\nRe-examination takes place in consultation with the course leader through supplementary work.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0119. Name: Service Robotics. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).",
+    "Assumed prior knowledge: \n        Approved first course in at least two of the subjects Programming, Automatic control, Electronics/electrical engineering, Engineering mechanics.\n        \nThe number of participants is limited to: 64\nSelection: Out of 64 places on the course, a maximum of 10 places are reserved for exchange students.  Among LTH programme students, selection is based on number of completed university credits within the programme. Priority is given to students enrolled on programmes that include the course in their curriculum.\nKursen överlappar följande kurser: \nMMKN30",
+    "Course coordinator: Jenny Rissler,\n        jenny.rissler@design.lth.se\nTeacher: David Andersson,\n        david.andersson@design.lth.se\nDirector of studies: Christofer Rydenfält,\n        christofer.rydenfalt@design.lth.se\nCourse homepage: https://www.eat.lth.se/en/education",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "demonstrate in-depth knowledge in certain parts of the service robotics field",
+      "demonstrate knowledge of engineering problems, where variations in the components, integrated system and external environment require solutions that can handle these variations"
+    ],
+    [
+      "identify and orally present a relevant scientific article and discuss another article in detail",
+      "demonstrate the ability, in a group composed of different competencies, to develop a service robot that solves a given task by developing and integrating systems of mechanics, servos, sensors and control algorithms",
+      "demonstrate the ability to creatively handle complex issues with limited information and within a limited time",
+      "demonstrate the ability to create, analyze and critically evaluate different technical solutions on the way to a working solution",
+      "at a final demonstration, show that the service robot can solve the given task to pass",
+      "in a written report, describe the service robot in a structured way, its mechanical and electrical design, algorithms, results of the demonstration, and critically analyze and reflect on the results and what could be done better"
+    ],
+    [
+      "show insight into the possibilities and limitations of technology",
+      "demonstrate the ability to identify their need for additional knowledge and develop their skills to solve a given problem"
+    ],
+    [
+      "Scientific articles on various topics about service robotics that the students themselves look up.\nTechnical support documents for the project available in the learning platform Canvas."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår19/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nService Robotics\nServicerobotik\nTNSN01, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED ID\nDate of Decision: 2026-03-24\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-pvt, D4-mai, E4, M4-me, MD4\nLanguage of instruction: The course will be given in English on demand\n    \n  \nAim\nThe aim of the course is to give knowledge in service robotics and illustrate this with experimental work which shows the different parts and applications in mobile robotics, e.g. autonomous search and rescue robots in climate-related natural disasters or sensor technology for increased traffic safety. The course also trains the ability to solve complex problems in groups where different skills are required.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\ndemonstrate in-depth knowledge in certain parts of the service robotics fielddemonstrate knowledge of engineering problems, where variations in the components, integrated system and external environment require solutions that can handle these variations\nCompetences and skills\n      For a passing grade the student must\nidentify and orally present a relevant scientific article and discuss another article in detaildemonstrate the ability, in a group composed of different competencies, to develop a service robot that solves a given task by developing and integrating systems of mechanics, servos, sensors and control algorithmsdemonstrate the ability to creatively handle complex issues with limited information and within a limited timedemonstrate the ability to create, analyze and critically evaluate different technical solutions on the way to a working solutionat a final demonstration, show that the service robot can solve the given task to passin a written report, describe the service robot in a structured way, its mechanical and electrical design, algorithms, results of the demonstration, and critically analyze and reflect on the results and what could be done better\nJudgement and approach\n      For a passing grade the student must\nshow insight into the possibilities and limitations of technologydemonstrate the ability to identify their need for additional knowledge and develop their skills to solve a given problem\nContents\nThe course consists of a part with a practically oriented project assignment and a theoretical part.The students choose in groups a service robotics topic to study and present this orally to the other students. The theoretical part is deepened at a literature seminar where scientific articles are discussed. Examples of service robotics topics are: different service robotics applications, human-robot interaction, levels of robot autonomy, navigation of mobile robots, SLAM (simultaneous localization and mapping), maze-solving algorithms, line-following algorithms, wheeled locomotion, odometry, anthropomorphic robots, robot ethics or a service robotics topics of the students’ own choice.The practical part consists of a project which is carried out in groups of usually four students. A functioning service robot is developed by integrating an Arduino controller, servos, sensors and mechanical components produced by for example laser cutting or 3D printing. The project applies knowledge in mechanics, electronics and programming.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Oral presentation of a selected service robotics topic.\nLiterature seminar on a selected scientific article on service robotics.\nService robotics project that is presented with a practical demonstration of a produced service robot and a written report. The project is carried out in groups of usually four students.\nThe grade is a weighting of the results from the practical demonstration and the written report.\nRe-examination takes place in consultation with the course leader through supplementary work.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0119. Name: Service Robotics. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        Approved first course in at least two of the subjects Programming, Automatic control, Electronics/electrical engineering, Engineering mechanics.\n        \nThe number of participants is limited to: 64\nSelection: Out of 64 places on the course, a maximum of 10 places are reserved for exchange students.  Among LTH programme students, selection is based on number of completed university credits within the programme. Priority is given to students enrolled on programmes that include the course in their curriculum.\nKursen överlappar följande kurser: \nMMKN30\n\nReading list\n\nScientific articles on various topics about service robotics that the students themselves look up.\nTechnical support documents for the project available in the learning platform Canvas.\n\nContact\n\nCourse coordinator: Jenny Rissler,\n        jenny.rissler@design.lth.se\nTeacher: David Andersson,\n        david.andersson@design.lth.se\nDirector of studies: Christofer Rydenfält,\n        christofer.rydenfalt@design.lth.se\nCourse homepage: https://www.eat.lth.se/en/education\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

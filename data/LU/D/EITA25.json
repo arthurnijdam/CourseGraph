@@ -1,0 +1,67 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Computer Security\nDatasäkerhet",
+    "EITA25, 7.5 credits, G1 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C2, D3\nElective for: BME4, E4-ns, F4, I4, Pi4, R4\nLanguage of instruction: The course will be given in English",
+    "The course aims to give the students a good overview of the most relevant areas in computer security. Some areas will be addressed in more detail.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Introduction: The information technology development of the last decade has made computer security to one of the major and relevant areas when it comes to the use of existing and development of new information systems. Almost daily we see in the press articles about security in computers. We can read about malware in the form of viruses and trojan horses, export control of cryptographic technology, legal data interception, or plain hacks into computers. The goal of the course is to give an overview of the main areas of computer security. Some areas are dealt with in more depth.",
+    "Foundation: General principles and definitions in computer security, identification and authentication, access control, trust and security evaluation.",
+    "Security Models: Bell-LaPadula, Biba, Chinese wall.",
+    "Security evaluation: Orange Book, ITSEC, Common Criteria.",
+    "Cryptographic algorithms: Encryption methods, hash algorithms, digital signing, digital certificates, X509, notion of public-key infrastructure (PKI).",
+    "Computer system Security: Operating system security, security in Unix/Linux, Windows, Java.",
+    "Security problems: Malware, attacks, buffer overflow, software security.",
+    "Distributed systems: Access control, Kerberos, firewalls, intrusion detection, key distribution.",
+    "Networks: Security in the Internet and radio networks like GSM/UMTS and WLAN. Security protocols TLS, SSL, IPSEC.",
+    "Security in databases: Access control, information leakage and inference.",
+    "The course also includes two projects. The result will be summarized in a technical report and also presented on a seminar.",
+    "The course is primarily given in English.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "Laboratories, projects and online home assignments are required for grade 3 and passing the course. In addition, grade 4 or 5 can be obtained from an optional written exam. Furthermore, bonus points, which will be added to the written exam score, can be earned for high-quality work during the laboratory and project sessions. Approved home assignments are required for taking the written exam. The optional written exam may be replaced by an optional digital exam for grades 4 or 5, for which attaining grade 5 requires an additional oral exam.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0117. Name: Laboratory Work. \n\nCredits: 2.0. Grading scale: UG - (U, G).\n        \n          Assessment: Active participation in laboratory work.\n        \n        \n        \n        \nCode: 0217. Name: Project. \n\nCredits: 2.0. Grading scale: UG - (U, G).\n        \n          Assessment: Project report plus presentation.\n        \n        \n        \n        \nCode: 0317. Name: Examination. \n\nCredits: 3.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Online home assignments. For grade 4 or 5 a written exam is required. If the written exam is replaced by a digital exam, grade 5 requires a supplemental oral exam.",
+    "Assumed prior knowledge: \n        EDA011/EDAA50, EDA016/EDAA45 or EDA017/EDAA55 Programming, First Course. EDAA01 Programming - Second Course.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEIT060",
+    "Course coordinator: Qian Guo,\n        qian.guo@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/eita25",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "Describe the general problems that are addressed by computer security",
+      "Classify security problems in relation to the different areas within computer security",
+      "Describe different building blocks used in computer security"
+    ],
+    [
+      "Provide overview descriptions of systems that will add security into a technical system",
+      "Show that you are capable to perform a basic analysis of a security problem",
+      "be able to write a report of a project result and to present it to an audience"
+    ],
+    [
+      "During the course the student should be able to discuss solutions to the projects."
+    ],
+    [
+      "Stallings & Brown: Computer Security, Principles and Practice, 4th edition. ISBN: 9781292220611."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår17/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nComputer Security\nDatasäkerhet\nEITA25, 7.5 credits, G1 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C2, D3\nElective for: BME4, E4-ns, F4, I4, Pi4, R4\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe course aims to give the students a good overview of the most relevant areas in computer security. Some areas will be addressed in more detail.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nDescribe the general problems that are addressed by computer securityClassify security problems in relation to the different areas within computer securityDescribe different building blocks used in computer security\nCompetences and skills\n      For a passing grade the student must\nProvide overview descriptions of systems that will add security into a technical systemShow that you are capable to perform a basic analysis of a security problembe able to write a report of a project result and to present it to an audience\nJudgement and approach\n      For a passing grade the student must\nDuring the course the student should be able to discuss solutions to the projects.\nContents\nIntroduction: The information technology development of the last decade has made computer security to one of the major and relevant areas when it comes to the use of existing and development of new information systems. Almost daily we see in the press articles about security in computers. We can read about malware in the form of viruses and trojan horses, export control of cryptographic technology, legal data interception, or plain hacks into computers. The goal of the course is to give an overview of the main areas of computer security. Some areas are dealt with in more depth.Foundation: General principles and definitions in computer security, identification and authentication, access control, trust and security evaluation.Security Models: Bell-LaPadula, Biba, Chinese wall.Security evaluation: Orange Book, ITSEC, Common Criteria.Cryptographic algorithms: Encryption methods, hash algorithms, digital signing, digital certificates, X509, notion of public-key infrastructure (PKI).Computer system Security: Operating system security, security in Unix/Linux, Windows, Java.Security problems: Malware, attacks, buffer overflow, software security.Distributed systems: Access control, Kerberos, firewalls, intrusion detection, key distribution.Networks: Security in the Internet and radio networks like GSM/UMTS and WLAN. Security protocols TLS, SSL, IPSEC.Security in databases: Access control, information leakage and inference.The course also includes two projects. The result will be summarized in a technical report and also presented on a seminar.The course is primarily given in English.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Laboratories, projects and online home assignments are required for grade 3 and passing the course. In addition, grade 4 or 5 can be obtained from an optional written exam. Furthermore, bonus points, which will be added to the written exam score, can be earned for high-quality work during the laboratory and project sessions. Approved home assignments are required for taking the written exam. The optional written exam may be replaced by an optional digital exam for grades 4 or 5, for which attaining grade 5 requires an additional oral exam.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0117. Name: Laboratory Work. \n\nCredits: 2.0. Grading scale: UG - (U, G).\n        \n          Assessment: Active participation in laboratory work.\n        \n        \n        \n        \nCode: 0217. Name: Project. \n\nCredits: 2.0. Grading scale: UG - (U, G).\n        \n          Assessment: Project report plus presentation.\n        \n        \n        \n        \nCode: 0317. Name: Examination. \n\nCredits: 3.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Online home assignments. For grade 4 or 5 a written exam is required. If the written exam is replaced by a digital exam, grade 5 requires a supplemental oral exam.\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        EDA011/EDAA50, EDA016/EDAA45 or EDA017/EDAA55 Programming, First Course. EDAA01 Programming - Second Course.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEIT060\n\nReading list\n\nStallings & Brown: Computer Security, Principles and Practice, 4th edition. ISBN: 9781292220611.\n\nContact\n\nCourse coordinator: Qian Guo,\n        qian.guo@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/eita25\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

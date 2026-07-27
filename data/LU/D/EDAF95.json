@@ -1,0 +1,61 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Basics of Functional Programming\nGrundläggande funktionsprogrammering",
+    "EDAF95, 5.0 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: D2\nLanguage of instruction: The course will be given in English",
+    "The course gives an insight into how the functional programming often offers a possibility to write shorter and easier-to-understand programs than using the traditional imperative or object-oriented approaches.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The philosophy of functional languages. Introduction to a modern functional programming language. Language constructs and idioms. Higher-order functions. Lazy evaluation and infinite data structures. Polymorphic type systems. Type analysis and type inference.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written examination. Mandatory lab assignments which are a basis for the assignments. To qualify for the exam students must have completed the assignments. The final grade of the course is based on the result of the written examination.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0119. Name: Assignments. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: To qualify for a passing grade the assignments must be completed.\n        \n        \n        \n        \nCode: 0219. Name: Written Examination. \n\nCredits: 2.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: To qualify for the exam the assignments must be completed. The final grade of the course is based on the result of the written examination.\n        \n        \n          The module includes: Written examination.\n        \n        \n        \nCode: 0319. Name: Labs. \n\nCredits: 1.0. Grading scale: UG - (U, G).\n        \n          Assessment: Completed laboratory work\n        \n        \n          The module includes: Lab work",
+    "Admission requirements:",
+    "Course coordinator: Noric Couderc,\n        noric.couderc@cs.lth.se\nCourse homepage: https://cs.lth.se/edaf95",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "have a good understanding of the fundamental principles for functional programming",
+      "understand the practical consequences of the differences in this paradigm relative to traditional programming",
+      "know the common idioms of functional programming",
+      "understand the benefits and the function of an advanced type system"
+    ],
+    [
+      "be able to read programs written in a modern functional programming language",
+      "be able to utilize the possibilities of the functional paradigm to write programs in a modern functional programming language",
+      "be able to do type analysis of expressions in a modern functional programming language"
+    ],
+    [
+      "have learnt to appreciate the role of program code as a communication medium between people"
+    ],
+    [
+      "EDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course"
+    ],
+    [
+      "Web-based course material.",
+      "Graham Hutton: Programming in Haskell, 2nd ed. Cambridge University Press, 2016, ISBN: 9780521692694. Recommended reference.",
+      "Miran Lipovaca: Learn You a Haskell for Great Good. no starch press, 2011, ISBN: 9781593272838. Introduction to Haskell language, available on the web."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår19/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nBasics of Functional Programming\nGrundläggande funktionsprogrammering\nEDAF95, 5.0 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: D2\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe course gives an insight into how the functional programming often offers a possibility to write shorter and easier-to-understand programs than using the traditional imperative or object-oriented approaches.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nhave a good understanding of the fundamental principles for functional programmingunderstand the practical consequences of the differences in this paradigm relative to traditional programmingknow the common idioms of functional programmingunderstand the benefits and the function of an advanced type system\nCompetences and skills\n      For a passing grade the student must\nbe able to read programs written in a modern functional programming languagebe able to utilize the possibilities of the functional paradigm to write programs in a modern functional programming languagebe able to do type analysis of expressions in a modern functional programming language\nJudgement and approach\n      For a passing grade the student must\nhave learnt to appreciate the role of program code as a communication medium between people\nContents\nThe philosophy of functional languages. Introduction to a modern functional programming language. Language constructs and idioms. Higher-order functions. Lazy evaluation and infinite data structures. Polymorphic type systems. Type analysis and type inference.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written examination. Mandatory lab assignments which are a basis for the assignments. To qualify for the exam students must have completed the assignments. The final grade of the course is based on the result of the written examination.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0119. Name: Assignments. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: To qualify for a passing grade the assignments must be completed.\n        \n        \n        \n        \nCode: 0219. Name: Written Examination. \n\nCredits: 2.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: To qualify for the exam the assignments must be completed. The final grade of the course is based on the result of the written examination.\n        \n        \n          The module includes: Written examination.\n        \n        \n        \nCode: 0319. Name: Labs. \n\nCredits: 1.0. Grading scale: UG - (U, G).\n        \n          Assessment: Completed laboratory work\n        \n        \n          The module includes: Lab work\n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nEDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course\n\nAssumed prior knowledge: \n        FMAA05 Calculus in One Variable and FMAB20 Linear Algebra or FMAA50 Calculus and FMAA55 Mathematics, Linear Algebra or EDAA40 Discrete Structures in Computer Science. Students are expected to have basic understanding of mathematical functions, functional composition and proof by induction.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEDA120\nEDAN40\nEDAF40\n\nReading list\n\nWeb-based course material.\nGraham Hutton: Programming in Haskell, 2nd ed. Cambridge University Press, 2016, ISBN: 9780521692694. Recommended reference.\nMiran Lipovaca: Learn You a Haskell for Great Good. no starch press, 2011, ISBN: 9781593272838. Introduction to Haskell language, available on the web.\n\nContact\n\nCourse coordinator: Noric Couderc,\n        noric.couderc@cs.lth.se\nCourse homepage: https://cs.lth.se/edaf95\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

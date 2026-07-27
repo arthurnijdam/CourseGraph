@@ -1,0 +1,85 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Advanced Interaction Design\nAvancerad interaktionsdesign",
+    "MAMN01, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C3\nElective for: D4-bg\nLanguage of instruction: The course will be given in Swedish",
+    "The course aims to:",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The course is largely based on a design- and programming project that is carried out in groups. The project trains the students' ability to work independently in a user-centered design process with fast design iterations that have similarities to XP (eXtreme Programming). Structured tutoring is provided to help achieve the project goals. The course is held together by activities that support the project process:",
+    "The project is characterized by experimenting with non-traditional (advanced) forms of interaction, by for example using sensors (GPS, accelerometer and gyro) or speech to provide input signals and, for example, sounds and vibrations to provide feedback. As a platform, an Android smartphone is used, as it is both programmable and contains many sensors.",
+    "A selection of lectures gives theoretical support to advanced forms of interaction based mainly on interaction that lies beyond the traditional screen metaphor, for example:",
+    "Some elements are mandatory (introductory lecture, project introduction, brainstorming, presentations).",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "For a passing grade the student must pass the group project work, actively participate in the compulsory course activities and fulfill individual tasks. The final grade is based on a combination of the project assessment (report, process, and product) and individual assignments.",
+    "If the project as a whole is not approved after the end of the course, individual re-examination may be applied. In cases where a group member does not contribute sufficiently to the joint project, supplementary assignments may be required after the end of the course.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0109. Name: Advanced Interaction Design. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).",
+    "Admission requirements:",
+    "Course coordinator: Kirsten Rassmus Gröhn, universitetslektor, tekn dr,\n        kirre@certec.lth.se\nTeacher: Günter Alce,\n        gunter.alce@design.lth.se\nTeacher: Taqwa Saeed,\n        taqwa.saeed@certec.lth.se\nDirector of studies: Christofer Rydenfält,\n        christofer.rydenfalt@design.lth.se\nCourse administrator: Lena Leveen,\n        lena.leveen@certec.lth.se",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "The student should gain in-depth knowledge of advanced (computer) interaction with new forms of information and communication technology (ICT) with a focus on multimodal interfaces and IoT",
+      "Exercise the student in prototyping new interaction ideas where the use of ICT is supported by alternative input methods, eg sensors, while working according to a user-centered design process",
+      "Develop the student's toolbox in terms of iterative design methods, design process and user participation and evaluation"
+    ],
+    [
+      "Describe theoretical and practical possibilities and limitations of the use of multimodal, distributed and ubiquitous forms of interaction, particularly applied to their own design (report)",
+      "Read scientific articles dealing with advanced human-computer interaction and extract relevant theory from them.",
+      "In a report, written in English, show how to apply a user-centered design process in a rapid development process by:1: describing the technology and which design decisions are made2: motivate the design decisions based on theory and user tests"
+    ],
+    [
+      "Apply and expand their previous programming skills and be able to create an application that reads sensor data, as well as apply skills in multimodal design to perceptualize this data.",
+      "Apply and extend previous knowledge in cognition and interaction design (design processes and methods) in a development project with rapid iterations",
+      "Follow an iterative design process in the project where it is clear how the prototype is developed based on additional requirements and tests and where parallel design is used in the implementation stage to investigate the usability of different variants of interaction",
+      "In a group project be able to create a functioning (T-) prototype of an application that has the necessary detail and the completeness to enable multimodal interaction to be tested by end users"
+    ],
+    [
+      "Consider alternative multimodal forms of interaction beyond the traditional screen metaphor of interaction design",
+      "Apply a design strategy that assumes that multimodal interaction forms give the user freedom to choose how an interface should be used / controlled and how information can be received",
+      "Show the importance of involving relevant user groups in the design process by practically involving representatives during their project and describing this in the report"
+    ],
+    [
+      "Individual tasks to get started with both theory and practice",
+      "Brainstorming",
+      "Multi-group supervision",
+      "Work in progress presentations",
+      "Report in English",
+      "Final exhibition"
+    ],
+    [
+      "Advanced design methodology, methods and processes",
+      "Examples of non-visual interaction such as gestures, voice Interaction, audio, haptics, tangible interaction"
+    ],
+    [
+      "•\tFor students following the MAMN25 course the same study year: passed article seminar and passed project presentation in MAMN25.\n•\tAt least 100 completed credits (hp) in the engineering program up to and including study period 1.",
+      "EDAA01 Programming - Second Course  and(EXTA65 Cognition or MAMA20 Cognition and Interaction Design or TEK210 Cognition)  and(MAMA15 Interaction Design, Basic Course or MAMF60 Interaction Design, Process Course or MAMN25 Interaction Design)"
+    ],
+    [
+      "Scientific articles and reference material tailored to the project. All material is available on the course website or reference library from the course start."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår08/0909/1010/1111/1212/1313/1414/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nAdvanced Interaction Design\nAvancerad interaktionsdesign\nMAMN01, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C3\nElective for: D4-bg\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nThe course aims to:The student should gain in-depth knowledge of advanced (computer) interaction with new forms of information and communication technology (ICT) with a focus on multimodal interfaces and IoTExercise the student in prototyping new interaction ideas where the use of ICT is supported by alternative input methods, eg sensors, while working according to a user-centered design processDevelop the student's toolbox in terms of iterative design methods, design process and user participation and evaluation\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nDescribe theoretical and practical possibilities and limitations of the use of multimodal, distributed and ubiquitous forms of interaction, particularly applied to their own design (report)Read scientific articles dealing with advanced human-computer interaction and extract relevant theory from them.In a report, written in English, show how to apply a user-centered design process in a rapid development process by:1: describing the technology and which design decisions are made2: motivate the design decisions based on theory and user tests\nCompetences and skills\n      For a passing grade the student must\nApply and expand their previous programming skills and be able to create an application that reads sensor data, as well as apply skills in multimodal design to perceptualize this data.Apply and extend previous knowledge in cognition and interaction design (design processes and methods) in a development project with rapid iterationsFollow an iterative design process in the project where it is clear how the prototype is developed based on additional requirements and tests and where parallel design is used in the implementation stage to investigate the usability of different variants of interactionIn a group project be able to create a functioning (T-) prototype of an application that has the necessary detail and the completeness to enable multimodal interaction to be tested by end users\nJudgement and approach\n      For a passing grade the student must\nConsider alternative multimodal forms of interaction beyond the traditional screen metaphor of interaction designApply a design strategy that assumes that multimodal interaction forms give the user freedom to choose how an interface should be used / controlled and how information can be receivedShow the importance of involving relevant user groups in the design process by practically involving representatives during their project and describing this in the report\nContents\nThe course is largely based on a design- and programming project that is carried out in groups. The project trains the students' ability to work independently in a user-centered design process with fast design iterations that have similarities to XP (eXtreme Programming). Structured tutoring is provided to help achieve the project goals. The course is held together by activities that support the project process:Individual tasks to get started with both theory and practiceBrainstormingMulti-group supervisionWork in progress presentationsReport in EnglishFinal exhibitionThe project is characterized by experimenting with non-traditional (advanced) forms of interaction, by for example using sensors (GPS, accelerometer and gyro) or speech to provide input signals and, for example, sounds and vibrations to provide feedback. As a platform, an Android smartphone is used, as it is both programmable and contains many sensors.A selection of lectures gives theoretical support to advanced forms of interaction based mainly on interaction that lies beyond the traditional screen metaphor, for example:Advanced design methodology, methods and processesExamples of non-visual interaction such as gestures, voice Interaction, audio, haptics, tangible interactionSome elements are mandatory (introductory lecture, project introduction, brainstorming, presentations).\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: For a passing grade the student must pass the group project work, actively participate in the compulsory course activities and fulfill individual tasks. The final grade is based on a combination of the project assessment (report, process, and product) and individual assignments.If the project as a whole is not approved after the end of the course, individual re-examination may be applied. In cases where a group member does not contribute sufficiently to the joint project, supplementary assignments may be required after the end of the course.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0109. Name: Advanced Interaction Design. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\n•\tFor students following the MAMN25 course the same study year: passed article seminar and passed project presentation in MAMN25.\n•\tAt least 100 completed credits (hp) in the engineering program up to and including study period 1.\nEDAA01 Programming - Second Course  and(EXTA65 Cognition or MAMA20 Cognition and Interaction Design or TEK210 Cognition)  and(MAMA15 Interaction Design, Basic Course or MAMF60 Interaction Design, Process Course or MAMN25 Interaction Design)\n\nAssumed prior knowledge: \n        MAMN25\n        \nThe number of participants is limited to: 60\nSelection: Admission guaranteed for students for whom the course is mandatory, and who have applied within the time limits. Selection rules for the remaining places: Number of credits achieved or credited to the program in LADOK up to and including study period 1. Priority is given to students enrolled in programmes that include the course in their curriculum.\n\nReading list\n\nScientific articles and reference material tailored to the project. All material is available on the course website or reference library from the course start.\n\nContact\n\nCourse coordinator: Kirsten Rassmus Gröhn, universitetslektor, tekn dr,\n        kirre@certec.lth.se\nTeacher: Günter Alce,\n        gunter.alce@design.lth.se\nTeacher: Taqwa Saeed,\n        taqwa.saeed@certec.lth.se\nDirector of studies: Christofer Rydenfält,\n        christofer.rydenfalt@design.lth.se\nCourse administrator: Lena Leveen,\n        lena.leveen@certec.lth.se\n\nFurther information\n      Compulsory parts: introduction lecture, oral project presentations and joint project activities.\n\n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

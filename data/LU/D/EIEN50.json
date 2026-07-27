@@ -1,0 +1,66 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Automation\nAutomation",
+    "EIEN50, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED E\nDate of Decision: 2026-04-09",
+    "Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: D4-ssr, E4-ra, F4, I4-pr, M4-prr, M4-me, MPRR1\nLanguage of instruction: The course will be given in English on demand",
+    "Automation is the engineering science utilizing measurements and information in real time in order to optimize material and energy flows in the best possible way. The course also gives a perspective of sustainability by examples from the interplay between energy, water and food globally. The purpose of the course is to give an overview of the different components that constitute an industrial control system and how these work and interact with each other. Another purpose is to give knowledge on the tools and methods to allow the student to independently obtain information, analysis, realisation and assessment of industrial control systems.The course combines the student's previous knowledge from several other courses, such as automatic control, mathematical statistics, measurement technology, and computer engineering, to demonstrate what automation may look like in various industrial branches.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Industrial processes: Where is automation applied? Examples from various industrial applications.",
+    "Structuring industrial processes: The concepts of dynamical systems and event driven systems.",
+    "Models: Continuous and time discrete dynamical systems and event driven systems.",
+    "Process monitoring: Sampling of measurement data, filtering and data analysis.",
+    "Structures for industrial control systems: Sequential control, combinatorial networks and continuous processes. Real time programming and industrial communication. Examples of commercial control systems.",
+    "The physical parts of a control system: Data acquisition and actuators.",
+    "Home simulation exercises: Discrete and dynamic systems for which two reports are handed in.",
+    "Laboratory exercises: Structuring and programming of some simple control problem in a laboratory process and programming of a human-machine-interface for that process.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Assessment takes place in two parts, both in groups and individually:\n- For the group elements, two approved written reports from simulation exercises apply that provide an increased understanding of the basic properties of different dynamic production systems and their stability. Furthermore, the approved work task is required from three interconnected lab steps, which in the laboratory environment gradually teaches students to divide larger problems into less well-defined subproblems in order to pass programming and commissioning of a production line. \n- For the individual element, an approved written exam is required. \n- For a final passing grade, both above parts must be approved.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0120. Name: Automation. \n\nCredits: 5.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved written examination\n        \n        \n        \n        \nCode: 0220. Name: Laboratory and Simulation Exercise. \n\nCredits: 2.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved laboratory work and written reports",
+    "Assumed prior knowledge: \n        FRT010/FRTF05 Automatic Control, Basic Course.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nMIE052\nMIE062\nMIE080",
+    "Course coordinator: Docent Ulf Jeppsson,\n        ulf.jeppsson@iea.lth.se\nCourse homepage: https://www.lth.se/iea/utbildning/valfria-kurser-i-lund/automation/",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to individually apply and integrate knowledge from several courses and technology areas;",
+      "be able to individually describe the concepts of states in mathematical modelling of discrete as well as continuous systems;",
+      "be able to individually explain the different components of an automation system for a simple process and understand how they interact."
+    ],
+    [
+      "be able to individually utilize scientific articles in a specific field of technology and apply methods from them;",
+      "be able to individually divide a system into several samller processes and modularize them for interaction with other processes:",
+      "be able to individually formulate a mathematical model of a simple process from information on the constituting components and how they interact;",
+      "be able to individually use mathematical and statistical methods to analyse important process characteristics;",
+      "be able to individually program a PLC using suitable software and standard languages for a simple sequential control task;"
+    ],
+    [
+      "be able to individually assess how a larger problem can be divided into well-defined sub-problems for handling several smaller interconnected processes;",
+      "be able to individually assess the appropriateness of control, process monitoring and communication structures for small industrial processes."
+    ],
+    [
+      "Olsson G, Rosén C: Industrial Automation - Application, Structures and Systems. IEA, LTH, 2005, ISBN: Kompendium.",
+      "Scientific articles within the HMI-area."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår20/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nAutomation\nAutomation\nEIEN50, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED E\nDate of Decision: 2026-04-09\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: D4-ssr, E4-ra, F4, I4-pr, M4-prr, M4-me, MPRR1\nLanguage of instruction: The course will be given in English on demand\n    \n  \nAim\nAutomation is the engineering science utilizing measurements and information in real time in order to optimize material and energy flows in the best possible way. The course also gives a perspective of sustainability by examples from the interplay between energy, water and food globally. The purpose of the course is to give an overview of the different components that constitute an industrial control system and how these work and interact with each other. Another purpose is to give knowledge on the tools and methods to allow the student to independently obtain information, analysis, realisation and assessment of industrial control systems.The course combines the student's previous knowledge from several other courses, such as automatic control, mathematical statistics, measurement technology, and computer engineering, to demonstrate what automation may look like in various industrial branches.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to individually apply and integrate knowledge from several courses and technology areas;be able to individually describe the concepts of states in mathematical modelling of discrete as well as continuous systems;be able to individually explain the different components of an automation system for a simple process and understand how they interact.\nCompetences and skills\n      For a passing grade the student must\nbe able to individually utilize scientific articles in a specific field of technology and apply methods from them;be able to individually divide a system into several samller processes and modularize them for interaction with other processes:be able to individually formulate a mathematical model of a simple process from information on the constituting components and how they interact;be able to individually use mathematical and statistical methods to analyse important process characteristics;be able to individually program a PLC using suitable software and standard languages for a simple sequential control task;\nJudgement and approach\n      For a passing grade the student must\nbe able to individually assess how a larger problem can be divided into well-defined sub-problems for handling several smaller interconnected processes;be able to individually assess the appropriateness of control, process monitoring and communication structures for small industrial processes.\nContents\nIndustrial processes: Where is automation applied? Examples from various industrial applications.\nStructuring industrial processes: The concepts of dynamical systems and event driven systems.\nModels: Continuous and time discrete dynamical systems and event driven systems.\nProcess monitoring: Sampling of measurement data, filtering and data analysis.\nStructures for industrial control systems: Sequential control, combinatorial networks and continuous processes. Real time programming and industrial communication. Examples of commercial control systems.\nThe physical parts of a control system: Data acquisition and actuators.\nHome simulation exercises: Discrete and dynamic systems for which two reports are handed in.\nLaboratory exercises: Structuring and programming of some simple control problem in a laboratory process and programming of a human-machine-interface for that process.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Assessment takes place in two parts, both in groups and individually:\n- For the group elements, two approved written reports from simulation exercises apply that provide an increased understanding of the basic properties of different dynamic production systems and their stability. Furthermore, the approved work task is required from three interconnected lab steps, which in the laboratory environment gradually teaches students to divide larger problems into less well-defined subproblems in order to pass programming and commissioning of a production line. \n- For the individual element, an approved written exam is required. \n- For a final passing grade, both above parts must be approved.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0120. Name: Automation. \n\nCredits: 5.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved written examination\n        \n        \n        \n        \nCode: 0220. Name: Laboratory and Simulation Exercise. \n\nCredits: 2.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved laboratory work and written reports\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        FRT010/FRTF05 Automatic Control, Basic Course.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nMIE052\nMIE062\nMIE080\n\nReading list\n\nOlsson G, Rosén C: Industrial Automation - Application, Structures and Systems. IEA, LTH, 2005, ISBN: Kompendium.\nScientific articles within the HMI-area.\n\nContact\n\nCourse coordinator: Docent Ulf Jeppsson,\n        ulf.jeppsson@iea.lth.se\nCourse homepage: https://www.lth.se/iea/utbildning/valfria-kurser-i-lund/automation/\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

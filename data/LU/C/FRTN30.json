@@ -1,0 +1,69 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Network Dynamics\nNätverksdynamik",
+    "FRTN30, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-ks, D4, E4-ns, F4, F4-fm, F4-r, F4-mai, I4-fir, I4-hem, MMSR1, Pi4\nLanguage of instruction: The course will be given in English",
+    "Networks are ubiquitous in our modern society: infrastructure networks, providing communication, transportation, energy services; social networks, determining our information, influencing our opinions, and shaping our political views; economic and financial networks, determining the nature of economic interactions and financial linkages; and natural networks (e.g., biological and physical networks), governing the evolution and spread of natural phenomena.This course will provide an introduction to and some analysis of the main mathematical models used to describe large networks and dynamical processes that evolve on networks. Motivation and applications will be drawn from social, economic, natural, and infrastructure networks, as well as networked decision systems such as sensor networks.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "Written exam (5 hours), three homework assignments. In the case of less than 5 registered students, the retake exams may be given in oral form.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0126. Name: Examination. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Passed exam\n        \n        \n        \n        \nCode: 0226. Name: Homework Assignment 1. \n\nCredits: 0.0. Grading scale: UG - (U, G).\n        \n          Assessment: Passed homework\n        \n        \n        \n        \nCode: 0326. Name: Homework Assignment 2. \n\nCredits: 0.0. Grading scale: UG - (U, G).\n        \n          Assessment: Passed homework\n        \n        \n        \n        \nCode: 0426. Name: Homework Assignment 3. \n\nCredits: 0.0. Grading scale: UG - (U, G).\n        \n          Assessment: Passed homework",
+    "Assumed prior knowledge: \n        Basic knowledge within mathematics, mathematical statistics, and linear dynamical systems, including Linear Algebra, Calculus in Several Variables, Mathematical Statistics, Basic Course, and Linear Systems or Automatic Control, Basic Course.\n\n\n        \nThe number of participants is limited to: No",
+    "Course coordinator: Emma Tegling,\n        emma.tegling@control.lth.se\nDirector of studies: Björn Olofsson,\n        bjorn.olofsson@control.lth.se\nExaminator: Emma Tegling,\n        emma.tegling@control.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/37223",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "know the basic principles of graph theory and apply them to model real-world networks",
+      "have insight in the basic differences between different models of random graphs",
+      "be familiar with the properties of random walks on graphs",
+      "be able to analyze simple dynamical systems over networks",
+      "understand emerging phenomena in large-scale networks",
+      "be able to give an overview of modern directions in network science."
+    ],
+    [
+      "be able to analyze properties of (random) graphs both quantitatively and qualitatively",
+      "be able to handle basic analytical computations for random walks",
+      "be able to analyze simple dynamical systems over networks and to relate their behavior to the network structure",
+      "be able to use computer tools for simulation and analysis of networks."
+    ],
+    [
+      "be able to understand relations and limitations when simple models are used to describe complex networks",
+      "be able to evaluate dominating emerging phenomena in network dynamics"
+    ],
+    [
+      "Basic graph theory: connectivity, degree distributions, trees, adjacency matrices, spectrum.",
+      "Random graphs: Erdos-Renyi, configuration model, preferential attachment, small-world, branching process approximations",
+      "Flows and games on graphs: max-flow, min-cut, optimal transport, Wardrop equilibria, evolutionary dynamics.",
+      "Random walks on graphs: invariant distributions, hitting times, mixing times.",
+      "Dynamical systems on graphs: distributed averaging, interacting particle systems, epidemics, opinion dynamics. Mean-field and branching process approximations."
+    ],
+    [
+      "D. Easley & J. Kleinberg: Networks, crowds and markets, reasoning about a highly connected world. Cambridge University Press, 2010, ISBN: 978-0-521-19533-1. Supplement to lecturer's notes.",
+      "R. Van Der Hofstad: Random Graphs and Complex Networks. Supplement to lecturer's notes. Online available at http://www.win.tue.nl/~rhofstad/.",
+      "D. Levin, Y. Peres, E. Wilmer: Markov chains and mixing times. American Mathematical Society, 2009, ISBN: 978-0-8218-4739-8. Supplement to lecturer's notes."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår14/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nNetwork Dynamics\nNätverksdynamik\nFRTN30, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-ks, D4, E4-ns, F4, F4-fm, F4-r, F4-mai, I4-fir, I4-hem, MMSR1, Pi4\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nNetworks are ubiquitous in our modern society: infrastructure networks, providing communication, transportation, energy services; social networks, determining our information, influencing our opinions, and shaping our political views; economic and financial networks, determining the nature of economic interactions and financial linkages; and natural networks (e.g., biological and physical networks), governing the evolution and spread of natural phenomena.This course will provide an introduction to and some analysis of the main mathematical models used to describe large networks and dynamical processes that evolve on networks. Motivation and applications will be drawn from social, economic, natural, and infrastructure networks, as well as networked decision systems such as sensor networks.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nknow the basic principles of graph theory and apply them to model real-world networkshave insight in the basic differences between different models of random graphsbe familiar with the properties of random walks on graphsbe able to analyze simple dynamical systems over networksunderstand emerging phenomena in large-scale networksbe able to give an overview of modern directions in network science.\nCompetences and skills\n      For a passing grade the student must\nbe able to analyze properties of (random) graphs both quantitatively and qualitativelybe able to handle basic analytical computations for random walksbe able to analyze simple dynamical systems over networks and to relate their behavior to the network structurebe able to use computer tools for simulation and analysis of networks.\nJudgement and approach\n      For a passing grade the student must\nbe able to understand relations and limitations when simple models are used to describe complex networksbe able to evaluate dominating emerging phenomena in network dynamics\nContents\nBasic graph theory: connectivity, degree distributions, trees, adjacency matrices, spectrum.Random graphs: Erdos-Renyi, configuration model, preferential attachment, small-world, branching process approximationsFlows and games on graphs: max-flow, min-cut, optimal transport, Wardrop equilibria, evolutionary dynamics.Random walks on graphs: invariant distributions, hitting times, mixing times.Dynamical systems on graphs: distributed averaging, interacting particle systems, epidemics, opinion dynamics. Mean-field and branching process approximations.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written exam (5 hours), three homework assignments. In the case of less than 5 registered students, the retake exams may be given in oral form.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0126. Name: Examination. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Passed exam\n        \n        \n        \n        \nCode: 0226. Name: Homework Assignment 1. \n\nCredits: 0.0. Grading scale: UG - (U, G).\n        \n          Assessment: Passed homework\n        \n        \n        \n        \nCode: 0326. Name: Homework Assignment 2. \n\nCredits: 0.0. Grading scale: UG - (U, G).\n        \n          Assessment: Passed homework\n        \n        \n        \n        \nCode: 0426. Name: Homework Assignment 3. \n\nCredits: 0.0. Grading scale: UG - (U, G).\n        \n          Assessment: Passed homework\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        Basic knowledge within mathematics, mathematical statistics, and linear dynamical systems, including Linear Algebra, Calculus in Several Variables, Mathematical Statistics, Basic Course, and Linear Systems or Automatic Control, Basic Course.\n\n\n        \nThe number of participants is limited to: No\n\nReading list\n\nD. Easley & J. Kleinberg: Networks, crowds and markets, reasoning about a highly connected world. Cambridge University Press, 2010, ISBN: 978-0-521-19533-1. Supplement to lecturer's notes.\nR. Van Der Hofstad: Random Graphs and Complex Networks. Supplement to lecturer's notes. Online available at http://www.win.tue.nl/~rhofstad/.\nD. Levin, Y. Peres, E. Wilmer: Markov chains and mixing times. American Mathematical Society, 2009, ISBN: 978-0-8218-4739-8. Supplement to lecturer's notes.\n\nContact\n\nCourse coordinator: Emma Tegling,\n        emma.tegling@control.lth.se\nDirector of studies: Björn Olofsson,\n        bjorn.olofsson@control.lth.se\nExaminator: Emma Tegling,\n        emma.tegling@control.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/37223\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

@@ -1,0 +1,64 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "IC-project 1\nIC-projekt 1",
+    "ETIN35, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED E\nDate of Decision: 2026-04-09",
+    "Main field:  Electronic Design\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: MSOC1\nElective for: D4, E4-is, N4\nLanguage of instruction: The course will be given in English",
+    "The aim is to provide knowledge about practical design of integrated circuits, with an emphasis on system-on-chip. The circuits can be either analog, digital, computer oriented, or mixed mode, and the design work can be performed on either transistor or block level.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The design of integrated circuit is a rapidly growing field which has a large need of well educated engineers. The course is performed as a project work, where the students in small groups apply their knowledge from earlier courses to design an integrated circuit (IC=Integrated Circuit), also known as a chip. This is done using modern CAD tools. Several projects can be performed so that they can be connected together creating a larger system.",
+    "The course provides the students a unique opportunity to design a complete chip, where a number of selected designs can be submitted to fabrication at the end of the project work. The manufacturing of the selected designs takes about 3 months, after which they are verified in the course IC-project continuation and verification.",
+    "The ambition is that the main part of the project should have a broad content with parts that are analog, mixed mode, and digital parts. Such a project can have different groups designing the different parts.",
+    "The digital part also contains a number of mandatory parts to make the students acquainted with the CAD-tools needed to perform the project.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: The grade is based on the quality of the project work as well as the report and oral presentation of the work. The work is performed in groups and an assessment is made of the efforts of the group as well as the individual participants. If the work is not finished within the given regular time frame, a higher grade than 3 can not be given. The students who perform a digital project must first pass a number of hand-in exercises and have them approved before the project part of the course starts. There will be an extra opportunity to pass the hand-in assignments the first Monday in VT2.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0118. Name: Project. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: presentations\n        \n        \n          The module includes: Approved project\n        \n        \n        \nCode: 0218. Name: Assignment. \n\nCredits: 0.0. Grading scale: UG - (U, G).\n        \n          Assessment: Approved assignment\n        \n        \n          The module includes: RTL coding and ASIC flow\n        \n        \n        \nCode: 0318. Name: Report. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved report\n        \n        \n          The module includes: project results",
+    "Admission requirements:",
+    "Course coordinator: Baktash Behmanesh (analog),\n        baktash.bemanesh@eit.lth.se\nCourse coordinator: Liang Liu,\n        liang.liu@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/etin35",
+    "To get access to the design tools used in the course, the software and technology providers require students to sign a non-disclosure agreement.",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "have knowledge about modern CAD-tools for integrated circuit design",
+      "understand the design process from specification to finished circuit",
+      "have knowledge about the limitations of the technology chosen"
+    ],
+    [
+      "be able to design an integrated circuit using CAD tools according to a given specification",
+      "be able to make a time plan according to a given time frame",
+      "be able to present his/her results in oral as well as written form"
+    ],
+    [
+      "feel familiar in a modern design environment for integrated circuits",
+      "be able to read and understand a specification and to handle the design process all the way to a finished integrated circuit"
+    ],
+    [
+      "Analog track: At least one approved module in Analog IC Design (ETIN25)\nDigital track: Passed Introduction to Structured VLSI Design (EITF35)"
+    ],
+    [
+      "Course material will be available on the homepage of the course."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår12/1313/1414/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nIC-project 1\nIC-projekt 1\nETIN35, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED E\nDate of Decision: 2026-04-09\n    \n  \nGeneral Information\n\nMain field:  Electronic Design\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: MSOC1\nElective for: D4, E4-is, N4\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe aim is to provide knowledge about practical design of integrated circuits, with an emphasis on system-on-chip. The circuits can be either analog, digital, computer oriented, or mixed mode, and the design work can be performed on either transistor or block level.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nhave knowledge about modern CAD-tools for integrated circuit designunderstand the design process from specification to finished circuithave knowledge about the limitations of the technology chosen\nCompetences and skills\n      For a passing grade the student must\nbe able to design an integrated circuit using CAD tools according to a given specificationbe able to make a time plan according to a given time framebe able to present his/her results in oral as well as written form\nJudgement and approach\n      For a passing grade the student must\nfeel familiar in a modern design environment for integrated circuitsbe able to read and understand a specification and to handle the design process all the way to a finished integrated circuit\nContents\nThe design of integrated circuit is a rapidly growing field which has a large need of well educated engineers. The course is performed as a project work, where the students in small groups apply their knowledge from earlier courses to design an integrated circuit (IC=Integrated Circuit), also known as a chip. This is done using modern CAD tools. Several projects can be performed so that they can be connected together creating a larger system.\nThe course provides the students a unique opportunity to design a complete chip, where a number of selected designs can be submitted to fabrication at the end of the project work. The manufacturing of the selected designs takes about 3 months, after which they are verified in the course IC-project continuation and verification.\nThe ambition is that the main part of the project should have a broad content with parts that are analog, mixed mode, and digital parts. Such a project can have different groups designing the different parts.\nThe digital part also contains a number of mandatory parts to make the students acquainted with the CAD-tools needed to perform the project.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: The grade is based on the quality of the project work as well as the report and oral presentation of the work. The work is performed in groups and an assessment is made of the efforts of the group as well as the individual participants. If the work is not finished within the given regular time frame, a higher grade than 3 can not be given. The students who perform a digital project must first pass a number of hand-in exercises and have them approved before the project part of the course starts. There will be an extra opportunity to pass the hand-in assignments the first Monday in VT2.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0118. Name: Project. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: presentations\n        \n        \n          The module includes: Approved project\n        \n        \n        \nCode: 0218. Name: Assignment. \n\nCredits: 0.0. Grading scale: UG - (U, G).\n        \n          Assessment: Approved assignment\n        \n        \n          The module includes: RTL coding and ASIC flow\n        \n        \n        \nCode: 0318. Name: Report. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved report\n        \n        \n          The module includes: project results\n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nAnalog track: At least one approved module in Analog IC Design (ETIN25)\nDigital track: Passed Introduction to Structured VLSI Design (EITF35)\n\nAssumed prior knowledge: \n        Analog: Analog IC Design (ETIN25) \nDigital: From E/EEE: Digital IC Design (EITN20) From D: Computer Architecture (EITF20) \n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nETIN01\n\nReading list\n\nCourse material will be available on the homepage of the course.\n\nContact\n\nCourse coordinator: Baktash Behmanesh (analog),\n        baktash.bemanesh@eit.lth.se\nCourse coordinator: Liang Liu,\n        liang.liu@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/etin35\n\nFurther information\nTo get access to the design tools used in the course, the software and technology providers require students to sign a non-disclosure agreement.\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

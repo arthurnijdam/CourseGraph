@@ -1,0 +1,65 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Non-Linear Control and Servo Systems\nOlinjär reglering och servosystem",
+    "FRTN05, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: D4, E4-ra, F4, F4-r, M4-me, MMSR2, N4, Pi4-ssr\nLanguage of instruction: The course will be given in English",
+    "The aim of the course is to the learn to recognize nonlinear control problems, to master the most important analysis techniques for nonlinear systems, and the learn how to use practical tools for nonlinear control design.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The course describes how non-linear systems can be treated through analysis, simulation and controller design.",
+    "Laboratory exercises: Analysis using the describing function and control design withdead-zone compensation for an air throttle used in car motors;Energy-based design of a swing-up algorithm for an inverted pendulum;Trajectory generation using optimal control for the pendulum-on-a-cart process.",
+    "Lectures: Non-linear phenomena. Mathematical modelling of nonlinear systems, Stationary points, Linearisation around stationary points and trajectories, Phase plane analysis. Stability analysis using Lyapunov methods, circle criterion, small-gain and passivity. Computer tools for simulation and analysis, Effects of saturation, backlash and dead-zones in control loops, Descring functions for analysis of limit cycles, High-gain methods and relay feedback, Optimal control, Nonlinear synthesis and design.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written exam (5 hours), three laboratory exercises. In the case of less than 5 registered students, the retake exams may be given in oral form.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0114. Name: Examination. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Passed exam\n        \n        \n        \n        \nCode: 0214. Name: Laboratory Work 1. \n\nCredits: 0.5. Grading scale: UG - (U, G).\n        \n          Assessment: Preparation exercises and approved participation in the laboratory\n        \n        \n        \n        \nCode: 0314. Name: Laboratory Work 2. \n\nCredits: 0.5. Grading scale: UG - (U, G).\n        \n          Assessment: Preparation exercises and approved participation in the laboratory\n        \n        \n        \n        \nCode: 0414. Name: Laboratory Work 3. \n\nCredits: 0.5. Grading scale: UG - (U, G).\n        \n          Assessment: Preparation exercises and approved participation in the laboratory",
+    "Assumed prior knowledge: \n        FRTF05 Automatic Control, Basic Course.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFRT075",
+    "Course coordinator: Yiannis Karayiannidis,\n        yiannis.karayiannidis@control.lth.se\nDirector of studies: Björn Olofsson,\n        bjorn.olofsson@control.lth.se\nExaminator: Yiannis Karayiannidis,\n        yiannis.karayiannidis@control.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/37223",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to define fundamental control-theoretical stability concepts",
+      "have insight in the basic differences between nonlinear and linear dynamical systems",
+      "be able to linearise nonlinear models around stationarity points and around trajectories",
+      "be able to analyse the influence of common nonlinearities (saturation, backlash, deadzone etc) in control loops and how these should be handled from a control point of view",
+      "understand stability analysis including Lyapunov theory, the small-gain theorem, and the circle criterion, and be able to apply it in control design",
+      "be able to give an overview of modern directions in nonlinear control."
+    ],
+    [
+      "be able to derive mathematical models for and simulate simple nonlinear systems",
+      "be able to analyse limit circles both quantitatively and qualitatively",
+      "be able to design controllers for simple nonlinear systems using model-based nonlinear control and relay feedback",
+      "be able to solve simple optimization problems and interpret the solutions in terms of feedforward and feedback structures",
+      "be able to practically apply control design to real nonlinear processes during laboratories",
+      "be able to use computer tools for simulation and analysis of nonlinear systems."
+    ],
+    [
+      "be able to understand relations and limitations when simple models are used to describe complex dynamical systems",
+      "be able to evaluate dominating nonlinearities and dynamics",
+      "sbow ability for teamwork and collaboration in groups during laboratory exercises."
+    ],
+    [
+      "Will be decided at the latest eight weeks before the course start. Will be announced on the course home page: https://canvas.education.lu.se/courses/37223."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår07/0808/0909/1010/1111/1212/1313/1414/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nNon-Linear Control and Servo Systems\nOlinjär reglering och servosystem\nFRTN05, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: D4, E4-ra, F4, F4-r, M4-me, MMSR2, N4, Pi4-ssr\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe aim of the course is to the learn to recognize nonlinear control problems, to master the most important analysis techniques for nonlinear systems, and the learn how to use practical tools for nonlinear control design.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to define fundamental control-theoretical stability conceptshave insight in the basic differences between nonlinear and linear dynamical systemsbe able to linearise nonlinear models around stationarity points and around trajectoriesbe able to analyse the influence of common nonlinearities (saturation, backlash, deadzone etc) in control loops and how these should be handled from a control point of viewunderstand stability analysis including Lyapunov theory, the small-gain theorem, and the circle criterion, and be able to apply it in control designbe able to give an overview of modern directions in nonlinear control.\nCompetences and skills\n      For a passing grade the student must\nbe able to derive mathematical models for and simulate simple nonlinear systemsbe able to analyse limit circles both quantitatively and qualitativelybe able to design controllers for simple nonlinear systems using model-based nonlinear control and relay feedbackbe able to solve simple optimization problems and interpret the solutions in terms of feedforward and feedback structuresbe able to practically apply control design to real nonlinear processes during laboratoriesbe able to use computer tools for simulation and analysis of nonlinear systems.\nJudgement and approach\n      For a passing grade the student must\nbe able to understand relations and limitations when simple models are used to describe complex dynamical systemsbe able to evaluate dominating nonlinearities and dynamicssbow ability for teamwork and collaboration in groups during laboratory exercises.\nContents\nThe course describes how non-linear systems can be treated through analysis, simulation and controller design.\nLaboratory exercises: Analysis using the describing function and control design withdead-zone compensation for an air throttle used in car motors;Energy-based design of a swing-up algorithm for an inverted pendulum;Trajectory generation using optimal control for the pendulum-on-a-cart process.\nLectures: Non-linear phenomena. Mathematical modelling of nonlinear systems, Stationary points, Linearisation around stationary points and trajectories, Phase plane analysis. Stability analysis using Lyapunov methods, circle criterion, small-gain and passivity. Computer tools for simulation and analysis, Effects of saturation, backlash and dead-zones in control loops, Descring functions for analysis of limit cycles, High-gain methods and relay feedback, Optimal control, Nonlinear synthesis and design.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written exam (5 hours), three laboratory exercises. In the case of less than 5 registered students, the retake exams may be given in oral form.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0114. Name: Examination. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Passed exam\n        \n        \n        \n        \nCode: 0214. Name: Laboratory Work 1. \n\nCredits: 0.5. Grading scale: UG - (U, G).\n        \n          Assessment: Preparation exercises and approved participation in the laboratory\n        \n        \n        \n        \nCode: 0314. Name: Laboratory Work 2. \n\nCredits: 0.5. Grading scale: UG - (U, G).\n        \n          Assessment: Preparation exercises and approved participation in the laboratory\n        \n        \n        \n        \nCode: 0414. Name: Laboratory Work 3. \n\nCredits: 0.5. Grading scale: UG - (U, G).\n        \n          Assessment: Preparation exercises and approved participation in the laboratory\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        FRTF05 Automatic Control, Basic Course.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFRT075\n\nReading list\n\nWill be decided at the latest eight weeks before the course start. Will be announced on the course home page: https://canvas.education.lu.se/courses/37223.\n\nContact\n\nCourse coordinator: Yiannis Karayiannidis,\n        yiannis.karayiannidis@control.lth.se\nDirector of studies: Björn Olofsson,\n        bjorn.olofsson@control.lth.se\nExaminator: Yiannis Karayiannidis,\n        yiannis.karayiannidis@control.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/37223\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

@@ -1,0 +1,69 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Spatial Statistics with Image Analysis\nSpatial statistik med bildanalys",
+    "FMSN20, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED I\nDate of Decision: 2026-04-13",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4, C4, D5-bg, E4-bg, F4, F4-bg, MMSR2, Pi4-ssr, Pi4-biek, Pi4-bam, R4-rm\nLanguage of instruction: The course will be given in English",
+    "The aim of the course is to provide the student with tools for handling high-dimensional statistical problems. The course contains models, and methods with practical applications, mainly for spatial statistics and image analysis. Of special importance are the Bayesian aspects, since they form the foundation for many modern spatial statistical and image analysis methods. The course emphasises methods with applications in climate, environmental statistics, and remote sensing.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "Written and oral lab reports. Final project with written and oral project presentation. The final grade is determined by the project.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0125. Name: Final Projekt. \n\nCredits: 5.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written and oral project presentation\n        \n        \n        \n        \nCode: 0225. Name: Computer Labs. \n\nCredits: 2.5. Grading scale: UG - (U, G).\n        \n          Assessment: Written and oral lab report",
+    "Admission requirements:",
+    "Director of studies: Johan Lindström,\n        studierektor@matstat.lu.se\nCourse administrator: Susann Nordqvist,\n        expedition@matstat.lu.se\nExaminator: Johan Lindström,\n        johan.lindstrom@matstat.lu.se\nExaminator: Magnus Wiktorsson,\n        magnus.wiktorsson@matstat.lu.se\nCourse homepage: https://www.maths.lu.se/utbildning/civilingenjoersutbildning/matematisk-statistik-paa-civilingenjoersprogram/",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "explain and use the concept of a stochastic model, in particular from a Bayesian perspective,",
+      "describe the principles of Bayesian modelling and inference,",
+      "identify and describe stochastic models and analysis methods for high-dimensional problems, in particular regarding spatial statistics and image analysis."
+    ],
+    [
+      "independently suggest and analyse stochastic models for high-dimensional data, in particular in spatial statistics and image analysis,",
+      "independently implement a computer program for the solution of a given statistical problem and relating analysis method,",
+      "present motivations, course of action, and conclusions in the solution of a given statistical problem, both written and orally."
+    ],
+    [
+      "identify and problematize possibilities and limitations of stochastic modelling and inference, in particular in high-dimensional problems,",
+      "be able to assume a stochastic point of view on random variation in natural phenomena."
+    ],
+    [
+      "Bayesian methods for stochastic modelling and reconstruction.",
+      "Random fields, Gaussian random fields, Kriging, Gaussian process regression, Gaussian Markov random fields,",
+      "spatial fields defined through stochastic partial differential equations,",
+      "non-Gaussian observationer.",
+      "Covariance functions, multivariate techniques.",
+      "Simulation methods for stochastic inference (Gibbs sampling).",
+      "Applications in climate, environmental statistics, remote sensing, and spatial statistics."
+    ],
+    [
+      "FMSF10 Stationary Stochastic Processes or FMSF15 Markov Processes or FMSF20 Mathematical Statistics, Basic Course or FMSF25 Mathematical Statistics - Complementary Project or FMSF32 Mathematical Statistics or FMSF45 Mathematical Statistics, Basic Course or FMSF50 Mathematical Statistics, Basic Course or FMSF55 Mathematical Statistics, Basic Course or FMSF70 Mathematical Statistics or FMSF75 Mathematical Statistics, Basic Course or FMSF80 Mathematical Statistics, Basic Course"
+    ],
+    [
+      "A. Gelfand, P. Diggle, P. Guttorp, M. Fuentes (Eds.): Handbook of Spatial Statistics. CRC Press Inc, 2010, ISBN: 9781420072877. Only parts of the book are used, available as e-book."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår11/1212/1313/1414/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nSpatial Statistics with Image Analysis\nSpatial statistik med bildanalys\nFMSN20, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED I\nDate of Decision: 2026-04-13\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4, C4, D5-bg, E4-bg, F4, F4-bg, MMSR2, Pi4-ssr, Pi4-biek, Pi4-bam, R4-rm\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe aim of the course is to provide the student with tools for handling high-dimensional statistical problems. The course contains models, and methods with practical applications, mainly for spatial statistics and image analysis. Of special importance are the Bayesian aspects, since they form the foundation for many modern spatial statistical and image analysis methods. The course emphasises methods with applications in climate, environmental statistics, and remote sensing.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nexplain and use the concept of a stochastic model, in particular from a Bayesian perspective,describe the principles of Bayesian modelling and inference,identify and describe stochastic models and analysis methods for high-dimensional problems, in particular regarding spatial statistics and image analysis.\nCompetences and skills\n      For a passing grade the student must\nindependently suggest and analyse stochastic models for high-dimensional data, in particular in spatial statistics and image analysis,independently implement a computer program for the solution of a given statistical problem and relating analysis method,present motivations, course of action, and conclusions in the solution of a given statistical problem, both written and orally.\nJudgement and approach\n      For a passing grade the student must\nidentify and problematize possibilities and limitations of stochastic modelling and inference, in particular in high-dimensional problems,be able to assume a stochastic point of view on random variation in natural phenomena.\nContents\nBayesian methods for stochastic modelling and reconstruction.Random fields, Gaussian random fields, Kriging, Gaussian process regression, Gaussian Markov random fields,spatial fields defined through stochastic partial differential equations,non-Gaussian observationer.Covariance functions, multivariate techniques.Simulation methods for stochastic inference (Gibbs sampling).Applications in climate, environmental statistics, remote sensing, and spatial statistics.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written and oral lab reports. Final project with written and oral project presentation. The final grade is determined by the project.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0125. Name: Final Projekt. \n\nCredits: 5.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written and oral project presentation\n        \n        \n        \n        \nCode: 0225. Name: Computer Labs. \n\nCredits: 2.5. Grading scale: UG - (U, G).\n        \n          Assessment: Written and oral lab report\n        \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nFMSF10 Stationary Stochastic Processes or FMSF15 Markov Processes or FMSF20 Mathematical Statistics, Basic Course or FMSF25 Mathematical Statistics - Complementary Project or FMSF32 Mathematical Statistics or FMSF45 Mathematical Statistics, Basic Course or FMSF50 Mathematical Statistics, Basic Course or FMSF55 Mathematical Statistics, Basic Course or FMSF70 Mathematical Statistics or FMSF75 Mathematical Statistics, Basic Course or FMSF80 Mathematical Statistics, Basic Course\n\nAssumed prior knowledge: \n        At least one course in Markov processes or Stationary stochastic processes. Programming experience.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFMS150\n          \n        \n          \n            MASM13\n          \n        \n          \n            MASM25\n          \n        \n      \n    \nReading list\n\nA. Gelfand, P. Diggle, P. Guttorp, M. Fuentes (Eds.): Handbook of Spatial Statistics. CRC Press Inc, 2010, ISBN: 9781420072877. Only parts of the book are used, available as e-book.\n\nContact\n\nDirector of studies: Johan Lindström,\n        studierektor@matstat.lu.se\nCourse administrator: Susann Nordqvist,\n        expedition@matstat.lu.se\nExaminator: Johan Lindström,\n        johan.lindstrom@matstat.lu.se\nExaminator: Magnus Wiktorsson,\n        magnus.wiktorsson@matstat.lu.se\nCourse homepage: https://www.maths.lu.se/utbildning/civilingenjoersutbildning/matematisk-statistik-paa-civilingenjoersprogram/\n\nFurther information\n      In addition to the Handbook of Spatial Statistics other literature, freely available from the Lund University Library, might be recommended.\n\nThe course is also given at the faculty of science with the code MASM25.\n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

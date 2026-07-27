@@ -1,0 +1,60 @@
+{
+  "title": "Studiegids — Study Guide / Research in Cyber Security – Hacking Lab",
+  "headings": [
+    "Research in Cyber Security – Hacking Lab",
+    "Description",
+    "Learning objectives",
+    "Teaching method",
+    "Contact hours per week",
+    "Assessment",
+    "Expected prior knowledge",
+    "Quick overview"
+  ],
+  "paragraphs": [
+    "Description",
+    "The\n security of computer and telecommunication systems is becoming an \nincreasing concern. In this course, we will review the current state of \nthe art on security research and gain practical experience in assessing \nthe security and vulnerabilities of communication systems. Engineers are\n typically taught to focus on performance, correctness, scalability, and\n maintainability when building communication and information processing \nsystems. However, an additional set of design principles are required to\n achieve security. In this course, we discuss security principles, \ncommon pitfalls and vulnerabilities.",
+    "Lectures provide an \nintroduction into security research, with a focus on real-world \nsecurity, privacy-enhancing technology and common security pitfalls.",
+    "Each\n student participates in a \"Hacking Project\", with a group of one to \nfour students. Students can select between a wide range of available \nHack Project outlines within the first week. The goal may be to evaluate\n the security of a real-world IT system, developing a proof-of-concept \nexposing a vulnerability or focussed on preserving privacy in a \npost-Snowden world. Students may propose their own Hack Project based on\n their background knowledge and skills. Such Hack Projects need to be \napproved and shaped together with the instructor. Example of possible \noutlined hardware-oriented projects are: development of a wifi tracker, \nprogramming an FPGA system to break passwords, assess the security of \nRFID cards, or to transparently intercept Ethernet traffic. Concrete \nsoftware projects are: hacking Bitcoin, improving the TOR anonymity \nprotocol and create Android-based tools for human rights activists in \nIran, Egypt and Russia, reprogramming neural networks attacks.",
+    "Each\n Hack Project is documented with a written report. This can be in the \nform of a 8 page ACM-style scientific article or a traditional more \nlengthy report. All results, experiences and findings are presented to \nthe entire class in the last week of the course. Hacking Projects also \nreport their progress several times during the course, after the weekly \nlectures.",
+    "Learning objectives",
+    "At the end of this course, the student will be able to:",
+    "Demonstrate a thorough understanding of security principles in real-world systems and independently explore relevant literature.",
+    "Analyze\n the vulnerabilities present in real-world computer systems. This \nincludes explaining common security pitfalls, why these problems persist\n despite known solutions, and the underlying factors contributing to the\n overall poor state of security.",
+    "Teaching method",
+    "Lectures,\n student presentations, written final report and active participation. \nAttendance and active participation during lectures and presentations is\n mandatory.",
+    "2 hours of lectures per week",
+    "Assessment",
+    "The final grade of the course consists of the following components:",
+    "Code and Documentation (weighting 40%)",
+    "Written Report (30%)",
+    "Presentation (weighting 30%)",
+    "Final grade calculation = 0.4 * Code and Documentation + 0.3 * Written Report + 0.3* Presentation",
+    "A\n passing final grade for the course can only be earned when for all \ncomponents at least a 5.0 is earned, and the weighted final grade is at \nleast a 5.8.",
+    "In case of an insufficient final result, repair \noptions may exist in accordance with Article 17A, Times and number of \nexaminations, sub 1, of the Teaching and Examination Regulations, for:",
+    "Written Project Report: re-submit deliverable",
+    "Final presentation of results: Resit opportunity",
+    "Disclaimer: information may change depending on unforeseen circumstances or measures (see: TER Art 2, sub 5).",
+    "Expected prior knowledge",
+    "Necessary background differs per student project, see first lecture or contact instructors for details."
+  ],
+  "lists": [
+    [
+      "Demonstrate a thorough understanding of security principles in real-world systems and independently explore relevant literature.",
+      "Analyze\n the vulnerabilities present in real-world computer systems. This \nincludes explaining common security pitfalls, why these problems persist\n despite known solutions, and the underlying factors contributing to the\n overall poor state of security."
+    ],
+    [
+      "Code and Documentation (weighting 40%)",
+      "Written Report (30%)",
+      "Presentation (weighting 30%)"
+    ],
+    [
+      "Written Project Report: re-submit deliverable",
+      "Final presentation of results: Resit opportunity"
+    ],
+    [
+      "MSc Computer Science (Master)"
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStudiegids — Study Guide / Research in Cyber Security – Hacking LabGo to content   \n      Home\n      Study Guide Research in Cyber Security – Hacking Lab Research in Cyber Security – Hacking Lab  CS4710   Description  The\n security of computer and telecommunication systems is becoming an \nincreasing concern. In this course, we will review the current state of \nthe art on security research and gain practical experience in assessing \nthe security and vulnerabilities of communication systems. Engineers are\n typically taught to focus on performance, correctness, scalability, and\n maintainability when building communication and information processing \nsystems. However, an additional set of design principles are required to\n achieve security. In this course, we discuss security principles, \ncommon pitfalls and vulnerabilities.Lectures provide an \nintroduction into security research, with a focus on real-world \nsecurity, privacy-enhancing technology and common security pitfalls.Each\n student participates in a \"Hacking Project\", with a group of one to \nfour students. Students can select between a wide range of available \nHack Project outlines within the first week. The goal may be to evaluate\n the security of a real-world IT system, developing a proof-of-concept \nexposing a vulnerability or focussed on preserving privacy in a \npost-Snowden world. Students may propose their own Hack Project based on\n their background knowledge and skills. Such Hack Projects need to be \napproved and shaped together with the instructor. Example of possible \noutlined hardware-oriented projects are: development of a wifi tracker, \nprogramming an FPGA system to break passwords, assess the security of \nRFID cards, or to transparently intercept Ethernet traffic. Concrete \nsoftware projects are: hacking Bitcoin, improving the TOR anonymity \nprotocol and create Android-based tools for human rights activists in \nIran, Egypt and Russia, reprogramming neural networks attacks.Each\n Hack Project is documented with a written report. This can be in the \nform of a 8 page ACM-style scientific article or a traditional more \nlengthy report. All results, experiences and findings are presented to \nthe entire class in the last week of the course. Hacking Projects also \nreport their progress several times during the course, after the weekly \nlectures. Learning objectives  At the end of this course, the student will be able to:Demonstrate a thorough understanding of security principles in real-world systems and independently explore relevant literature.Analyze\n the vulnerabilities present in real-world computer systems. This \nincludes explaining common security pitfalls, why these problems persist\n despite known solutions, and the underlying factors contributing to the\n overall poor state of security. Teaching method  Lectures,\n student presentations, written final report and active participation. \nAttendance and active participation during lectures and presentations is\n mandatory. Contact hours per week 2 hours of lectures per week Assessment  The final grade of the course consists of the following components:Code and Documentation (weighting 40%)Written Report (30%)Presentation (weighting 30%)Final grade calculation = 0.4 * Code and Documentation + 0.3 * Written Report + 0.3* PresentationA\n passing final grade for the course can only be earned when for all \ncomponents at least a 5.0 is earned, and the weighted final grade is at \nleast a 5.8.In case of an insufficient final result, repair \noptions may exist in accordance with Article 17A, Times and number of \nexaminations, sub 1, of the Teaching and Examination Regulations, for:Written Project Report: re-submit deliverable Final presentation of results: Resit opportunityDisclaimer: information may change depending on unforeseen circumstances or measures (see: TER Art 2, sub 5). Expected prior knowledge  Necessary background differs per student project, see first lecture or contact instructors for details.   Quick overview   Year 2025-2026 Course code CS4710 EC 5 Period Starts in period  4  1234 Level Master Programme MSc Computer Science (Master)  Faculty Electrical Engineering, Mathematics and Computer Science Responsible lecturer Prof.dr. G. Smaragdakis PhD ✉, Dr.ir. H.J. Griffioen  ✉ Teacher(s) Dr. G.C. Moreira Moura  ✉ Location Delft Course language English Course registration No   \n"
+}

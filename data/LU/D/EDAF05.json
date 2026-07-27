@@ -1,0 +1,61 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Algorithms, Data Structures and Complexity\nAlgoritmer, datastrukturer och komplexitet",
+    "EDAF05, 5.0 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: D2, Pi3\nElective for: C4-pvt, E4, F4, F4-pv, I4, L4-gi\nLanguage of instruction: The course will be given in Swedish",
+    "Algorithms and data structures are fundamental in computer science. Data structures are used to model reality and the choice of data structures affects the efficiency of algorithms. One aim with this course is to give the students knowledge of advanced data structures for some of the abstract models included in previous courses and also of a number of data structures used to represent further models, such as graphs. Another aim is to give improved knowledge of algorithms, particularly graph algorithms. The course will also give the students knowledge of techniques for analysing algorithms with respect to performance.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Graphs and graph algorithms. Data structures for graphs. Problem solving strategies such as divide and conquer, greedy algorithms and brute force. Techniques for analysing the time complexity of algorithms. Introduction to the complexity classes P and NP, computability and the Church-Turing thesis.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: To pass the course it is required to pass the compulsory course items and to pass the oral exam. The final grade of the course is based on the result of the oral exam.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0122. Name: Examination. \n\nCredits: 3.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved examination\n        \n        \n          The module includes: Oral examination \n        \n        \n        \nCode: 0222. Name: Compulsory Course Items. \n\nCredits: 2.0. Grading scale: UG - (U, G).\n        \n          Assessment: Approved compulsory course itemns\n        \n        \n          The module includes: Laboratory work and a hand-in assignment.",
+    "Admission requirements:",
+    "Course coordinator: Jonas Skeppstedt,\n        jonas.skeppstedt@cs.lth.se\nCourse homepage: https://cs.lth.se/edaf05",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to describe data structures which can be used to represent graphs",
+      "be able to describe a number of different problem-solving strategies, such as divide and conquer and greedy algorithms",
+      "master a number of techniques for analysing algorithm performance",
+      "be familiar with concepts such as lower bounds, complexity classes and undecidable problems"
+    ],
+    [
+      "from a given problem, be able to identify algorithms and data structures which can be used to implement a solution",
+      "be able to implement the data structures included in the course in an object-oriented language",
+      "be able to apply different problem-solving strategies on new problems",
+      "be able to apply techniques for analysing the time complexity of algorithms and be able to use the notations for asymptotic time complexity"
+    ],
+    [
+      "be able to evaluate proposed solutions and data representations for given problems with respect to suitability and efficiency",
+      "understand that there are problems for which it is unknown whether or not efficient algorithms exist"
+    ],
+    [
+      "EDAA01 Programming - Second Course"
+    ],
+    [
+      "Jonas Skeppstedt: Algorithms: a concise introduction. Amazon, 2020, ISBN: 9781723831362."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår08/0909/1010/1111/1212/1313/1414/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nAlgorithms, Data Structures and Complexity\nAlgoritmer, datastrukturer och komplexitet\nEDAF05, 5.0 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: D2, Pi3\nElective for: C4-pvt, E4, F4, F4-pv, I4, L4-gi\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nAlgorithms and data structures are fundamental in computer science. Data structures are used to model reality and the choice of data structures affects the efficiency of algorithms. One aim with this course is to give the students knowledge of advanced data structures for some of the abstract models included in previous courses and also of a number of data structures used to represent further models, such as graphs. Another aim is to give improved knowledge of algorithms, particularly graph algorithms. The course will also give the students knowledge of techniques for analysing algorithms with respect to performance.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to describe data structures which can be used to represent graphsbe able to describe a number of different problem-solving strategies, such as divide and conquer and greedy algorithmsmaster a number of techniques for analysing algorithm performancebe familiar with concepts such as lower bounds, complexity classes and undecidable problems\nCompetences and skills\n      For a passing grade the student must\nfrom a given problem, be able to identify algorithms and data structures which can be used to implement a solutionbe able to implement the data structures included in the course in an object-oriented languagebe able to apply different problem-solving strategies on new problemsbe able to apply techniques for analysing the time complexity of algorithms and be able to use the notations for asymptotic time complexity\nJudgement and approach\n      For a passing grade the student must\nbe able to evaluate proposed solutions and data representations for given problems with respect to suitability and efficiencyunderstand that there are problems for which it is unknown whether or not efficient algorithms exist\nContents\nGraphs and graph algorithms. Data structures for graphs. Problem solving strategies such as divide and conquer, greedy algorithms and brute force. Techniques for analysing the time complexity of algorithms. Introduction to the complexity classes P and NP, computability and the Church-Turing thesis.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: To pass the course it is required to pass the compulsory course items and to pass the oral exam. The final grade of the course is based on the result of the oral exam.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0122. Name: Examination. \n\nCredits: 3.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved examination\n        \n        \n          The module includes: Oral examination \n        \n        \n        \nCode: 0222. Name: Compulsory Course Items. \n\nCredits: 2.0. Grading scale: UG - (U, G).\n        \n          Assessment: Approved compulsory course itemns\n        \n        \n          The module includes: Laboratory work and a hand-in assignment.\n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nEDAA01 Programming - Second Course\n\nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEDA027\nEDA690\n\nReading list\n\nJonas Skeppstedt: Algorithms: a concise introduction. Amazon, 2020, ISBN: 9781723831362.\n\nContact\n\nCourse coordinator: Jonas Skeppstedt,\n        jonas.skeppstedt@cs.lth.se\nCourse homepage: https://cs.lth.se/edaf05\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

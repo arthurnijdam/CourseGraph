@@ -1,0 +1,43 @@
+var co_loc_res_rev = "20260601072021EN";
+var co_loc_path_img = "/tumprod/img/";
+var co_loc_path_css = "/tumprod/css/";
+var co_loc_path_js = "/tumprod/js/";
+
+function co_loc_load_script_db(scriptname,onload) {
+  console.log("CO_LOC_WBJSINJECT: Loading CO script "+scriptname);
+  var snode = document.createElement("script");
+  snode.setAttribute("type","text/javascript");
+  snode.setAttribute("defer","defer");
+  if(typeof onload !== "undefined") snode.onload = onload;
+  snode.setAttribute("src",co_loc_dad+"co_loc_wbjsinject."+scriptname+"#"+co_loc_res_rev);
+  document.getElementsByTagName("head")[0].appendChild(snode);
+}
+
+function co_loc_load_script_res(scriptname,onload) {
+  console.log("CO_LOC_WBJSINJECT: Loading RES script "+scriptname);
+  var snode = document.createElement("script");
+  snode.setAttribute("type","text/javascript");
+  snode.setAttribute("defer","defer");
+  if(typeof onload !== "undefined") snode.onload = onload;
+  snode.setAttribute("src",co_loc_path_js+scriptname+"?"+co_loc_res_rev);
+  document.getElementsByTagName("head")[0].appendChild(snode);
+}
+
+function co_loc_load_css_co(name) {
+  console.log("CO_LOC_CUSTOM_STANDARD: Lade CO-CSS "+name);
+  var snode = document.createElement("link");
+  snode.setAttribute("type","text/css");
+  snode.setAttribute("rel","stylesheet");
+  snode.setAttribute("href",co_loc_path_css+name+"#"+co_loc_res_rev);
+  document.getElementsByTagName("head")[0].appendChild(snode);
+}
+
+// Go to Login on 401 / RaiseNotIdentified automatically
+setTimeout(()=>{
+    var co_loc_vLoginEl = document.querySelector(".ca-error-overlay button");
+    if(co_loc_vLoginEl) {
+        if(["Zum Login","Login here"].includes(co_loc_vLoginEl.innerText)) co_loc_vLoginEl.click();
+    }
+},2e3);
+
+    

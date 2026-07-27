@@ -1,0 +1,81 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Applied Machine Learning \nTillämpad maskininlärning",
+    "EDAN96, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-pvs, C4-pvt, D4-bg, D4-mai, D4-se, D4-pv, E4-bg, E4-mi, F4, F4-pv, F4-fm, I4-pvs, MSOC2, N4, Pi4-fm, Pi4-pv\nLanguage of instruction: The course will be given in English",
+    "To give an introduction to fundamental methods and algorithms within Machine Learning and to give an introduction into a selection of specific subdomains and applications. To convey knowledge about breadth and depth of the domain.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Fundamental topics in machine learning:",
+    "Applied topics (overview) include:",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "(Laboratory) Assignments and written exam. To qualify for the exam students must have completed the assignments. The final grade of the course is based on the result of the written examination.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0124. Name: Compulsory Course Items. \n\nCredits: 5.0. Grading scale: UG - (U, G).\n        \n          Assessment: To qualify for a passing grade (3) the laboratory work and assignments must be completed. To take the exam it is necessary to pass all assignments.\n        \n        \n          The module includes: Laboratory work and assignments (passing all assignments is required for passing the course).\n        \n        \n          Further information: Details regarding the compulsory assignments will be found in the course program (syllabus) at the course web site.\n        \n        \nCode: 0224. Name: Exam. \n\nCredits: 2.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: To qualify for the exam the assignments must be completed. The final grade of the course is based on the result of the written examination.\n        \n        \n          The module includes: Written exam.",
+    "Admission requirements:",
+    "Course coordinator: Maj Stenmark,\n        maj.stenmark@cs.lth.se\nTeacher: Pierre Nugues,\n        pierre.nugues@cs.lth.se\nCourse homepage: https://cs.lth.se/edan96/",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "Understand fundamental machine learning models, their mathematical foundations, basic algorithms, data processing techniques, as well as training and evaluation methods.",
+      "Implement machine learning models, process data, and interpret, evaluate, and improve them during laboratory sessions.",
+      "Be familiar with general models and architectures used in common applications."
+    ],
+    [
+      "evaluate and prepare the necessary data.",
+      "select, implement, and train a model.",
+      "evaluate the results and fine-tune the model."
+    ],
+    [
+      "be able to assess the applicability of a machine learning method to a given problem,",
+      "understand the limitations of machine learning methods and approaches."
+    ],
+    [
+      "Unsupervised and supervised learning, classification and regression",
+      "Mathematical foundations: information theory, probability, and statistics",
+      "Likelihood, maximum likelihood, and maximum a posteriori estimation",
+      "Model selection, cross-validation, and evaluation methods",
+      "Decision trees and forests, ensemble methods",
+      "Bayesian classification",
+      "Principal Component Analysis (PCA) and dimensionality reduction",
+      "Linear regression",
+      "Logistic regression",
+      "Neural networks: data preparation, backpropagation, gradient descent, and activation functions",
+      "Convolutional neural networks"
+    ],
+    [
+      "Specific neural network architectures for image analysis."
+    ],
+    [
+      "At least 120 credits(hp) in the engineering programme or equivalent previous education.",
+      "(EDA011 Programming, First Course or EDA016 Programming, First Course or EDA017 Programming, First Course or EDA501 Programming, First Course or EDAA20 Programming and Databases or EDAA45 Introduction to Programming or EDAA50 Programming, First Course or EDAA55 Programming, First Course or EDAA65 Programming, First Course or EDAA70 Introduction to Programming Using Python or EDAA80 Introduction to Programming or EDAA85 Introduction to Programming or EDAA90 Introduction to Programming and Databases or EDAB05 Introduction to Programming)  and(EDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course or FMNN25 Advanced Course in Numerical Algorithms with Python/SciPy or FRTF25 Introduction to Machine Learning, Systems and Control)"
+    ],
+    [
+      "Kevin P. Murphy: Machine Learning - A Probabilistic Perspective. MIT Press, 2012, ISBN: 9780262018029. Reference text about machine learning.",
+      "C. M. Bishop: Pattern Recognition and Machine Learning - Information Science and Statistics. Springer, New York, 2006, ISBN: 9780387310732. Reference text about machine learning.",
+      "A. Lindholm, N. Wahlström, F. Lindsten, T.B. Schön: Machine Learning - A First Course for Engineers and Scientists. Cambridge University Press, 2022, ISBN: 978-1-108-84360-7. Introductory textbook."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår22/2323/2424/2525/2626/27\nCourse syllabus\nApplied Machine Learning \nTillämpad maskininlärning\nEDAN96, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-pvs, C4-pvt, D4-bg, D4-mai, D4-se, D4-pv, E4-bg, E4-mi, F4, F4-pv, F4-fm, I4-pvs, MSOC2, N4, Pi4-fm, Pi4-pv\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nTo give an introduction to fundamental methods and algorithms within Machine Learning and to give an introduction into a selection of specific subdomains and applications. To convey knowledge about breadth and depth of the domain.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nUnderstand fundamental machine learning models, their mathematical foundations, basic algorithms, data processing techniques, as well as training and evaluation methods.Implement machine learning models, process data, and interpret, evaluate, and improve them during laboratory sessions.Be familiar with general models and architectures used in common applications.\nCompetences and skills\n      For a passing grade the student must\nevaluate and prepare the necessary data.select, implement, and train a model.evaluate the results and fine-tune the model.\nJudgement and approach\n      For a passing grade the student must\nbe able to assess the applicability of a machine learning method to a given problem, understand the limitations of machine learning methods and approaches.\nContents\nFundamental topics in machine learning:Unsupervised and supervised learning, classification and regressionMathematical foundations: information theory, probability, and statisticsLikelihood, maximum likelihood, and maximum a posteriori estimation Model selection, cross-validation, and evaluation methodsDecision trees and forests, ensemble methodsBayesian classificationPrincipal Component Analysis (PCA) and dimensionality reductionLinear regressionLogistic regressionNeural networks: data preparation, backpropagation, gradient descent, and activation functionsConvolutional neural networksApplied topics (overview) include:Specific neural network architectures for image analysis.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: (Laboratory) Assignments and written exam. To qualify for the exam students must have completed the assignments. The final grade of the course is based on the result of the written examination.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0124. Name: Compulsory Course Items. \n\nCredits: 5.0. Grading scale: UG - (U, G).\n        \n          Assessment: To qualify for a passing grade (3) the laboratory work and assignments must be completed. To take the exam it is necessary to pass all assignments.\n        \n        \n          The module includes: Laboratory work and assignments (passing all assignments is required for passing the course).\n        \n        \n          Further information: Details regarding the compulsory assignments will be found in the course program (syllabus) at the course web site.\n        \n        \nCode: 0224. Name: Exam. \n\nCredits: 2.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: To qualify for the exam the assignments must be completed. The final grade of the course is based on the result of the written examination.\n        \n        \n          The module includes: Written exam.\n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nAt least 120 credits(hp) in the engineering programme or equivalent previous education.\n(EDA011 Programming, First Course or EDA016 Programming, First Course or EDA017 Programming, First Course or EDA501 Programming, First Course or EDAA20 Programming and Databases or EDAA45 Introduction to Programming or EDAA50 Programming, First Course or EDAA55 Programming, First Course or EDAA65 Programming, First Course or EDAA70 Introduction to Programming Using Python or EDAA80 Introduction to Programming or EDAA85 Introduction to Programming or EDAA90 Introduction to Programming and Databases or EDAB05 Introduction to Programming)  and(EDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course or FMNN25 Advanced Course in Numerical Algorithms with Python/SciPy or FRTF25 Introduction to Machine Learning, Systems and Control)\n\nThe number of participants is limited to: 100\nSelection: Completed university credits within the program incl credited such. Cut-off date for inclusion of credits in the ranking is the day after the enrollment period ends, if nothing else is published on the course website. Priority is given to students enrolled in programmes that include the course in their curriculum.\nKursen överlappar följande kurser: \nEDAN95\nFMAN45\nBMEN35\n\nReading list\n\nKevin P. Murphy: Machine Learning - A Probabilistic Perspective. MIT Press, 2012, ISBN: 9780262018029. Reference text about machine learning.\nC. M. Bishop: Pattern Recognition and Machine Learning - Information Science and Statistics. Springer, New York, 2006, ISBN: 9780387310732. Reference text about machine learning.\nA. Lindholm, N. Wahlström, F. Lindsten, T.B. Schön: Machine Learning - A First Course for Engineers and Scientists. Cambridge University Press, 2022, ISBN: 978-1-108-84360-7. Introductory textbook.\n\nContact\n\nCourse coordinator: Maj Stenmark,\n        maj.stenmark@cs.lth.se\nTeacher: Pierre Nugues,\n        pierre.nugues@cs.lth.se\nCourse homepage: https://cs.lth.se/edan96/\n\nFurther information\n      Detailed rules concerning the assignments will be found in the course web site.\nAdditional course literature will be announced and made available at course start.\n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

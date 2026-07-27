@@ -1,0 +1,56 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Linear Algebra\nLinjär algebra",
+    "FMAB20, 6.0 credits, G1 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: B1, BME1, BR1, D1, E1, I1, K1, L1, M1, MD1, N1, R2, V1, W1\nLanguage of instruction: The course will be given in Swedish",
+    "The aim of the course is to give a basic introduction to linear algebra. Particular emphasis is put on the role which this plays in applications in different areas of technology, in order to give the future engineer a good foundation for further studies in mathematics as well as other subjects. The aim is furthermore to develop the students' ability to solve problems and to assimilate mathematical text.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Systems of linear equations.",
+    "Vectors. Bases and coordinate systems. Equations for lines and planes in space. Scalar product with applications. Vector product with applications.",
+    "Matrices. Rank. Linear transformations. Determinants. Eigenvalues and eigenvectors. The method of least squares. Linear spaces and subspaces.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written test comprising theory and problems.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0117. Name: Linear Algebra. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).",
+    "The number of participants is limited to: No\nKursen överlappar följande kurser: \nFMA421\nFMA656\nFMA425\nFMAA20\nFMA420\nFMAA55\nFMAA21\nFMAB22",
+    "Course coordinator: Studierektor Anders Holst,\n        Studierektor@math.lth.se\nCourse administrator: Studerandeexpeditionen,\n        expedition@math.lth.se\nExaminator: Anders Holst,\n        Anders.Holst@math.lth.se\nExaminator: Jonas Månsson,\n        Jonas.Mansson@math.lth.se\nExaminator: Magnus Aspenberg,\n        magnus.aspenberg@math.lth.se\nExaminator: Monika Eisenmann,\n        monika.eisenmann@math.lth.se\nExaminator: Patrik Nordbeck,\n        patrik.nordbeck@math.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/20436",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "with confidence be able to solve linear systems of equations and be able to demonstrate an ability to geometrically interpret the solutions of such systems.",
+      "be able to represent, handle and compute with basic geometrical objects in three dimensions, such as points, vectors, lines and planes.",
+      "be able to show a general understanding of the matrix concept and of its coupling to the concept of a linear transformation, and be able to carrry out elementary matrix operations and to solve matrix equations.",
+      "be able to explain the contents of some central definitions, theorems and proofs."
+    ],
+    [
+      "be able to demonstrate a good ability to carry out algebraic calculations within in the framework of the course.",
+      "in connection with problem solving, be able to demonstrate an ability to independently choose and use mathematical methods within linear algebra.",
+      "in connection with problem solving, be able to demonstrate an ability to integrate concepts from the different parts of the course.",
+      "be able to demonstrate an ability to explain mathematical reasoning in a structured and logically clear way."
+    ],
+    [
+      "Månsson, J & Nordbeck, P: Övningar i Linjär algebra. Studentlitteratur, 2019, ISBN: 978-91-44-13355-3.",
+      "Månsson, J & Nordbeck, P: Linjär algebra. Studentlitteratur, 2019, ISBN: 978-91-44-12740-8."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår17/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nLinear Algebra\nLinjär algebra\nFMAB20, 6.0 credits, G1 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: B1, BME1, BR1, D1, E1, I1, K1, L1, M1, MD1, N1, R2, V1, W1\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nThe aim of the course is to give a basic introduction to linear algebra. Particular emphasis is put on the role which this plays in applications in different areas of technology, in order to give the future engineer a good foundation for further studies in mathematics as well as other subjects. The aim is furthermore to develop the students' ability to solve problems and to assimilate mathematical text.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nwith confidence be able to solve linear systems of equations and be able to demonstrate an ability to geometrically interpret the solutions of such systems.be able to represent, handle and compute with basic geometrical objects in three dimensions, such as points, vectors, lines and planes.be able to show a general understanding of the matrix concept and of its coupling to the concept of a linear transformation, and be able to carrry out elementary matrix operations and to solve matrix equations.be able to explain the contents of some central definitions, theorems and proofs.\nCompetences and skills\n      For a passing grade the student must\nbe able to demonstrate a good ability to carry out algebraic calculations within in the framework of the course.in connection with problem solving, be able to demonstrate an ability to independently choose and use mathematical methods within linear algebra.in connection with problem solving, be able to demonstrate an ability to integrate concepts from the different parts of the course.be able to demonstrate an ability to explain mathematical reasoning in a structured and logically clear way.\nContents\nSystems of linear equations.\nVectors. Bases and coordinate systems. Equations for lines and planes in space. Scalar product with applications. Vector product with applications.\nMatrices. Rank. Linear transformations. Determinants. Eigenvalues and eigenvectors. The method of least squares. Linear spaces and subspaces.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written test comprising theory and problems.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0117. Name: Linear Algebra. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).\n        \n        \n        \n        \n\nAdmission\n\nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFMA421\nFMA656\nFMA425\nFMAA20\nFMA420\nFMAA55\nFMAA21\nFMAB22\n\nReading list\n\nMånsson, J & Nordbeck, P: Övningar i Linjär algebra. Studentlitteratur, 2019, ISBN: 978-91-44-13355-3.\nMånsson, J & Nordbeck, P: Linjär algebra. Studentlitteratur, 2019, ISBN: 978-91-44-12740-8.\n\nContact\n\nCourse coordinator: Studierektor Anders Holst,\n        Studierektor@math.lth.se\nCourse administrator: Studerandeexpeditionen,\n        expedition@math.lth.se\nExaminator: Anders Holst,\n        Anders.Holst@math.lth.se\nExaminator: Jonas Månsson,\n        Jonas.Mansson@math.lth.se\nExaminator: Magnus Aspenberg,\n        magnus.aspenberg@math.lth.se\nExaminator: Monika Eisenmann,\n        monika.eisenmann@math.lth.se\nExaminator: Patrik Nordbeck,\n        patrik.nordbeck@math.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/20436\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

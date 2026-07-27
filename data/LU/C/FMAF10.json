@@ -1,0 +1,57 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Applied Mathematics - Linear systems\nTillämpad matematik - Linjära system",
+    "FMAF10, 5.0 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C3, D2\nElective for: B4, BME4, K4, L4-gi, M4, R4, W4\nLanguage of instruction: The course will be given in Swedish",
+    "The aim of the course is to treat some mathematical concepts and methods, above the basic level, that are important for further studies within e.g. machine learning, signal processing, control theory, electrical engineering and for further professional activities.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Linear systems: Mathematical models of linear, time invariant systems. Transfer function. Step response and impulse response. The frequency function.",
+    "The Laplace transform: Step and impulse functions. Computational rules for the two-sided Laplace transform. Inverse transforms, in particular of rational functions. Use of transform tables. Convolution.",
+    "Matrix algebra: Eigenvalues and eigenvectors. Diagonalization, in particular of symmetric matrices. Quadratic forms, diagonalization and classification. Systems of differential equations: solution by diagonalization, solution using exponential matrix.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written test. Computer sessions.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0109. Name: Applied Mathematics. \n\nCredits: 5.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written test comprising theory and problems.\n        \n        \n          The module includes: See course contents.\n        \n        \n        \nCode: 0209. Name: Computer Work. \n\nCredits: 0.0. Grading scale: UG - (U, G).\n        \n          Assessment: 1. Use of computer algebra systems to perform calculations common in the mathematical analysis of linear systems. 2. With the aid of Matlab programs, the meaning of important concepts within systems theory is illustrated.",
+    "Admission requirements:",
+    "Course coordinator: Studierektor Anders Holst,\n        Studierektor@math.lth.se\nTeacher: Andrey Ghulchak,\n        andrey.ghulchak@math.lth.se\nCourse administrator: Studerandeexpeditionen,\n        expedition@math.lth.se\nExaminator: Anders Holst,\n        Anders.Holst@math.lth.se\nExaminator: Andrey Ghulchak,\n        andrey.ghulchak@math.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/20587",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to describe different properties of linear systems, and to explain how they can be modelled in the time domain and in the frequency domain.",
+      "be able to define the Laplace transform and account for its significance in connection with input/output relations and the solution of differential equations, and be able to use simple transform tables to determine transforms/inverse transforms.",
+      "be able to use matrix theory to analyse quadratic forms and to solve systems of linear differential equations."
+    ],
+    [
+      "be able to demonstrate the ability to identify problems that can be modelled with linear systems, and be able to analyse the corresponding models.",
+      "be able to demonstrate the abilty to use the introduced concepts in connection with problem solving.",
+      "with proper terminology, suitable notation, and with clear logic be able to explain the solution to a problem in a well structured manner."
+    ],
+    [
+      "FMAB65 Calculus in One Variable B1 or FMAB70 Calculus in One Variable B2"
+    ],
+    [
+      "Spanne, S. & Sparr, A: Föreläsningar i Tillämpad matematik - Lineära system. KF-Sigma, 1996.",
+      "Spanne, S. & Sparr, A: Övningar i Tillämpad matematik 2 - Lineära system. KF-Sigma, 1996."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår08/0909/1010/1111/1212/1313/1414/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nApplied Mathematics - Linear systems\nTillämpad matematik - Linjära system\nFMAF10, 5.0 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C3, D2\nElective for: B4, BME4, K4, L4-gi, M4, R4, W4\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nThe aim of the course is to treat some mathematical concepts and methods, above the basic level, that are important for further studies within e.g. machine learning, signal processing, control theory, electrical engineering and for further professional activities.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to describe different properties of linear systems, and to explain how they can be modelled in the time domain and in the frequency domain.be able to define the Laplace transform and account for its significance in connection with input/output relations and the solution of differential equations, and be able to use simple transform tables to determine transforms/inverse transforms.be able to use matrix theory to analyse quadratic forms and to solve systems of linear differential equations.\nCompetences and skills\n      For a passing grade the student must\nbe able to demonstrate the ability to identify problems that can be modelled with linear systems, and be able to analyse the corresponding models.be able to demonstrate the abilty to use the introduced concepts in connection with problem solving.with proper terminology, suitable notation, and with clear logic be able to explain the solution to a problem in a well structured manner.\nContents\nLinear systems: Mathematical models of linear, time invariant systems. Transfer function. Step response and impulse response. The frequency function.\nThe Laplace transform: Step and impulse functions. Computational rules for the two-sided Laplace transform. Inverse transforms, in particular of rational functions. Use of transform tables. Convolution.\nMatrix algebra: Eigenvalues and eigenvectors. Diagonalization, in particular of symmetric matrices. Quadratic forms, diagonalization and classification. Systems of differential equations: solution by diagonalization, solution using exponential matrix.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written test. Computer sessions.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0109. Name: Applied Mathematics. \n\nCredits: 5.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written test comprising theory and problems.\n        \n        \n          The module includes: See course contents.\n        \n        \n        \nCode: 0209. Name: Computer Work. \n\nCredits: 0.0. Grading scale: UG - (U, G).\n        \n          Assessment: 1. Use of computer algebra systems to perform calculations common in the mathematical analysis of linear systems. 2. With the aid of Matlab programs, the meaning of important concepts within systems theory is illustrated.\n        \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nFMAB65 Calculus in One Variable B1 or FMAB70 Calculus in One Variable B2\n\nAssumed prior knowledge: \n        Basic university courses in calculus and linear algebra.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFMA030\nFMA037\nFMA062\nFMA450\nFMAF05\n\nReading list\n\nSpanne, S. & Sparr, A: Föreläsningar i Tillämpad matematik - Lineära system. KF-Sigma, 1996.\nSpanne, S. & Sparr, A: Övningar i Tillämpad matematik 2 - Lineära system. KF-Sigma, 1996.\n\nContact\n\nCourse coordinator: Studierektor Anders Holst,\n        Studierektor@math.lth.se\nTeacher: Andrey Ghulchak,\n        andrey.ghulchak@math.lth.se\nCourse administrator: Studerandeexpeditionen,\n        expedition@math.lth.se\nExaminator: Anders Holst,\n        Anders.Holst@math.lth.se\nExaminator: Andrey Ghulchak,\n        andrey.ghulchak@math.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/20587\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

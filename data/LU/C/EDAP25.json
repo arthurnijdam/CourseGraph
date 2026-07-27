@@ -1,0 +1,66 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Distributed Systems\nDistribuerade system",
+    "EDAP25, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4, D4, E4, F4, Pi4\nLanguage of instruction: The course will be given in English",
+    "To give an introduction to the fundamental concepts of distributed systems, their properties and application in practice.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Laboratory assignments (for a passing mark 3) and optional written exam (for grade 3-5).",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0120. Name: Distributed Systems. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: To qualify for a passing grade (3) the laboratory work must be completed and presented. With passing all assignments a student qualifies for participation in an optional exam, which gives opportunity to improve the course mark, i.e. if a 4 or 5 is achieved in the written exam, this will be the overall mark for the course.\n        \n        \n          The module includes: Laboratory work (passing all assignments is required for passing the course). Optional written exam.",
+    "Admission requirements:",
+    "Director of studies: Per Andersson,\n        Per.Andersson@cs.lth.se",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "display basic knowledge of: different types of distributed systems and their properties,",
+      "display basic knowledge of: failure and recovery in distributed systems,",
+      "display basic knowledge of: models and abstractions for distributed systems,",
+      "display basic knowledge of: distributed models of logical time,",
+      "display basic knowledge of: distributed algorithms and protocols,",
+      "display basic knowledge of: and distributed state and computing."
+    ],
+    [
+      "be able to reason about properties of distributed systems,",
+      "be able to use concepts and abstractions to model distributed systems and to express their behaviour,",
+      "be able to use fundamental distributed algorithms and protocols in managing resources, sharing state, maintaining distributed state, and coordinate distributed computation,",
+      "be able to apply the conceptual knowledge to the implementation of distributed algorithms on a variety of platforms."
+    ],
+    [
+      "be able to judge the suitability of models and platforms for distributed systems for a given problem,",
+      "display a basic understanding of the trade-offs and limits of the concepts and techniques in distributed system design."
+    ],
+    [
+      "Models for distributed systems, both synchronous and asynchronous,",
+      "consensus, leader election,",
+      "consistency, replication,",
+      "logical clocks,",
+      "fault tolerance."
+    ],
+    [
+      "EDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course"
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår20/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nDistributed Systems\nDistribuerade system\nEDAP25, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4, D4, E4, F4, Pi4\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nTo give an introduction to the fundamental concepts of distributed systems, their properties and application in practice.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\ndisplay basic knowledge of: different types of distributed systems and their properties,display basic knowledge of: failure and recovery in distributed systems,display basic knowledge of: models and abstractions for distributed systems,display basic knowledge of: distributed models of logical time,display basic knowledge of: distributed algorithms and protocols,display basic knowledge of: and distributed state and computing.\nCompetences and skills\n      For a passing grade the student must\nbe able to reason about properties of distributed systems,be able to use concepts and abstractions to model distributed systems and to express their behaviour,be able to use fundamental distributed algorithms and protocols in managing resources, sharing state, maintaining distributed state, and coordinate distributed computation,be able to apply the conceptual knowledge to the implementation of distributed algorithms on a variety of platforms.\nJudgement and approach\n      For a passing grade the student must\nbe able to judge the suitability of models and platforms for distributed systems for a given problem,display a basic understanding of the trade-offs and limits of the concepts and techniques in distributed system design.\nContents\n\nModels for distributed systems, both synchronous and asynchronous, \nconsensus, leader election,\nconsistency, replication,\nlogical clocks,\nfault tolerance.\n\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Laboratory assignments (for a passing mark 3) and optional written exam (for grade 3-5).\n\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0120. Name: Distributed Systems. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: To qualify for a passing grade (3) the laboratory work must be completed and presented. With passing all assignments a student qualifies for participation in an optional exam, which gives opportunity to improve the course mark, i.e. if a 4 or 5 is achieved in the written exam, this will be the overall mark for the course.\n        \n        \n          The module includes: Laboratory work (passing all assignments is required for passing the course). Optional written exam. \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nEDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course\n\nThe number of participants is limited to: 30\nSelection: Completed university credits within the program. Priority is given to students enrolled on programmes that include the course in their curriculum.\n\nReading list\n\n\nContact\n\nDirector of studies: Per Andersson,\n        Per.Andersson@cs.lth.se\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

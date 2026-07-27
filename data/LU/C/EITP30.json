@@ -1,0 +1,82 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Modern Wireless Systems - 5G and Beyond\nModerna trådlösa system - 5G och dess efterföljare",
+    "EITP30, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Main field:  Communication Systems\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-ks, D4, E5-tk, MSOC2, MWIR2\nLanguage of instruction: The course will be given in English",
+    "This course considers the latest technology development in wireless communications, including 5G and LTE systems. These systems are high performing and represent \"state-of-the-art\" in many aspects. A central part of this course is to give detailed knowledge of the communication methods that are used in down-link and in up-link, respectively, that make these high performance increases possible. This course also includes trends for future system solutions. The aim of this course is to give good knowledge concerning principles, concepts, functioning, performance and limitations for such systems for mobile communications.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The course will contain the following topics:",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written examination (5hours), laboratory work report, and oral presentation of the laboratory work. Approved laboratory work is a requirement to be allowed to enter the written examination.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0122. Name: Written Exam. \n\nCredits: 5.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved exam.\n        \n        \n          The module includes: Written exam\n        \n        \n        \nCode: 0222. Name: Computer Laboratory Sessions. \n\nCredits: 2.0. Grading scale: UG - (U, G).\n        \n          Assessment: Computer lab.\n        \n        \n          The module includes: Students should complete some tasks during the computer based laboratory classes.",
+    "Assumed prior knowledge: \n        ETT051/EITG05 Digital Communications.\n\n\n        \nThe number of participants is limited to: No",
+    "Course coordinator: Aleksei Fedorov,\n        aleksei.fedorov@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/eitp30",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to show a significantly deeper knowledge concerning modern systems for mobile communications",
+      "be able to critically analyse and describe modern systems for mobile communications from an overall perspective"
+    ],
+    [
+      "be able to identify, formulate, and handle complex problems within the area of multi-user communication",
+      "be able to suggest technical solutions based on 5G/LTE concepts that satisfy given performance requirements",
+      "be able to independently work in a creative way with advanced projects, and also orally and in writing clearly present, motivate and discuss obtained conclusions"
+    ],
+    [
+      "be able to show ability to make judgements with respect to relevant scientific, social, and ethical aspects"
+    ],
+    [
+      "Evolution of wireless communication from 1G up to 5G",
+      "5G Standardization and spectrum allocation",
+      "Introduction to OFDM: single-carrier communication VS multi-carrier communication",
+      "The role of FFT in OFDM signals generation: advantages and disadvantages",
+      "Multipath propagation effects onto OFDM signals: the importance of cyclic prefix insertion",
+      "Channel estimation in OFDM systems",
+      "Introduction to LTE",
+      "LTE Signals’ structure",
+      "LTE Channel-dependent scheduling",
+      "LTE Radio-interface architecture",
+      "LTE Transport-channel processing",
+      "LTE Physical-layer control signaling",
+      "LTE Initial access overview",
+      "LTE Random access channel overview",
+      "A smooth transition to 5G/NR from LTE (5G/NR Introduction)",
+      "5G/NR Signals’ structure",
+      "5G/NR Radio-interface architecture",
+      "5G/NR Transport-channel processing",
+      "5G/NR Multi-antenna transmission and beam management",
+      "5G/NR Physical-layer control signaling",
+      "5G/NR Initial access overview",
+      "Successful examples of future applications in 5G/NR",
+      "Vision and thoughts towards 6G",
+      "Professionals from leading companies talk about the development of wireless technologies"
+    ],
+    [
+      "Erik Dahlman, Stefan Parkvall, and Johan Sköld: 5G NR: The Next Generation Wireless Access Technology. Academic Press, 2018, ISBN: 9780128143230.",
+      "E. Dahlman, S. Parkvall, and J. Sköld: 4G: LTE-Advanced Pro and the Road to 5G. Academic Press, 2016, ISBN: 9780128045756."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår20/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nModern Wireless Systems - 5G and Beyond\nModerna trådlösa system - 5G och dess efterföljare\nEITP30, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nMain field:  Communication Systems\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-ks, D4, E5-tk, MSOC2, MWIR2\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThis course considers the latest technology development in wireless communications, including 5G and LTE systems. These systems are high performing and represent \"state-of-the-art\" in many aspects. A central part of this course is to give detailed knowledge of the communication methods that are used in down-link and in up-link, respectively, that make these high performance increases possible. This course also includes trends for future system solutions. The aim of this course is to give good knowledge concerning principles, concepts, functioning, performance and limitations for such systems for mobile communications.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to show a significantly deeper knowledge concerning modern systems for mobile communicationsbe able to critically analyse and describe modern systems for mobile communications from an overall perspective\nCompetences and skills\n      For a passing grade the student must\nbe able to identify, formulate, and handle complex problems within the area of multi-user communicationbe able to suggest technical solutions based on 5G/LTE concepts that satisfy given performance requirementsbe able to independently work in a creative way with advanced projects, and also orally and in writing clearly present, motivate and discuss obtained conclusions\nJudgement and approach\n      For a passing grade the student must\nbe able to show ability to make judgements with respect to relevant scientific, social, and ethical aspects\nContents\nThe course will contain the following topics:\n\nEvolution of wireless communication from 1G up to 5G\n5G Standardization and spectrum allocation\nIntroduction to OFDM: single-carrier communication VS multi-carrier communication\nThe role of FFT in OFDM signals generation: advantages and disadvantages\nMultipath propagation effects onto OFDM signals: the importance of cyclic prefix insertion\nChannel estimation in OFDM systems\nIntroduction to LTE\nLTE Signals’ structure\nLTE Channel-dependent scheduling\nLTE Radio-interface architecture\nLTE Transport-channel processing\nLTE Physical-layer control signaling\nLTE Initial access overview\nLTE Random access channel overview\nA smooth transition to 5G/NR from LTE (5G/NR Introduction)\n5G/NR Signals’ structure\n5G/NR Radio-interface architecture\n5G/NR Transport-channel processing\n5G/NR Multi-antenna transmission and beam management\n5G/NR Physical-layer control signaling\n5G/NR Initial access overview\nSuccessful examples of future applications in 5G/NR\nVision and thoughts towards 6G\nProfessionals from leading companies talk about the development of wireless technologies\n\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written examination (5hours), laboratory work report, and oral presentation of the laboratory work. Approved laboratory work is a requirement to be allowed to enter the written examination. \n\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0122. Name: Written Exam. \n\nCredits: 5.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved exam.\n        \n        \n          The module includes: Written exam\n        \n        \n        \nCode: 0222. Name: Computer Laboratory Sessions. \n\nCredits: 2.0. Grading scale: UG - (U, G).\n        \n          Assessment: Computer lab.\n        \n        \n          The module includes: Students should complete some tasks during the computer based laboratory classes.\n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        ETT051/EITG05 Digital Communications.\n\n\n        \nThe number of participants is limited to: No\n\nReading list\n\nErik Dahlman, Stefan Parkvall, and Johan Sköld: 5G NR: The Next Generation Wireless Access Technology. Academic Press, 2018, ISBN: 9780128143230.\nE. Dahlman, S. Parkvall, and J. Sköld: 4G: LTE-Advanced Pro and the Road to 5G. Academic Press, 2016, ISBN: 9780128045756.\n\nContact\n\nCourse coordinator: Aleksei Fedorov,\n        aleksei.fedorov@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/eitp30\n\nFurther information\n      With less than 16 participants, the course may be given with reduced teaching and more self studies.\n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

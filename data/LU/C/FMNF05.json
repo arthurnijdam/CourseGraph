@@ -1,0 +1,54 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Numerical Analysis\nNumerisk analys",
+    "FMNF05, 6.0 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: D3\nElective for: C4\nLanguage of instruction: The course will be given in English",
+    "The aim of the course is to teach basic computational methods for solving simple and common mathematical problems using computers and numerical software. This includes the construction, application and analysis of basic computational algorithms. Problem solving with computers is a central part of the course.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Error analysis, numerical methods for systems of (non-) linear equations, the least squares method, polynomial interpolation, splines, Bezier curves, numerical integration, computation of eigenvalues.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: The final grade is based on a written examination and possibly on optional assignments. \nIn case there are optional assignments that may influence the grade, information about this will be given at the start of the course.\nAny merit points on optional assignments are only valid till the end of the academic year, i.e. for the scheduled exam and the two following re-sit opportunities. \nStudents who do not hand in solutions to the assignments may still obtain the highest grade provided they do well enough at the examination.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0117. Name: Examination. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).",
+    "Assumed prior knowledge: \n        FMAB20 Linear Algebra, FMAB65 Calculus in One Variable B1, FMAB70 Calculus in One Variable B2, FMAB30 Calculus in Several Variables, and experience of programming in Matlab or Python/NumPy.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFMN041\nFMN050\nFMN081\nFMNF01\nFMN011\nFMNF10\nFMNF15\nFMNF16",
+    "Course coordinator: Anders Holst,\n        Studierektor@math.lth.se\nTeacher: Andreas Langer,\n        Andreas.Langer@math.lth.se\nCourse administrator: Studerandeexpeditionen,\n        expedition@math.lth.se\nExaminator: Andreas Langer,\n        Andreas.Langer@math.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/20366",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to construct computable approximations of mathematical models which are common in science and engineering.",
+      "be able to describe numerical algorithms to handle the above approximations.",
+      "be able to independently implement and apply such algorithms using mathematical software, e.g., Python."
+    ],
+    [
+      "be able to independently select and apply computational algorithms and implement them on a computer.",
+      "be able to evaluate both accuracy and relevance of numerical results.",
+      "report solutions to problems and numerical results in written form.",
+      "be able to account for construction of basic mathematical models and algorithms, in a clear way and using suitable terminology.",
+      "be able to account for the numerical solution of a mathematical problem, with suitable terminology and clear language."
+    ],
+    [
+      "Sauer, T: Numerical Analysis - 2nd edition. Pearson Education, 2013, ISBN: 9781292023588. Other printings of the second edition, with different ISBN-numbers, may also be used."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår17/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nNumerical Analysis\nNumerisk analys\nFMNF05, 6.0 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: D3\nElective for: C4\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe aim of the course is to teach basic computational methods for solving simple and common mathematical problems using computers and numerical software. This includes the construction, application and analysis of basic computational algorithms. Problem solving with computers is a central part of the course.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to construct computable approximations of mathematical models which are common in science and engineering.be able to describe numerical algorithms to handle the above approximations.be able to independently implement and apply such algorithms using mathematical software, e.g., Python.\nCompetences and skills\n      For a passing grade the student must\nbe able to independently select and apply computational algorithms and implement them on a computer.be able to evaluate both accuracy and relevance of numerical results.report solutions to problems and numerical results in written form.be able to account for construction of basic mathematical models and algorithms, in a clear way and using suitable terminology.be able to account for the numerical solution of a mathematical problem, with suitable terminology and clear language.\nContents\nError analysis, numerical methods for systems of (non-) linear equations, the least squares method, polynomial interpolation, splines, Bezier curves, numerical integration, computation of eigenvalues.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: The final grade is based on a written examination and possibly on optional assignments. \nIn case there are optional assignments that may influence the grade, information about this will be given at the start of the course.\nAny merit points on optional assignments are only valid till the end of the academic year, i.e. for the scheduled exam and the two following re-sit opportunities. \nStudents who do not hand in solutions to the assignments may still obtain the highest grade provided they do well enough at the examination.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0117. Name: Examination. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        FMAB20 Linear Algebra, FMAB65 Calculus in One Variable B1, FMAB70 Calculus in One Variable B2, FMAB30 Calculus in Several Variables, and experience of programming in Matlab or Python/NumPy.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFMN041\nFMN050\nFMN081\nFMNF01\nFMN011\nFMNF10\nFMNF15\nFMNF16\n\nReading list\n\nSauer, T: Numerical Analysis - 2nd edition. Pearson Education, 2013, ISBN: 9781292023588. Other printings of the second edition, with different ISBN-numbers, may also be used.\n\nContact\n\nCourse coordinator: Anders Holst,\n        Studierektor@math.lth.se\nTeacher: Andreas Langer,\n        Andreas.Langer@math.lth.se\nCourse administrator: Studerandeexpeditionen,\n        expedition@math.lth.se\nExaminator: Andreas Langer,\n        Andreas.Langer@math.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/20366\n\nFurther information\n      During the course there are some optional assignments. Students who hand in solutions will receive feedback.\n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

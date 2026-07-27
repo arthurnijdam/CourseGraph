@@ -1,0 +1,56 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Project Course in Signal Processing – from Idea to App\nProjektkurs i signalbehandling – från idé till app",
+    "BMEN20, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED BME\nDate of Decision: 2026-04-13",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4-sbh, C4, D4-ssr, D4-is, D4-hs, E4-sb, F4, MMSR1, MSOC1, MWIR2, Pi4\nLanguage of instruction: The course will be given in English on demand",
+    "The course gives the knowledge of implementation of signal processing algorithms in mobile plattforms. Further, the course aims to emphasis the problems that can occur in real time signal processing and evaluate the performance of the implementations.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Signal processing can be found in a wide range of applications, such as audio, video and health, which is reflected in the projects that can be done within the course.",
+    "The course starts with examples and laborations on signal processing applications in app environment. Each group then choses an application and implements and evaluates suitable signal processing methods in app- environment. Reporting and demonstration constitute an important part of the project work and is introduced at an early stage of the course. The supervisors are available for questions and discussion at prescheduled times",
+    "Grading scale: UG - (U, G) - (Fail, Pass)\nAssessment: Written report and oral presentation of the project work.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0119. Name: Project. \n\nCredits: 7.5. Grading scale: UG - (U, G).",
+    "Assumed prior knowledge: \n        EITF75 Systems and Signals or EITA50 Signal Processing in Multimedia or EITF15, BMEF25 Signal Processing - Theory and Applications or equivalent or BMEA05 Signals and systems or EITG10 Systems, Signals and Discrete Transforms. Basic course in programing.\n        \nThe number of participants is limited to: 36\nSelection: Completed university credits within the programme. Priority is given to students enrolled on programmes that include the course in their curriculum.\nKursen överlappar följande kurser: \nETI121",
+    "Course coordinator: Frida Sandberg,\n        frida.sandberg@bme.lth.se\nCourse coordinator: Martin Stridh,\n        martin.stridh@bme.lth.se\nCourse homepage: https://bme.lth.se/education/courses/",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to formulate a specification of the project",
+      "be able to plan how this can be realized during the time for the project"
+    ],
+    [
+      "be able to implement commonly used signal processing methods",
+      "test various parts in the implementation and verify the solution",
+      "present the solution orally and in a written report"
+    ],
+    [
+      "be able to analyze and evaluate the various parts of the implementation"
+    ],
+    [
+      "Material from the department."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår19/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nProject Course in Signal Processing – from Idea to App\nProjektkurs i signalbehandling – från idé till app\nBMEN20, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED BME\nDate of Decision: 2026-04-13\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4-sbh, C4, D4-ssr, D4-is, D4-hs, E4-sb, F4, MMSR1, MSOC1, MWIR2, Pi4\nLanguage of instruction: The course will be given in English on demand\n    \n  \nAim\nThe course gives the knowledge of implementation of signal processing algorithms in mobile plattforms. Further, the course aims to emphasis the problems that can occur in real time signal processing and evaluate the performance of the implementations.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to formulate a specification of the projectbe able to plan how this can be realized during the time for the project\nCompetences and skills\n      For a passing grade the student must\nbe able to implement commonly used signal processing methodstest various parts in the implementation and verify the solutionpresent the solution orally and in a written report\nJudgement and approach\n      For a passing grade the student must\nbe able to analyze and evaluate the various parts of the implementation\nContents\nSignal processing can be found in a wide range of applications, such as audio, video and health, which is reflected in the projects that can be done within the course.\nThe course starts with examples and laborations on signal processing applications in app environment. Each group then choses an application and implements and evaluates suitable signal processing methods in app- environment. Reporting and demonstration constitute an important part of the project work and is introduced at an early stage of the course. The supervisors are available for questions and discussion at prescheduled times\nExamination details\n\nGrading scale: UG - (U, G) - (Fail, Pass)\nAssessment: Written report and oral presentation of the project work.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0119. Name: Project. \n\nCredits: 7.5. Grading scale: UG - (U, G).\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        EITF75 Systems and Signals or EITA50 Signal Processing in Multimedia or EITF15, BMEF25 Signal Processing - Theory and Applications or equivalent or BMEA05 Signals and systems or EITG10 Systems, Signals and Discrete Transforms. Basic course in programing.\n        \nThe number of participants is limited to: 36\nSelection: Completed university credits within the programme. Priority is given to students enrolled on programmes that include the course in their curriculum.\nKursen överlappar följande kurser: \nETI121\n\nReading list\n\nMaterial from the department.\n\nContact\n\nCourse coordinator: Frida Sandberg,\n        frida.sandberg@bme.lth.se\nCourse coordinator: Martin Stridh,\n        martin.stridh@bme.lth.se\nCourse homepage: https://bme.lth.se/education/courses/\n\nFurther information\n      The first lecture should be seen as a mandatory call. Enrolled and registered students who do not have a valid absence will receive a cancellation of the course.\n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

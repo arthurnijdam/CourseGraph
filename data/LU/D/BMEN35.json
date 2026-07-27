@@ -1,0 +1,79 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Data-driven Health\nDatadriven hälsa",
+    "BMEN35, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED BME\nDate of Decision: 2026-04-13",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4-sbh, C4-pvt, C4-pvs, D4-se, D4-mai, E4-sb, E5-mt, F4, Pi4\nLanguage of instruction: The course will be given in English",
+    "The course provides basic knowledge in the field of artificial intelligence and machine learning for applications in medicine and health. The course covers the chain from medical databases via algorithms to regulations and requirements for diagnostic software.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Areas covered are:",
+    "- Introduction of artificial intelligence in healthcare applications",
+    "- Overview of machine learning algorithms and methods",
+    "- How to choose ML methods for different applications",
+    "- How to select settings and optimize performance",
+    "- How to evaluate performance",
+    "- Regulatory, social, ethical and legal issues regarding artificial intelligence in medicine",
+    "-State-of-the-art AI that is applied to important medical fields such as ECG, neurology, biomedical imaging, heart sound, oncology, diabetes, etc.",
+    "Practical work:",
+    "- Introduction to Python / Jupyter / Colab (basics, linear algebra, plotting)",
+    "- Linear models",
+    "- Measurement values and visualization",
+    "- Trees and knn",
+    "- Ensemble methods",
+    "- Neural networks (shallow, MLP, introduction to Keras / Tensorflow)",
+    "- Deep Neural Networks (CNN)",
+    "- Deep Learning (LSTM / RNN)",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: The grade is based on the exam in the end of the course.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0122. Name: Written Exam. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written Examination.\n        \n        \n        \n        \nCode: 0222. Name: Computer Assignments. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: Computer assignments",
+    "Assumed prior knowledge: \n        EITF75  Digital signal processing OR EITA50  Signal processing in  multimedia OR EITF15, BMEF25 Digital signal processing  - theory and applications OR BMEA05 Signals and systems OR EITG10 Systems, Signals and Discrete Transforms\n\nEDAA50 Programming, a first course OR EDAA80 Introduction to programming OR EDAA45 Introduction to programming OR EDAB05 Introduction to Programming\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFMAN45\nEDAN96",
+    "Course coordinator: Christian Antfolk,\n        christian.antfolk@bme.lth.se\nCourse coordinator: Martin Stridh,\n        martin.stridh@bme.lth.se\nDirector of studies: Lars Wallman,\n        lars.wallman@bme.lth.se",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to and understand and have an overall picture of how machine learning and artificial intelligence can be designed for different medical issues.",
+      "be able to apply the most common methods to real problems and real medical signals (Python)",
+      "know and understand how special requirements and regulations for diagnostic systems and other medical devices affect the design and validation process."
+    ],
+    [
+      "be able to understand the characteristics of the most common machine learning methods.",
+      "be able to understand what settings need to be made for different methods.",
+      "be able to understand how properties of medical training and validation data affect the performance of the methods.",
+      "be able to choose the appropriate method for a described situation.",
+      "be able to overview the consequences of different method choices and evaluation strategies that can be chosen for different types of problems",
+      "be able to use available toolboxes for machine learning and in this way solve practical problems in Python."
+    ],
+    [
+      "have the ability to analyze and evaluate different machine learning algorithms, as well as interpret and describe their inherent principles.",
+      "have insight into how the transparency and generalizability of different methods make them more or less suitable in different medical contexts."
+    ],
+    [
+      "Marcus Österberg and Lars Lindsköld: AI for Better Health. 2020.",
+      "Andreas Lindholm, Niklas Wahlström, Fredrik Lindsten, and Thomas B. Schön: Machine Learning - A First Course for Engineers and Scientists. Cambridge University Press, 2022.",
+      "Asam Bohr och Kaveh Memarzadeh: Artificial Intelligence in Healthcare. Academic press, 2020, ISBN: 978-0-12-818438-7.",
+      "Lei Ting och Maryellen L Giger och James K Min: Artificial Intelligence in Medicine - Technical Basis and Clinical Applications. Academic press, 2020, ISBN: 978-0-12-821259-2.",
+      "Christoph Molnar: Interpretable machine learning - A Guide for Making Black Box Models Explainable. 2022, ISBN: 9798411463330.https://christophm.github.io/interpretable-ml-book/"
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår22/2323/2424/2525/2626/27\nCourse syllabus\nData-driven Health\nDatadriven hälsa\nBMEN35, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED BME\nDate of Decision: 2026-04-13\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4-sbh, C4-pvt, C4-pvs, D4-se, D4-mai, E4-sb, E5-mt, F4, Pi4\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe course provides basic knowledge in the field of artificial intelligence and machine learning for applications in medicine and health. The course covers the chain from medical databases via algorithms to regulations and requirements for diagnostic software.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to and understand and have an overall picture of how machine learning and artificial intelligence can be designed for different medical issues.be able to apply the most common methods to real problems and real medical signals (Python)know and understand how special requirements and regulations for diagnostic systems and other medical devices affect the design and validation process.\nCompetences and skills\n      For a passing grade the student must\nbe able to understand the characteristics of the most common machine learning methods.be able to understand what settings need to be made for different methods.be able to understand how properties of medical training and validation data affect the performance of the methods.be able to choose the appropriate method for a described situation.be able to overview the consequences of different method choices and evaluation strategies that can be chosen for different types of problemsbe able to use available toolboxes for machine learning and in this way solve practical problems in Python.\nJudgement and approach\n      For a passing grade the student must\nhave the ability to analyze and evaluate different machine learning algorithms, as well as interpret and describe their inherent principles.have insight into how the transparency and generalizability of different methods make them more or less suitable in different medical contexts.\nContents\nAreas covered are:\n- Introduction of artificial intelligence in healthcare applications\n- Overview of machine learning algorithms and methods\n- How to choose ML methods for different applications\n- How to select settings and optimize performance\n- How to evaluate performance\n- Regulatory, social, ethical and legal issues regarding artificial intelligence in medicine\n-State-of-the-art AI that is applied to important medical fields such as ECG, neurology, biomedical imaging, heart sound, oncology, diabetes, etc.\nPractical work:\n- Introduction to Python / Jupyter / Colab (basics, linear algebra, plotting)\n- Linear models\n- Measurement values and visualization\n- Trees and knn\n- Ensemble methods\n- Neural networks (shallow, MLP, introduction to Keras / Tensorflow)\n- Deep Neural Networks (CNN)\n- Deep Learning (LSTM / RNN)\n\n\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: The grade is based on the exam in the end of the course. \n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0122. Name: Written Exam. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written Examination.\n        \n        \n        \n        \nCode: 0222. Name: Computer Assignments. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: Computer assignments\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        EITF75  Digital signal processing OR EITA50  Signal processing in  multimedia OR EITF15, BMEF25 Digital signal processing  - theory and applications OR BMEA05 Signals and systems OR EITG10 Systems, Signals and Discrete Transforms\n\nEDAA50 Programming, a first course OR EDAA80 Introduction to programming OR EDAA45 Introduction to programming OR EDAB05 Introduction to Programming\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFMAN45\nEDAN96\n\nReading list\n\nMarcus Österberg and Lars Lindsköld: AI for Better Health. 2020.\nAndreas Lindholm, Niklas Wahlström, Fredrik Lindsten, and Thomas B. Schön: Machine Learning - A First Course for Engineers and Scientists. Cambridge University Press, 2022.\nAsam Bohr och Kaveh Memarzadeh: Artificial Intelligence in Healthcare. Academic press, 2020, ISBN: 978-0-12-818438-7.\nLei Ting och Maryellen L Giger och James K Min: Artificial Intelligence in Medicine - Technical Basis and Clinical Applications. Academic press, 2020, ISBN: 978-0-12-821259-2.\nChristoph Molnar: Interpretable machine learning - A Guide for Making Black Box Models Explainable. 2022, ISBN: 9798411463330.https://christophm.github.io/interpretable-ml-book/\n\nContact\n\nCourse coordinator: Christian Antfolk,\n        christian.antfolk@bme.lth.se\nCourse coordinator: Martin Stridh,\n        martin.stridh@bme.lth.se\nDirector of studies: Lars Wallman,\n        lars.wallman@bme.lth.se\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

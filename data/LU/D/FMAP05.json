@@ -1,0 +1,52 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Linear and Combinatorial Optimization\nLinjär och kombinatorisk optimering",
+    "FMAP05, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4, C4, D4, E4, F4, F4-pv, F4-bs, Pi4-bs, Pi4-pv\nLanguage of instruction: The course will be given in English on demand",
+    "In science, technology and economics, linear and combinatorial optimization problems appear more and more often. The most well-known example is linear programming, where the so called simplex method has been of utmost importance in industry since it was invented in the middle of the 20th century. Other important problems, e.g. for effective data processing, contain discrete variables, for example integers. In connection with these, the importance of combinatorial methods has grown. The aim of the course is that  the students should acquire good knowledge about   some problems in linear and combinatorial optimization which are important in applications, and detailed knowledge about modern mathematical methods for their solution. The aim is also to make the students develop their ability to solve problems, with and without the use of a computer, and their ability to read mathematical texts.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Convexity. Linear programming. Duality. Integer programming. Transport problems. Assignment problems. Maximal flow. Travelling salesperson problem. Cheapest path problem. Interior-point methods for linear problems. Algorithm complexity.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "Written exam. Computer sessions with preparatory programming tasks.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0122. Name: Linear and Combinatorial Optimization. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).",
+    "Assumed prior knowledge: \n        FMAB20 Linear Algebra. Programming with Python or Matlab. FMAB30 Calculus in Several Variables. Some further course in mathematics, e.g. FMAF05 Systems and Transforms, for mathematical maturity.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFMA240\nFMAF35",
+    "Course coordinator: Studierektor Anders Holst,\n        Studierektor@math.lth.se\nTeacher: Stefan Diehl,\n        Stefan.Diehl@math.lth.se\nExaminator: Stefan Diehl,\n        Stefan.Diehl@math.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/20371",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "understand and be able to clearly explain the theory behind the simplex method and its dual counterpart.",
+      "be able to describe and explain the mathematical theory behind some central algorithms in combinatorial optimization.",
+      "be able to explain the theory behind interior-point methods, in particular KKT theory."
+    ],
+    [
+      "be able to show a good capability to (i) identify problems in the area, (ii) formulate these in mathematical terms, (iii) choose an appropriate method to solve them, and finally (iv) carry out the solution, possibly with the help of a computer.",
+      "be able to write computer programs to solve linear and combinatorial optimization problems.",
+      "with proper terminology, in a well structured way and with clear logic be able to explain the solution to a problem within linear and combinatorial optimization."
+    ],
+    [
+      "Stefan Diehl: Linear and Combinatorial Optimization - A Basic Course. Studentlitteratur, 2025, ISBN: 9789144201368. First edition, academic year 2025/26. A preliminary version was used in the spring of 2025."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår22/2323/2424/2525/2626/27\nCourse syllabus\nLinear and Combinatorial Optimization\nLinjär och kombinatorisk optimering\nFMAP05, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4, C4, D4, E4, F4, F4-pv, F4-bs, Pi4-bs, Pi4-pv\nLanguage of instruction: The course will be given in English on demand\n    \n  \nAim\nIn science, technology and economics, linear and combinatorial optimization problems appear more and more often. The most well-known example is linear programming, where the so called simplex method has been of utmost importance in industry since it was invented in the middle of the 20th century. Other important problems, e.g. for effective data processing, contain discrete variables, for example integers. In connection with these, the importance of combinatorial methods has grown. The aim of the course is that  the students should acquire good knowledge about   some problems in linear and combinatorial optimization which are important in applications, and detailed knowledge about modern mathematical methods for their solution. The aim is also to make the students develop their ability to solve problems, with and without the use of a computer, and their ability to read mathematical texts.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nunderstand and be able to clearly explain the theory behind the simplex method and its dual counterpart.be able to describe and explain the mathematical theory behind some central algorithms in combinatorial optimization.be able to explain the theory behind interior-point methods, in particular KKT theory.\nCompetences and skills\n      For a passing grade the student must\nbe able to show a good capability to (i) identify problems in the area, (ii) formulate these in mathematical terms, (iii) choose an appropriate method to solve them, and finally (iv) carry out the solution, possibly with the help of a computer.be able to write computer programs to solve linear and combinatorial optimization problems.with proper terminology, in a well structured way and with clear logic be able to explain the solution to a problem within linear and combinatorial optimization.\nContents\nConvexity. Linear programming. Duality. Integer programming. Transport problems. Assignment problems. Maximal flow. Travelling salesperson problem. Cheapest path problem. Interior-point methods for linear problems. Algorithm complexity.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written exam. Computer sessions with preparatory programming tasks.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0122. Name: Linear and Combinatorial Optimization. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        FMAB20 Linear Algebra. Programming with Python or Matlab. FMAB30 Calculus in Several Variables. Some further course in mathematics, e.g. FMAF05 Systems and Transforms, for mathematical maturity.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFMA240\nFMAF35\n\nReading list\n\nStefan Diehl: Linear and Combinatorial Optimization - A Basic Course. Studentlitteratur, 2025, ISBN: 9789144201368. First edition, academic year 2025/26. A preliminary version was used in the spring of 2025.\n\nContact\n\nCourse coordinator: Studierektor Anders Holst,\n        Studierektor@math.lth.se\nTeacher: Stefan Diehl,\n        Stefan.Diehl@math.lth.se\nExaminator: Stefan Diehl,\n        Stefan.Diehl@math.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/20371\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

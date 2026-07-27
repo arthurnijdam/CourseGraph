@@ -1,0 +1,77 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Calculus in Several Variables\nFlerdimensionell analys",
+    "FMAB30, 6.0 credits, G1 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: B2, BME2, BR2, D2, E1, I1, K2, L2, M1, MD1, N2, R2, V2, W2\nElective for: C4-pvs, C4-pvt, IBYA3, IBYI3, IBYV3, IDA3, IEA3\nLanguage of instruction: The course will be given in Swedish",
+    "The course aims at giving a basic treatment of calculus in several variables. Particular emphasis is given to the role this plays in applications in different subjects of technology, in order to give the future engineer a good foundation for further studies in mathematics as well as other subjects. The aim is furthermore to develop the student's ability to solve problems and to assimilate mathematical text.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written test comprising theory and problem solving. Computer work.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0217. Name: Computer Work. \n\nCredits: 0.0. Grading scale: UG - (U, G).\n        \n          Assessment: Correct solutions to preparatory problems and  pass on carrying out the computer session in pair.\n        \n        \n        \n        \nCode: 0117. Name: Calculus in Several Variables. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written test comprising theory and problem solving.",
+    "Assumed prior knowledge: \n        Single variable calculus, e g one of the course chains FMAB45, FMAB50 and FMAB60 or FMAB65 and FMAB70, and linear algebra, e g one of the courses FMAA20, FMAA21 or FMAB20.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFMA025\nFMA435\nFMA430\nFMAB35",
+    "Course coordinator: Studierektor Anders Holst,\n        Studierektor@math.lth.se\nCourse administrator: Studerandeexpeditionen,\n        expedition@math.lth.se\nExaminator: Anders Holst,\n        Anders.Holst@math.lth.se\nExaminator: Jonas Månsson,\n        Jonas.Mansson@math.lth.se\nExaminator: Kasper Andersen,\n        Kasper.Andersen@math.lth.se\nExaminator: Patrik Nordbeck,\n        patrik.nordbeck@math.lth.se\nExaminator: Sara Maad Sasane,\n        Sara.Maad_Sasane@math.lth.se\nExaminator: Yang Xing,\n        yang.xing@math.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/20434",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to compute with and handle elementary functions of several variables within the framework of the course with confidence, together with their derivatives and integrals.",
+      "be familiar with different representations of curves, surfaces and volumes in two and three dimensions, and be able to use them in computations.",
+      "be able to carry out (specified) changes of variables in partial differential equations, and by this means to solve such equations.",
+      "be familiar with the basic theory of optimization, local as well as global, and be able to find the solution in simple cases.",
+      "be able to demonstrate an ability to independently choose methods to evaluate double and triple integrals, and be able to carry out the solution essentially correctly, with  correct limits for the integrations requiered for simple geometries.",
+      "be able to demonstrate an ability to independently choose method to evaluate a curve integral, and be able to carry out the solution essentially correctly.",
+      "be able to demonstrate a good ability to carry out algebraic calculations within the context of the course.",
+      "be able to give a general account of and to illustrate the meaning of such mathematical concepts in calculus in several variables that are used to construct and study mathematical models in the applications.",
+      "be able to account for the contents of some central definitions, theorems and proofs."
+    ],
+    [
+      "in the context of problem solving be able to demonstrate an ability to independently choose and use mathematical concepts and methods within calculus in several variables.",
+      "in the context of problem solving be able to integrate concepts from different parts of the course.",
+      "be able to demonstrate an ability to construct and analyse some simple mathematical models in calculus in several variables.",
+      "be able to show capability to explain mathematical arguments in a structured and logically clear way.",
+      "have a basic ability to use Maple for visualisation and formula manipulation, and be able to identify some of its possibilities and limitations."
+    ],
+    [
+      "Generalities on functions of several variables: level curves, function surfaces, level surfaces, surfaces in parameter form, curvilinear coordinates."
+    ],
+    [
+      "Partial derivatives. Differentiability, tangent planes, error propagation. The chain rule. Applications to partial differential equations. Gradient, directional derivative, level curves. Study of stationary points. Curves, tangents, arc length. Surfaces, normal direction, tangent plane. Functional (Jacobi) matrix and determinant, linearisation. Implicitly given functions."
+    ],
+    [
+      "Optimization on compact and non-compact domains. Optimization with constraints."
+    ],
+    [
+      "Double and triple integrals. Iterated integration. Change of variables. Improper integrals. Applications: volume, centre of gravity."
+    ],
+    [
+      "Curve integrals in the plane. Green's formula with applications. Potentials and exact differentials."
+    ],
+    [
+      "Computer work. Visualisation and formula manipulation using Maple."
+    ],
+    [
+      "Jonas Månsson och Patrik Nordbeck: Flerdimensionell analys. Studentlitteratur, 2013, ISBN: 9789144080833.",
+      "Övningar i flerdimensionell analys. Studentlitteratur, 2013, ISBN: 9789144092508."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår17/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nCalculus in Several Variables\nFlerdimensionell analys\nFMAB30, 6.0 credits, G1 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: B2, BME2, BR2, D2, E1, I1, K2, L2, M1, MD1, N2, R2, V2, W2\nElective for: C4-pvs, C4-pvt, IBYA3, IBYI3, IBYV3, IDA3, IEA3\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nThe course aims at giving a basic treatment of calculus in several variables. Particular emphasis is given to the role this plays in applications in different subjects of technology, in order to give the future engineer a good foundation for further studies in mathematics as well as other subjects. The aim is furthermore to develop the student's ability to solve problems and to assimilate mathematical text.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to compute with and handle elementary functions of several variables within the framework of the course with confidence, together with their derivatives and integrals.be familiar with different representations of curves, surfaces and volumes in two and three dimensions, and be able to use them in computations.be able to carry out (specified) changes of variables in partial differential equations, and by this means to solve such equations.be familiar with the basic theory of optimization, local as well as global, and be able to find the solution in simple cases.be able to demonstrate an ability to independently choose methods to evaluate double and triple integrals, and be able to carry out the solution essentially correctly, with  correct limits for the integrations requiered for simple geometries.be able to demonstrate an ability to independently choose method to evaluate a curve integral, and be able to carry out the solution essentially correctly.be able to demonstrate a good ability to carry out algebraic calculations within the context of the course.be able to give a general account of and to illustrate the meaning of such mathematical concepts in calculus in several variables that are used to construct and study mathematical models in the applications.be able to account for the contents of some central definitions, theorems and proofs.\nCompetences and skills\n      For a passing grade the student must\nin the context of problem solving be able to demonstrate an ability to independently choose and use mathematical concepts and methods within calculus in several variables.in the context of problem solving be able to integrate concepts from different parts of the course.be able to demonstrate an ability to construct and analyse some simple mathematical models in calculus in several variables.be able to show capability to explain mathematical arguments in a structured and logically clear way.have a basic ability to use Maple for visualisation and formula manipulation, and be able to identify some of its possibilities and limitations.\nContents\n\nGeneralities on functions of several variables: level curves, function surfaces, level surfaces, surfaces in parameter form, curvilinear coordinates.\n\n\nPartial derivatives. Differentiability, tangent planes, error propagation. The chain rule. Applications to partial differential equations. Gradient, directional derivative, level curves. Study of stationary points. Curves, tangents, arc length. Surfaces, normal direction, tangent plane. Functional (Jacobi) matrix and determinant, linearisation. Implicitly given functions.\n\n\nOptimization on compact and non-compact domains. Optimization with constraints.\n\n\nDouble and triple integrals. Iterated integration. Change of variables. Improper integrals. Applications: volume, centre of gravity.\n\n\nCurve integrals in the plane. Green's formula with applications. Potentials and exact differentials.\n\n\nComputer work. Visualisation and formula manipulation using Maple.\n\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written test comprising theory and problem solving. Computer work.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0217. Name: Computer Work. \n\nCredits: 0.0. Grading scale: UG - (U, G).\n        \n          Assessment: Correct solutions to preparatory problems and  pass on carrying out the computer session in pair.\n        \n        \n        \n        \nCode: 0117. Name: Calculus in Several Variables. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written test comprising theory and problem solving. \n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        Single variable calculus, e g one of the course chains FMAB45, FMAB50 and FMAB60 or FMAB65 and FMAB70, and linear algebra, e g one of the courses FMAA20, FMAA21 or FMAB20.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFMA025\nFMA435\nFMA430\nFMAB35\n\nReading list\n\nJonas Månsson och Patrik Nordbeck: Flerdimensionell analys. Studentlitteratur, 2013, ISBN: 9789144080833.\nÖvningar i flerdimensionell analys. Studentlitteratur, 2013, ISBN: 9789144092508.\n\nContact\n\nCourse coordinator: Studierektor Anders Holst,\n        Studierektor@math.lth.se\nCourse administrator: Studerandeexpeditionen,\n        expedition@math.lth.se\nExaminator: Anders Holst,\n        Anders.Holst@math.lth.se\nExaminator: Jonas Månsson,\n        Jonas.Mansson@math.lth.se\nExaminator: Kasper Andersen,\n        Kasper.Andersen@math.lth.se\nExaminator: Patrik Nordbeck,\n        patrik.nordbeck@math.lth.se\nExaminator: Sara Maad Sasane,\n        Sara.Maad_Sasane@math.lth.se\nExaminator: Yang Xing,\n        yang.xing@math.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/20434\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

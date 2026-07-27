@@ -1,0 +1,59 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Internet Inside\nInternet inuti",
+    "EITN30, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-ks, C4-sec, D4-is, D4-ns, D4-hs, E4-ns, MSOC1, MWIR1\nLanguage of instruction: The course will be given in English",
+    "The aim of this course is to develope a proficiency in prototyping Internet-based systems. The students will integrate knowledge from several courses in programming and communication through independent work.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "This course focuses on prototyping an internet-based communikation system. In the course a solution is implemented that uses a modular system where the students can set their own design goals.",
+    "Grading scale: UG - (U, G) - (Fail, Pass)\nAssessment:",
+    "Approved project. The examination is a meeting with the examiner where each group presents their implementation and demonstrates a functioning system. All group members must participate and are expected to defend their technical choices and explain the decisions made during development.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0111. Name: Internet Inside. \n\nCredits: 7.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved Project Presentation\n        \n        \n          The module includes: Project",
+    "Admission requirements:",
+    "Course coordinator: William Tärneberg ,\n        william.tarneberg@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/eitn30",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to analyze and describe system of low and medium complexity",
+      "test och debug a design in a systematic way",
+      "profit by search relevant information"
+    ],
+    [
+      "Be able to suggest and formulate technical solutions for digital communication systems fulfilling given demands",
+      "Be able to independently work in a creative way with advanced projects, and also orally clearly present, motivate and discuss obtained conclusions"
+    ],
+    [
+      "Be able to show insight concerning possibilities and limitations of Internet-based systems"
+    ],
+    [
+      "EDA016 Programming, First Course or EDA017 Programming, First Course or EDAA45 Introduction to Programming or EDAA55 Programming, First Course or EDAB05 Introduction to Programming"
+    ],
+    [
+      "Stevens W R: TCP/IP Illustrated, Volume 1: The Protocols. Addison-Wesley, ISBN: 0-201-63346-9."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår10/1111/1212/1313/1414/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nInternet Inside\nInternet inuti\nEITN30, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-ks, C4-sec, D4-is, D4-ns, D4-hs, E4-ns, MSOC1, MWIR1\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe aim of this course is to develope a proficiency in prototyping Internet-based systems. The students will integrate knowledge from several courses in programming and communication through independent work.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to analyze and describe system of low and medium complexitytest och debug a design in a systematic wayprofit by search relevant information\nCompetences and skills\n      For a passing grade the student must\nBe able to suggest and formulate technical solutions for digital communication systems fulfilling given demandsBe able to independently work in a creative way with advanced projects, and also orally clearly present, motivate and discuss obtained conclusions\nJudgement and approach\n      For a passing grade the student must\nBe able to show insight concerning possibilities and limitations of Internet-based systems\nContents\nThis course focuses on prototyping an internet-based communikation system. In the course a solution is implemented that uses a modular system where the students can set their own design goals.\nExamination details\n\nGrading scale: UG - (U, G) - (Fail, Pass)\nAssessment: Approved project. The examination is a meeting with the examiner where each group presents their implementation and demonstrates a functioning system. All group members must participate and are expected to defend their technical choices and explain the decisions made during development.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0111. Name: Internet Inside. \n\nCredits: 7.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved Project Presentation\n        \n        \n          The module includes: Project\n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nEDA016 Programming, First Course or EDA017 Programming, First Course or EDAA45 Introduction to Programming or EDAA55 Programming, First Course or EDAB05 Introduction to Programming\n\nAssumed prior knowledge: \n        Accustomedness to work independently, and knowledge equivalent to one of the courses EITF25/EITA55/ETSF05/ETSF10/ETSF15/EITF45 and/or its course literature.\n        \nThe number of participants is limited to: 40\nSelection: Of the 40 places on the course, a maximum of 4 are reserved for exchange students. Selection for remaining places: Completed university credits within the programme. Priority is given to students enrolled on programmes that include the course in their curriculum.\nKursen överlappar följande kurser: \nEIT150\n\nReading list\n\nStevens W R: TCP/IP Illustrated, Volume 1: The Protocols. Addison-Wesley, ISBN: 0-201-63346-9.\n\nContact\n\nCourse coordinator: William Tärneberg ,\n        william.tarneberg@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/eitn30\n\nFurther information\n      With less than 16 participants, the course may be given with reduced teaching and more self studies.\n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

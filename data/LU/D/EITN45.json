@@ -1,0 +1,65 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Information Theory\nInformationsteori",
+    "EITN45, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Main field:  Communication Systems\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: MWIR1\nElective for: C4-ks, C4-sec, D4-ns, E4-tk, F4, MFOT1, MMSR1, Pi4-ssr\nLanguage of instruction: The course will be given in English",
+    "The aim of this course is to give the students knowledge of principles for information storage and transmission of information, and the use of binary representation of information. The course also gives knowledge of the performance and fundamental boundaries of todays and tomorrows communication systems.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The definition of information goes back to Shannons landmark paper in 1948. His theory of how information can be processed is the basis of all efficient digital communication systems both today and tomorrow. This course provides an up-to-date introduction to topic information theory. The course emphasizes both the formal development of the theory and the engineering implications for the design of communication systems and other information handling systems. The course includes:",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "A passing grade requires a passing result on the written examination as well as approved coursework assignments. Approved coursework assignments are a prerequisite for taking the written examination. The final grade is based on the result of the written examination.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0118. Name: Information Theory. \n\nCredits: 5.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Passed written exam.\n        \n        \n          The module includes: Examination for the theoretical part of the course\n        \n        \n        \nCode: 0218. Name: Hand in problems. \n\nCredits: 2.5. Grading scale: UG - (U, G).\n        \n          Assessment: Hand in problems\n        \n        \n          The module includes: Applications of the theory in terms of data compression and channel coding",
+    "Assumed prior knowledge: \n        Basic course in probability theory, ETT051/EITG05 Digital Communications\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEIT080",
+    "Course coordinator: Michael Lentmaier,\n        michael.lentmaier@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/EITN45",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to identify and formulate problems within the area of Information Theory,",
+      "be able to classify the level of difficulty of problems related to the his/her own level of knowledge."
+    ],
+    [
+      "be able to show ability to handle new methods and results,",
+      "be able to set up requirements on implementation of algorithms in the course,",
+      "be able to realize systems for the algorithms presented in the course."
+    ],
+    [
+      "be able to classify the level of difficulty of problems related to the his/her own level of knowledge,",
+      "be aware of what parameters set up the boundaries for reliable communications as well as the compression ratio of a source."
+    ],
+    [
+      "Shannon's information measures entropy and mutual information, both for the discrete and continuous case. Understanding of entropy as a measure of information and mutual information as a measure of the information that can be transmitted over a channel.",
+      "Source coding: Optimal coding and Huffman codes, as well as universal source coding such as Ziv-Lempel coding (zip, etc.) and Huffman coding using estimation of distributions.",
+      "Typical sequences, Source coding theorem and Channel coding theorem, where the former describes how much a source can be compressed and the second shows the capacity of a channel.",
+      "Channel coding: Principles of error detection and correction on a noisy channel, mainly illustrated by Hamming codes.",
+      "Gaussian channel: Continuous sources and additive white noise over both band limited and frequency selective channels, with examples like OFDM and MIMO. Derivation of the channel capacity and the fundamental Shannon limit.",
+      "Discrete input Gaussian channel: Maximum achievable rates for PAM and QAM, Coding and Shaping gain, and SNR gap."
+    ],
+    [
+      "Stefan Höst: Information and Communication Theory. IEEE Wiley, 2019, ISBN: 9781119433781.",
+      "Additional material."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår12/1313/1414/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nInformation Theory\nInformationsteori\nEITN45, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nMain field:  Communication Systems\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: MWIR1\nElective for: C4-ks, C4-sec, D4-ns, E4-tk, F4, MFOT1, MMSR1, Pi4-ssr\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe aim of this course is to give the students knowledge of principles for information storage and transmission of information, and the use of binary representation of information. The course also gives knowledge of the performance and fundamental boundaries of todays and tomorrows communication systems.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to identify and formulate problems within the area of Information Theory,be able to classify the level of difficulty of problems related to the his/her own level of knowledge.\nCompetences and skills\n      For a passing grade the student must\nbe able to show ability to handle new methods and results,be able to set up requirements on implementation of algorithms in the course,be able to realize systems for the algorithms presented in the course.\nJudgement and approach\n      For a passing grade the student must\nbe able to classify the level of difficulty of problems related to the his/her own level of knowledge,be aware of what parameters set up the boundaries for reliable communications as well as the compression ratio of a source.\nContents\nThe definition of information goes back to Shannons landmark paper in 1948. His theory of how information can be processed is the basis of all efficient digital communication systems both today and tomorrow. This course provides an up-to-date introduction to topic information theory. The course emphasizes both the formal development of the theory and the engineering implications for the design of communication systems and other information handling systems. The course includes:Shannon's information measures entropy and mutual information, both for the discrete and continuous case. Understanding of entropy as a measure of information and mutual information as a measure of the information that can be transmitted over a channel.Source coding: Optimal coding and Huffman codes, as well as universal source coding such as Ziv-Lempel coding (zip, etc.) and Huffman coding using estimation of distributions.Typical sequences, Source coding theorem and Channel coding theorem, where the former describes how much a source can be compressed and the second shows the capacity of a channel.Channel coding: Principles of error detection and correction on a noisy channel, mainly illustrated by Hamming codes.Gaussian channel: Continuous sources and additive white noise over both band limited and frequency selective channels, with examples like OFDM and MIMO. Derivation of the channel capacity and the fundamental Shannon limit.Discrete input Gaussian channel: Maximum achievable rates for PAM and QAM, Coding and Shaping gain, and SNR gap.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: A passing grade requires a passing result on the written examination as well as approved coursework assignments. Approved coursework assignments are a prerequisite for taking the written examination. The final grade is based on the result of the written examination.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0118. Name: Information Theory. \n\nCredits: 5.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Passed written exam.\n        \n        \n          The module includes: Examination for the theoretical part of the course\n        \n        \n        \nCode: 0218. Name: Hand in problems. \n\nCredits: 2.5. Grading scale: UG - (U, G).\n        \n          Assessment: Hand in problems\n        \n        \n          The module includes: Applications of the theory in terms of data compression and channel coding\n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        Basic course in probability theory, ETT051/EITG05 Digital Communications\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEIT080\n\nReading list\n\nStefan Höst: Information and Communication Theory. IEEE Wiley, 2019, ISBN: 9781119433781.\nAdditional material.\n\nContact\n\nCourse coordinator: Michael Lentmaier,\n        michael.lentmaier@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/EITN45\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

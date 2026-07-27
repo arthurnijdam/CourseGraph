@@ -1,0 +1,70 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Introduction to Artificial Neural Networks and Deep Learning\nIntroduktion till artificiella neuronnätverk och deep learning",
+    "EXTQ41, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14",
+    "Main field:  Machine Learning, Systems and Control\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: MMSR1\nElective for: C4, D4-bg, D4-mai, E4-sb, E4-se, F4, F4-tf, F4-mai, I4, L4-gi, MFOT1, MNAV2, N4, Pi4-ssr, Pi4-bam\nLanguage of instruction: The course will be given in English",
+    "The general aim of the course is that the students should acquire basic knowledge about artificial neural networks and deep learning, both theoretical knowledge and practical experiences in usage for typical problems in machine learning and data mining.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The course covers the most common models in the area of artificial neural networks with a focus on the multi-layer perceptron. Furthermore, the course provides students with an introduction to deep learning. Especially is treated:",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "Examination takes place in the form of a written exam at the end of the course, and written reports to the computer exercises during the course.",
+    "The final grade is decided through a weighted evaluation of the results in the components of the examination, where the written exam contributes with 95 % and other components be given weight 5%.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0124. Name: Test. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written examination.\n        \n        \n        \n        \nCode: 0224. Name: Computer Exercises. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: Passed computer exercises.",
+    "Admission requirements:",
+    "Course coordinator: Patrik Edén,\n        patrik.eden@cec.lu.se\nTeacher: Mattias Ohlsson,\n        mattias.ohlsson@cec.lu.se\nCourse homepage: https://canvas.education.lu.se/courses/29307",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to in detail give an account of the function and the training of small artificial neural networks,",
+      "be able to explain the meaning of over-training and in detail describe different methods that can be used to avoid over-training,",
+      "be able to on a general level describe different types of deep neural networks."
+    ],
+    [
+      "be able to independently formulate mathematical functions and equations that describe simple artificial neural networks,",
+      "be able to independently implement artificial neural networks to solve simple classificationor regression problems,",
+      "be able to systematically optimise data-based training of artificial neural networks to achieve good generalisation,",
+      "be able to use and modify deep networks for advanced data analysis."
+    ],
+    [
+      "be able to critically review a data analysis with artificial neural networks and identify potential gaps that can influence its reproducibility."
+    ],
+    [
+      "Feedforward networks: the simple and the multi-layer perceptron; choice of appropriate error functions and technologies to minimise these; over-training and how this can be discovered and avoided; committees of neural networks and technologies to create committees.",
+      "Feedback networks: its use in time series analysis and as associative memories (Hopfield model).",
+      "Convolution network: applications in image processing.",
+      "Auto-encoder: methods for non-linear dimensional reduction; pre-training.",
+      "Generating network: variational auto-encoder and GAN for synthetic data generation.",
+      "Transformer modules: its use in language models; training with self attention."
+    ],
+    [
+      "(FMAB20 Linear Algebra or FMAB22 Linear Algebra)  and(FMAB30 Calculus in Several Variables or FMAB35 Calculus in Several Variables)  and(FMAA01 Calculus in One Variable or FMAA05 Calculus in One Variable or FMAB65 Calculus in One Variable B1 or FMAB66 Calculus in One Variable Beta 1)  and(FMAA01 Calculus in One Variable or FMAA05 Calculus in One Variable or FMAB70 Calculus in One Variable B2)"
+    ],
+    [
+      "M. Ohlsson and P. Edén: Introduction to Artificial Neural Networks and Deep Learning. Available at Media-Tryck, and as pdf on course website.",
+      "Supplemental online literature.https://www.deeplearningbook.org/"
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår24/2525/2626/27\nCourse syllabus\nIntroduction to Artificial Neural Networks and Deep Learning\nIntroduktion till artificiella neuronnätverk och deep learning\nEXTQ41, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14\n    \n  \nGeneral Information\n\nMain field:  Machine Learning, Systems and Control\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: MMSR1\nElective for: C4, D4-bg, D4-mai, E4-sb, E4-se, F4, F4-tf, F4-mai, I4, L4-gi, MFOT1, MNAV2, N4, Pi4-ssr, Pi4-bam\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe general aim of the course is that the students should acquire basic knowledge about artificial neural networks and deep learning, both theoretical knowledge and practical experiences in usage for typical problems in machine learning and data mining.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to in detail give an account of the function and the training of small artificial neural networks,be able to explain the meaning of over-training and in detail describe different methods that can be used to avoid over-training,be able to on a general level describe different types of deep neural networks.\nCompetences and skills\n      For a passing grade the student must\nbe able to independently formulate mathematical functions and equations that describe simple artificial neural networks,be able to independently implement artificial neural networks to solve simple classificationor regression problems,be able to systematically optimise data-based training of artificial neural networks to achieve good generalisation,be able to use and modify deep networks for advanced data analysis.\nJudgement and approach\n      For a passing grade the student must\nbe able to critically review a data analysis with artificial neural networks and identify potential gaps that can influence its reproducibility.\nContents\nThe course covers the most common models in the area of artificial neural networks with a focus on the multi-layer perceptron. Furthermore, the course provides students with an introduction to deep learning. Especially is treated: Feedforward networks: the simple and the multi-layer perceptron; choice of appropriate error functions and technologies to minimise these; over-training and how this can be discovered and avoided; committees of neural networks and technologies to create committees. Feedback networks: its use in time series analysis and as associative memories (Hopfield model). Convolution network: applications in image processing. Auto-encoder: methods for non-linear dimensional reduction; pre-training.Generating network: variational auto-encoder and GAN for synthetic data generation. Transformer modules: its use in language models; training with self attention.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Examination takes place in the form of a written exam at the end of the course, and written reports to the computer exercises during the course.The final grade is decided through a weighted evaluation of the results in the components of the examination, where the written exam contributes with 95 % and other components be given weight 5%.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0124. Name: Test. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written examination.\n        \n        \n        \n        \nCode: 0224. Name: Computer Exercises. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: Passed computer exercises.\n        \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\n(FMAB20 Linear Algebra or FMAB22 Linear Algebra)  and(FMAB30 Calculus in Several Variables or FMAB35 Calculus in Several Variables)  and(FMAA01 Calculus in One Variable or FMAA05 Calculus in One Variable or FMAB65 Calculus in One Variable B1 or FMAB66 Calculus in One Variable Beta 1)  and(FMAA01 Calculus in One Variable or FMAA05 Calculus in One Variable or FMAB70 Calculus in One Variable B2)\n\nThe number of participants is limited to: 250\nSelection: Completed university credits within the program. Priority is given to students enrolled on programmes that include the course in their curriculum. Among these students priority is given to those in the master's programme in Machine Learning, Systems and Control, for whom the course is compulsory.\nKursen överlappar följande kurser: \nEXTQ40\n\nReading list\n\nM. Ohlsson and P. Edén: Introduction to Artificial Neural Networks and Deep Learning. Available at Media-Tryck, and as pdf on course website.\nSupplemental online literature.https://www.deeplearningbook.org/\n\nContact\n\nCourse coordinator: Patrik Edén,\n        patrik.eden@cec.lu.se\nTeacher: Mattias Ohlsson,\n        mattias.ohlsson@cec.lu.se\nCourse homepage: https://canvas.education.lu.se/courses/29307\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

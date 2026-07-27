@@ -1,0 +1,58 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Program Analysis\nProgramanalys",
+    "EDAP15, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4, D4-pv, E4, F4, F4-pv, Pi4\nLanguage of instruction: The course will be given in English",
+    "Program analysis allows us to better understand what software does and does not do. The techniques of program analysis can thereby contribute to software  security, software quality control, program understanding, software  maintenance and evolution, and software performance improvement. The aim of this course is to provide a detailed understanding of modern  program analysis techniques, as well as their strengths and weaknesses,  when applied to realistic software.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The course topics include: type systems, operational  semantics, data flow analysis, constraint-based analysis, heap abstraction, call graph analysis, domain-specific languages for program analysis, profiling, and sampling.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "Written examination. To qualify for the written examination, students must have completed their programming assignments. The final grade for the entire course is based on the result of the written examination.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0123. Name: Program Analysis. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).",
+    "Admission requirements:",
+    "Course coordinator: Christoph Reichenbach,\n        christoph.reichenbach@cs.lth.se\nCourse homepage: https://cs.lth.se/edap15",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "understand and demonstrate knowledge about static program analysis techniques and their strengths and weaknesses.",
+      "understand and demonstrate knowledge about dynamic program analysis techniques, their strengths and weaknesses, and their effect on program execution.",
+      "understand and be able to express themselves in the formal language(s) used in the class."
+    ],
+    [
+      "be able to design, implement, and validate static, dynamic, and combined static-dynamic program analyses for different tasks."
+    ],
+    [
+      "demonstrate the ability to describe, understand, and critically evaluate different program analysis techniques as applied to different tasks."
+    ],
+    [
+      "EDA180 Compiler Construction or EDA230 Optimising Compilers or EDAN40 Functional Programming or EDAN65 Compilers or EDAN75 Optimising Compilers"
+    ],
+    [
+      "Nielson, Flemming, Nielson, Hanne R., Hankin, Chris: Principles of Program Analysis. Addison Wesley, 1999, ISBN: 978-3-662-03811-6. Optional textbook.",
+      "Anders Møller and Michael I. Schwartzbach: Static Program Analysis. Optional textbook, online\nhttps://cs.au.dk/~amoeller/spa/."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår19/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nProgram Analysis\nProgramanalys\nEDAP15, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4, D4-pv, E4, F4, F4-pv, Pi4\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nProgram analysis allows us to better understand what software does and does not do. The techniques of program analysis can thereby contribute to software  security, software quality control, program understanding, software  maintenance and evolution, and software performance improvement. The aim of this course is to provide a detailed understanding of modern  program analysis techniques, as well as their strengths and weaknesses,  when applied to realistic software.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nunderstand and demonstrate knowledge about static program analysis techniques and their strengths and weaknesses.understand and demonstrate knowledge about dynamic program analysis techniques, their strengths and weaknesses, and their effect on program execution.understand and be able to express themselves in the formal language(s) used in the class.\nCompetences and skills\n      For a passing grade the student must\nbe able to design, implement, and validate static, dynamic, and combined static-dynamic program analyses for different tasks.\nJudgement and approach\n      For a passing grade the student must\ndemonstrate the ability to describe, understand, and critically evaluate different program analysis techniques as applied to different tasks.\nContents\nThe course topics include: type systems, operational  semantics, data flow analysis, constraint-based analysis, heap abstraction, call graph analysis, domain-specific languages for program analysis, profiling, and sampling.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written examination. To qualify for the written examination, students must have completed their programming assignments. The final grade for the entire course is based on the result of the written examination.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0123. Name: Program Analysis. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nEDA180 Compiler Construction or EDA230 Optimising Compilers or EDAN40 Functional Programming or EDAN65 Compilers or EDAN75 Optimising Compilers\n\nThe number of participants is limited to: No\n\nReading list\n\nNielson, Flemming, Nielson, Hanne R., Hankin, Chris: Principles of Program Analysis. Addison Wesley, 1999, ISBN: 978-3-662-03811-6. Optional textbook.\nAnders Møller and Michael I. Schwartzbach: Static Program Analysis. Optional textbook, online\nhttps://cs.au.dk/~amoeller/spa/.\n\nContact\n\nCourse coordinator: Christoph Reichenbach,\n        christoph.reichenbach@cs.lth.se\nCourse homepage: https://cs.lth.se/edap15\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

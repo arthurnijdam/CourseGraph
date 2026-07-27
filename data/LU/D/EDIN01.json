@@ -1,0 +1,61 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Cryptography\nKryptoteknik",
+    "EDIN01, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-ks, C4-sec, D4-ns, E4-ns, F4, F4-kv, F4-mtm, MMSR2, MSOC1, MWIR2, Pi4-pv, Pi4-mtm\nLanguage of instruction: The course will be given in English on demand",
+    "This course is intended to be an introduction to the fascinating subject of cryptography. It provides both a firm ground in the fundamentals and a feel for advanced subjects for anyone interested in employing cryptography in the area of data security.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Classical cryptography: Introduction and basic notation, The Caesar cipher, simple substitution, polyalphabetic ciphers (Vigenére, Kasiski’s method, Vernam), transposition ciphers.",
+    "Shannon’s theory of secrecy: entropy, key and message equivocation, redundancy, unicity distance, perfect secrecy.",
+    "Shift register theory and stream ciphers: Finite fields, linear feedback shift register sequences, periods and cycle sets, shift register synthesis, nonlinear combinations of sequences, attacks on stream ciphers.",
+    "Block ciphers: Advanced Encryption Standard (AES), modes of operation.",
+    "Public key cryptography: Basic number theory, RSA, Diffie-Hellman key exchange, factoring, primality, digital signatures.",
+    "Hash functions: properties, collision attacks, the birthday paradox",
+    "Authentication codes: MAC constructions, Impersonation and substitution attacks.",
+    "Secret sharing: Shamir’s threshold scheme, general secret sharing, perfect and ideal schemes.",
+    "Projects: 1. Factoring. 2. Shift register sequences. 3. Correlation attacks.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "To pass the course three approved project works and a passed exam are required. The final grade is based on the results of the written exam.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0118. Name: Examination. \n\nCredits: 4.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved exam.\n        \n        \n          The module includes: Written exam.\n        \n        \n        \nCode: 0218. Name: Projects. \n\nCredits: 3.0. Grading scale: UG - (U, G).\n        \n          Assessment: Approved projects.\n        \n        \n          The module includes: The course has three mandatory projects covering different parts of the course.",
+    "Assumed prior knowledge: \n        A first course in programming. \nBasic mathemathics like linear algebra and probability theory.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEDI051",
+    "Course coordinator: Professor Thomas Johansson,\n        thomas@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/edin01",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to describe different building blocks used in cryptology,",
+      "be able to describe the general problems that are addressed by cryptology,",
+      "be able to explain the principles behind different cryptographic primitives."
+    ],
+    [
+      "be able to identify and formulate problems in the area of cryptology",
+      "be able to provide descriptions of how cryptographic primitives can be used in security systems.",
+      "be able to show that you are capable of choosing suitable parameters to cryptographic primitives as well as analyze various constructions from a security perspective."
+    ],
+    [
+      "Lecture notes in cryptology (distributed by the department).",
+      "Alternative literature: Stinson, D., Cryptography, Theory and Practice, CRC Press, ISBN 1-58488-206-9 or Smart, N., Cryptography: An Introduction, McGraw-Hill, ISBN 0077099877."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår12/1313/1414/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nCryptography\nKryptoteknik\nEDIN01, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-ks, C4-sec, D4-ns, E4-ns, F4, F4-kv, F4-mtm, MMSR2, MSOC1, MWIR2, Pi4-pv, Pi4-mtm\nLanguage of instruction: The course will be given in English on demand\n    \n  \nAim\nThis course is intended to be an introduction to the fascinating subject of cryptography. It provides both a firm ground in the fundamentals and a feel for advanced subjects for anyone interested in employing cryptography in the area of data security.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to describe different building blocks used in cryptology,be able to describe the general problems that are addressed by cryptology,be able to explain the principles behind different cryptographic primitives.\nCompetences and skills\n      For a passing grade the student must\nbe able to identify and formulate problems in the area of cryptologybe able to provide descriptions of how cryptographic primitives can be used in security systems.be able to show that you are capable of choosing suitable parameters to cryptographic primitives as well as analyze various constructions from a security perspective. \nContents\nClassical cryptography: Introduction and basic notation, The Caesar cipher, simple substitution, polyalphabetic ciphers (Vigenére, Kasiski’s method, Vernam), transposition ciphers.Shannon’s theory of secrecy: entropy, key and message equivocation, redundancy, unicity distance, perfect secrecy.Shift register theory and stream ciphers: Finite fields, linear feedback shift register sequences, periods and cycle sets, shift register synthesis, nonlinear combinations of sequences, attacks on stream ciphers.Block ciphers: Advanced Encryption Standard (AES), modes of operation.Public key cryptography: Basic number theory, RSA, Diffie-Hellman key exchange, factoring, primality, digital signatures.Hash functions: properties, collision attacks, the birthday paradoxAuthentication codes: MAC constructions, Impersonation and substitution attacks.Secret sharing: Shamir’s threshold scheme, general secret sharing, perfect and ideal schemes.Projects: 1. Factoring. 2. Shift register sequences. 3. Correlation attacks.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: To pass the course three approved project works and a passed exam are required. The final grade is based on the results of the written exam.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0118. Name: Examination. \n\nCredits: 4.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved exam.\n        \n        \n          The module includes: Written exam.\n        \n        \n        \nCode: 0218. Name: Projects. \n\nCredits: 3.0. Grading scale: UG - (U, G).\n        \n          Assessment: Approved projects.\n        \n        \n          The module includes: The course has three mandatory projects covering different parts of the course.\n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        A first course in programming. \nBasic mathemathics like linear algebra and probability theory.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEDI051\n\nReading list\n\nLecture notes in cryptology (distributed by the department).\nAlternative literature: Stinson, D., Cryptography, Theory and Practice, CRC Press, ISBN 1-58488-206-9 or Smart, N., Cryptography: An Introduction, McGraw-Hill, ISBN 0077099877.\n\nContact\n\nCourse coordinator: Professor Thomas Johansson,\n        thomas@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/edin01\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Project Course in Automated Data Acquisition Systems\nProjektkurs i automatiserade mätsystem",
+    "BMEN40, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED BME\nDate of Decision: 2026-04-13",
+    "Elective for: BME4, D5-hs, E4-se, F4, F4-mt, F4-ss, N4\nLanguage of instruction: The course will be given in English on demand",
+    "The course aims to knowledge of implementation of systems for automated data acquisition. Furthermore, the course aims to provide overview of systems and methods to acquire and transfer measurement data in test- and industry-environments, and also to present methods to program such a system in a structured and logical way.",
+    "A project gives the student an opportunity to independently solve a problem for automatized data acquisition. The project aims for the student to, on his or her own, to specify the best strategy to collect measurement data for the given problem. The so specified solution shall then be programmed with methods taught in the course. The project is presented orally for the other students, and also in a written report.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The course starts with an introduction, examples and labs. A project with a focus on data acquisition is chosen at an early stage which is then implemented and evaluated. Reporting and demonstration constitute an important part of the project work and is introduced at an early stage in the course. The supervisors will be available for questions and discussions and prearranged times.",
+    "Grading scale: UG - (U, G) - (Fail, Pass)\nAssessment:",
+    "Written report and oral presentation of the project work and passed requirements in laborations.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0123. Name: Project Course in Automated Data Acquisition Systems. \n\nCredits: 7.5. Grading scale: UG - (U, G).",
+    "Assumed prior knowledge: \n        Basic courses in programming and sensor systems.\n        \nThe number of participants is limited to: 30\nSelection: Number of credits within the programme.\nPriority is given to students enrolled on programmes that include the course in their curriculum.\nThe course might be cancelled:  if the number of applicants is less than 5.\nKursen överlappar följande kurser: \nEEMN10",
+    "Course coordinator: Josefin Starkhammar,\n        josefin.starkhammar@bme.lth.se\nDirector of studies: Lars Wallman,\n        lars.wallman@bme.lth.se",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "Be able to communicate with an instrument from a computer via various bus interfaces",
+      "Be able to sample data using a data acquisition board in ways that optimize for either simplicity, amount of data or speed."
+    ],
+    [
+      "Be able to write a program in the graphical language LabVIEW in a logical and structured manner and be able to execute the tasks given in the lab.",
+      "Present an automated measurement system that has been developed in the project both orally as a demonstration of the solution and in a written report."
+    ],
+    [
+      "Have an overview of various soft- and hardware solutions for transfer of measurement data to a computer"
+    ],
+    [
+      "Material from the department."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår23/2424/2525/2626/27\nCourse syllabus\nProject Course in Automated Data Acquisition Systems\nProjektkurs i automatiserade mätsystem\nBMEN40, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED BME\nDate of Decision: 2026-04-13\n    \n  \nGeneral Information\n\nElective for: BME4, D5-hs, E4-se, F4, F4-mt, F4-ss, N4\nLanguage of instruction: The course will be given in English on demand\n    \n  \nAim\nThe course aims to knowledge of implementation of systems for automated data acquisition. Furthermore, the course aims to provide overview of systems and methods to acquire and transfer measurement data in test- and industry-environments, and also to present methods to program such a system in a structured and logical way. A project gives the student an opportunity to independently solve a problem for automatized data acquisition. The project aims for the student to, on his or her own, to specify the best strategy to collect measurement data for the given problem. The so specified solution shall then be programmed with methods taught in the course. The project is presented orally for the other students, and also in a written report.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nBe able to communicate with an instrument from a computer via various bus interfacesBe able to sample data using a data acquisition board in ways that optimize for either simplicity, amount of data or speed.\nCompetences and skills\n      For a passing grade the student must\nBe able to write a program in the graphical language LabVIEW in a logical and structured manner and be able to execute the tasks given in the lab.Present an automated measurement system that has been developed in the project both orally as a demonstration of the solution and in a written report.\nJudgement and approach\n      For a passing grade the student must\nHave an overview of various soft- and hardware solutions for transfer of measurement data to a computer\nContents\nThe course starts with an introduction, examples and labs. A project with a focus on data acquisition is chosen at an early stage which is then implemented and evaluated. Reporting and demonstration constitute an important part of the project work and is introduced at an early stage in the course. The supervisors will be available for questions and discussions and prearranged times.\nExamination details\n\nGrading scale: UG - (U, G) - (Fail, Pass)\nAssessment: Written report and oral presentation of the project work and passed requirements in laborations.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0123. Name: Project Course in Automated Data Acquisition Systems. \n\nCredits: 7.5. Grading scale: UG - (U, G).\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        Basic courses in programming and sensor systems.\n        \nThe number of participants is limited to: 30\nSelection: Number of credits within the programme.\nPriority is given to students enrolled on programmes that include the course in their curriculum.\nThe course might be cancelled:  if the number of applicants is less than 5.\nKursen överlappar följande kurser: \nEEMN10\n\nReading list\n\nMaterial from the department.\n\nContact\n\nCourse coordinator: Josefin Starkhammar,\n        josefin.starkhammar@bme.lth.se\nDirector of studies: Lars Wallman,\n        lars.wallman@bme.lth.se\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

@@ -1,0 +1,66 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Optimization for Learning\nOptimering för maskininlärning",
+    "FRTN50, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: D5-mai, E4-mi, F5, F5-r, F5-mai, F5-mtm, I4-fir, M4, MMSR2, Pi5-ssr, Pi5-mtm\nLanguage of instruction: The course will be given in English",
+    "Learning from data is becoming increasingly important in many different engineering fields. Models for learning often rely heavily on optimization; training a machine is often equivalent solving a specific optimization problem. These problems are typically of large-scale. In this course, we will learn how to solve such problems efficiently. The large-scale nature of the problems renders traditional methods inapplicable. We will provide a unified view of algorithms for large-scale convex optimization and treat algorithms for the nonconvex problem of training deep neural networks.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The course has lectures, exercises, and two hand-in assigments.",
+    "The lectures will cover:",
+    "convexity, models for learning, unified convex optimization algorithm view, fixed-point iterations, monotone operators, nonexpansive mappings, stochastic methods, reduced variance methods, block-coordinate methods, nonconvex stochastic gradient descent and variations for for deep learning training.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "Written exam (5 hours), 2 hand-in exercises. In case of less than 5 registered students, the exam may be given in oral form.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0125. Name: Exam. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Passed exam\n        \n        \n        \n        \nCode: 0225. Name: Hand-in 1. \n\nCredits: 0.0. Grading scale: UG - (U, G).\n        \n          Assessment: Passed hand-in\n        \n        \n        \n        \nCode: 0325. Name: Hand-in 2. \n\nCredits: 0.0. Grading scale: UG - (U, G).\n        \n          Assessment: Passed hand-in",
+    "Assumed prior knowledge: \n        FMAN61 Optimization\n        \nThe number of participants is limited to: No",
+    "Course coordinator: Pontus Giselsson,\n        pontusg@control.lth.se\nDirector of studies: Björn Olofsson,\n        bjorn.olofsson@control.lth.se\nExaminator: Pontus Giselsson,\n        pontus.giselsson@control.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/37223",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "know basic convex analysis",
+      "understand the connection between machine learning and optimization",
+      "have an understanding on the role of regularization in learning from an optimization point of view",
+      "understand unifying framework for large-scale convex optimization",
+      "understand concepts such as nonexpansiveness, and averagedness and their relation to monotone operators and their role for convergence of algorithms",
+      "understand how to derive specific algorithms from the few general ones",
+      "understand methods for avoiding numerical issues in deep neural network training."
+    ],
+    [
+      "be able to describe optimality conditions that are useful for large-scale methods",
+      "be able to describe the building blocks that are the foundations of large-scale optimization algorithms and why they are used",
+      "be able to analyze performance of optimization algorithms",
+      "be able to solve optimization problems numerically using software and own implementations",
+      "be able to present results in writing."
+    ],
+    [
+      "understand what algorithm that should be used for different machine learning training problems",
+      "be able to participate in the team-work needed to solve the hand-in assignments."
+    ],
+    [
+      "Lecture slides and notes."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår19/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nOptimization for Learning\nOptimering för maskininlärning\nFRTN50, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: D5-mai, E4-mi, F5, F5-r, F5-mai, F5-mtm, I4-fir, M4, MMSR2, Pi5-ssr, Pi5-mtm\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nLearning from data is becoming increasingly important in many different engineering fields. Models for learning often rely heavily on optimization; training a machine is often equivalent solving a specific optimization problem. These problems are typically of large-scale. In this course, we will learn how to solve such problems efficiently. The large-scale nature of the problems renders traditional methods inapplicable. We will provide a unified view of algorithms for large-scale convex optimization and treat algorithms for the nonconvex problem of training deep neural networks.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nknow basic convex analysisunderstand the connection between machine learning and optimizationhave an understanding on the role of regularization in learning from an optimization point of viewunderstand unifying framework for large-scale convex optimizationunderstand concepts such as nonexpansiveness, and averagedness and their relation to monotone operators and their role for convergence of algorithmsunderstand how to derive specific algorithms from the few general onesunderstand methods for avoiding numerical issues in deep neural network training.\nCompetences and skills\n      For a passing grade the student must\nbe able to describe optimality conditions that are useful for large-scale methodsbe able to describe the building blocks that are the foundations of large-scale optimization algorithms and why they are usedbe able to analyze performance of optimization algorithmsbe able to solve optimization problems numerically using software and own implementationsbe able to present results in writing.\nJudgement and approach\n      For a passing grade the student must\nunderstand what algorithm that should be used for different machine learning training problemsbe able to participate in the team-work needed to solve the hand-in assignments.\nContents\nThe course has lectures, exercises, and two hand-in assigments.The lectures will cover:convexity, models for learning, unified convex optimization algorithm view, fixed-point iterations, monotone operators, nonexpansive mappings, stochastic methods, reduced variance methods, block-coordinate methods, nonconvex stochastic gradient descent and variations for for deep learning training.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written exam (5 hours), 2 hand-in exercises. In case of less than 5 registered students, the exam may be given in oral form.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0125. Name: Exam. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Passed exam\n        \n        \n        \n        \nCode: 0225. Name: Hand-in 1. \n\nCredits: 0.0. Grading scale: UG - (U, G).\n        \n          Assessment: Passed hand-in\n        \n        \n        \n        \nCode: 0325. Name: Hand-in 2. \n\nCredits: 0.0. Grading scale: UG - (U, G).\n        \n          Assessment: Passed hand-in\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        FMAN61 Optimization\n        \nThe number of participants is limited to: No\n\nReading list\n\nLecture slides and notes.\n\nContact\n\nCourse coordinator: Pontus Giselsson,\n        pontusg@control.lth.se\nDirector of studies: Björn Olofsson,\n        bjorn.olofsson@control.lth.se\nExaminator: Pontus Giselsson,\n        pontus.giselsson@control.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/37223\n\nFurther information\n      A student who has been offered a seat in the course must confirm his/her participation within a week, or else the seat will be offered to the next student according to the selection criteria.\n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

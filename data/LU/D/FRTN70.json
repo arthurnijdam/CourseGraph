@@ -1,0 +1,57 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Project in Systems, Control and Learning\nProjekt i system, reglering och maskininlärning",
+    "FRTN70, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14",
+    "Main field:  Machine Learning, Systems and Control\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective mandatory for: MMSR1\nElective for: BME4, C4, D4-ssr, E4-ra, F4, M4-me, Pi4\nLanguage of instruction: The course will be given in English",
+    "The aim of the course is to establish and develop the student's knowledge of automatic control or machine learning in the form of a practical project. The project contains several of the typical phases in an engineering project: modelling, identification or learning, analysis, synthesis, and computer implementation.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Modelling is often an important and time consuming part of an industrial project. It is also important to describe the fundamental limitations given by the dynamics in sensors and actuators and by measurement noise and actuator limitations, or by limitations in the training data. The course projects are typically performed on real model processes available at the department. In some cases the experiments are done at another department or in industry. The design is first developed for a mathematical model. Software tools are used during the modelling, design, and simulation, and during the implementation. Some examples of model processes that may be used in the projects are inverted pendulums, model helicopters, quadruple tank processes, and industrial robots.",
+    "Project meetings are held regularly during the course. In the project the students must search for knowledge and information independently. In some cases regular seminars or guest lecturers are included in the course. The projects results and experiences are reported both in written and oral form.",
+    "Grading scale: UG - (U, G) - (Fail, Pass)\nAssessment: Accepted project, completed within the stipulated deadlines.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0120. Name: Project in Systems, Control and Learning. \n\nCredits: 7.5. Grading scale: UG - (U, G).",
+    "Admission requirements:",
+    "Course coordinator: Charlotta Johnsson,\n        charlotta.johnsson@control.lth.se\nDirector of studies: Björn Olofsson,\n        bjorn.olofsson@control.lth.se\nExaminator: Charlotta Johnsson,\n        charlotta.johnsson@control.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/37223",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "have improved his/her basic knowledge and skills of control and/or machine learning.",
+      "have developed new knowledge and skills within the area of the project."
+    ],
+    [
+      "be able to perform several of the phases in a typical engineering project: modelling, identification or learning, analysis, synthesis, computer implementation, documentation and presentation.",
+      "present the results in both written and oral form.",
+      "give feedback on other students' work.",
+      "show the ability for teamwork and collaboration in project form."
+    ],
+    [
+      "FRTF05 Automatic Control, Basic Course or FRTF25 Introduction to Machine Learning, Systems and Control"
+    ],
+    [
+      "Åström, KJ: Reglerteori, Almqvist & Wiksell 1976 or Glad, T, Ljung, L: Reglerteknik - grundläggande teori, Studentlitteratur, 1989.",
+      "Material provided by the department."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår20/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nProject in Systems, Control and Learning\nProjekt i system, reglering och maskininlärning\nFRTN70, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14\n    \n  \nGeneral Information\n\nMain field:  Machine Learning, Systems and Control\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective mandatory for: MMSR1\nElective for: BME4, C4, D4-ssr, E4-ra, F4, M4-me, Pi4\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe aim of the course is to establish and develop the student's knowledge of automatic control or machine learning in the form of a practical project. The project contains several of the typical phases in an engineering project: modelling, identification or learning, analysis, synthesis, and computer implementation.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nhave improved his/her basic knowledge and skills of control and/or machine learning.have developed new knowledge and skills within the area of the project.\nCompetences and skills\n      For a passing grade the student must\nbe able to perform several of the phases in a typical engineering project: modelling, identification or learning, analysis, synthesis, computer implementation, documentation and presentation.present the results in both written and oral form.give feedback on other students' work.show the ability for teamwork and collaboration in project form.\nContents\nModelling is often an important and time consuming part of an industrial project. It is also important to describe the fundamental limitations given by the dynamics in sensors and actuators and by measurement noise and actuator limitations, or by limitations in the training data. The course projects are typically performed on real model processes available at the department. In some cases the experiments are done at another department or in industry. The design is first developed for a mathematical model. Software tools are used during the modelling, design, and simulation, and during the implementation. Some examples of model processes that may be used in the projects are inverted pendulums, model helicopters, quadruple tank processes, and industrial robots.\nProject meetings are held regularly during the course. In the project the students must search for knowledge and information independently. In some cases regular seminars or guest lecturers are included in the course. The projects results and experiences are reported both in written and oral form.\nExamination details\n\nGrading scale: UG - (U, G) - (Fail, Pass)\nAssessment: Accepted project, completed within the stipulated deadlines.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0120. Name: Project in Systems, Control and Learning. \n\nCredits: 7.5. Grading scale: UG - (U, G).\n        \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nFRTF05 Automatic Control, Basic Course or FRTF25 Introduction to Machine Learning, Systems and Control\n\nThe number of participants is limited to: 30\nSelection: Completed university credits within the program. Priority is given to students enrolled on programmes that include the course in their curriculum. Among these students priority is given to those in the master's programme in Machine Learning, Systems and Control, for whom the course is compulsory.\nKursen överlappar följande kurser: \nFRTN40\n\nReading list\n\nÅström, KJ: Reglerteori, Almqvist & Wiksell 1976 or Glad, T, Ljung, L: Reglerteknik - grundläggande teori, Studentlitteratur, 1989.\nMaterial provided by the department.\n\nContact\n\nCourse coordinator: Charlotta Johnsson,\n        charlotta.johnsson@control.lth.se\nDirector of studies: Björn Olofsson,\n        bjorn.olofsson@control.lth.se\nExaminator: Charlotta Johnsson,\n        charlotta.johnsson@control.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/37223\n\nFurther information\n      A student who has been offered a seat in the course must confirm his/her participation within a week, or else the seat will be offered to the next student according to the selection criteria.\n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

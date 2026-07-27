@@ -1,0 +1,63 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Agile Software Development - Project\nAgil programvaruutveckling - projekt",
+    "EDAG05, 7.5 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nElective mandatory for: I3\nElective for: E4, F4, L5-gi, M4, Pi4\nLanguage of instruction: The course will be given in English on demand",
+    "To give knowledge and practical experience of how to develop software together in a team. Focus in on practical experience of methods and tools suitable for a smaller software project with one developer team.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Grading scale: UG - (U, G) - (Fail, Pass)\nAssessment: For a passing grade the students need to complete laboratory exercises, planning meetings, development sessions, and the presentation of the project.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0120. Name: Laboratory Work. \n\nCredits: 2.5. Grading scale: UG - (U, G).\n        \n          Assessment: Passed laboratory work.\n        \n        \n        \n        \nCode: 0220. Name: Project. \n\nCredits: 5.0. Grading scale: UG - (U, G).\n        \n          Assessment: Passed all parts of the project.\n        \n        \n          The module includes: The project includes four software development iterations. Each iteration includes a customer meeting, planning meeting, self-study time, joint software development time, and hand-in assignments. The project ends with a demonstration and an oral presentation, where a review of another groups project is presented.",
+    "Admission requirements:",
+    "Course coordinator: Emma Söderberg,\n        emma.soderberg@cs.lth.se\nCourse homepage: http://cs.lth.se/EDAG05",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to define basic concepts within software development.",
+      "be able to describe and motivate different techniques used in software development."
+    ],
+    [
+      "be able to develop and deliver software in collaboration with others.",
+      "be able to apply techniques and tools for software development."
+    ],
+    [
+      "be able to assess how activities in a software project affect the development process.",
+      "be able to see connections between activities in the development process and the final software product."
+    ],
+    [
+      "Software development in teams with close customer connection.",
+      "Iterative software development (extreme programming, agile programming).",
+      "Methods for planning and prioritizing the development work (planning game, kanban).",
+      "Pair programming.",
+      "Praxis and tools for version control, code review, testing, and code maintenance (Git, Gerrit, continuous integration, refactorings).",
+      "Automated testing and delivery.",
+      "Relation to development of open-source software."
+    ],
+    [
+      "Approved compulsory course items in EDAA01 Programming - continuation course or approved compulsory course items in EDAA30 Programming in Java - continuation course."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår20/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nAgile Software Development - Project\nAgil programvaruutveckling - projekt\nEDAG05, 7.5 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nElective mandatory for: I3\nElective for: E4, F4, L5-gi, M4, Pi4\nLanguage of instruction: The course will be given in English on demand\n    \n  \nAim\nTo give knowledge and practical experience of how to develop software together in a team. Focus in on practical experience of methods and tools suitable for a smaller software project with one developer team.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to define basic concepts within software development.be able to describe and motivate different techniques used in software development.\nCompetences and skills\n      For a passing grade the student must\nbe able to develop and deliver software in collaboration with others.be able to apply techniques and tools for software development.\nJudgement and approach\n      For a passing grade the student must\nbe able to assess how activities in a software project affect the development process.be able to see connections between activities in the development process and the final software product.\nContents\n\nSoftware development in teams with close customer connection.\nIterative software development (extreme programming, agile programming).\nMethods for planning and prioritizing the development work (planning game, kanban).\nPair programming.\nPraxis and tools for version control, code review, testing, and code maintenance (Git, Gerrit, continuous integration, refactorings).\nAutomated testing and delivery.\nRelation to development of open-source software.\n\n \nExamination details\n\nGrading scale: UG - (U, G) - (Fail, Pass)\nAssessment: For a passing grade the students need to complete laboratory exercises, planning meetings, development sessions, and the presentation of the project.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0120. Name: Laboratory Work. \n\nCredits: 2.5. Grading scale: UG - (U, G).\n        \n          Assessment: Passed laboratory work.\n        \n        \n        \n        \nCode: 0220. Name: Project. \n\nCredits: 5.0. Grading scale: UG - (U, G).\n        \n          Assessment: Passed all parts of the project.\n        \n        \n          The module includes: The project includes four software development iterations. Each iteration includes a customer meeting, planning meeting, self-study time, joint software development time, and hand-in assignments. The project ends with a demonstration and an oral presentation, where a review of another groups project is presented.\n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nApproved compulsory course items in EDAA01 Programming - continuation course or approved compulsory course items in EDAA30 Programming in Java - continuation course.\n\nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nETSA02\nEDAF45\nETSA03\n\nReading list\n\n\nContact\n\nCourse coordinator: Emma Söderberg,\n        emma.soderberg@cs.lth.se\nCourse homepage: http://cs.lth.se/EDAG05\n\nFurther information\n      Project course.\n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

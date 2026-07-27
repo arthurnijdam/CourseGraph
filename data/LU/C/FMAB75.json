@@ -1,0 +1,62 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Discrete Mathematics\nDiskret matematik",
+    "FMAB75, 7.5 credits, G1 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14",
+    "Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4, C4, E4, F1, Pi1\nLanguage of instruction: The course will be given in English on demand",
+    "The aim of the course is to treat some basic parts of discrete mathematics, of importance in computer science, information theory, signal processing, physics and many other subjects in technology and science. The aim is also to develop the students' ability to solve problems and to assimilate mathematical text. The course should also provide general mathematical education.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Number theory: Divisibility. Prime numbers. The Euclidean algorithm. Chinese remainder theorem. Modular arithmetic.",
+    "Sets, functions and relations: Injective, surjective and bijective functions. Inverse function. Equivalence relations.",
+    "Combinatorics: The four cases of counting with or without repetition and with or without regard to order. Binomial coefficients. The principle of inclusion and exclusion. The method of generating functions.",
+    "Recursion: Recursion formulae and difference equations.",
+    "Rings and fields: Definition. Applications to coding.",
+    "Graph theory: Terminology and basic concepts. Eulerian and Hamiltonian graphs.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written exam followed by an oral exam for those who pass the written exam.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0120. Name: Discrete Mathematics. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written examination followed by an oral examination for those who performs sufficiently well on the written examination.",
+    "Assumed prior knowledge: \n        Elementary linear algebra and calculus in one variable. \n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFMAA25\n          \n        \n          \n            MATB13\n          \n        \n          \n            FMA091\nFMA661\nFMAA15\n          \n        \n          \n            MATB25\n          \n        \n          \n            FMSF40\nEDAA75",
+    "Course coordinator: Anders Holst,\n        studierektor@math.lth.se\nTeacher: Anna Torstensson,\n        anna.torstensson@math.lth.se\nCourse administrator: Studerandeexpeditionen,\n        expedition@math.lth.se\nExaminator: Anders Holst,\n        Anders.Holst@math.lth.se\nExaminator: Anna Torstensson,\n        anna.torstensson@math.lth.se\nExaminator: Frank Wikström,\n        frank.wikstrom@math.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/20267",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to understand and in his or her own words clearly define the central concepts in combinatorics, number theory, graph theory, functions and relations, and the theory of finite fields.",
+      "in his or her own words be able to describe the logical connections between the occurring concepts (theorems and proofs).",
+      "with confidence be able to carry out routine calculations within the framework of the course.",
+      "in practical situations, with confidence be able to identify different combinatorial selections: with/without repetition, with/without regard to order.",
+      "explain how results about finite fields and linear algebra may be used for coding."
+    ],
+    [
+      "be able to demonstrate ability to identify problems which can be solved with methods from discrete mathematics and to choose an appropriate method.",
+      "in connection with problem solving be able to demonstrate ability to integrate results from various parts of the course.",
+      "with proper terminology, in a well-structured way and with clear logic be able to explain the solution to a problem.",
+      "be able to use basic theorems of graph theory to draw conclusions about a given graph (of moderate size).",
+      "apply methods from linear algebra to coding theory."
+    ],
+    [
+      "Karl-Gustav Andersson: Finite Fields and Error-Correcting Codes. Matematikcentrum, 2015. Available as a pdf-file on the web. 54 pages.",
+      "Sigmundur Gudmundsson: Linear Difference Equations. Matematikcentrum, 2017. Available on the web as a pdf-file. 5 pages.",
+      "Grimaldi, Ralph: Discrete and Combinatorial Mathematics - An Applied Introduction. Pearson, 2014, ISBN: 9781292022796."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår20/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nDiscrete Mathematics\nDiskret matematik\nFMAB75, 7.5 credits, G1 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4, C4, E4, F1, Pi1\nLanguage of instruction: The course will be given in English on demand\n    \n  \nAim\nThe aim of the course is to treat some basic parts of discrete mathematics, of importance in computer science, information theory, signal processing, physics and many other subjects in technology and science. The aim is also to develop the students' ability to solve problems and to assimilate mathematical text. The course should also provide general mathematical education.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to understand and in his or her own words clearly define the central concepts in combinatorics, number theory, graph theory, functions and relations, and the theory of finite fields.in his or her own words be able to describe the logical connections between the occurring concepts (theorems and proofs).with confidence be able to carry out routine calculations within the framework of the course.in practical situations, with confidence be able to identify different combinatorial selections: with/without repetition, with/without regard to order.explain how results about finite fields and linear algebra may be used for coding.\nCompetences and skills\n      For a passing grade the student must\nbe able to demonstrate ability to identify problems which can be solved with methods from discrete mathematics and to choose an appropriate method.in connection with problem solving be able to demonstrate ability to integrate results from various parts of the course.with proper terminology, in a well-structured way and with clear logic be able to explain the solution to a problem.be able to use basic theorems of graph theory to draw conclusions about a given graph (of moderate size).apply methods from linear algebra to coding theory. \nContents\nNumber theory: Divisibility. Prime numbers. The Euclidean algorithm. Chinese remainder theorem. Modular arithmetic.\nSets, functions and relations: Injective, surjective and bijective functions. Inverse function. Equivalence relations.\nCombinatorics: The four cases of counting with or without repetition and with or without regard to order. Binomial coefficients. The principle of inclusion and exclusion. The method of generating functions.\nRecursion: Recursion formulae and difference equations.\nRings and fields: Definition. Applications to coding.\nGraph theory: Terminology and basic concepts. Eulerian and Hamiltonian graphs.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written exam followed by an oral exam for those who pass the written exam. \n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0120. Name: Discrete Mathematics. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written examination followed by an oral examination for those who performs sufficiently well on the written examination.\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        Elementary linear algebra and calculus in one variable. \n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFMAA25\n          \n        \n          \n            MATB13\n          \n        \n          \n            FMA091\nFMA661\nFMAA15\n          \n        \n          \n            MATB25\n          \n        \n          \n            FMSF40\nEDAA75\n\nReading list\n\nKarl-Gustav Andersson: Finite Fields and Error-Correcting Codes. Matematikcentrum, 2015. Available as a pdf-file on the web. 54 pages.\nSigmundur Gudmundsson: Linear Difference Equations. Matematikcentrum, 2017. Available on the web as a pdf-file. 5 pages.\nGrimaldi, Ralph: Discrete and Combinatorial Mathematics - An Applied Introduction. Pearson, 2014, ISBN: 9781292022796.\n\nContact\n\nCourse coordinator: Anders Holst,\n        studierektor@math.lth.se\nTeacher: Anna Torstensson,\n        anna.torstensson@math.lth.se\nCourse administrator: Studerandeexpeditionen,\n        expedition@math.lth.se\nExaminator: Anders Holst,\n        Anders.Holst@math.lth.se\nExaminator: Anna Torstensson,\n        anna.torstensson@math.lth.se\nExaminator: Frank Wikström,\n        frank.wikstrom@math.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/20267\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

@@ -1,0 +1,81 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "The Business of Software\nAffärsdriven programvaruutveckling",
+    "ETSF25, 7.5 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C3, D3\nLanguage of instruction: The course will be given in Swedish",
+    "The course aims to give the student insights into and knowledge of the business of software. This includes how market and financial issues interplay with the technical development, the concept of innovation, business models för software products and services, how development resources are created and used, how projects are planned and managed in established companies and in start-ups. The course also aims to shed light on ethical aspects and legal frameworks that impact on software development.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: For final grades, an approved project, approved academic paper and active participation in seminars are required. The final grade in the course is based on the result of the academic paper.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0122. Name: Project. \n\nCredits: 4.0. Grading scale: UG - (U, G).\n        \n          Assessment: Approved oral and written project report. Participation in seminars is required for passing grade.\n        \n        \n          The module includes: Project report.\n        \n        \n        \nCode: 0222. Name: Academic Paper. \n\nCredits: 3.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Individual written report that is graded. Participation in seminars is required for passing grade.\n        \n        \n          The module includes: Written report.",
+    "Admission requirements:",
+    "Course coordinator: Elizabeth Bjarnason,\n        elizabeth.bjarnason@cs.lth.se\nCourse homepage: https://cs.lth.se/etsf25/",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to account for basic relationships between software development and the market, including different types of innovation",
+      "be able to describe how a business idea can be implemented as a software product or service",
+      "be able to describe how a development project is planned, estimated, managed and monitored",
+      "be able to explain techniques for planning, cost estimation, risk management, project management and monitoring",
+      "be able to describe ethical guidelines for engineers",
+      "be able to describe legal frameworks for intellectual property, patents and software licences"
+    ],
+    [
+      "be able to develop a business plan för a small start-up business and related demonstrators to communicate with funders",
+      "be able to develop a project plan with tollgates and cost estimations for the project and its sub-projects",
+      "be able to identify basic ethical and legal aspects of a project and to reason about these",
+      "be able to choose an open source license for a development project",
+      "be able to write a technical report which follows an established academic structure, including references, tables and figures",
+      "be able to search and in writing summarize and assess relavant scientific publications",
+      "in writing be able to present, interpret and discuss own results",
+      "in writing be able to argument for the relevance of a piece of work/project/study",
+      "in writing be able to argue for own conclusions based on evidence/results"
+    ],
+    [
+      "understand how the market and technology interplays within software development",
+      "understand how project management may be based on metrics",
+      "understand the engineer's responsibility for developed products and services"
+    ],
+    [
+      "Business models",
+      "Innovation",
+      "Ecosystems",
+      "The business value of customer data",
+      "Project management, planning and control for traditional and agile proejcts",
+      "Proejct and organizational levels",
+      "Ethics for engineers",
+      "Legal aspects of software engineering",
+      "Open source licences"
+    ],
+    [
+      "EDA260 Software Development in Teams – Project or EDAF45 Software Development in Teams - Project or ETSA01 Software Engineering Process - Methodology or ETSA02 Software Engineering - Methodology or ETSA03 Software Engineering - Methodology or EDAG05 Agile Software Development - Project or ETSF20 Software Development for Large Projects or ETSN05 Software Development for Large Systems"
+    ],
+    [
+      "Bo Tonnquist: Projektledning Upplaga 8. Sanoma ubildning, 2021, ISBN: 9789152360804.",
+      "Vetenskapliga artiklar.",
+      "Materials provided by the department."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår17/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nThe Business of Software\nAffärsdriven programvaruutveckling\nETSF25, 7.5 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C3, D3\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nThe course aims to give the student insights into and knowledge of the business of software. This includes how market and financial issues interplay with the technical development, the concept of innovation, business models för software products and services, how development resources are created and used, how projects are planned and managed in established companies and in start-ups. The course also aims to shed light on ethical aspects and legal frameworks that impact on software development.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to account for basic relationships between software development and the market, including different types of innovationbe able to describe how a business idea can be implemented as a software product or servicebe able to describe how a development project is planned, estimated, managed and monitoredbe able to explain techniques for planning, cost estimation, risk management, project management and monitoringbe able to describe ethical guidelines for engineersbe able to describe legal frameworks for intellectual property, patents and software licences\nCompetences and skills\n      For a passing grade the student must\nbe able to develop a business plan för a small start-up business and related demonstrators to communicate with fundersbe able to develop a project plan with tollgates and cost estimations for the project and its sub-projectsbe able to identify basic ethical and legal aspects of a project and to reason about thesebe able to choose an open source license for a development projectbe able to write a technical report which follows an established academic structure, including references, tables and figuresbe able to search and in writing summarize and assess relavant scientific publicationsin writing be able to present, interpret and discuss own resultsin writing be able to argument for the relevance of a piece of work/project/studyin writing be able to argue for own conclusions based on evidence/results\nJudgement and approach\n      For a passing grade the student must\nunderstand how the market and technology interplays within software developmentunderstand how project management may be based on metricsunderstand the engineer's responsibility for developed products and services\nContents\n\nBusiness models\nInnovation\nEcosystems\nThe business value of customer data\nProject management, planning and control for traditional and agile proejcts\nProejct and organizational levels\nEthics for engineers\nLegal aspects of software engineering\nOpen source licences\n\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: For final grades, an approved project, approved academic paper and active participation in seminars are required. The final grade in the course is based on the result of the academic paper.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0122. Name: Project. \n\nCredits: 4.0. Grading scale: UG - (U, G).\n        \n          Assessment: Approved oral and written project report. Participation in seminars is required for passing grade.\n        \n        \n          The module includes: Project report.\n        \n        \n        \nCode: 0222. Name: Academic Paper. \n\nCredits: 3.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Individual written report that is graded. Participation in seminars is required for passing grade.\n        \n        \n          The module includes: Written report.\n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nEDA260 Software Development in Teams – Project or EDAF45 Software Development in Teams - Project or ETSA01 Software Engineering Process - Methodology or ETSA02 Software Engineering - Methodology or ETSA03 Software Engineering - Methodology or EDAG05 Agile Software Development - Project or ETSF20 Software Development for Large Projects or ETSN05 Software Development for Large Systems\n\nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nETSA05\nETSF01\n\nReading list\n\nBo Tonnquist: Projektledning Upplaga 8. Sanoma ubildning, 2021, ISBN: 9789152360804.\nVetenskapliga artiklar.\nMaterials provided by the department.\n\nContact\n\nCourse coordinator: Elizabeth Bjarnason,\n        elizabeth.bjarnason@cs.lth.se\nCourse homepage: https://cs.lth.se/etsf25/\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

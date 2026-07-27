@@ -1,0 +1,61 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Control Theory\nReglerteori",
+    "FRTF15, 3.0 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: D4, F3, Pi2\nLanguage of instruction: The course will be given in English",
+    "The aim of the course is to give a deeper knowledge and understanding for the mathematical theory behind many of the concepts and methods taught in the Basic Course in Automatic Control.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The course is given in parallel with the Basic Course in Automatic Control. It brings up many of the concepts that are being taught in the basic course from a more mathematical perspective. Some examples are: Solutions to the system equations, deduction of controllability and observability criteria, Kalman’s decomposition formula, the argument principle, robustness analysis.",
+    "Grading scale: UG - (U, G) - (Fail, Pass)\nAssessment: One problem-oriented hand-in problem and one mini-project with opposition that is presented in oral and written form.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0117. Name: Hand-in Problem. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: Passed or not passed.\n        \n        \n        \n        \nCode: 0217. Name: Special Exercise. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: Passed or not passed",
+    "Assumed prior knowledge: \n        FMAF01 Mathematics - Analytic Functions and FMAF05 Mathematics - Systems and Transforms.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFRT130",
+    "Course coordinator: Bo Bernhardsson,\n        bo.bernhardsson@control.lth.se\nDirector of studies: Björn Olofsson,\n        bjorn.olofsson@control.lth.se\nExaminator: Bo Bernhardsson,\n        bo.bernhardsson@control.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/37223",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "understand the matematical definition of the Laplace transform and frequency response curves.",
+      "understand the interpretation of the general solution to the state-space description as a mapping and how this can be used to define controllability and observability."
+    ],
+    [
+      "be able to use the argument principle, the Nyquist theorem, and Bode's relations to decide stability and robustness.",
+      "master the sensitivity functions and its properties.",
+      "be able to use coordinate changes in state-space to show properties of zeros, state feedback, and observers",
+      "be able to use the relationships between different criteria for controllability and observability.",
+      "be able to apply Kalman's decomposition formula in order to understand series connections, and cancellations and non observability in state feedback.",
+      "be able to present concepts from automatic control on oral and written form."
+    ],
+    [
+      "understand the value of mathematical reasoning as a tool for solving control problems.",
+      "be able to grasp a mathematical proof as a part of understanding, e.g., the proof of the Nyquist theorem and Bode's relations.",
+      "be able to discuss and present group work in the form of the solution to a hand-in problem."
+    ],
+    [
+      "Åström K.J: Reglerteori, Almqvist & Wiksell, 1976 or.",
+      "Åström K J: Introduction to Control, 2004 (book manuscript).",
+      "Handout material."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår17/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nControl Theory\nReglerteori\nFRTF15, 3.0 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: D4, F3, Pi2\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe aim of the course is to give a deeper knowledge and understanding for the mathematical theory behind many of the concepts and methods taught in the Basic Course in Automatic Control.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nunderstand the matematical definition of the Laplace transform and frequency response curves.understand the interpretation of the general solution to the state-space description as a mapping and how this can be used to define controllability and observability.\nCompetences and skills\n      For a passing grade the student must\nbe able to use the argument principle, the Nyquist theorem, and Bode's relations to decide stability and robustness.master the sensitivity functions and its properties.be able to use coordinate changes in state-space to show properties of zeros, state feedback, and observersbe able to use the relationships between different criteria for controllability and observability.be able to apply Kalman's decomposition formula in order to understand series connections, and cancellations and non observability in state feedback.be able to present concepts from automatic control on oral and written form.\nJudgement and approach\n      For a passing grade the student must\nunderstand the value of mathematical reasoning as a tool for solving control problems.be able to grasp a mathematical proof as a part of understanding, e.g., the proof of the Nyquist theorem and Bode's relations.be able to discuss and present group work in the form of the solution to a hand-in problem.\nContents\nThe course is given in parallel with the Basic Course in Automatic Control. It brings up many of the concepts that are being taught in the basic course from a more mathematical perspective. Some examples are: Solutions to the system equations, deduction of controllability and observability criteria, Kalman’s decomposition formula, the argument principle, robustness analysis.\nExamination details\n\nGrading scale: UG - (U, G) - (Fail, Pass)\nAssessment: One problem-oriented hand-in problem and one mini-project with opposition that is presented in oral and written form.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0117. Name: Hand-in Problem. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: Passed or not passed.\n        \n        \n        \n        \nCode: 0217. Name: Special Exercise. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: Passed or not passed\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        FMAF01 Mathematics - Analytic Functions and FMAF05 Mathematics - Systems and Transforms.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFRT130\n\nReading list\n\nÅström K.J: Reglerteori, Almqvist & Wiksell, 1976 or.\nÅström K J: Introduction to Control, 2004 (book manuscript).\nHandout material.\n\nContact\n\nCourse coordinator: Bo Bernhardsson,\n        bo.bernhardsson@control.lth.se\nDirector of studies: Björn Olofsson,\n        bjorn.olofsson@control.lth.se\nExaminator: Bo Bernhardsson,\n        bo.bernhardsson@control.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/37223\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

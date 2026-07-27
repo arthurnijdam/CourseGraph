@@ -1,0 +1,66 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Software Development in Teams - Project\nProgramvaruutveckling i grupp - projekt",
+    "EDAF45, 7.5 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C2, D2\nLanguage of instruction: The course will be given in Swedish",
+    "To provide knowledge and practical experience of how to collaborate in a team to produce a software product. The focus is on the method and tools for an agile software development process for iterative and sustainable development of software, suitable for a smaller software development project with one team. The course also gives the student a basic knowledge of how development of software systems generally takes place, as well as an ability to reflect on the purpose of various elements in a development methodology.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "A concrete iterative software development method is used where the students are trained to work in a team, with practices like iterative planning, automated testing, test-driven development, pair programming, refactoring, code review and frequent releases.",
+    "Customer requirements are formulated and prioritized in cooperation with the students. This way, the students get an insight into the different roles in the work process, e.g., as customer, project leader, and developer, and insight into the needs of the customer and how they can be handled. The course gives practical experience from how a small project can be run and thereby a frame of reference for subsequent courses that treat methodology for software development in larger projects and organizations.",
+    "The course covers two study periods. During the first period a series of lectures are given, supported by lab sessions on specific topics like planning, testing, version control, and refactoring. During the second period, the students work in teams of around 10. Each team carries out a software development project structured as a sequence of iterations, each consisting of a planning meeting and a development session.",
+    "At the end of the course, the teams present their developed products.",
+    "Grading scale: UG - (U, G) - (Fail, Pass)\nAssessment:",
+    "To qualify for a passing grade the students must have an approved laboratory work and pass a small written examination. This is also the prerequisite to for project during the second reading period. For a passing grade also all parts of the project must be accomplished, including the development sessions, the planning meetings, the reflections, and the presentation of the developed product.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0116. Name: Laboratory Work and Short Written Examination. \n\nCredits: 2.5. Grading scale: UG - (U, G).\n        \n          Assessment: Passed laboratory work. Passed short written examination.\n        \n        \n        \n        \nCode: 0216. Name: Project. \n\nCredits: 5.0. Grading scale: UG - (U, G).\n        \n          Assessment: Passed all parts of the project.",
+    "Admission requirements:",
+    "Course coordinator: Emma Söderberg,\n        emma.soderberg@cs.lth.se\nCourse homepage: http://cs.lth.se/edaf45",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to present and motivate the different practices within agile software development.",
+      "be able to define basic terms and definitions in software engineering.",
+      "be able to describe the most common software development processes."
+    ],
+    [
+      "be able to develop and deliver a sustainable software product in cooperation with others.",
+      "be able to apply practices and tools for automated testing, refactoring, and version control.",
+      "be able to apply iterative planning.",
+      "be able to reflect on your own and the team's activities during a development project and understand how these contribute to a successful development process.",
+      "demonstrate the ability to work in teams and collaborate within a group, both in full-group activities and in smaller group constellations."
+    ],
+    [
+      "show ability to assess software and possibilities for improvement.",
+      "show ability to identify their own and the group's need for additional knowledge and continuously contribute to developing and expanding the group's knowledge and skills in the areas required for the project."
+    ],
+    [
+      "The compulsory course items of EDA061/EDAF60 or EDAF10. Also a passing grade on the written exam of at least one of the courses EDAA01, EDA027, EDA061/EDAF60, EDAF10."
+    ],
+    [
+      "chromatic: Extreme Programming Pocket Guide. O'Reilly, 2003, ISBN: 0-596-00485-0. Additional material (articles) will be distributed by the department.",
+      "Pankaj Jalote: A Concise Introduction to Software Engineering. Springer, 2008, ISBN: 978-1-84800-301-9."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår16/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nSoftware Development in Teams - Project\nProgramvaruutveckling i grupp - projekt\nEDAF45, 7.5 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C2, D2\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nTo provide knowledge and practical experience of how to collaborate in a team to produce a software product. The focus is on the method and tools for an agile software development process for iterative and sustainable development of software, suitable for a smaller software development project with one team. The course also gives the student a basic knowledge of how development of software systems generally takes place, as well as an ability to reflect on the purpose of various elements in a development methodology.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to present and motivate the different practices within agile software development.be able to define basic terms and definitions in software engineering.be able to describe the most common software development processes.\nCompetences and skills\n      For a passing grade the student must\nbe able to develop and deliver a sustainable software product in cooperation with others.be able to apply practices and tools for automated testing, refactoring, and version control.be able to apply iterative planning.be able to reflect on your own and the team's activities during a development project and understand how these contribute to a successful development process.demonstrate the ability to work in teams and collaborate within a group, both in full-group activities and in smaller group constellations.\nJudgement and approach\n      For a passing grade the student must\nshow ability to assess software and possibilities for improvement.show ability to identify their own and the group's need for additional knowledge and continuously contribute to developing and expanding the group's knowledge and skills in the areas required for the project.\nContents\nA concrete iterative software development method is used where the students are trained to work in a team, with practices like iterative planning, automated testing, test-driven development, pair programming, refactoring, code review and frequent releases.Customer requirements are formulated and prioritized in cooperation with the students. This way, the students get an insight into the different roles in the work process, e.g., as customer, project leader, and developer, and insight into the needs of the customer and how they can be handled. The course gives practical experience from how a small project can be run and thereby a frame of reference for subsequent courses that treat methodology for software development in larger projects and organizations.The course covers two study periods. During the first period a series of lectures are given, supported by lab sessions on specific topics like planning, testing, version control, and refactoring. During the second period, the students work in teams of around 10. Each team carries out a software development project structured as a sequence of iterations, each consisting of a planning meeting and a development session.At the end of the course, the teams present their developed products.\nExamination details\n\nGrading scale: UG - (U, G) - (Fail, Pass)\nAssessment: To qualify for a passing grade the students must have an approved laboratory work and pass a small written examination. This is also the prerequisite to for project during the second reading period. For a passing grade also all parts of the project must be accomplished, including the development sessions, the planning meetings, the reflections, and the presentation of the developed product.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0116. Name: Laboratory Work and Short Written Examination. \n\nCredits: 2.5. Grading scale: UG - (U, G).\n        \n          Assessment: Passed laboratory work. Passed short written examination.\n        \n        \n        \n        \nCode: 0216. Name: Project. \n\nCredits: 5.0. Grading scale: UG - (U, G).\n        \n          Assessment: Passed all parts of the project.\n        \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nThe compulsory course items of EDA061/EDAF60 or EDAF10. Also a passing grade on the written exam of at least one of the courses EDAA01, EDA027, EDA061/EDAF60, EDAF10.\n\nThe number of participants is limited to: 160\nSelection: The course is open only to Swedish-speaking students due to the focus on collaboration. Admission guaranteed for students for whom the course is mandatory. Selection rules for the remaining places: Completed university credits within the programme. Priority is given to students enrolled on programmes that include the course in their curriculum.\n\nKursen överlappar följande kurser: \nEDA321\nEDA322\nEDA260\nEDAG05\nETSA03\n\nReading list\n\nchromatic: Extreme Programming Pocket Guide. O'Reilly, 2003, ISBN: 0-596-00485-0. Additional material (articles) will be distributed by the department.\nPankaj Jalote: A Concise Introduction to Software Engineering. Springer, 2008, ISBN: 978-1-84800-301-9.\n\nContact\n\nCourse coordinator: Emma Söderberg,\n        emma.soderberg@cs.lth.se\nCourse homepage: http://cs.lth.se/edaf45\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

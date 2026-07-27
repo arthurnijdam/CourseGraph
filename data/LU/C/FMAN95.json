@@ -1,0 +1,52 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Computer Vision\nDatorseende",
+    "FMAN95, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14",
+    "Main field:  Virtual Reality and Augmented Reality\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: MVAR1\nElective for: BME4, C4, D4-bg, E4-bg, F4, F4-bg, F4-mai, MMSR1, Pi4-bam\nLanguage of instruction: The course will be given in English on demand",
+    "The aim of the course is to give an overview of the theory of and practically useful methods in computer vision, with applications within e.g. vision systems, non-invasive measurements and augmented reality. In addition the aim is to make the student develop his or her ability in problem solving, with and without a computer, using mathematical tools taken from many areas of the mathematical sciences, in particular geometry, matrix theory, algebraic geometry, optimization, mathematical statistics, invariant theory and transform theory.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Projective geometry. Geometric transformations. Modelling of cameras. Camera calibration. Epipolar geometry. Stereo vision. Photogrammetry. Model fitting. Robust metrics. Minimal solvers. 3D-modelling. Geometry of surfaces and their silhouettes. Deformable models. Visualisation.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "The examination consists of a written and oral examination, together with compulsory assignments comprising both theory and computer work.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0120. Name: Computer Vision. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).",
+    "Assumed prior knowledge: \n        FMAB30 Calculus in Several Variables. FMAF05 Systems and Transforms, or equivalent (for example FMAF10).\n        \nThe number of participants is limited to: 140\nSelection: Incoming qualified exchange students have priority to 10 places. The ranking among such applicants is performed by the course coordinator based on relevant courses taken. Among the remaining applicants priority is given according to the number of completed university credits within the program. Priority is given to students enrolled on programmes that include the course in their curriculum. Among such students place is guaranteed to students in the Master's Programme in Virtual Reality and Augmented Reality (MVAR), for whom the course is compulsory.\nKursen överlappar följande kurser: \nFMAN85\nFMA270\nFMA271",
+    "Course coordinator: Studierektor Anders Holst,\n        Studierektor@math.lth.se\nTeacher: Viktor Larsson,\n        Viktor.Larsson@math.lth.se\nCourse administrator: Studerandeexpeditionen,\n        expedition@math.lth.se\nExaminator: Viktor Larsson,\n        Viktor.Larsson@math.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/20291",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to clearly explain and use basic concepts in computer vision, in particular regarding projective geometry, camera modelling, epipolar geometry, stereo vision and structure and motion problems for static and dynamic scenes.",
+      "be able to describe and give an informal explanation of the mathematical theory behind some central algorithms in computer vision (the least squares method, robust model fitting, RANSAC, singular value decomposition, convex optimization and Newton based optimization)."
+    ],
+    [
+      "in an engineering manner be able to use computer packages to independently solve problems in computer vision.",
+      "be able to show good ability to independently identify problems which can be solved with methods from computer vision, and be able to choose an appropriate method.",
+      "be able to independently apply basic methods in computer vision to problems which are relevant in industrial applications or research.",
+      "with proper terminology, in a well-structured way and with clear logic, be able to explain the solution to a problem in computer vision."
+    ],
+    [
+      "Image group: 2015. Lecture notes available on the web."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår20/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nComputer Vision\nDatorseende\nFMAN95, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14\n    \n  \nGeneral Information\n\nMain field:  Virtual Reality and Augmented Reality\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: MVAR1\nElective for: BME4, C4, D4-bg, E4-bg, F4, F4-bg, F4-mai, MMSR1, Pi4-bam\nLanguage of instruction: The course will be given in English on demand\n    \n  \nAim\nThe aim of the course is to give an overview of the theory of and practically useful methods in computer vision, with applications within e.g. vision systems, non-invasive measurements and augmented reality. In addition the aim is to make the student develop his or her ability in problem solving, with and without a computer, using mathematical tools taken from many areas of the mathematical sciences, in particular geometry, matrix theory, algebraic geometry, optimization, mathematical statistics, invariant theory and transform theory.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to clearly explain and use basic concepts in computer vision, in particular regarding projective geometry, camera modelling, epipolar geometry, stereo vision and structure and motion problems for static and dynamic scenes.be able to describe and give an informal explanation of the mathematical theory behind some central algorithms in computer vision (the least squares method, robust model fitting, RANSAC, singular value decomposition, convex optimization and Newton based optimization).\nCompetences and skills\n      For a passing grade the student must\nin an engineering manner be able to use computer packages to independently solve problems in computer vision.be able to show good ability to independently identify problems which can be solved with methods from computer vision, and be able to choose an appropriate method.be able to independently apply basic methods in computer vision to problems which are relevant in industrial applications or research.with proper terminology, in a well-structured way and with clear logic, be able to explain the solution to a problem in computer vision.\nContents\nProjective geometry. Geometric transformations. Modelling of cameras. Camera calibration. Epipolar geometry. Stereo vision. Photogrammetry. Model fitting. Robust metrics. Minimal solvers. 3D-modelling. Geometry of surfaces and their silhouettes. Deformable models. Visualisation.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: The examination consists of a written and oral examination, together with compulsory assignments comprising both theory and computer work.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0120. Name: Computer Vision. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        FMAB30 Calculus in Several Variables. FMAF05 Systems and Transforms, or equivalent (for example FMAF10).\n        \nThe number of participants is limited to: 140\nSelection: Incoming qualified exchange students have priority to 10 places. The ranking among such applicants is performed by the course coordinator based on relevant courses taken. Among the remaining applicants priority is given according to the number of completed university credits within the program. Priority is given to students enrolled on programmes that include the course in their curriculum. Among such students place is guaranteed to students in the Master's Programme in Virtual Reality and Augmented Reality (MVAR), for whom the course is compulsory.\nKursen överlappar följande kurser: \nFMAN85\nFMA270\nFMA271\n\nReading list\n\nImage group: 2015. Lecture notes available on the web.\n\nContact\n\nCourse coordinator: Studierektor Anders Holst,\n        Studierektor@math.lth.se\nTeacher: Viktor Larsson,\n        Viktor.Larsson@math.lth.se\nCourse administrator: Studerandeexpeditionen,\n        expedition@math.lth.se\nExaminator: Viktor Larsson,\n        Viktor.Larsson@math.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/20291\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

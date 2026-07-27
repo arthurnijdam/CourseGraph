@@ -1,0 +1,71 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Concurrent Programming\nFlertrådad programmering",
+    "EDAP10, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: D3\nElective for: BME4-sbh, C4-pvs, C4-ks, C4-pvt, E4-hp, F4, F4-pv, I4-pvs, M4-me, N4, Pi4-pv\nLanguage of instruction: The course will be given in Swedish",
+    "Concurrent programs combine parallel, asynchronous activities, frequently interacting with a physical environment. Applications include control systems, network communication, and interactive systems. The course aims to give students ability and skills to design robust, efficient, and well-structured concurrent programs.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Compulsory lab work and written examination. The final grade of the course is based on the result of the written examination.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0119. Name: Written Examination in Concurrent Programming. \n\nCredits: 3.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written examination. The final grade of the course is based on the result of the written exam.\n        \n        \n        \n        \nCode: 0219. Name: Compulsory Course Items. \n\nCredits: 4.5. Grading scale: UG - (U, G).\n        \n          Assessment: For a passing grade, the laboratory work must be completed.\n        \n        \n          The module includes: Compulsory laboratory work.",
+    "Admission requirements:",
+    "Course coordinator: Patrik Persson,\n        patrik.persson@cs.lth.se\nCourse homepage: https://fileadmin.cs.lth.se/kursweb/edap10/",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be familiar with and be able to describe how threads execute and are synchronized in a concurrent program",
+      "be familiar with causes for race conditions, and techniques for avoiding them",
+      "be familiar with causes for deadlock, and techniques for avoiding it"
+    ],
+    [
+      "be able to design concurrent reactive software based on application requirements and prescribed interfaces to the environment",
+      "be able to implement and debug multi-threaded software",
+      "be able to perform simple deadlock analysis for a small system of threads and resources"
+    ],
+    [
+      "be able to compare and discuss design and implementation options for concurrent programs",
+      "be able to make trade-offs between performance and implementation complexity in concurrent programs"
+    ],
+    [
+      "Basic concepts: concurrent activities, busy-wait and polling, synchronization and communication, atomic operations such as test-and-set, and mutual exclusion.",
+      "Synchronization and signaling in shared-memory applications: locks, monitors.",
+      "Synchronization and signaling in message-passing applications.",
+      "Concurrency in interactive systems with callbacks.",
+      "Analysis of deadlock and livelock.",
+      "Lockfree algorithms and atomic operations.",
+      "Central aspects of the Java concurrent package, such as locks, semaphores, thread pools, tasks, and blocking queues.",
+      "Overview of multicore hardware, real-time operating systems, scheduling."
+    ],
+    [
+      "At least 90 credits.",
+      "EDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course"
+    ],
+    [
+      "Brian Goetz: Java Concurrency in Practice. Addison-Wesley, 2006, ISBN: 978-0321349606.",
+      "Additional materials provided by the department.",
+      "The course book (Goetz et al.) is optional, but recommended."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår19/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nConcurrent Programming\nFlertrådad programmering\nEDAP10, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: D3\nElective for: BME4-sbh, C4-pvs, C4-ks, C4-pvt, E4-hp, F4, F4-pv, I4-pvs, M4-me, N4, Pi4-pv\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nConcurrent programs combine parallel, asynchronous activities, frequently interacting with a physical environment. Applications include control systems, network communication, and interactive systems. The course aims to give students ability and skills to design robust, efficient, and well-structured concurrent programs.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe familiar with and be able to describe how threads execute and are synchronized in a concurrent programbe familiar with causes for race conditions, and techniques for avoiding thembe familiar with causes for deadlock, and techniques for avoiding it\nCompetences and skills\n      For a passing grade the student must\nbe able to design concurrent reactive software based on application requirements and prescribed interfaces to the environmentbe able to implement and debug multi-threaded softwarebe able to perform simple deadlock analysis for a small system of threads and resources\nJudgement and approach\n      For a passing grade the student must\nbe able to compare and discuss design and implementation options for concurrent programsbe able to make trade-offs between performance and implementation complexity in concurrent programs\nContents\nBasic concepts: concurrent activities, busy-wait and polling, synchronization and communication, atomic operations such as test-and-set, and mutual exclusion.Synchronization and signaling in shared-memory applications: locks, monitors.Synchronization and signaling in message-passing applications.Concurrency in interactive systems with callbacks.Analysis of deadlock and livelock.Lockfree algorithms and atomic operations.Central aspects of the Java concurrent package, such as locks, semaphores, thread pools, tasks, and blocking queues.Overview of multicore hardware, real-time operating systems, scheduling.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Compulsory lab work and written examination. The final grade of the course is based on the result of the written examination.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0119. Name: Written Examination in Concurrent Programming. \n\nCredits: 3.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written examination. The final grade of the course is based on the result of the written exam.\n        \n        \n        \n        \nCode: 0219. Name: Compulsory Course Items. \n\nCredits: 4.5. Grading scale: UG - (U, G).\n        \n          Assessment: For a passing grade, the laboratory work must be completed.\n        \n        \n          The module includes: Compulsory laboratory work.\n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nAt least 90 credits.\nEDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course\n\nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEDA698\nEDA040\nEDAF85\nEDAF55\n\nReading list\n\nBrian Goetz: Java Concurrency in Practice. Addison-Wesley, 2006, ISBN: 978-0321349606.\nAdditional materials provided by the department.\nThe course book (Goetz et al.) is optional, but recommended.\n\nContact\n\nCourse coordinator: Patrik Persson,\n        patrik.persson@cs.lth.se\nCourse homepage: https://fileadmin.cs.lth.se/kursweb/edap10/\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

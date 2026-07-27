@@ -1,0 +1,78 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "C++ Programming\nC++ - programmering",
+    "EDAF50, 7.5 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4, C4-pvt, D4-pv, E4, F4, M4, N4, Pi4\nLanguage of instruction: The course will be given in Swedish",
+    "The course gives detailed knowledge about C++, which is an important programming language with many application areas. Special emphasis is placed on the language constructs that make C++ a more advanced, and also more complex, language than languages like Java and Python.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "Written exam. Compulsory course items: laboratory work and hand in assignment. To pass the course, an approved exam, approved laboratory work and approved assignment are required. The final grade is based on the results of the written exam.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0117. Name: Laboratory Work and Assignment. \n\nCredits: 3.0. Grading scale: UG - (U, G).\n        \n          Assessment: To qualify for a passing grade the laboratory work and the assignment must be completed.\n        \n        \n          The module includes: Laboratory Work and Assignment.\n        \n        \n        \nCode: 0217. Name: Written Examination. \n\nCredits: 4.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: The final grade of the course is based on the result of the written exam.\n        \n        \n          The module includes: Written exam.",
+    "Admission requirements:",
+    "Course coordinator: Sven Robertz,\n        sven.robertz@cs.lth.se\nCourse homepage: https://cs.lth.se/edaf50",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "know about and be able to describe the differences between C++ and languages that are interpreted or executed by a virtual machine, like Java and Python.",
+      "have detailed knowledge about the C++ language and standard library",
+      "be able to explain fundamental concepts in object-oriented programming in C++",
+      "understand the difference between static and dynamic polymorphism",
+      "understand and be able to explain the different kinds of function parameter passing",
+      "know and be able to reason about how objects are allocated and represented in memory",
+      "be able to interpret, analyse and explain given C++ code."
+    ],
+    [
+      "be able to develop a functioning C++ program from given specifications",
+      "be able to systematically debug C++ code",
+      "be able to use tools to develop C++ programs in a Unix environment."
+    ],
+    [
+      "be capable of choosing a suitable language construct to solve a given problem",
+      "be able to reason about how the choice of language construct affects the readability, robustness, and efficiency of a program"
+    ],
+    [
+      "History and overview of C++",
+      "Types and variables",
+      "Functions",
+      "Operators and expressions",
+      "Flow control",
+      "Arrays, strings and pointers",
+      "Memory and resource management",
+      "I/O and streams",
+      "Classes and encapsulation, member functions and free functions",
+      "Inheritance",
+      "Overloading, polymorphism, and generic programming",
+      "Source code management",
+      "The standard library"
+    ],
+    [
+      "EDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course"
+    ],
+    [
+      "Lippman, S B, Lajoie, J, Moo, B: C++ Primer, Fifth Edition. Addison-Wesley, 2012, ISBN: 0-321-71411-3."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår17/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nC++ Programming\nC++ - programmering\nEDAF50, 7.5 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4, C4-pvt, D4-pv, E4, F4, M4, N4, Pi4\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nThe course gives detailed knowledge about C++, which is an important programming language with many application areas. Special emphasis is placed on the language constructs that make C++ a more advanced, and also more complex, language than languages like Java and Python.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nknow about and be able to describe the differences between C++ and languages that are interpreted or executed by a virtual machine, like Java and Python.have detailed knowledge about the C++ language and standard librarybe able to explain fundamental concepts in object-oriented programming in C++understand the difference between static and dynamic polymorphismunderstand and be able to explain the different kinds of function parameter passingknow and be able to reason about how objects are allocated and represented in memorybe able to interpret, analyse and explain given C++ code.\nCompetences and skills\n      For a passing grade the student must\nbe able to develop a functioning C++ program from given specificationsbe able to systematically debug C++ codebe able to use tools to develop C++ programs in a Unix environment.\nJudgement and approach\n      For a passing grade the student must\nbe capable of choosing a suitable language construct to solve a given problembe able to reason about how the choice of language construct affects the readability, robustness, and efficiency of a program\nContents\nHistory and overview of C++Types and variablesFunctionsOperators and expressionsFlow controlArrays, strings and pointersMemory and resource managementI/O and streamsClasses and encapsulation, member functions and free functionsInheritanceOverloading, polymorphism, and generic programmingSource code managementThe standard library\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written exam. Compulsory course items: laboratory work and hand in assignment. To pass the course, an approved exam, approved laboratory work and approved assignment are required. The final grade is based on the results of the written exam. \n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0117. Name: Laboratory Work and Assignment. \n\nCredits: 3.0. Grading scale: UG - (U, G).\n        \n          Assessment: To qualify for a passing grade the laboratory work and the assignment must be completed.\n        \n        \n          The module includes: Laboratory Work and Assignment.\n        \n        \n        \nCode: 0217. Name: Written Examination. \n\nCredits: 4.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: The final grade of the course is based on the result of the written exam.\n        \n        \n          The module includes: Written exam. \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nEDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course\n\nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEDA031\nEDA331\nEDA623\nEDAF30\n\nReading list\n\nLippman, S B, Lajoie, J, Moo, B: C++ Primer, Fifth Edition. Addison-Wesley, 2012, ISBN: 0-321-71411-3.\n\nContact\n\nCourse coordinator: Sven Robertz,\n        sven.robertz@cs.lth.se\nCourse homepage: https://cs.lth.se/edaf50\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

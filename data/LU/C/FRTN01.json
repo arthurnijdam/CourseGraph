@@ -1,0 +1,66 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Real-Time Systems\nRealtidssystem",
+    "FRTN01, 10.0 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4, C4, D4-ssr, D4-is, D4-hs, E4-ra, F4, F4-r, I4-pvs, M4-me, M4-tt, N4, Pi4\nLanguage of instruction: The course will be given in English",
+    "The aim of the course is that the student should learn how to design and implement computer-based control systems.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "A real-time system is characterized by the fact that it is not only the result of the calculation that matters, but also when the result is produced. Computers that are used for feedback control are good examples of real-time systems, since they must operate periodically in a time-scale that is dependent on the dynamics of the controlled process, while at the same time they must be able to respond to external events, often within a given time interval. Two types of examples are industrial control systems used in, e.g., process automation, and embedded control systems for, e.g. avionics, autonomous vehicles and robotics. The aim of the course is to study methods for design and implementation of real-time systems for control applications. The implementation part of the course is performed as a project.",
+    "Introduction, Real-time programming, Synchronization and mutual exclusion, Real-time kernels and operating systems, Periodic controller tasks, Computer implementation of control algorithms, Discretization of continuous-time controllers, Sampling of continuous-time systems, Input-output models of discrete-time systems, Sequence control using Grafcet, Scheduling theory, Integrated control and scheduling, Implementation aspects, Control over networks.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written exam (5 hours), three laboratory exercises, project. In the case of less than 5 registered students, the retake exams may be given in oral form.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0414. Name: Laboratory Work 3. \n\nCredits: 0.5. Grading scale: UG - (U, G).\n        \n          Assessment: Preparation exercises and approved participation in the laboratory\n        \n        \n        \n        \nCode: 0114. Name: Examination. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Passed exam\n        \n        \n        \n        \nCode: 0214. Name: Laboratory Work 1. \n\nCredits: 0.5. Grading scale: UG - (U, G).\n        \n          Assessment: Preparation exercises and approved participation in the laboratory\n        \n        \n        \n        \nCode: 0314. Name: Laboratory Work 2. \n\nCredits: 0.5. Grading scale: UG - (U, G).\n        \n          Assessment: Preparation exercises and approved participation in the laboratory\n        \n        \n        \n        \nCode: 0514. Name: Project Work. \n\nCredits: 2.5. Grading scale: UG - (U, G).\n        \n          Assessment: Written report and oral presentation",
+    "Assumed prior knowledge: \n        Basic course in programming and FRTF05 Automatic Control, Basic Course.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFRT031\nFRTN60",
+    "Course coordinator: Johan Eker,\n        johan.eker@control.lth.se\nTeacher: Karl-Erik Årzén,\n        karl-erik.arzen@control.lth.se\nDirector of studies: Björn Olofsson,\n        bjorn.olofsson@control.lth.se\nExaminator: Johan Eker,\n        johan.eker@control.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/37223",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to define the basic concepts of real-time systems",
+      "understand the advantages and disadvantages of different implementation techniques for real-time systems",
+      "understand how communication and synchronization is realized using semaphores, monitors, and messages",
+      "be able to describe the structure and workings of a real-time kernel",
+      "be able to design a computer-based control system using discretization of a continuous-time design and using sampling",
+      "be able to calculate the relations between discrete-time models on difference-equation form, transient responses, and pulse transfer functions",
+      "be able to calculate computer-based controllers on state-space form and PID form",
+      "understand how time-delays and jitter affect control performance",
+      "be familiar with how Grafcet, Petri nets, and state machines can be used in the analysis and implementation of event-based control systems",
+      "understand the problems associated with control over networks."
+    ],
+    [
+      "be able to implement a computer-based control systems using concurrent programming techniques",
+      "be able to apply basic schedulability analysis for real-time systems",
+      "be able to develop a real-time systems within an area of relevance to the course, in project form",
+      "be able to present project results and experiences in oral and written form."
+    ],
+    [
+      "understand the importance of formal methods in the design of safety-critical real-time systems",
+      "master teamwork and collaboration in the project and laboratory exercises."
+    ],
+    [
+      "Årzén K-E: Real-Time Control Systems (latest edition) och Wittenmark, B, K.J. Åström och K.-E- Årzén: Computer Control: An Overview\" (latest edition). Both are sold by KFS + additional material."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår07/0808/0909/1010/1111/1212/1313/1414/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nReal-Time Systems\nRealtidssystem\nFRTN01, 10.0 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4, C4, D4-ssr, D4-is, D4-hs, E4-ra, F4, F4-r, I4-pvs, M4-me, M4-tt, N4, Pi4\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe aim of the course is that the student should learn how to design and implement computer-based control systems.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to define the basic concepts of real-time systemsunderstand the advantages and disadvantages of different implementation techniques for real-time systemsunderstand how communication and synchronization is realized using semaphores, monitors, and messagesbe able to describe the structure and workings of a real-time kernelbe able to design a computer-based control system using discretization of a continuous-time design and using samplingbe able to calculate the relations between discrete-time models on difference-equation form, transient responses, and pulse transfer functionsbe able to calculate computer-based controllers on state-space form and PID formunderstand how time-delays and jitter affect control performancebe familiar with how Grafcet, Petri nets, and state machines can be used in the analysis and implementation of event-based control systemsunderstand the problems associated with control over networks.\nCompetences and skills\n      For a passing grade the student must\nbe able to implement a computer-based control systems using concurrent programming techniquesbe able to apply basic schedulability analysis for real-time systemsbe able to develop a real-time systems within an area of relevance to the course, in project formbe able to present project results and experiences in oral and written form.\nJudgement and approach\n      For a passing grade the student must\nunderstand the importance of formal methods in the design of safety-critical real-time systemsmaster teamwork and collaboration in the project and laboratory exercises.\nContents\nA real-time system is characterized by the fact that it is not only the result of the calculation that matters, but also when the result is produced. Computers that are used for feedback control are good examples of real-time systems, since they must operate periodically in a time-scale that is dependent on the dynamics of the controlled process, while at the same time they must be able to respond to external events, often within a given time interval. Two types of examples are industrial control systems used in, e.g., process automation, and embedded control systems for, e.g. avionics, autonomous vehicles and robotics. The aim of the course is to study methods for design and implementation of real-time systems for control applications. The implementation part of the course is performed as a project.\nIntroduction, Real-time programming, Synchronization and mutual exclusion, Real-time kernels and operating systems, Periodic controller tasks, Computer implementation of control algorithms, Discretization of continuous-time controllers, Sampling of continuous-time systems, Input-output models of discrete-time systems, Sequence control using Grafcet, Scheduling theory, Integrated control and scheduling, Implementation aspects, Control over networks.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written exam (5 hours), three laboratory exercises, project. In the case of less than 5 registered students, the retake exams may be given in oral form.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0414. Name: Laboratory Work 3. \n\nCredits: 0.5. Grading scale: UG - (U, G).\n        \n          Assessment: Preparation exercises and approved participation in the laboratory\n        \n        \n        \n        \nCode: 0114. Name: Examination. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Passed exam\n        \n        \n        \n        \nCode: 0214. Name: Laboratory Work 1. \n\nCredits: 0.5. Grading scale: UG - (U, G).\n        \n          Assessment: Preparation exercises and approved participation in the laboratory\n        \n        \n        \n        \nCode: 0314. Name: Laboratory Work 2. \n\nCredits: 0.5. Grading scale: UG - (U, G).\n        \n          Assessment: Preparation exercises and approved participation in the laboratory\n        \n        \n        \n        \nCode: 0514. Name: Project Work. \n\nCredits: 2.5. Grading scale: UG - (U, G).\n        \n          Assessment: Written report and oral presentation\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        Basic course in programming and FRTF05 Automatic Control, Basic Course.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFRT031\nFRTN60\n\nReading list\n\nÅrzén K-E: Real-Time Control Systems (latest edition) och Wittenmark, B, K.J. Åström och K.-E- Årzén: Computer Control: An Overview\" (latest edition). Both are sold by KFS + additional material.\n\nContact\n\nCourse coordinator: Johan Eker,\n        johan.eker@control.lth.se\nTeacher: Karl-Erik Årzén,\n        karl-erik.arzen@control.lth.se\nDirector of studies: Björn Olofsson,\n        bjorn.olofsson@control.lth.se\nExaminator: Johan Eker,\n        johan.eker@control.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/37223\n\nFurther information\n      It is an advantage to have read the course EDAP10 Concurrent Programming.\n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

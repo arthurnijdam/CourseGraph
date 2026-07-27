@@ -1,0 +1,68 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Statistical Methods for Safety Analysis\nStatistiska metoder för säkerhetsanalys",
+    "FMSF60, 7.5 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED I\nDate of Decision: 2026-04-13",
+    "Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: RH4-rh\nElective for: BME4, C4-sec, Pi4\nLanguage of instruction: The course will be given in English on demand",
+    "The course presents notions and ideas from the foundations of a statistical treatment of risks. The emphasis lies on an understanding of the theory and methods presented. Hence the focus is put on applications within the field of risk and safety analysis.",
+    "Since in risks estimations one needs to combine information from different sources the Bayesian methods are frequently used in that area. Hence a reasonable proportion of the course is devoted to such approaches. In order to be able to analyse and predict frequencies of occurrences of hazardous scenarios, modern statistical tools, namely Poisson regression, analysis of deviance, extreme value theory and threshold methods are presented . The knowledge of such tools facilitates the understanding of the role of probability in risk analysis and proper use of outputs given by software packages.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "A review of elementary concepts in probability theory; Independence, conditional probabilities, random variables, probability distribution functions, expected value, variance, covariance.",
+    "Presentation and simple applications of Bayes' Theorem, Central Limit Theorem, Law of Large Numbers and Law of Small Numbers.",
+    "Classical statistical inference; maximum likelihood method, confidence interval, hypotheses testing (goodness of fit tests). Introduction to bootstrap and the delta method to construct confidence intervals.",
+    "Introduction to Bayesian statistics; predictive probabilities, conjugated priors, credibility intervals.",
+    "Intensities, Poisson modelling; estimation, Poisson regression.",
+    "Some concepts from safety and reliability analysis, failure intensities, safety indexes, characteristic values.",
+    "Estimation of quantiles using POT-method.",
+    "Introduction to extreme values statistics. Estimation of design events, e.g. strength of 100 years storm, and uncertainty analysis of the estimates.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written exam and computer exercises.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0117. Name: Examination. \n\nCredits: 6.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written exam.\n        \n        \n        \n        \nCode: 0217. Name: Laboratory Work. \n\nCredits: 1.0. Grading scale: UG - (U, G).\n        \n          Assessment: Computer exercises.",
+    "Admission requirements:",
+    "Director of studies: Johan Lindström,\n        studierektor@matstat.lu.se\nCourse administrator: Susann Nordqvist,\n        expedition@matstat.lu.se\nExaminator: Joakim Lübeck,\n        joakim.lubeck@matstat.lu.se\nExaminator: Johan Lindström,\n        johan.lindstrom@matstat.lu.se\nExaminator: Magnus Wiktorsson,\n        magnus.wiktorsson@matstat.lu.se\nCourse homepage: https://www.maths.lu.se/utbildning/civilingenjoersutbildning/matematisk-statistik-paa-civilingenjoersprogram/",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to estimate intensities of accidents and model the dependence on some explanatory variables,",
+      "be able to identify situations when uncertainty of the derived results can not be neglected, often when a limited amount of data is available,",
+      "be able to include different types of information into an estimate of risk using Bayes methods."
+    ],
+    [
+      "be able to read specialised literature in the field of risk and safety where concepts of intensities, probabilities, safety indexes are often used,",
+      "understand and be able to quantify the uncertainties of frequently used risk measures,",
+      "be able to validate models used to derive the risk measures."
+    ],
+    [
+      "better understand the concepts used in other courses to measure risks,",
+      "have tools to analyse uncertainties in derived risks,",
+      "understand the role of probability in risk analysis and properly use the outputs given by software packages."
+    ],
+    [
+      "EXTA60 Statistics or FMSF20 Mathematical Statistics, Basic Course or FMSF25 Mathematical Statistics - Complementary Project or FMSF32 Mathematical Statistics or FMSF45 Mathematical Statistics, Basic Course or FMSF50 Mathematical Statistics, Basic Course or FMSF55 Mathematical Statistics, Basic Course or FMSF70 Mathematical Statistics or FMSF75 Mathematical Statistics, Basic Course or FMSF80 Mathematical Statistics, Basic Course or TNX071 Statistics with Decision Theory"
+    ],
+    [
+      "Rychlik, I. och Rydén, J: Probability and Risk Analysis - An Introduction for Engineers. Springer, 2006, ISBN: 3-540-24223-6."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår17/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nStatistical Methods for Safety Analysis\nStatistiska metoder för säkerhetsanalys\nFMSF60, 7.5 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED I\nDate of Decision: 2026-04-13\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: RH4-rh\nElective for: BME4, C4-sec, Pi4\nLanguage of instruction: The course will be given in English on demand\n    \n  \nAim\nThe course presents notions and ideas from the foundations of a statistical treatment of risks. The emphasis lies on an understanding of the theory and methods presented. Hence the focus is put on applications within the field of risk and safety analysis.\nSince in risks estimations one needs to combine information from different sources the Bayesian methods are frequently used in that area. Hence a reasonable proportion of the course is devoted to such approaches. In order to be able to analyse and predict frequencies of occurrences of hazardous scenarios, modern statistical tools, namely Poisson regression, analysis of deviance, extreme value theory and threshold methods are presented . The knowledge of such tools facilitates the understanding of the role of probability in risk analysis and proper use of outputs given by software packages.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to estimate intensities of accidents and model the dependence on some explanatory variables,be able to identify situations when uncertainty of the derived results can not be neglected, often when a limited amount of data is available,be able to include different types of information into an estimate of risk using Bayes methods.\nCompetences and skills\n      For a passing grade the student must\nbe able to read specialised literature in the field of risk and safety where concepts of intensities, probabilities, safety indexes are often used,understand and be able to quantify the uncertainties of frequently used risk measures,be able to validate models used to derive the risk measures.\nJudgement and approach\n      For a passing grade the student must\nbetter understand the concepts used in other courses to measure risks,have tools to analyse uncertainties in derived risks,understand the role of probability in risk analysis and properly use the outputs given by software packages.\nContents\nA review of elementary concepts in probability theory; Independence, conditional probabilities, random variables, probability distribution functions, expected value, variance, covariance.\nPresentation and simple applications of Bayes' Theorem, Central Limit Theorem, Law of Large Numbers and Law of Small Numbers.\nClassical statistical inference; maximum likelihood method, confidence interval, hypotheses testing (goodness of fit tests). Introduction to bootstrap and the delta method to construct confidence intervals.\nIntroduction to Bayesian statistics; predictive probabilities, conjugated priors, credibility intervals.\nIntensities, Poisson modelling; estimation, Poisson regression.\nSome concepts from safety and reliability analysis, failure intensities, safety indexes, characteristic values.\nEstimation of quantiles using POT-method.\nIntroduction to extreme values statistics. Estimation of design events, e.g. strength of 100 years storm, and uncertainty analysis of the estimates.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written exam and computer exercises.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0117. Name: Examination. \n\nCredits: 6.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written exam.\n        \n        \n        \n        \nCode: 0217. Name: Laboratory Work. \n\nCredits: 1.0. Grading scale: UG - (U, G).\n        \n          Assessment: Computer exercises.\n        \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nEXTA60 Statistics or FMSF20 Mathematical Statistics, Basic Course or FMSF25 Mathematical Statistics - Complementary Project or FMSF32 Mathematical Statistics or FMSF45 Mathematical Statistics, Basic Course or FMSF50 Mathematical Statistics, Basic Course or FMSF55 Mathematical Statistics, Basic Course or FMSF70 Mathematical Statistics or FMSF75 Mathematical Statistics, Basic Course or FMSF80 Mathematical Statistics, Basic Course or TNX071 Statistics with Decision Theory\n\nAssumed prior knowledge: \n        Basic course in Mathematical Statistics or Statistics.\n        \nThe number of participants is limited to: No\nThe course might be cancelled:  if the number of applicants is less than 12.\nKursen överlappar följande kurser: \nFMS065\n\nReading list\n\nRychlik, I. och Rydén, J: Probability and Risk Analysis - An Introduction for Engineers. Springer, 2006, ISBN: 3-540-24223-6.\n\nContact\n\nDirector of studies: Johan Lindström,\n        studierektor@matstat.lu.se\nCourse administrator: Susann Nordqvist,\n        expedition@matstat.lu.se\nExaminator: Joakim Lübeck,\n        joakim.lubeck@matstat.lu.se\nExaminator: Johan Lindström,\n        johan.lindstrom@matstat.lu.se\nExaminator: Magnus Wiktorsson,\n        magnus.wiktorsson@matstat.lu.se\nCourse homepage: https://www.maths.lu.se/utbildning/civilingenjoersutbildning/matematisk-statistik-paa-civilingenjoersprogram/\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

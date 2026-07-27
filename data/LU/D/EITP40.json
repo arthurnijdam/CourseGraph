@@ -1,0 +1,62 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Machine Learning for Internet of Things (IoT)\nMaskininlärning för sakernas internet (IoT)",
+    "EITP40, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-ks, D4-is, D4-ns, E4-ns, F4, I4-pvs, MMSR2, MWIR1\nLanguage of instruction: The course will be given in English",
+    "The purpose of the course is to provide an introduction to artificial intelligence and machine learning techniques for IoT systems e.g. wearable sensors for health monitoring.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Approved laboratory assignments give grade 3. An approved final project is required for grades 4 and 5.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0122. Name: Laboratory. \n\nCredits: 7.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved laboratory sessions give grade 3.",
+    "Assumed prior knowledge: \n        Programming, Basic probability, statistics, algebra, and Basic machine learning.\n        \nThe number of participants is limited to: 80\nSelection: \"Completed university credits within the programme. Priority is given to students enrolled on programmes that include the course in their curriculum.\"",
+    "Course coordinator: Amir Aminifar,\n        amir.aminifar@eit.lth.se",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "understand the IoT domain and the corresponding challenges and opportunities",
+      "understand the state-of-the-art machine learning and artificial intelligence techniques",
+      "understand the fundamental ideas behind the state-of-the-art machine learning techniques in the context of IoT systems e.g. in wearable sensors for health monitoring and medical informatics."
+    ],
+    [
+      "analyze the suitability of a given machine learning technique for IoT systems",
+      "apply and implement the state-of-the-art techniques in machine learning and artificial intelligence in the context of IoT systems",
+      "evaluate and validate the existing machine learning techniques for IoT systems, in terms of relevant domain metrics."
+    ],
+    [
+      "show knowledge of the possibilities and limitations of artificial intelligence and machine learning in the context of IoT systems",
+      "independently develop, train, and implement machine learning techniques on IoT systems and investigate the results obtained."
+    ],
+    [
+      "Introduction to IoT systems and the challenges and opportunities in this domain",
+      "Introduction and foundation of machine learning and deep neural networks in the context of IoT systems e.g. for wearable devices and sensors for health monitoring and medical informatics;",
+      "Machine learning for IoT systems and distributed resource-constrained platforms."
+    ],
+    [
+      "Andreas Lindholm, Niklas Wahlström, Fredrik Lindsten and Thomas B. Schön: Machine Learning - A First Course for Engineers and Scientists. Available online http://smlbook.org/.",
+      "Ian Goodfellow, Yoshua Bengio, Aaron Courville: Deep Learning. MIT Press, 2016.",
+      "Pete Warden, Daniel Situnayake: TinyML: - Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers. O'Reilly Media, 2020."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår22/2323/2424/2525/2626/27\nCourse syllabus\nMachine Learning for Internet of Things (IoT)\nMaskininlärning för sakernas internet (IoT)\nEITP40, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-ks, D4-is, D4-ns, E4-ns, F4, I4-pvs, MMSR2, MWIR1\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe purpose of the course is to provide an introduction to artificial intelligence and machine learning techniques for IoT systems e.g. wearable sensors for health monitoring.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nunderstand the IoT domain and the corresponding challenges and opportunitiesunderstand the state-of-the-art machine learning and artificial intelligence techniquesunderstand the fundamental ideas behind the state-of-the-art machine learning techniques in the context of IoT systems e.g. in wearable sensors for health monitoring and medical informatics.\nCompetences and skills\n      For a passing grade the student must\nanalyze the suitability of a given machine learning technique for IoT systemsapply and implement the state-of-the-art techniques in machine learning and artificial intelligence in the context of IoT systemsevaluate and validate the existing machine learning techniques for IoT systems, in terms of relevant domain metrics.\nJudgement and approach\n      For a passing grade the student must\nshow knowledge of the possibilities and limitations of artificial intelligence and machine learning in the context of IoT systemsindependently develop, train, and implement machine learning techniques on IoT systems and investigate the results obtained.\nContents\n\nIntroduction to IoT systems and the challenges and opportunities in this domain\nIntroduction and foundation of machine learning and deep neural networks in the context of IoT systems e.g. for wearable devices and sensors for health monitoring and medical informatics;\nMachine learning for IoT systems and distributed resource-constrained platforms.\n\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Approved laboratory assignments give grade 3. An approved final project is required for grades 4 and 5.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0122. Name: Laboratory. \n\nCredits: 7.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved laboratory sessions give grade 3.\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        Programming, Basic probability, statistics, algebra, and Basic machine learning.\n        \nThe number of participants is limited to: 80\nSelection: \"Completed university credits within the programme. Priority is given to students enrolled on programmes that include the course in their curriculum.\"\n\nReading list\n\nAndreas Lindholm, Niklas Wahlström, Fredrik Lindsten and Thomas B. Schön: Machine Learning - A First Course for Engineers and Scientists. Available online http://smlbook.org/.\nIan Goodfellow, Yoshua Bengio, Aaron Courville: Deep Learning. MIT Press, 2016.\nPete Warden, Daniel Situnayake: TinyML: - Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers. O'Reilly Media, 2020.\n\nContact\n\nCourse coordinator: Amir Aminifar,\n        amir.aminifar@eit.lth.se\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

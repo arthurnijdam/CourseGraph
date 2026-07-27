@@ -1,0 +1,70 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Linear and Logistic Regression\nLinjär och logistisk regression",
+    "FMSN30, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED I\nDate of Decision: 2026-04-13",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4, D4, E4-mi, F4, F4-fm, F4-mai, I4, L4-fe, MMSR1, Pi4-fm, Pi4-biek, Pi4-bam, R4\nLanguage of instruction: The course will be given in English",
+    "Regression analysis deals with modelling how one characteristic (height, weight, price, concentration, etc) varies with one or several other characteristics (sex, living area, expenditures, temperature, etc). Linear regression is introduced in the basic course in mathematical statistics but here we expand with, e.g., \"how do I check that the model fits the data\", \"what should I do i it doesn't fit\", \"how uncertain is it\", and \"how do I use it to draw conclusions about reality\".",
+    "When perfoming a survey where people can awnser yes/no or little/just fine/much, or car/bicycle/bus or some other categorical alternative, you cannot use linear regression. Then you need logistic regression instead. This is the topic in the second half of the course.",
+    "If you have a data material suitable for analysis using linear or logistic regression, you may analyse it as part of the project.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Least squares and maximum-likelihood-method; odds ratios; Multiple and linear regression; Matrix formulation; Methods for model validation, residuals, outliers, influential observations, multi co-linearity, change of variables; Choice of regressors, F-test, likelihood-ratio-test; Confidence intervals and prediction. Introduction to: Correlated errors, Poisson regression as well as multinomial and ordinal logistic regression.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written and oral project presentation, peer assessment and oral exam.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0317. Name: Project 2. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: Written project report and peer assessment\n        \n        \n          The module includes: Logistic regression\n        \n        \n        \nCode: 0417. Name: Project 3. \n\nCredits: 1.0. Grading scale: UG - (U, G).\n        \n          Assessment: Oral project presentation\n        \n        \n          The module includes: Other regression models\n        \n        \n        \nCode: 0117. Name: Examination. \n\nCredits: 3.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Oral examination.\n        \n        \n        \n        \nCode: 0217. Name: Project 1. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: Written project report and peer assessment\n        \n        \n          The module includes: Linear regression\n        \n        \n        \nCode: 0517. Name: Laboratory Work. \n\nCredits: 0.5. Grading scale: UG - (U, G).\n        \n          Assessment: Computer exercises",
+    "Admission requirements:",
+    "Director of studies: Johan Lindström,\n        studierektor@matstat.lu.se\nCourse administrator: Susann Nordqvist,\n        expedition@matstat.lu.se\nExaminator: Anna Lindgren,\n        anna.lindgren@matstat.lu.se\nExaminator: Johan Lindström,\n        johan.lindstrom@matstat.lu.se\nExaminator: Magnus Wiktorsson,\n        magnus.wiktorsson@matstat.lu.se\nCourse homepage: https://www.maths.lu.se/utbildning/civilingenjoersutbildning/matematisk-statistik-paa-civilingenjoersprogram/",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "Describe the differences between continuous and discrete data, and the resulting consequences for the choice of statistical model",
+      "Give an account of the principles behind different estimation principles,",
+      "Describe the statistical properties of such estimates as appear in regression analysis,",
+      "Interpret regression relations in terms of conditional distributions,",
+      "Explain the concepts odds and odds ratio, and describe their relation to probabilities and to logistic regression."
+    ],
+    [
+      "Formulate a multiple linear regression model for a concrete problem,",
+      "Formulate a multiple logistic regression model for a concrete problem,",
+      "Estimate the parameters in the regression model and interpret them,",
+      "Examine the validity of the model and make suitable modifications of the model,",
+      "Use the model resulting for prediction,",
+      "Use some statistical computer program for analysis of regression data, and interpret the results,",
+      "Present the analysis and conclusions of a practical problem in a written report and an oral presentation."
+    ],
+    [
+      "Always check the prerequisites before stating a regression model,",
+      "Evaluate the plausibility of a performed study,",
+      "Reflect over the limitations of the chosen model and estimation method, as well as alternative solutions."
+    ],
+    [
+      "FMSF20 Mathematical Statistics, Basic Course or FMSF25 Mathematical Statistics - Complementary Project or FMSF32 Mathematical Statistics or FMSF45 Mathematical Statistics, Basic Course or FMSF50 Mathematical Statistics, Basic Course or FMSF55 Mathematical Statistics, Basic Course or FMSF70 Mathematical Statistics or FMSF75 Mathematical Statistics, Basic Course or FMSF80 Mathematical Statistics, Basic Course"
+    ],
+    [
+      "Rawlings, J.O., Pantula, S.G., Dickey, D.A: Applied Regression Analysis - A Research Tool, 2ed. Springer, 1998, ISBN: 0-387-98454-2. available as e-book.",
+      "Alan Agresti: An introduction to categorical data analysis, 2nd ed. Wiley, 2007, ISBN: 978-0-471-22618-5. available as e-book."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår11/1212/1313/1414/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nLinear and Logistic Regression\nLinjär och logistisk regression\nFMSN30, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED I\nDate of Decision: 2026-04-13\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4, D4, E4-mi, F4, F4-fm, F4-mai, I4, L4-fe, MMSR1, Pi4-fm, Pi4-biek, Pi4-bam, R4\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nRegression analysis deals with modelling how one characteristic (height, weight, price, concentration, etc) varies with one or several other characteristics (sex, living area, expenditures, temperature, etc). Linear regression is introduced in the basic course in mathematical statistics but here we expand with, e.g., \"how do I check that the model fits the data\", \"what should I do i it doesn't fit\", \"how uncertain is it\", and \"how do I use it to draw conclusions about reality\".\nWhen perfoming a survey where people can awnser yes/no or little/just fine/much, or car/bicycle/bus or some other categorical alternative, you cannot use linear regression. Then you need logistic regression instead. This is the topic in the second half of the course.\nIf you have a data material suitable for analysis using linear or logistic regression, you may analyse it as part of the project.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nDescribe the differences between continuous and discrete data, and the resulting consequences for the choice of statistical modelGive an account of the principles behind different estimation principles,Describe the statistical properties of such estimates as appear in regression analysis,Interpret regression relations in terms of conditional distributions,Explain the concepts odds and odds ratio, and describe their relation to probabilities and to logistic regression.\nCompetences and skills\n      For a passing grade the student must\nFormulate a multiple linear regression model for a concrete problem,Formulate a multiple logistic regression model for a concrete problem,Estimate the parameters in the regression model and interpret them,Examine the validity of the model and make suitable modifications of the model,Use the model resulting for prediction,Use some statistical computer program for analysis of regression data, and interpret the results,Present the analysis and conclusions of a practical problem in a written report and an oral presentation.\nJudgement and approach\n      For a passing grade the student must\nAlways check the prerequisites before stating a regression model,Evaluate the plausibility of a performed study,Reflect over the limitations of the chosen model and estimation method, as well as alternative solutions.\nContents\nLeast squares and maximum-likelihood-method; odds ratios; Multiple and linear regression; Matrix formulation; Methods for model validation, residuals, outliers, influential observations, multi co-linearity, change of variables; Choice of regressors, F-test, likelihood-ratio-test; Confidence intervals and prediction. Introduction to: Correlated errors, Poisson regression as well as multinomial and ordinal logistic regression.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written and oral project presentation, peer assessment and oral exam.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0317. Name: Project 2. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: Written project report and peer assessment\n        \n        \n          The module includes: Logistic regression\n        \n        \n        \nCode: 0417. Name: Project 3. \n\nCredits: 1.0. Grading scale: UG - (U, G).\n        \n          Assessment: Oral project presentation\n        \n        \n          The module includes: Other regression models\n        \n        \n        \nCode: 0117. Name: Examination. \n\nCredits: 3.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Oral examination.\n        \n        \n        \n        \nCode: 0217. Name: Project 1. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: Written project report and peer assessment\n        \n        \n          The module includes: Linear regression\n        \n        \n        \nCode: 0517. Name: Laboratory Work. \n\nCredits: 0.5. Grading scale: UG - (U, G).\n        \n          Assessment: Computer exercises\n        \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nFMSF20 Mathematical Statistics, Basic Course or FMSF25 Mathematical Statistics - Complementary Project or FMSF32 Mathematical Statistics or FMSF45 Mathematical Statistics, Basic Course or FMSF50 Mathematical Statistics, Basic Course or FMSF55 Mathematical Statistics, Basic Course or FMSF70 Mathematical Statistics or FMSF75 Mathematical Statistics, Basic Course or FMSF80 Mathematical Statistics, Basic Course\n\nThe number of participants is limited to: No\nKursen överlappar följande kurser: \n        \n          \n            MASM22\n          \n        \n          \n            FMSN40\n\nReading list\n\nRawlings, J.O., Pantula, S.G., Dickey, D.A: Applied Regression Analysis - A Research Tool, 2ed. Springer, 1998, ISBN: 0-387-98454-2. available as e-book.\nAlan Agresti: An introduction to categorical data analysis, 2nd ed. Wiley, 2007, ISBN: 978-0-471-22618-5. available as e-book.\n\nContact\n\nDirector of studies: Johan Lindström,\n        studierektor@matstat.lu.se\nCourse administrator: Susann Nordqvist,\n        expedition@matstat.lu.se\nExaminator: Anna Lindgren,\n        anna.lindgren@matstat.lu.se\nExaminator: Johan Lindström,\n        johan.lindstrom@matstat.lu.se\nExaminator: Magnus Wiktorsson,\n        magnus.wiktorsson@matstat.lu.se\nCourse homepage: https://www.maths.lu.se/utbildning/civilingenjoersutbildning/matematisk-statistik-paa-civilingenjoersprogram/\n\nFurther information\n      The course is also given at the faculty of science with the code MASM22.\nOnly one of the courses FMSN30 and FMSN40 may be included in a degree.\n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

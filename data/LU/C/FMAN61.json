@@ -1,0 +1,60 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Optimization\nOptimering",
+    "FMAN61, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective mandatory for: I3\nElective for: BME4, C4, D4-mai, E4-mi, F4, F4-bs, F4-bg, F4-fm, F4-r, F4-mai, M4, Pi4-bs, Pi4-fm, Pi4-bem, Pi4-bam, R4\nLanguage of instruction: The course will be given in English on demand",
+    "The purpose of the course is for the student to gain a good knowledge of the basic theory for nonlinear optimization and the most important numerical methods.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Quadratic forms and matrix factorisation. Convexity. Separating planes and Farkas' Lemma. The theory of optimization with and without constraints: Lagrange functions, Karush-Kuhn-Tucker theory. Duality. Methods for optimization without constraints: line search, steepest descent, Newton methods, conjugate directions, non-linear least squares optimization. The Nelder-Mead search algorithm without derivatives. Methods for optimization with constraints: linear optimization, quadratic programming, penalty and barrier methods.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written test comprising theory and problems. Two computer exercises and one project. The final grade is the grade obtained in the written exam.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0121. Name: Optimization. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written test comprising theory and problem solving.\n        \n        \n        \n        \nCode: 0221. Name: Computer Programming. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: The student should write a computer program which solves one of given set of optimization problems, and write a report in which the results are presented and evaluated.\n        \n        \n        \n        \nCode: 0321. Name: Computer Exercises. \n\nCredits: 0.0. Grading scale: UG - (U, G).\n        \n          Assessment: Computer sessions at which available software is used to study how some of the iterative methods  that have been analysed in the course perform when they are applied to some simple model problems. The student must be able to explain the observed behaviour, and also have carried out some preparatory tasks.",
+    "Assumed prior knowledge: \n        Basic university studies in calculus and linear algebra, including basic theory of quadratic forms.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFMA051\n          \n        \n          \n            MATC51\n          \n        \n          \n            FMAN60\n          \n        \n          \n            MATC61",
+    "Course coordinator: Studierektor Anders Holst,\n        Studierektor@math.lth.se\nTeacher: Stefan Diehl,\n        Stefan.Diehl@math.lth.se\nCourse administrator: Studerandeexpeditionen,\n        expedition@math.lth.se\nExaminator: Anders Holst,\n        Anders.Holst@math.lth.se\nExaminator: Stefan Diehl,\n        Stefan.Diehl@math.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/20365",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be familiar with and, in his/her own words, be able to describe the optimization algorithms, for problems with and without constraints, encountered in the course, and their properties.",
+      "be familiar with the theory of convex sets and convex functions, and be able to state and derive the most important theorems on convexity.",
+      "be aware of how to make use of convexity in the treatment of an optimization problem.",
+      "be familiar with Karush-Kuhn-Tucker theory and be able to state and derive the most important theorems therein.",
+      "be able to explain the principles of numerical optimization with line search including the properties of the most common methods."
+    ],
+    [
+      "be able to demonstrate an ability to solve optimization problems within the framework of the course.",
+      "be able to demonstrate an ability to handle optimization problems using a computer.",
+      "be able to demonstrate an ability to, in the context of problem solving, derive simple results not previously encountered in the course .",
+      "be able to describe the connections between different concepts in the course, with proper terminology and in a well structured and logically consistent manner.",
+      "with proper terminology, suitable notation, in a well structured way and with clear logic be able to describe the solution to a mathematical problem and the theory within the framework of the course."
+    ],
+    [
+      "be able to explain why convex optimization problems have better properties than others."
+    ],
+    [
+      "Stefan Diehl: Nonlinear Optimization - A Basic Course. Studentlitteratur, 2025, ISBN: 9789144201139. Second, revised edition.",
+      "Computer Laboratory Exercises in Optimization. Provided by the department."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår21/2222/2323/2424/2525/2626/27\nCourse syllabus\nOptimization\nOptimering\nFMAN61, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective mandatory for: I3\nElective for: BME4, C4, D4-mai, E4-mi, F4, F4-bs, F4-bg, F4-fm, F4-r, F4-mai, M4, Pi4-bs, Pi4-fm, Pi4-bem, Pi4-bam, R4\nLanguage of instruction: The course will be given in English on demand\n    \n  \nAim\nThe purpose of the course is for the student to gain a good knowledge of the basic theory for nonlinear optimization and the most important numerical methods.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe familiar with and, in his/her own words, be able to describe the optimization algorithms, for problems with and without constraints, encountered in the course, and their properties.be familiar with the theory of convex sets and convex functions, and be able to state and derive the most important theorems on convexity.be aware of how to make use of convexity in the treatment of an optimization problem.be familiar with Karush-Kuhn-Tucker theory and be able to state and derive the most important theorems therein.be able to explain the principles of numerical optimization with line search including the properties of the most common methods.\nCompetences and skills\n      For a passing grade the student must\nbe able to demonstrate an ability to solve optimization problems within the framework of the course.be able to demonstrate an ability to handle optimization problems using a computer.be able to demonstrate an ability to, in the context of problem solving, derive simple results not previously encountered in the course .be able to describe the connections between different concepts in the course, with proper terminology and in a well structured and logically consistent manner.with proper terminology, suitable notation, in a well structured way and with clear logic be able to describe the solution to a mathematical problem and the theory within the framework of the course.\nJudgement and approach\n      For a passing grade the student must\nbe able to explain why convex optimization problems have better properties than others.\nContents\nQuadratic forms and matrix factorisation. Convexity. Separating planes and Farkas' Lemma. The theory of optimization with and without constraints: Lagrange functions, Karush-Kuhn-Tucker theory. Duality. Methods for optimization without constraints: line search, steepest descent, Newton methods, conjugate directions, non-linear least squares optimization. The Nelder-Mead search algorithm without derivatives. Methods for optimization with constraints: linear optimization, quadratic programming, penalty and barrier methods.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Written test comprising theory and problems. Two computer exercises and one project. The final grade is the grade obtained in the written exam.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0121. Name: Optimization. \n\nCredits: 6.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written test comprising theory and problem solving.\n        \n        \n        \n        \nCode: 0221. Name: Computer Programming. \n\nCredits: 1.5. Grading scale: UG - (U, G).\n        \n          Assessment: The student should write a computer program which solves one of given set of optimization problems, and write a report in which the results are presented and evaluated.\n        \n        \n        \n        \nCode: 0321. Name: Computer Exercises. \n\nCredits: 0.0. Grading scale: UG - (U, G).\n        \n          Assessment: Computer sessions at which available software is used to study how some of the iterative methods  that have been analysed in the course perform when they are applied to some simple model problems. The student must be able to explain the observed behaviour, and also have carried out some preparatory tasks.\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        Basic university studies in calculus and linear algebra, including basic theory of quadratic forms.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nFMA051\n          \n        \n          \n            MATC51\n          \n        \n          \n            FMAN60\n          \n        \n          \n            MATC61\n          \n        \n      \n    \nReading list\n\nStefan Diehl: Nonlinear Optimization - A Basic Course. Studentlitteratur, 2025, ISBN: 9789144201139. Second, revised edition.\nComputer Laboratory Exercises in Optimization. Provided by the department.\n\nContact\n\nCourse coordinator: Studierektor Anders Holst,\n        Studierektor@math.lth.se\nTeacher: Stefan Diehl,\n        Stefan.Diehl@math.lth.se\nCourse administrator: Studerandeexpeditionen,\n        expedition@math.lth.se\nExaminator: Anders Holst,\n        Anders.Holst@math.lth.se\nExaminator: Stefan Diehl,\n        Stefan.Diehl@math.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/20365\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

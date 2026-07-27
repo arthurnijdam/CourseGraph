@@ -1,0 +1,69 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Kanalkodning för tillförlitlig kommunikation\nChannel Coding for Reliable Communication",
+    "EITN70, 7,5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact and other information"
+  ],
+  "paragraphs": [
+    "Valid for:  2023/24\nFaculty: Faculty of Engineering, LTH\nDecided by: PLED C/D\nDate of Decision: 2023-04-18",
+    "Main field: Communication Systems. \nLanguage of instruction: The course will be given in English",
+    "The aim of this course is to give an overview of existing\nchannel coding methods for reliable communication (also known as\nerror control coding or forward error correction). After taking\nthis course you should understand the basic principles of block-\nand convolutional codes and how to characterize their performance,\nknow different constructions that are most commonly used in digital\ncommunication systems and know how their encoding and decoding can\nbe implemented in practice.",
+    "Knowledge and understanding\nFor a passing grade the student must",
+    "Competences and skills\nFor a passing grade the student must",
+    "Judgement and approach\nFor a passing grade the student must",
+    "Channel coding is at the core of any modern communication\nsystem; reliable communication would not be possible without the\nuse of coding. When digital data is transmitted from one place to\nanother it is always prone to noise or interference occurring in\nthe transmission medium. For this reason all modern communication\nsystems use some error correcting codes that add redundancy to the\noriginal data in order to protect it from errors occurring during\nthe transmission.",
+    "The course covers the following topics:",
+    "Grading scale: TH - (U,3,4,5) - (Fail, Three, Four, Five)\nAssessment: Written examination (5 hours) normally consists of five problems. Approved project is a requirement to be allowed to enter the examination.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Parts\nCode: 0118. Name: Written exam. \nCredits: 6,5. Grading scale: TH.  Assessment: Approved written exam  Contents: Written exam \nCode: 0218. Name: Project. \nCredits: 1. Grading scale: UG.  Assessment: Approved Project.  Contents: Project",
+    "Assumed prior knowledge: For students from the E, D, C or Pi programmes: FMSF45, FMSF20 eller FMSF55 Mathematical Statistics, Basic Course. For students from the MWIR programme: EITG05 Digital Communications.\nThe number of participants is limited to: No\nThe course overlaps following course/s: EDI042",
+    "Course coordinator: Michael Lentmaier, michael.lentmaier@eit.lth.se\nCourse homepage: http://www.eit.lth.se/course/eitn70\nFurther information: With less than 16 participants, the course may be given with reduced teaching and more self studies.",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to identify and formulate problems within the area of\nerror correcting codes",
+      "be able to critically analyse and describe error correcting\nsystems of low and medium complexity",
+      "be able to understand the advantages and disadvantages of\ndifferent coding schemes"
+    ],
+    [
+      "be able to implement a system for error correction of low and\nmedium complexity",
+      "be able to classify the level of difficulty of problems related\nto the his/her own level of knowledge",
+      "be able to independently work in a creative way with advanced\nprojects and motivate and discuss obtained conclusions"
+    ],
+    [
+      "be able to show insight concerning possibilities and\nlimitations of error correcting systems"
+    ],
+    [
+      "Principles of error control coding: Channel models,\nLinear block codes, Syndrome decoding, Constructing codes from\nother codes, Bounds, Cyclic codes, Convolutional codes"
+    ],
+    [
+      "Optimal decoding methods: MD vs BMD decoding, ML\nDecoding, Viterbi algorithm, Trellises of block codes, Decoding\nerror probability, Weight enumerators, APP decoding, BCJR\nalgorithm"
+    ],
+    [
+      "Iterative decoding of concatenated codes: Product\ncodes, Parallel and serial concatenation, Turbo codes, Iterative\ndecoding, LDPC Codes, Tanner graphs, Message passing decoding, LDPC\nconvolutional codes"
+    ],
+    [
+      "Reed-Solomon codes: Non-binary codes, Frequency domain\nrepresentation, Encoding, Algebraic decoding, Weight\nenumerators"
+    ],
+    [
+      "Shu Lin, Daniel J Costello Jr: Error Control Coding, Second Edition. Pearson, 2004, ISBN: 978-0-130-42672-7.",
+      "Martin Bossert: Channel Coding for Telecommunications. Wiley, 1999, ISBN: 978-0-471-98277-7. Alternativ läsning."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår17/1818/1919/2020/2121/2222/2323/24\n\nCourse syllabus\nKanalkodning för tillförlitlig kommunikation\nChannel Coding for Reliable Communication\nEITN70, 7,5 credits, A (Second Cycle)\nValid for:  2023/24\nFaculty: Faculty of Engineering, LTH\nDecided by: PLED C/D\nDate of Decision: 2023-04-18\nGeneral Information\nMain field: Communication Systems. \nLanguage of instruction: The course will be given in English\nAim\nThe aim of this course is to give an overview of existing\nchannel coding methods for reliable communication (also known as\nerror control coding or forward error correction). After taking\nthis course you should understand the basic principles of block-\nand convolutional codes and how to characterize their performance,\nknow different constructions that are most commonly used in digital\ncommunication systems and know how their encoding and decoding can\nbe implemented in practice.\nLearning outcomes\nKnowledge and understanding\nFor a passing grade the student must\n\nbe able to identify and formulate problems within the area of\nerror correcting codes\nbe able to critically analyse and describe error correcting\nsystems of low and medium complexity\nbe able to understand the advantages and disadvantages of\ndifferent coding schemes\n\nCompetences and skills\nFor a passing grade the student must\n\nbe able to implement a system for error correction of low and\nmedium complexity\nbe able to classify the level of difficulty of problems related\nto the his/her own level of knowledge\nbe able to independently work in a creative way with advanced\nprojects and motivate and discuss obtained conclusions\n\nJudgement and approach\nFor a passing grade the student must\n\nbe able to show insight concerning possibilities and\nlimitations of error correcting systems\n\nContents\nChannel coding is at the core of any modern communication\nsystem; reliable communication would not be possible without the\nuse of coding. When digital data is transmitted from one place to\nanother it is always prone to noise or interference occurring in\nthe transmission medium. For this reason all modern communication\nsystems use some error correcting codes that add redundancy to the\noriginal data in order to protect it from errors occurring during\nthe transmission.\nThe course covers the following topics:\n\nPrinciples of error control coding: Channel models,\nLinear block codes, Syndrome decoding, Constructing codes from\nother codes, Bounds, Cyclic codes, Convolutional codes\n\n\nOptimal decoding methods: MD vs BMD decoding, ML\nDecoding, Viterbi algorithm, Trellises of block codes, Decoding\nerror probability, Weight enumerators, APP decoding, BCJR\nalgorithm\n\n\nIterative decoding of concatenated codes: Product\ncodes, Parallel and serial concatenation, Turbo codes, Iterative\ndecoding, LDPC Codes, Tanner graphs, Message passing decoding, LDPC\nconvolutional codes\n\n\nReed-Solomon codes: Non-binary codes, Frequency domain\nrepresentation, Encoding, Algebraic decoding, Weight\nenumerators\n\nExamination details\nGrading scale: TH - (U,3,4,5) - (Fail, Three, Four, Five)\nAssessment: Written examination (5 hours) normally consists of five problems. Approved project is a requirement to be allowed to enter the examination.\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\nParts\nCode: 0118. Name: Written exam. \nCredits: 6,5. Grading scale: TH.  Assessment: Approved written exam  Contents: Written exam \nCode: 0218. Name: Project. \nCredits: 1. Grading scale: UG.  Assessment: Approved Project.  Contents: Project \nAdmission\nAssumed prior knowledge: For students from the E, D, C or Pi programmes: FMSF45, FMSF20 eller FMSF55 Mathematical Statistics, Basic Course. For students from the MWIR programme: EITG05 Digital Communications.\nThe number of participants is limited to: No\nThe course overlaps following course/s: EDI042\nReading list\n\nShu Lin, Daniel J Costello Jr: Error Control Coding, Second Edition. Pearson, 2004, ISBN: 978-0-130-42672-7.\nMartin Bossert: Channel Coding for Telecommunications. Wiley, 1999, ISBN: 978-0-471-98277-7. Alternativ läsning.\n\nContact and other information\nCourse coordinator: Michael Lentmaier, michael.lentmaier@eit.lth.se\nCourse homepage: http://www.eit.lth.se/course/eitn70\nFurther information: With less than 16 participants, the course may be given with reduced teaching and more self studies.\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

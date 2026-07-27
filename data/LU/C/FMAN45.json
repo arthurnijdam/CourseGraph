@@ -1,0 +1,69 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Machine Learning\nMaskininlärning",
+    "FMAN45, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14",
+    "Main field:  Machine Learning, Systems and Control\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective mandatory for: MMSR1\nElective for: BME4, C4-pvt, C4-pvs, D4-bg, D4-mai, D4-se, E5, F4, F4-bg, F4-r, F4-mai, I4, Pi4-bam\nLanguage of instruction: The course will be given in English",
+    "The aim of the course is to establish a solid foundation in the principles and methods of machine learning, based on pertinent knowledge from mathematics, statistics, and optimization.",
+    "Additionally, the course seeks to provide insight into advanced techniques within modern machine learning.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Compulsory assignments including computer work and written reports.\n\n\nApproved results on these are enough to pass the course. To get a higher grade, the student also has to pass an oral examination.\n\nFor those who do not get all the assignments approved during the course there will be a chance to hand in improved versions during the following semester.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0116. Name: Machine Learning. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: For the grade 3 it is required to pass on all the assignments. For a higher grade one also has to study one or more individually assigned articles and be able to explain them sufficiently well at a seminar.",
+    "Admission requirements:",
+    "Course coordinator: Anders Holst,\n        studierektor@math.lth.se\nTeacher: Mikael Nilsson,\n        mikael.nilsson@math.lth.se\nCourse administrator: Studerandeexpeditionen,\n        expedition@math.lth.se\nExaminator: Alexandros Sopasakis,\n        alexandros.sopasakis@math.lth.se\nExaminator: Mikael Nilsson,\n        mikael.nilsson@math.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/20372",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to account for the statistical principles used in machine learning",
+      "be able to describe the scientific basis for the design and analysis of learning algorithms and systems",
+      "demonstrate in-depth knowledge of methods and theories in the field of machine learning."
+    ],
+    [
+      "have demonstrated the abilitiy to develop learning techniques and learning systems for relevant technological problems",
+      "have demonstrated the ability to identify, formulate, design, and implement learning components and applications."
+    ],
+    [
+      "have demonstrated the ability to critically evaluate and compare different learning models and learning algorithms for different problem setups and quality characteristics."
+    ],
+    [
+      "Training, testing, generalization, hypothesis spaces",
+      "Linear regression and classification",
+      "Optimization techniques and statistical tools for learning",
+      "Neural networks, convolutional neural networks and deep learning",
+      "Recurrent neural networks, transformers and reinforcement learning",
+      "Clustering, autoencoders and generative models"
+    ],
+    [
+      "FMAF05 Mathematics - Systems and Transforms or FMAF10 Applied Mathematics - Linear systems"
+    ],
+    [
+      "Bishop, C. M: Pattern Recognition and Machine Learning. Springer, 2006, ISBN: 9780387310732. Reference text.https://www.microsoft.com/en-us/research/people/cmbishop/prmlbook/",
+      "I. Goodfellow, Y. Bengio & A. Courville: Deep Learning. MIT press, 2016, ISBN: 978-0-262-03561-3. Reference text.http://www.deeplearningbook.org/",
+      "T. Hastie, R. Tibshirani & J. Friedman: The Elements of Statistical Learning: Data Mining, Inference, and Prediction - 2nd edition. Springer, 2009, ISBN: 9780387848570. Reference text.https://web.stanford.edu/~hastie/Papers/ESLII.pdf",
+      "Sutton, Richard S: Reinforcement learning : an introduction. Cambridge, MA : The MIT Press, 2018, ISBN: 0262039249. Reference text.http://incompleteideas.net/sutton/book/the-book-2nd.html",
+      "Mikael Nilsson: Mostly self-contained. Will be available via the course home page during the course."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår16/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nMachine Learning\nMaskininlärning\nFMAN45, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14\n    \n  \nGeneral Information\n\nMain field:  Machine Learning, Systems and Control\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective mandatory for: MMSR1\nElective for: BME4, C4-pvt, C4-pvs, D4-bg, D4-mai, D4-se, E5, F4, F4-bg, F4-r, F4-mai, I4, Pi4-bam\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe aim of the course is to establish a solid foundation in the principles and methods of machine learning, based on pertinent knowledge from mathematics, statistics, and optimization.Additionally, the course seeks to provide insight into advanced techniques within modern machine learning.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to account for the statistical principles used in machine learningbe able to describe the scientific basis for the design and analysis of learning algorithms and systemsdemonstrate in-depth knowledge of methods and theories in the field of machine learning.\nCompetences and skills\n      For a passing grade the student must\nhave demonstrated the abilitiy to develop learning techniques and learning systems for relevant technological problemshave demonstrated the ability to identify, formulate, design, and implement learning components and applications.\nJudgement and approach\n      For a passing grade the student must\nhave demonstrated the ability to critically evaluate and compare different learning models and learning algorithms for different problem setups and quality characteristics.\nContents\nTraining, testing, generalization, hypothesis spacesLinear regression and classificationOptimization techniques and statistical tools for learningNeural networks, convolutional neural networks and deep learningRecurrent neural networks, transformers and reinforcement learningClustering, autoencoders and generative models\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Compulsory assignments including computer work and written reports.\n\n\nApproved results on these are enough to pass the course. To get a higher grade, the student also has to pass an oral examination.\n\nFor those who do not get all the assignments approved during the course there will be a chance to hand in improved versions during the following semester.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0116. Name: Machine Learning. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: For the grade 3 it is required to pass on all the assignments. For a higher grade one also has to study one or more individually assigned articles and be able to explain them sufficiently well at a seminar.\n        \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nFMAF05 Mathematics - Systems and Transforms or FMAF10 Applied Mathematics - Linear systems\n\nAssumed prior knowledge: \n        FMAF05 Mathematics - Systems and Transforms or FMAF10 Applied Mathematics - Linear Systems, and one of the basic courses in Mathematical Statistics, e.g. FMSF80.\n        \nThe number of participants is limited to: 110\nSelection: Completed university credits within the program. (Note that only credits which according to Ladok have been included in the program before the selection process count. For students taking master's programmes 180 credits corresponding to a bachelor's degree are added.) Priority is given to students enrolled on programmes that include the course in their curriculum. Among these students place is guaranteed to those in the master's programme in Machine Learning, Systems and Control, for whom the course is compulsory.\nKursen överlappar följande kurser: \nEDAN96\nBMEN35\n\nReading list\n\nBishop, C. M: Pattern Recognition and Machine Learning. Springer, 2006, ISBN: 9780387310732. Reference text.https://www.microsoft.com/en-us/research/people/cmbishop/prmlbook/\nI. Goodfellow, Y. Bengio & A. Courville: Deep Learning. MIT press, 2016, ISBN: 978-0-262-03561-3. Reference text.http://www.deeplearningbook.org/\nT. Hastie, R. Tibshirani & J. Friedman: The Elements of Statistical Learning: Data Mining, Inference, and Prediction - 2nd edition. Springer, 2009, ISBN: 9780387848570. Reference text.https://web.stanford.edu/~hastie/Papers/ESLII.pdf\nSutton, Richard S: Reinforcement learning : an introduction. Cambridge, MA : The MIT Press, 2018, ISBN: 0262039249. Reference text.http://incompleteideas.net/sutton/book/the-book-2nd.html\nMikael Nilsson: Mostly self-contained. Will be available via the course home page during the course.\n\nContact\n\nCourse coordinator: Anders Holst,\n        studierektor@math.lth.se\nTeacher: Mikael Nilsson,\n        mikael.nilsson@math.lth.se\nCourse administrator: Studerandeexpeditionen,\n        expedition@math.lth.se\nExaminator: Alexandros Sopasakis,\n        alexandros.sopasakis@math.lth.se\nExaminator: Mikael Nilsson,\n        mikael.nilsson@math.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/20372\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Web Programming\nWebbprogrammering",
+    "EDAF90, 7.5 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C3\nElective for: BME4, D4, E4, F4, I4, IDA3, L4-gi\nLanguage of instruction: The course will be given in Swedish",
+    "The course gives basic knowledge on techniques and technologies for web programming. The course content include communication (http), programing language (JavaScript/TypeScript) and execution environment (DOM JavaScript runtime). Students will also get experience of single threaded asynchronous programming. After the course, the students have enough knowledge and skills to develop their own web applications. This course focus on the client side.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "HTML, CSS, DOM, JavaScript (prototype based object orientation, this), TypeScript, asynchronous programming (promise), race conditions and deadlock, storing data in web applications (cookies, http-session, HTML5 local store, server side databases), http-protocol, XMLHttpRequest/fetch, data representation (character encoding, base64, json), restful-api, introduction to current frameworks for web application development (i.e. tailwind and React).",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "A passing grade requires an approved written exam and approved compulsory course components. To participate in the project, you must have passed all laboratory exercises scheduled at least seven days before the project's start date. To take the examination, all laboratory exercises must be completed and approved. The final course grade is based on the written exam result.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0118. Name: Written Examination in Web Programming. \n\nCredits: 3.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written examination.\n        \n        \n        \n        \nCode: 0218. Name: Compulsory Course Items. \n\nCredits: 4.5. Grading scale: UG - (U, G).\n        \n          Assessment: For a passing grade the compulsory laboratory exercises and the project must be completed. \n        \n        \n          The module includes: Compulsory laboratory exercises anda compulsory project.",
+    "Admission requirements:",
+    "Course coordinator: Per Andersson,\n        Per.Andersson@cs.lth.se",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "have knowledge on protocols relevant to web applications, e.g. http",
+      "have thorough knowledge of the programming language JavaScript and TypeScript, i.e. prototype based inheritance and how this is assigned a value",
+      "have an understanding of a webpage's structure, how it is represented in browsers, and how JavaScript is executed and interacting with the DOM (browser as execution platform).",
+      "have an understanding of the possibilities and limitations of single threaded asynchronous runtime systems",
+      "have knowledge of data storing techniques in a web applications (such as cookies, http session, HTML5 local store, and server-side database)",
+      "be able to problematize about component state in presence of asynchronous events and browser navigation (e.g. direct links, stepping backwards in the browser history), and know techniques to handle these problems.",
+      "have an understanding of the principles of restful-api"
+    ],
+    [
+      "be able to utilize asynchronous programming techniques to create user-friendly / responsive web applications",
+      "be able to develop simple web applications using component-based frameworks such as React",
+      "be able to use framework for layout, e.g. tailwind or material design, to create a modern and uniform look on web applications"
+    ],
+    [
+      "EDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course"
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår18/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nWeb Programming\nWebbprogrammering\nEDAF90, 7.5 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C3\nElective for: BME4, D4, E4, F4, I4, IDA3, L4-gi\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nThe course gives basic knowledge on techniques and technologies for web programming. The course content include communication (http), programing language (JavaScript/TypeScript) and execution environment (DOM JavaScript runtime). Students will also get experience of single threaded asynchronous programming. After the course, the students have enough knowledge and skills to develop their own web applications. This course focus on the client side.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nhave knowledge on protocols relevant to web applications, e.g. httphave thorough knowledge of the programming language JavaScript and TypeScript, i.e. prototype based inheritance and how this is assigned a valuehave an understanding of a webpage's structure, how it is represented in browsers, and how JavaScript is executed and interacting with the DOM (browser as execution platform).have an understanding of the possibilities and limitations of single threaded asynchronous runtime systemshave knowledge of data storing techniques in a web applications (such as cookies, http session, HTML5 local store, and server-side database)be able to problematize about component state in presence of asynchronous events and browser navigation (e.g. direct links, stepping backwards in the browser history), and know techniques to handle these problems.have an understanding of the principles of restful-api\nCompetences and skills\n      For a passing grade the student must\nbe able to utilize asynchronous programming techniques to create user-friendly / responsive web applicationsbe able to develop simple web applications using component-based frameworks such as Reactbe able to use framework for layout, e.g. tailwind or material design, to create a modern and uniform look on web applications\nContents\nHTML, CSS, DOM, JavaScript (prototype based object orientation, this), TypeScript, asynchronous programming (promise), race conditions and deadlock, storing data in web applications (cookies, http-session, HTML5 local store, server side databases), http-protocol, XMLHttpRequest/fetch, data representation (character encoding, base64, json), restful-api, introduction to current frameworks for web application development (i.e. tailwind and React).\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: A passing grade requires an approved written exam and approved compulsory course components. To participate in the project, you must have passed all laboratory exercises scheduled at least seven days before the project's start date. To take the examination, all laboratory exercises must be completed and approved. The final course grade is based on the written exam result.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0118. Name: Written Examination in Web Programming. \n\nCredits: 3.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Written examination.\n        \n        \n        \n        \nCode: 0218. Name: Compulsory Course Items. \n\nCredits: 4.5. Grading scale: UG - (U, G).\n        \n          Assessment: For a passing grade the compulsory laboratory exercises and the project must be completed. \n        \n        \n          The module includes: Compulsory laboratory exercises anda compulsory project.\n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nEDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course\n\nThe number of participants is limited to: No\n\nReading list\n\n\nContact\n\nCourse coordinator: Per Andersson,\n        Per.Andersson@cs.lth.se\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

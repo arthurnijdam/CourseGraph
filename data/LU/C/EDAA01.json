@@ -1,0 +1,65 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Programming - Second Course\nProgrammeringsteknik - fördjupningskurs",
+    "EDAA01, 7.5 credits, G1 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-02-12",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C1, D1, E2, Pi2\nElective mandatory for: F3, I3, L3, M3\nElective for: B4, BME4-sbh, BR4, K4, MD4, N2, R4, W4\nLanguage of instruction: The course will be given in Swedish",
+    "The purpose of the course is to give the students extended knowledge of object-oriented programming techniques and of a selection of algorithms and data structures suitable for solving commonly occurring problems. The course should also provide the skills required to understand and use modern libraries for object-oriented programming.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Object oriented concepts and language constructs such as inheritance, interface, nested classes, exceptions, generics, lambda expressions and streams. Important general interfaces such as Iterable, Comparable and Comparator. Common abstract data types such as lists, stacks, FIFO queues, priority queues, sets, and map sand their corresponding interfaces and classes in the Java API. Data structures such as linked lists, binary trees, heaps, and hash tables, and how they can be used to implement fundamental abstract data types. Recursion as a technique to construct and implement algorithms, techniques such as dynamic programming and backtracking. Orientation on frameworks for graphical user interfaces and event-driven programming. Introduction to using tools for testing. Introduction to techniques for analysing the time complexity of algorithms.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "For final grades, passed programming assignments and an passed digital on-campus exam are required. The final grade for the course is based on the grade of the exam.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0126. Name: Programming - Second Course. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).",
+    "Admission requirements:",
+    "Course coordinator: Univ.adj Anna Axelsson,\n        Anna.Axelsson@cs.lth.se\nCourse homepage: https://fileadmin.cs.lth.se/kursweb/edaa01/",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to define and explain important concepts and language constructs within object-oriented programming.",
+      "be able to describe abstract data types such as lists, stacks, queues, priority queues, sets and maps and their applications.",
+      "be able to describe data structures such as linked lists, binary trees, heaps and hash tables and explain how they can be used to implement fundamental abstract data types."
+    ],
+    [
+      "be able to apply advanced object-oriented concepts and language constructs in Java.",
+      "be able to use modern object-oriented standard libraries.",
+      "be able to identify appropriate abstract data typess, algorithms and data structures for solving a given problem.",
+      "be able to implement fundamental abstract data types and algorithms in Java.",
+      "be able to formulate and implement recursive algorithms.",
+      "be able to write programs with a simple graphical user interface in Java.",
+      "be able to perform simple tests using a test tool.",
+      "be able to apply simple techniques for analysing the time complexity of algorithms and estimate their execution time."
+    ],
+    [
+      "be able to construct programs which are easy to understand and to modify",
+      "be able to evaluate proposed solutions and data representations for given problems with respect to usability and efficiency"
+    ],
+    [
+      "EDAA70 Introduction to Programming Using Python or EDAA80 Introduction to Programming or EDAA81 Introduction to Programming or EDAA85 Introduction to Programming or EDAA90 Introduction to Programming and Databases or TFRE15 Introduction to Programming or TFRE30 Introduction to Programming or EDA011 Programming, First Course or EDA016 Programming, First Course or EDA017 Programming, First Course or EDA501 Programming, First Course or EDAA10 Computer Programming in Java or EDAA20 Programming and Databases or EDAA45 Introduction to Programming or EDAA50 Programming, First Course or EDAA55 Programming, First Course or EDAA65 Programming, First Course or EDAB05 Introduction to Programming"
+    ],
+    [
+      "Provided by the department."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår07/0808/0909/1010/1111/1212/1313/1414/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nProgramming - Second Course\nProgrammeringsteknik - fördjupningskurs\nEDAA01, 7.5 credits, G1 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-02-12\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C1, D1, E2, Pi2\nElective mandatory for: F3, I3, L3, M3\nElective for: B4, BME4-sbh, BR4, K4, MD4, N2, R4, W4\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nThe purpose of the course is to give the students extended knowledge of object-oriented programming techniques and of a selection of algorithms and data structures suitable for solving commonly occurring problems. The course should also provide the skills required to understand and use modern libraries for object-oriented programming.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to define and explain important concepts and language constructs within object-oriented programming.be able to describe abstract data types such as lists, stacks, queues, priority queues, sets and maps and their applications.be able to describe data structures such as linked lists, binary trees, heaps and hash tables and explain how they can be used to implement fundamental abstract data types.\nCompetences and skills\n      For a passing grade the student must\nbe able to apply advanced object-oriented concepts and language constructs in Java.be able to use modern object-oriented standard libraries.be able to identify appropriate abstract data typess, algorithms and data structures for solving a given problem.be able to implement fundamental abstract data types and algorithms in Java.be able to formulate and implement recursive algorithms.be able to write programs with a simple graphical user interface in Java.be able to perform simple tests using a test tool.be able to apply simple techniques for analysing the time complexity of algorithms and estimate their execution time.\nJudgement and approach\n      For a passing grade the student must\nbe able to construct programs which are easy to understand and to modifybe able to evaluate proposed solutions and data representations for given problems with respect to usability and efficiency\nContents\nObject oriented concepts and language constructs such as inheritance, interface, nested classes, exceptions, generics, lambda expressions and streams. Important general interfaces such as Iterable, Comparable and Comparator. Common abstract data types such as lists, stacks, FIFO queues, priority queues, sets, and map sand their corresponding interfaces and classes in the Java API. Data structures such as linked lists, binary trees, heaps, and hash tables, and how they can be used to implement fundamental abstract data types. Recursion as a technique to construct and implement algorithms, techniques such as dynamic programming and backtracking. Orientation on frameworks for graphical user interfaces and event-driven programming. Introduction to using tools for testing. Introduction to techniques for analysing the time complexity of algorithms.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: For final grades, passed programming assignments and an passed digital on-campus exam are required. The final grade for the course is based on the grade of the exam. \n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0126. Name: Programming - Second Course. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nEDAA70 Introduction to Programming Using Python or EDAA80 Introduction to Programming or EDAA81 Introduction to Programming or EDAA85 Introduction to Programming or EDAA90 Introduction to Programming and Databases or TFRE15 Introduction to Programming or TFRE30 Introduction to Programming or EDA011 Programming, First Course or EDA016 Programming, First Course or EDA017 Programming, First Course or EDA501 Programming, First Course or EDAA10 Computer Programming in Java or EDAA20 Programming and Databases or EDAA45 Introduction to Programming or EDAA50 Programming, First Course or EDAA55 Programming, First Course or EDAA65 Programming, First Course or EDAB05 Introduction to Programming\n\nThe number of participants is limited to: No\nKursen överlappar följande kurser: \n        \n          \n            EDA020\n          \n        \n          \n            EDA025\nEDA026\nEDA027\nEDA035\nEDA510\nEDA690\nEDAA30\nTFRD49\n\nReading list\n\nProvided by the department.\n\nContact\n\nCourse coordinator: Univ.adj Anna Axelsson,\n        Anna.Axelsson@cs.lth.se\nCourse homepage: https://fileadmin.cs.lth.se/kursweb/edaa01/\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

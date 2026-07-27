@@ -1,0 +1,71 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Web Security\nWebbsäkerhet",
+    "EITF06, 7.5 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Main field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C3\nElective for: BME5, D4-se, D4-ns, E5, R4\nLanguage of instruction: The course will be given in English on demand",
+    "The course aims at giving the student knowledge about the security problems and solutions that relate to web based technology. Some areas will be addressed in more detail.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Cryptology: time-memory trade-off attacks.",
+    "Web applications security: Security in PHP and MySQL, validation of user data with regular expressions, SQL-injections, cross site scripting, cross site request forgery, directory traversal, file inclusion, session attacks, HTTP response splitting.",
+    "Server security: HTTP server, PHP and MySQL configuration.",
+    "Client Security: Javascript, cookie-security, same-origin policy, CORS.",
+    "Remote login: Basic and digest access authentication.",
+    "Email and Spam: Email security, spamming techniques, spam filters, email tracking, DKIM SPF, DMARC, hashcash.",
+    "DNS Security: DNS configuration, Amplification attacks, DNS cache poisoning, DNS rebinding, DNSSEC.",
+    "A selection of the following topics are also included:",
+    "The course also includes project work, which is summarized in a technical report and presented in a seminar.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Approved project work and mandatory online exam is required to pass the course with grade 3. An additional written exam is required for grade 4 or 5.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0123. Name: Project. \n\nCredits: 3.5. Grading scale: UG - (U, G).\n        \n          Assessment: Passing grade requires an approved written report and an approved oral presentation.\n        \n        \n        \n        \nCode: 0223. Name: Tentamen. \n\nCredits: 4.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Final course grade 3 can be acquired by passing both the project and an online exam. The online exam is compulsory. Course grades 4 and 5 can be acquired through an additional, but optional, written exam.",
+    "Assumed prior knowledge: \n        EITA25 Computer Security, EDA016, EDAA50, EDAA55 Programming, First course, or EDAA45 Introduction to Programming or EDAB05 Introduction to Programming, and EDAF90 Web Programming. The student should be able to set up a database and execute simple SQL-queries.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEITF05",
+    "Course coordinator: Paul Stankovski Wagner,\n        paul.stankovski_wagner@eit.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "Describe how web applications can be realized and how they interact with a web server.",
+      "Describe the different security problems that arise when using web based protocols, applications and servers.",
+      "Describe why the problems arise and how they can be avoided."
+    ],
+    [
+      "Be able to analyze the security problem and be able to propose solutions.",
+      "Show that you understand the technical solutions that are used to avoid a security flaw.",
+      "Show that you understand the security limitations in web based services.",
+      "Be able to write a report of a project result and to present it to an audience."
+    ],
+    [
+      "During the course you have to be prepared to present and discuss your project."
+    ],
+    [
+      "E-cash overview: Blind signatures, blockchain technologies and digital monies, Bitcoin, Ethereum, smart contracts.",
+      "Secure communication: TLS attacks",
+      "Database security: Inference, differential privacy",
+      "Anonymity: Traffic analysis, Chaum's Mix, Tor"
+    ],
+    [
+      "Lecture notes."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår23/2424/2525/2626/27\nCourse syllabus\nWeb Security\nWebbsäkerhet\nEITF06, 7.5 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nMain field:  Technology\n      \n      \n        Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: C3\nElective for: BME5, D4-se, D4-ns, E5, R4\nLanguage of instruction: The course will be given in English on demand\n    \n  \nAim\nThe course aims at giving the student knowledge about the security problems and solutions that relate to web based technology. Some areas will be addressed in more detail.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nDescribe how web applications can be realized and how they interact with a web server.Describe the different security problems that arise when using web based protocols, applications and servers.Describe why the problems arise and how they can be avoided.\nCompetences and skills\n      For a passing grade the student must\nBe able to analyze the security problem and be able to propose solutions.Show that you understand the technical solutions that are used to avoid a security flaw.Show that you understand the security limitations in web based services.Be able to write a report of a project result and to present it to an audience.\nJudgement and approach\n      For a passing grade the student must\nDuring the course you have to be prepared to present and discuss your project.\nContents\nCryptology: time-memory trade-off attacks.\nWeb applications security: Security in PHP and MySQL, validation of user data with regular expressions, SQL-injections, cross site scripting, cross site request forgery, directory traversal, file inclusion, session attacks, HTTP response splitting.\nServer security: HTTP server, PHP and MySQL configuration.\nClient Security: Javascript, cookie-security, same-origin policy, CORS.\nRemote login: Basic and digest access authentication.\nEmail and Spam: Email security, spamming techniques, spam filters, email tracking, DKIM SPF, DMARC, hashcash.\nDNS Security: DNS configuration, Amplification attacks, DNS cache poisoning, DNS rebinding, DNSSEC.\nA selection of the following topics are also included:\n\nE-cash overview: Blind signatures, blockchain technologies and digital monies, Bitcoin, Ethereum, smart contracts.\nSecure communication: TLS attacks\nDatabase security: Inference, differential privacy\nAnonymity: Traffic analysis, Chaum's Mix, Tor\n\nThe course also includes project work, which is summarized in a technical report and presented in a seminar.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Approved project work and mandatory online exam is required to pass the course with grade 3. An additional written exam is required for grade 4 or 5.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0123. Name: Project. \n\nCredits: 3.5. Grading scale: UG - (U, G).\n        \n          Assessment: Passing grade requires an approved written report and an approved oral presentation.\n        \n        \n        \n        \nCode: 0223. Name: Tentamen. \n\nCredits: 4.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Final course grade 3 can be acquired by passing both the project and an online exam. The online exam is compulsory. Course grades 4 and 5 can be acquired through an additional, but optional, written exam.\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        EITA25 Computer Security, EDA016, EDAA50, EDAA55 Programming, First course, or EDAA45 Introduction to Programming or EDAB05 Introduction to Programming, and EDAF90 Web Programming. The student should be able to set up a database and execute simple SQL-queries.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEITF05\n\nReading list\n\nLecture notes.\n\nContact\n\nCourse coordinator: Paul Stankovski Wagner,\n        paul.stankovski_wagner@eit.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/\n\nFurther information\n      When the course is given in Swedish, some parts of the course may still be given in English. All course material is in English.\n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

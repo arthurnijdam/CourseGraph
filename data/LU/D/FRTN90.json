@@ -1,0 +1,73 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Cloud Computing\nMolnsystem",
+    "FRTN90, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-sec, C4-pvt, D4-se, D4-pv, D4-ns, MMSR2\nLanguage of instruction: The course will be given in English",
+    "Understand fundamental concepts within cloud computing and large parallel computer systems, explain their characteristics, and apply them for real-world applications.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Grading scale: UG - (U, G) - (Fail, Pass)\nAssessment:",
+    "Passed home assignments (3) and passed project.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0125. Name: Homework Assignment 1. \n\nCredits: 1.0. Grading scale: UG - (U, G).\n        \n          Assessment: Passed homework.\n        \n        \n          The module includes: Home assignment.\n        \n        \n        \nCode: 0225. Name: Homework Assignment 2. \n\nCredits: 1.0. Grading scale: UG - (U, G).\n        \n          Assessment: Passed homework.\n        \n        \n          The module includes: Home assignment.\n        \n        \n        \nCode: 0325. Name: Homework Assignment 3. \n\nCredits: 1.0. Grading scale: UG - (U, G).\n        \n          Assessment: Passed homework.\n        \n        \n          The module includes: Home assignment.\n        \n        \n        \nCode: 0425. Name: Project. \n\nCredits: 4.5. Grading scale: UG - (U, G).\n        \n          Assessment: Project report and presentation.\n        \n        \n          The module includes: Project definition, implementation, report, and presentation.",
+    "Admission requirements:",
+    "Course coordinator: Johan Eker,\n        johan.eker@control.lth.se\nDirector of studies: Björn Olofsson,\n        bjorn.olofsson@control.lth.se\nExaminator: Johan Eker,\n        johan.eker@control.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/37223",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to show basic knowledge about different kinds of cloud systems and their properties,",
+      "be able to demonstrate basic knowledge about the cloud technology ecosystem,",
+      "be able to reason about about faults, redundancy, and recovery in cloud applications,",
+      "be able to show basic knowledge about the technologies underpinning cloud computing."
+    ],
+    [
+      "be able to use terminology and abstractions for modelling cloud system and characterize their behavior,",
+      "be able to build efficient, secure, and robust cloud applications,",
+      "be able to design, implement, and deploy a real-world cloud application."
+    ],
+    [
+      "be able to reason around properties of cloud systems with respect to performance and security,",
+      "be able to reason around sustainability and resource efficiency,",
+      "show basic understanding of trade-offs and limitations with the concepts and technologies that are used in design of cloud applications."
+    ],
+    [
+      "Overview of the cloud market space and fundamental concepts",
+      "Usage of basic cloud services",
+      "Data center and hardware",
+      "Resource virtualization (CPU, network, and storage)",
+      "Automation and orchestration",
+      "Design principles for micro services and cloud native applications",
+      "Hands-on experience with standard tools, e.g., Kubernetes",
+      "DevOps-principles"
+    ],
+    [
+      "EDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course"
+    ],
+    [
+      "Dan C. Marinescu: Cloud Computing - Theory and Practice. Boston: Morgan Kaufmann, 2022, ISBN: 9780323852777.",
+      "Brendan Burns, Joe Beda, Kelsey Hightower, Lachlan Evenson: Kubernetes - Up and Running (3rd ed.). 2022, ISBN: 9781098110208.",
+      "Luiz Andre Barroso, Urs Holzle, Parthasarathy Ranganathan, and Margaret Martonosi: The Datacenter As a Computer: Designing Warehouse-scale Machines (3rd ed.). Morgan & Claypool Publishers, 2018."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår25/2626/27\nCourse syllabus\nCloud Computing\nMolnsystem\nFRTN90, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED F/Pi\nDate of Decision: 2026-04-14\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-sec, C4-pvt, D4-se, D4-pv, D4-ns, MMSR2\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nUnderstand fundamental concepts within cloud computing and large parallel computer systems, explain their characteristics, and apply them for real-world applications.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to show basic knowledge about different kinds of cloud systems and their properties,be able to demonstrate basic knowledge about the cloud technology ecosystem, be able to reason about about faults, redundancy, and recovery in cloud applications, be able to show basic knowledge about the technologies underpinning cloud computing.\nCompetences and skills\n      For a passing grade the student must\nbe able to use terminology and abstractions for modelling cloud system and characterize their behavior,be able to build efficient, secure, and robust cloud applications,be able to design, implement, and deploy a real-world cloud application.\nJudgement and approach\n      For a passing grade the student must\nbe able to reason around properties of cloud systems with respect to performance and security,be able to reason around sustainability and resource efficiency,show basic understanding of trade-offs and limitations with the concepts and technologies that are used in design of cloud applications.\nContents\nOverview of the cloud market space and fundamental conceptsUsage of basic cloud servicesData center and hardwareResource virtualization (CPU, network, and storage)Automation and orchestrationDesign principles for micro services and cloud native applicationsHands-on experience with standard tools, e.g., KubernetesDevOps-principles\nExamination details\n\nGrading scale: UG - (U, G) - (Fail, Pass)\nAssessment: Passed home assignments (3) and passed project.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0125. Name: Homework Assignment 1. \n\nCredits: 1.0. Grading scale: UG - (U, G).\n        \n          Assessment: Passed homework.\n        \n        \n          The module includes: Home assignment.\n        \n        \n        \nCode: 0225. Name: Homework Assignment 2. \n\nCredits: 1.0. Grading scale: UG - (U, G).\n        \n          Assessment: Passed homework.\n        \n        \n          The module includes: Home assignment.\n        \n        \n        \nCode: 0325. Name: Homework Assignment 3. \n\nCredits: 1.0. Grading scale: UG - (U, G).\n        \n          Assessment: Passed homework.\n        \n        \n          The module includes: Home assignment.\n        \n        \n        \nCode: 0425. Name: Project. \n\nCredits: 4.5. Grading scale: UG - (U, G).\n        \n          Assessment: Project report and presentation.\n        \n        \n          The module includes: Project definition, implementation, report, and presentation.  \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nEDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course\n\nAssumed prior knowledge: \n        EDAF90 Web Programming and EITA25 Computer Security and (EITF45 Computer Communication or ETSF10 Internet Protocols)\n        \nThe number of participants is limited to: 100\nSelection: Completed university credits within the programme. Priority is given to students enrolled on programmes that include the course in their curriculum.\n\nReading list\n\nDan C. Marinescu: Cloud Computing - Theory and Practice. Boston: Morgan Kaufmann, 2022, ISBN: 9780323852777.\nBrendan Burns, Joe Beda, Kelsey Hightower, Lachlan Evenson: Kubernetes - Up and Running (3rd ed.). 2022, ISBN: 9781098110208.\nLuiz Andre Barroso, Urs Holzle, Parthasarathy Ranganathan, and Margaret Martonosi: The Datacenter As a Computer: Designing Warehouse-scale Machines (3rd ed.). Morgan & Claypool Publishers, 2018.\n\nContact\n\nCourse coordinator: Johan Eker,\n        johan.eker@control.lth.se\nDirector of studies: Björn Olofsson,\n        bjorn.olofsson@control.lth.se\nExaminator: Johan Eker,\n        johan.eker@control.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/37223\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

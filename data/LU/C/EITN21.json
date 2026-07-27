@@ -1,0 +1,55 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Project in Wireless Communication\nProjekt i trådlös kommunikation",
+    "EITN21, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED E\nDate of Decision: 2026-04-09",
+    "Main field:  Communication Systems\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: MWIR1\nElective for: C4-ks, D4, E4-tk\nLanguage of instruction: The course will be given in English",
+    "The aim is to, through project work, give a comprehensive view of how the different building blocks in a wireless communication system work and interact. The students should after the course be able to simulate and prototype a wireless communication system built from different sub-blocks including both the physical layer and basic control mechanisms. They should thereby get a good understanding of how the performance of a communication system can be evaluated through simulations and how these simulations can be used in the system design process.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "The main part of the course is a project where the students in groups analyse, implement, simulate and test a wireless communication system over the audio channel and the radio channel. The project requires that knowledge from other courses in the same area is combined and contains literature studies of both recommended and external material, implementation, simulation and test. The lectures and exercises work like a direct introduction to the project, while the main part of the course consists of project work. At the end of the course the project is disseminated both orally and through a project report.",
+    "Grading scale: UG - (U, G) - (Fail, Pass)\nAssessment: Assignments, written project report and oral presentation of the project work.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0118. Name: Project in Wireless Communication. \n\nCredits: 4.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved project report and oral presentation\n        \n        \n          The module includes: Oral project presentation and written project report\n        \n        \n        \nCode: 0218. Name: Assignment. \n\nCredits: 3.0. Grading scale: UG - (U, G).\n        \n          Assessment: Approved assignments and oral presentation\n        \n        \n          The module includes: Oral project presentation and written project report",
+    "Assumed prior knowledge: \n        EITG05 Digital communication\nETTN01 Digital Communications, Advanced Course\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEITN15\nEITN20",
+    "Course coordinator: Fredrik Tufvesson,\n        fredrik.tufvesson@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/eitn21",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "have an understanding of the properties of the building blocks and their interaction in a complete wireless communication system. An important part is the understanding that different technology choices often lead to compromises where all desired properties not can be achieved simultaneously.",
+      "be familiar with different techniques for simulating or by other means evaluating the performance of system proposals in comparative studies."
+    ],
+    [
+      "be able to analyze and describe the properties of a sub-block in a wireless communication system, and from this suggest a suitable implementation method.",
+      "be able to construct a radio communication system by using these blocks.",
+      "be able to prototype a wireless communication link from a given project description."
+    ],
+    [
+      "Have a comprehensive view of how the different sub-blocks in a wireless communication link interact with other.",
+      "Feel confident in the ability to understand, analyse and describe the properties of a communication system in order to evaluate and verify their performance."
+    ],
+    [
+      "Collins, Travis F; Getz, Robin; Pu, Di; Wyglinski, Alexander M: Software-Defined Radio for Engineers. Analog Devices/Artech House, 2018, ISBN: 978-1-63081-457-1."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår13/1414/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nProject in Wireless Communication\nProjekt i trådlös kommunikation\nEITN21, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED E\nDate of Decision: 2026-04-09\n    \n  \nGeneral Information\n\nMain field:  Communication Systems\n      \n      \n        Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nMandatory for: MWIR1\nElective for: C4-ks, D4, E4-tk\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThe aim is to, through project work, give a comprehensive view of how the different building blocks in a wireless communication system work and interact. The students should after the course be able to simulate and prototype a wireless communication system built from different sub-blocks including both the physical layer and basic control mechanisms. They should thereby get a good understanding of how the performance of a communication system can be evaluated through simulations and how these simulations can be used in the system design process.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nhave an understanding of the properties of the building blocks and their interaction in a complete wireless communication system. An important part is the understanding that different technology choices often lead to compromises where all desired properties not can be achieved simultaneously.be familiar with different techniques for simulating or by other means evaluating the performance of system proposals in comparative studies.\nCompetences and skills\n      For a passing grade the student must\nbe able to analyze and describe the properties of a sub-block in a wireless communication system, and from this suggest a suitable implementation method.be able to construct a radio communication system by using these blocks.be able to prototype a wireless communication link from a given project description.\nJudgement and approach\n      For a passing grade the student must\nHave a comprehensive view of how the different sub-blocks in a wireless communication link interact with other.Feel confident in the ability to understand, analyse and describe the properties of a communication system in order to evaluate and verify their performance.\nContents\nThe main part of the course is a project where the students in groups analyse, implement, simulate and test a wireless communication system over the audio channel and the radio channel. The project requires that knowledge from other courses in the same area is combined and contains literature studies of both recommended and external material, implementation, simulation and test. The lectures and exercises work like a direct introduction to the project, while the main part of the course consists of project work. At the end of the course the project is disseminated both orally and through a project report.\nExamination details\n\nGrading scale: UG - (U, G) - (Fail, Pass)\nAssessment: Assignments, written project report and oral presentation of the project work.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0118. Name: Project in Wireless Communication. \n\nCredits: 4.5. Grading scale: UG - (U, G).\n        \n          Assessment: Approved project report and oral presentation\n        \n        \n          The module includes: Oral project presentation and written project report\n        \n        \n        \nCode: 0218. Name: Assignment. \n\nCredits: 3.0. Grading scale: UG - (U, G).\n        \n          Assessment: Approved assignments and oral presentation\n        \n        \n          The module includes: Oral project presentation and written project report\n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        EITG05 Digital communication\nETTN01 Digital Communications, Advanced Course\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEITN15\nEITN20\n\nReading list\n\nCollins, Travis F; Getz, Robin; Pu, Di; Wyglinski, Alexander M: Software-Defined Radio for Engineers. Analog Devices/Artech House, 2018, ISBN: 978-1-63081-457-1.\n\nContact\n\nCourse coordinator: Fredrik Tufvesson,\n        fredrik.tufvesson@eit.lth.se\nCourse homepage: https://www.eit.lth.se/course/eitn21\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

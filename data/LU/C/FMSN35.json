@@ -1,0 +1,59 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Stationary and Non-stationary Spectral Analysis\nStationär och icke-stationär spektralanalys",
+    "FMSN35, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED I\nDate of Decision: 2026-04-13",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4, C4, D4, E4, F4, F4-ss, I4, Pi4-ssr\nLanguage of instruction: The course will be given in English",
+    "This course is aimed at those who want to broaden and deepen their knowledge in statistical signal processing and expand their toolkit with more advanced techniques. It lies on the border between statistics and signal processing and builds on the classical non-parametric methods that are well-known and taught in, e.g. Stationary stochastic processes or Optimal signal processing. Since these methods are not always sufficient we need more advanced techniques in many application areas, e.g. communications or medicine.",
+    "Hence, the course covers more statistically robust methods that have become increasingly used in resent years, e.g. time-frequency analysis, which is a modern method for analysis of non-stationary signals and processes. The research in this area has expanded during the last 20 years, making this a commonly used tool.",
+    "Many applications will be presented in the course and the participants will work with real world data.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Basic definitions. Extended studies of AR (auto regressive),  MA (moving average) och ARMA-processes. Linespectra and parametric estimation methods. Noise-space based techniques. Non-parametric spectral estimators, data-adaptive techniques and multitaper methods. Non-uniform sampling. Orientation of circular and non-circular processes. Spatial spectral analysis. Non-stationary processes. Spectrogram. Wigner-Ville distribution. Cohen class. Ambiguity spectrum. Multitaper techniques for non-stationary signals. Orientation about bispectrum.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "Approved assignments and project report as well as participation in all compulsory parts. The final grade is given by a summary of the results on the assignments and the written and oral project report.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0116. Name: Computer Exercises. \n\nCredits: 3.0. Grading scale: UG - (U, G).\n        \n          Assessment: Project with written and oral report\n        \n        \n        \n        \nCode: 0216. Name: Assignments Part 1. \n\nCredits: 1.0. Grading scale: UG - (U, G).\n        \n          Assessment: The first home assignment\n        \n        \n        \n        \nCode: 0316. Name: Assignments Part 2. \n\nCredits: 3.5. Grading scale: UG - (U, G).\n        \n          Assessment: The rest of the home assignments",
+    "Admission requirements:",
+    "Director of studies: Johan Lindström,\n        studierektor@matstat.lu.se\nCourse administrator: Susann Nordqvist,\n        expedition@matstat.lu.se\nExaminator: Andreas Jakobsson,\n        andreas.jakobsson@matstat.lu.se\nExaminator: Johan Lindström,\n        johan.lindstrom@matstat.lu.se\nExaminator: Magnus Wiktorsson,\n        magnus.wiktorsson@matstat.lu.se\nExaminator: Maria Sandsten,\n        maria.sandsten@matstat.lu.se\nCourse homepage: https://www.maths.lu.se/utbildning/civilingenjoersutbildning/matematisk-statistik-paa-civilingenjoersprogram/",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "interpret and understand parametric and non-parametric spectral estimation methods.",
+      "interpret and understand spatial spectral analysis and classical estimation techniques of directions.",
+      "interpret and understand time-frequency analysis and classical estimation techniques of non-stationary spectra."
+    ],
+    [
+      "be able to estimate classical parametric and non-parametric spectral estimates.",
+      "be able to estimate spectra of non-uniformly sampled sequences.",
+      "be able to use classical time-frequency methods for estimation."
+    ],
+    [
+      "FMSF10 Stationary Stochastic Processes or FMSN45 Mathematical Statistics, Time Series Analysis"
+    ],
+    [
+      "P. Stoica and R. Moses: Spectral analysis of signals. Prentice-Hall, 2005, ISBN: 0-13-113956-8.",
+      "M. Sandsten: Lecture notes - Time-frequency analysis. 2011."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår12/1313/1414/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nStationary and Non-stationary Spectral Analysis\nStationär och icke-stationär spektralanalys\nFMSN35, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED I\nDate of Decision: 2026-04-13\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4, C4, D4, E4, F4, F4-ss, I4, Pi4-ssr\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nThis course is aimed at those who want to broaden and deepen their knowledge in statistical signal processing and expand their toolkit with more advanced techniques. It lies on the border between statistics and signal processing and builds on the classical non-parametric methods that are well-known and taught in, e.g. Stationary stochastic processes or Optimal signal processing. Since these methods are not always sufficient we need more advanced techniques in many application areas, e.g. communications or medicine.Hence, the course covers more statistically robust methods that have become increasingly used in resent years, e.g. time-frequency analysis, which is a modern method for analysis of non-stationary signals and processes. The research in this area has expanded during the last 20 years, making this a commonly used tool.Many applications will be presented in the course and the participants will work with real world data. \nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\ninterpret and understand parametric and non-parametric spectral estimation methods.interpret and understand spatial spectral analysis and classical estimation techniques of directions.interpret and understand time-frequency analysis and classical estimation techniques of non-stationary spectra.\nCompetences and skills\n      For a passing grade the student must\nbe able to estimate classical parametric and non-parametric spectral estimates.be able to estimate spectra of non-uniformly sampled sequences.be able to use classical time-frequency methods for estimation.\nContents\nBasic definitions. Extended studies of AR (auto regressive),  MA (moving average) och ARMA-processes. Linespectra and parametric estimation methods. Noise-space based techniques. Non-parametric spectral estimators, data-adaptive techniques and multitaper methods. Non-uniform sampling. Orientation of circular and non-circular processes. Spatial spectral analysis. Non-stationary processes. Spectrogram. Wigner-Ville distribution. Cohen class. Ambiguity spectrum. Multitaper techniques for non-stationary signals. Orientation about bispectrum.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: Approved assignments and project report as well as participation in all compulsory parts. The final grade is given by a summary of the results on the assignments and the written and oral project report.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0116. Name: Computer Exercises. \n\nCredits: 3.0. Grading scale: UG - (U, G).\n        \n          Assessment: Project with written and oral report\n        \n        \n        \n        \nCode: 0216. Name: Assignments Part 1. \n\nCredits: 1.0. Grading scale: UG - (U, G).\n        \n          Assessment: The first home assignment\n        \n        \n        \n        \nCode: 0316. Name: Assignments Part 2. \n\nCredits: 3.5. Grading scale: UG - (U, G).\n        \n          Assessment: The rest of the home assignments\n        \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nFMSF10 Stationary Stochastic Processes or FMSN45 Mathematical Statistics, Time Series Analysis\n\nAssumed prior knowledge: \n        FMSN45 Time series analysis\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \n        \n          \n            MASM26\n          \n        \n      \n    \nReading list\n\nP. Stoica and R. Moses: Spectral analysis of signals. Prentice-Hall, 2005, ISBN: 0-13-113956-8.\nM. Sandsten: Lecture notes - Time-frequency analysis. 2011.\n\nContact\n\nDirector of studies: Johan Lindström,\n        studierektor@matstat.lu.se\nCourse administrator: Susann Nordqvist,\n        expedition@matstat.lu.se\nExaminator: Andreas Jakobsson,\n        andreas.jakobsson@matstat.lu.se\nExaminator: Johan Lindström,\n        johan.lindstrom@matstat.lu.se\nExaminator: Magnus Wiktorsson,\n        magnus.wiktorsson@matstat.lu.se\nExaminator: Maria Sandsten,\n        maria.sandsten@matstat.lu.se\nCourse homepage: https://www.maths.lu.se/utbildning/civilingenjoersutbildning/matematisk-statistik-paa-civilingenjoersprogram/\n\nFurther information\n      The course is also given at the Science faculty with the code MASM26\n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

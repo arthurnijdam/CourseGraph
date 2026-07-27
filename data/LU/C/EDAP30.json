@@ -1,0 +1,75 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Advanced Applied Machine Learning \nAvancerad tillämpad maskininlärning",
+    "EDAP30, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4, C4-pvs, C4-pvt, D4-bg, D4-mai, E4-mi, F4, MSOC2, Pi4\nLanguage of instruction: The course will be given in English",
+    "To give a deep understanding of modern area machine learning topics, in particular related to generative models, language models, reinforcement learning, and Bayesian optimization. The focus is on learning to implement and use the methods first-hand in addition to understanding the theory.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Main topics, to be introduced and discussed on advanced level",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: (Laboratory / project) Assignments / hand-ins and optional written exam. Completed assignments result in a pass (mark 3), better grades can be achieved through participation in the optional written exam. There is the possibility of a bonus point system, which means that answering specific parts of the assignments in addition to the general part can generate bonus points when participating in the written exam.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0122. Name: Advanced Applied Machine Learning . \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: To qualify for a passing grade (3) all assignments must be completed.\nWith passing all assignments a student qualifies for participation in an optional exam, which gives opportunity to improve the course mark, i.e. if a 4 or 5 is achieved in the written exam, this will be the overall mark for the course.\n        \n        \n          The module includes: Project/laboratory tasks and assignments (passing all assignments is required for passing the course).\nOptional written exam.",
+    "Admission requirements:",
+    "Course coordinator: Davide Tateo,\n        davide.tateo@cs.lth.se\nCourse coordinator: Elin A. Topp,\n        elin_a.topp@cs.lth.se\nTeacher: Erik Hellsten,\n        erik.hellsten@cs.lth.se\nTeacher: Marcus Klang,\n        marcus.klang@cs.lth.se\nTeacher: Xuan-Son Vu,\n        xuan-son.vu@cs.lth.se\nCourse homepage: https://cs.lth.se/edap30/",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "display advanced knowledge concerning theories, methods and applications related to the following subdomains: neural networks, including convolutional neural networks, recurrent neural networks and deep learning",
+      "display advanced knowledge concerning theories, methods and applications related to the following subdomains: Generative models",
+      "display advanced knowledge concerning theories, methods and applications related to the following subdomains: reinforcement learning",
+      "display advanced knowledge concerning theories, methods and applications related to the following subdomains: Gaussian processes",
+      "display advanced knowledge concerning theories, methods and applications related to the following subdomains: Bayesian optimization"
+    ],
+    [
+      "complete a number of assignments based on problems related to at least some of the previously mentioned subdomains and demonstrate the ability to: evaluate and prepare the necessary data",
+      "complete a number of assignments based on problems related to at least some of the previously mentioned subdomains and demonstrate the ability to: select / implement and train a model",
+      "complete a number of assignments based on problems related to at least some of the previously mentioned subdomains and demonstrate the ability to: evaluate the outcome and fine-tune the model",
+      "complete a number of assignments based on problems related to at least some of the previously mentioned subdomains and demonstrate the ability to: model a problem as a Markov Decision Process and optimise a policy using Reinforcement Learning"
+    ],
+    [
+      "be able to judge suitability of a given machine learning method to a given problem,",
+      "understand limitations of applicability of machine learning methods"
+    ],
+    [
+      "neural networks, including convolutional neural networks, recurrent neural networks and Transformers",
+      "Generative models",
+      "Bayesian learning",
+      "Gaussian processes",
+      "Bayesian optimization",
+      "Reinforcement learning"
+    ],
+    [
+      "At least 150 credits(hp) in the engineering programme or equivalent previous education. EDAA01 Programming - Second Course and (BMEN35 Data-driven Health or EDAN96 Applied Machine Learning module: Code: 0124. Name: Compulsory Course Items or FMAN45 Machine Learning)."
+    ],
+    [
+      "Kevin P. Murphy: Machine Learning - A Probabilistic Perspective. MIT Press, 2012, ISBN: 9780262018029. Reference text about machine learning.",
+      "Richard S. Sutton and Andrew G. Barto: Reinforcement Learning: An Introduction. MIT Press Ltd, 2018, ISBN: 9780262039246. Reference text about Reinforcement Learning / Action Learning.",
+      "Ian Goodfellow, Yoshua Bengio, Aaron Courville: Deep Learning. MIT Press, 2016, ISBN: 9780262035613. Reference text on deep learning.",
+      "A. Lindholm, N. Wahlström, F. Lindsten, T.B. Schön: Machine Learning - A First Course for Engineers and Scientists. Cambridge University Press, 2022, ISBN: 978-1-108-84360-7. Reference text about machine learning.",
+      "C. E. Rasmussen and  C. K. I. Williams: Gaussian Processes for Machine Learning. MIT Press, 2006, ISBN: 026218253X. Reference text on Gaussian Processes."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår22/2323/2424/2525/2626/27\nCourse syllabus\nAdvanced Applied Machine Learning \nAvancerad tillämpad maskininlärning\nEDAP30, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: BME4, C4-pvs, C4-pvt, D4-bg, D4-mai, E4-mi, F4, MSOC2, Pi4\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nTo give a deep understanding of modern area machine learning topics, in particular related to generative models, language models, reinforcement learning, and Bayesian optimization. The focus is on learning to implement and use the methods first-hand in addition to understanding the theory.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\ndisplay advanced knowledge concerning theories, methods and applications related to the following subdomains: neural networks, including convolutional neural networks, recurrent neural networks and deep learningdisplay advanced knowledge concerning theories, methods and applications related to the following subdomains: Generative modelsdisplay advanced knowledge concerning theories, methods and applications related to the following subdomains: reinforcement learningdisplay advanced knowledge concerning theories, methods and applications related to the following subdomains: Gaussian processesdisplay advanced knowledge concerning theories, methods and applications related to the following subdomains: Bayesian optimization\nCompetences and skills\n      For a passing grade the student must\ncomplete a number of assignments based on problems related to at least some of the previously mentioned subdomains and demonstrate the ability to: evaluate and prepare the necessary datacomplete a number of assignments based on problems related to at least some of the previously mentioned subdomains and demonstrate the ability to: select / implement and train a modelcomplete a number of assignments based on problems related to at least some of the previously mentioned subdomains and demonstrate the ability to: evaluate the outcome and fine-tune the modelcomplete a number of assignments based on problems related to at least some of the previously mentioned subdomains and demonstrate the ability to: model a problem as a Markov Decision Process and optimise a policy using Reinforcement Learning\nJudgement and approach\n      For a passing grade the student must\nbe able to judge suitability of a given machine learning method to a given problem,understand limitations of applicability of machine learning methods\nContents\nMain topics, to be introduced and discussed on advanced levelneural networks, including convolutional neural networks, recurrent neural networks and TransformersGenerative modelsBayesian learningGaussian processesBayesian optimizationReinforcement learning\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: (Laboratory / project) Assignments / hand-ins and optional written exam. Completed assignments result in a pass (mark 3), better grades can be achieved through participation in the optional written exam. There is the possibility of a bonus point system, which means that answering specific parts of the assignments in addition to the general part can generate bonus points when participating in the written exam.\n    \nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0122. Name: Advanced Applied Machine Learning . \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: To qualify for a passing grade (3) all assignments must be completed.\nWith passing all assignments a student qualifies for participation in an optional exam, which gives opportunity to improve the course mark, i.e. if a 4 or 5 is achieved in the written exam, this will be the overall mark for the course.\n        \n        \n          The module includes: Project/laboratory tasks and assignments (passing all assignments is required for passing the course).\nOptional written exam. \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nAt least 150 credits(hp) in the engineering programme or equivalent previous education. EDAA01 Programming - Second Course and (BMEN35 Data-driven Health or EDAN96 Applied Machine Learning module: Code: 0124. Name: Compulsory Course Items or FMAN45 Machine Learning).\n\nAssumed prior knowledge: \n        Fundamentals of machine learning including respective areas of mathematics (linear algebra, statistics, probability theory)\n        \nThe number of participants is limited to: 50\nSelection: Completed university credits within the program incl credited such. Cut-off date for inclusion of credits in the ranking is the day after the enrolment period ends, if nothing else is published on the course website. Priority is given to students enrolled in programmes that include the course in their curriculum.\nKursen överlappar följande kurser: \nEDAN95\n\nReading list\n\nKevin P. Murphy: Machine Learning - A Probabilistic Perspective. MIT Press, 2012, ISBN: 9780262018029. Reference text about machine learning.\nRichard S. Sutton and Andrew G. Barto: Reinforcement Learning: An Introduction. MIT Press Ltd, 2018, ISBN: 9780262039246. Reference text about Reinforcement Learning / Action Learning.\nIan Goodfellow, Yoshua Bengio, Aaron Courville: Deep Learning. MIT Press, 2016, ISBN: 9780262035613. Reference text on deep learning.\nA. Lindholm, N. Wahlström, F. Lindsten, T.B. Schön: Machine Learning - A First Course for Engineers and Scientists. Cambridge University Press, 2022, ISBN: 978-1-108-84360-7. Reference text about machine learning.\nC. E. Rasmussen and  C. K. I. Williams: Gaussian Processes for Machine Learning. MIT Press, 2006, ISBN: 026218253X. Reference text on Gaussian Processes.\n\nContact\n\nCourse coordinator: Davide Tateo,\n        davide.tateo@cs.lth.se\nCourse coordinator: Elin A. Topp,\n        elin_a.topp@cs.lth.se\nTeacher: Erik Hellsten,\n        erik.hellsten@cs.lth.se\nTeacher: Marcus Klang,\n        marcus.klang@cs.lth.se\nTeacher: Xuan-Son Vu,\n        xuan-son.vu@cs.lth.se\nCourse homepage: https://cs.lth.se/edap30/\n\nFurther information\n      Detailed rules concerning the assignments will be found in the course web site.\nAdditional course literature will be announced and made available at course start.\n\n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

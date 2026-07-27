@@ -1,0 +1,60 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Digital Accessibility\nDigital tillgänglighet",
+    "TNSN05, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED ID\nDate of Decision: 2026-03-24",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-adv, D5-se, D5-bg\nLanguage of instruction: The course will be given in Swedish",
+    "The purpose of the course is for the students to gain knowledge and skills to be able to develop more accessible products and services according to Swedish legislation which is based on the EU's accessibility directive.",
+    "Diversity and inclusion are part of sustainable development, and link to several of the goals in Agenda 2030, eg 3: good health and well-being, goal 4: good education for all, goal 5: gender equality, goal 8: decent work and economic growth, goal 10: reducing inequality, goal 11: sustainable cities and communities, goal 16: peaceful and inclusive communities.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Guest lectures by people with disabilities.",
+    "Lectures on the EU standard EN 301 549 \"Accessibility requirements for ICT products and services\" which includes the Web Content Accessibility Guidelines (WCAG 2.1).",
+    "Practical tasks where accessibility is made visible, and reflection essays built on the tasks.",
+    "A programming project where some of the accessibility requirements must be applied. The project is carried out in pairs.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "At least 75% attendance at the guest lectures by people with disabilities.",
+    "Approved laborations with short reflection essays.",
+    "Approved programming project.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0124. Name: Guest Lectures and Laboratories. \n\nCredits: 3.5. Grading scale: UG - (U, G).\n        \n          Assessment: 75 % attendence at guest lectures. Approved laborations.\n        \n        \n          The module includes: Guest lectures. Laborations.\n        \n        \n        \nCode: 0224. Name: Project. \n\nCredits: 4.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved programming project.",
+    "Assumed prior knowledge: \n        EDAF90 Web Programming\n        \nThe number of participants is limited to: No\nThe course might be cancelled:  if the number of applicants is less than 12.",
+    "Course coordinator: Kirsten Rassmus-Gröhn,\n        kirsten.rassmus-grohn@design.lth.se\nTeacher: Stefan Johansson,\n        stefan.johansson@design.lth.se\nDirector of studies: Christofer Rydenfält,\n        christofer.rydenfalt@design.lth.se",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "be able to explain the structure and parts of the content of the EU standard EN 301 549 \"Accessibility requirements for ICT products and services\".",
+      "be able to reflect on the connection between the content of the EU standard EN 301 549 and its importance for people with disabilities when using digital products and services."
+    ],
+    [
+      "be able to develop a digital product or service that meets parts of the EU standard EN 301 549 \"Accessibility requirements for ICT products and services\" which includes the Web Content Accessibility Guidelines (WCAG 2.1)."
+    ],
+    [
+      "be able to account for why the accessibility directive could be important for an inclusive society."
+    ],
+    [
+      "Yeliz Yesilada, Simon Harper: Web Accessibility - A Foundation for Research. Springer, 2019, ISBN: 978-1-4471-7439-4. Optional literature.https://link.springer.com/book/10.1007/978-1-4471-7440-0",
+      "ETSI CEN CENELEC: EU-standarden EN 301 549, V3.2.1 (2021-03), ”Accessibility requirements for ICT products and services”. 2021. Available at Lund University.https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf"
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår24/2525/2626/27\nCourse syllabus\nDigital Accessibility\nDigital tillgänglighet\nTNSN05, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED ID\nDate of Decision: 2026-03-24\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-adv, D5-se, D5-bg\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nThe purpose of the course is for the students to gain knowledge and skills to be able to develop more accessible products and services according to Swedish legislation which is based on the EU's accessibility directive.Diversity and inclusion are part of sustainable development, and link to several of the goals in Agenda 2030, eg 3: good health and well-being, goal 4: good education for all, goal 5: gender equality, goal 8: decent work and economic growth, goal 10: reducing inequality, goal 11: sustainable cities and communities, goal 16: peaceful and inclusive communities.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\nbe able to explain the structure and parts of the content of the EU standard EN 301 549 \"Accessibility requirements for ICT products and services\".be able to reflect on the connection between the content of the EU standard EN 301 549 and its importance for people with disabilities when using digital products and services.\nCompetences and skills\n      For a passing grade the student must\nbe able to develop a digital product or service that meets parts of the EU standard EN 301 549 \"Accessibility requirements for ICT products and services\" which includes the Web Content Accessibility Guidelines (WCAG 2.1).\nJudgement and approach\n      For a passing grade the student must\nbe able to account for why the accessibility directive could be important for an inclusive society.\nContents\nGuest lectures by people with disabilities.Lectures on the EU standard EN 301 549 \"Accessibility requirements for ICT products and services\" which includes the Web Content Accessibility Guidelines (WCAG 2.1).Practical tasks where accessibility is made visible, and reflection essays built on the tasks.A programming project where some of the accessibility requirements must be applied. The project is carried out in pairs.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: At least 75% attendance at the guest lectures by people with disabilities.Approved laborations with short reflection essays.Approved programming project.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0124. Name: Guest Lectures and Laboratories. \n\nCredits: 3.5. Grading scale: UG - (U, G).\n        \n          Assessment: 75 % attendence at guest lectures. Approved laborations.\n        \n        \n          The module includes: Guest lectures. Laborations.\n        \n        \n        \nCode: 0224. Name: Project. \n\nCredits: 4.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved programming project.\n        \n        \n        \n        \n\nAdmission\n\nAssumed prior knowledge: \n        EDAF90 Web Programming\n        \nThe number of participants is limited to: No\nThe course might be cancelled:  if the number of applicants is less than 12.\n\nReading list\n\nYeliz Yesilada, Simon Harper: Web Accessibility - A Foundation for Research. Springer, 2019, ISBN: 978-1-4471-7439-4. Optional literature.https://link.springer.com/book/10.1007/978-1-4471-7440-0\nETSI CEN CENELEC: EU-standarden EN 301 549, V3.2.1 (2021-03), ”Accessibility requirements for ICT products and services”. 2021. Available at Lund University.https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf\n\nContact\n\nCourse coordinator: Kirsten Rassmus-Gröhn,\n        kirsten.rassmus-grohn@design.lth.se\nTeacher: Stefan Johansson,\n        stefan.johansson@design.lth.se\nDirector of studies: Christofer Rydenfält,\n        christofer.rydenfalt@design.lth.se\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

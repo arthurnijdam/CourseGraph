@@ -1,0 +1,93 @@
+{
+  "title": "Studiegids — Study Guide / Systems Security",
+  "headings": [
+    "Systems Security",
+    "Description",
+    "Learning objectives",
+    "Teaching method",
+    "Contact hours per week",
+    "Assessment",
+    "Literature and Course materials",
+    "Expected prior knowledge",
+    "Quick overview"
+  ],
+  "paragraphs": [
+    "Description",
+    "The\n course overviews principles, concepts, methods, and best practices in \ncomputer systems security. The students will obtain the necessary \nbackground and hands-on experience to design secure computer systems, \nstudy attacks and defense methods in computer systems, develop and test \ncode to explore vulnerabilities, and apply practical defenses against \nsoftware and hardware attacks. Topics covered in the course include:",
+    "Hardware primitives",
+    "Operating systems abstractions",
+    "System-level attacks and defenses",
+    "Secure systems engineering",
+    "Learning objectives",
+    "At the end of this course, the student is able to:",
+    "Study security architecture of computer systems.",
+    "Analyse security issues of a specific operating system.",
+    "Develop skills in exploiting vulnerabilities of computer systems.",
+    "Develop counter measures against exploitation of computer systems.",
+    "Design secure computer systems.",
+    "Teaching method",
+    "Lectures and lab assignments",
+    "6 hours per week in total:",
+    "2h of lectures/week",
+    "2 x 2h of lab/week",
+    "Assessment",
+    "The final grade of the course consists of the following components:",
+    "Written Exam (weighting 50%)",
+    "Group Assignment 1: Lab assignment on code scanning (weighting 10%)",
+    "Group Assignment 2: Lab assignment on Finding Gadgets (weighting 10%)",
+    "Group Assignment 3: Lab assignment on Systems Call Interposition (weighting 10%)",
+    "Group Project: research project in systems security (weighting 20%)",
+    "Final\n grade calculation = 0.5 Written Exam + 0.1 * Group Assignment 1 + 0.1 *\n Group Assignment 2 + 0.1 * Group Assignment 3 + 0.2 * Group project",
+    "A\n passing final grade for the course can only be earned when for all \ncomponents at least a 5.0 is earned, and the weighted final grade is at \nleast a 5.8.",
+    "In case of an insufficient final result, repair \noptions may exist in accordance with Article 17A, Times and number of \nexaminations, sub 1, of the Teaching and Examination Regulations, for:",
+    "Written Exam: Resit opportunity",
+    "Group Assignment 1: Repair opportunity",
+    "Group Assignment 2: Repair opportunity",
+    "Group Assignment 3: Repair opportunity",
+    "Group Project: Repair opportunity",
+    "Disclaimer: information may change depending on unforeseen circumstances or measures (see: TER Art 2, sub 5).",
+    "Literature and Course materials",
+    "Lecture slides, \"Computer Security: Principles and Practice\", William Stallings, Pearson",
+    "Expected prior knowledge",
+    "Required: Operating Systems (CSE2430), Computer Organization (CSE1400)"
+  ],
+  "lists": [
+    [
+      "Hardware primitives",
+      "Operating systems abstractions",
+      "System-level attacks and defenses",
+      "Secure systems engineering"
+    ],
+    [
+      "Study security architecture of computer systems.",
+      "Analyse security issues of a specific operating system.",
+      "Develop skills in exploiting vulnerabilities of computer systems.",
+      "Develop counter measures against exploitation of computer systems.",
+      "Design secure computer systems."
+    ],
+    [
+      "2h of lectures/week",
+      "2 x 2h of lab/week"
+    ],
+    [
+      "Written Exam (weighting 50%)",
+      "Group Assignment 1: Lab assignment on code scanning (weighting 10%)",
+      "Group Assignment 2: Lab assignment on Finding Gadgets (weighting 10%)",
+      "Group Assignment 3: Lab assignment on Systems Call Interposition (weighting 10%)",
+      "Group Project: research project in systems security (weighting 20%)"
+    ],
+    [
+      "Written Exam: Resit opportunity",
+      "Group Assignment 1: Repair opportunity",
+      "Group Assignment 2: Repair opportunity",
+      "Group Assignment 3: Repair opportunity",
+      "Group Project: Repair opportunity"
+    ],
+    [
+      "MSc Computer Science (Master)",
+      "MSc Computer & Embedded Systems Engineering (Master)"
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStudiegids — Study Guide / Systems SecurityGo to content   \n      Home\n      Study Guide Systems Security Systems Security  CS4150   Description  The\n course overviews principles, concepts, methods, and best practices in \ncomputer systems security. The students will obtain the necessary \nbackground and hands-on experience to design secure computer systems, \nstudy attacks and defense methods in computer systems, develop and test \ncode to explore vulnerabilities, and apply practical defenses against \nsoftware and hardware attacks. Topics covered in the course include:Hardware primitivesOperating systems abstractionsSystem-level attacks and defensesSecure systems engineering Learning objectives  At the end of this course, the student is able to:Study security architecture of computer systems.Analyse security issues of a specific operating system.Develop skills in exploiting vulnerabilities of computer systems.Develop counter measures against exploitation of computer systems.Design secure computer systems. Teaching method  Lectures and lab assignments Contact hours per week 6 hours per week in total:2h of lectures/week2 x 2h of lab/week Assessment  The final grade of the course consists of the following components:Written Exam (weighting 50%)Group Assignment 1: Lab assignment on code scanning (weighting 10%)Group Assignment 2: Lab assignment on Finding Gadgets (weighting 10%)Group Assignment 3: Lab assignment on Systems Call Interposition (weighting 10%)Group Project: research project in systems security (weighting 20%)Final\n grade calculation = 0.5 Written Exam + 0.1 * Group Assignment 1 + 0.1 *\n Group Assignment 2 + 0.1 * Group Assignment 3 + 0.2 * Group projectA\n passing final grade for the course can only be earned when for all \ncomponents at least a 5.0 is earned, and the weighted final grade is at \nleast a 5.8.In case of an insufficient final result, repair \noptions may exist in accordance with Article 17A, Times and number of \nexaminations, sub 1, of the Teaching and Examination Regulations, for:Written Exam: Resit opportunityGroup Assignment 1: Repair opportunityGroup Assignment 2: Repair opportunityGroup Assignment 3: Repair opportunityGroup Project: Repair opportunityDisclaimer: information may change depending on unforeseen circumstances or measures (see: TER Art 2, sub 5). Literature and Course materials  Lecture slides, \"Computer Security: Principles and Practice\", William Stallings, Pearson Expected prior knowledge  Required: Operating Systems (CSE2430), Computer Organization (CSE1400)   Quick overview   Year 2025-2026 Course code CS4150 EC 5 Period Starts in period  2  1234 Level Master Programme MSc Computer Science (Master) MSc Computer & Embedded Systems Engineering (Master)  Faculty Electrical Engineering, Mathematics and Computer Science Responsible lecturer Dr. A. Voulimeneas  ✉, Prof.dr. G. Smaragdakis PhD ✉ Location Delft Course language English Course registration No   \n"
+}

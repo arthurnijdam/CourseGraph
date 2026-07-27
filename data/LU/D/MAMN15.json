@@ -1,0 +1,67 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Interaction 2: Virtuality and Cognitive Modelling\nInteraktion 2: Virtualitet och kognitiv modellering",
+    "MAMN15, 7.5 credits, A (Second Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact",
+    "Further information"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Depth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-adv, D5\nLanguage of instruction: The course will be given in Swedish",
+    "Based on the knowledge and skills acquired during previous computer science courses and human-technology-oriented courses, the students will assemble and test this knowledge and skills in a larger project while at the same time reflecting on their work. The students should also deepen their knowledge on software, design and cognition in relation to advanced interactive digital environments. A sub-purpose is to provide training on how to collaborate efficiently in a project team consisting of people with different backgrounds and skills. Another sub-purpose is to provide students with an in-depth ability to identify and solve interaction problems related to next-generation interaction technologies connecetd to applications within e.g. learning, sustainability and robotics.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "This is a highly project-oriented course in which students develop or refine their own concrete prototypes of artifacts for interaction. The students will specify problems, develop solutions and then test them and will also take part of the work of other student groups. By default, the project of this course is a continuation of the project in the course “Interaction 1”. There is however an opportunity to change the focus of the project and even to begin with a new project idea when there are reasons for this. This is determined in consultation with the course coordinator.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "To obtain a pass grade, participation in seminars, approved project work (report + individual reflection + video) are required. The final grade is based on the project work.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0110. Name: Interaction 2: Virtuality and Cognitive Modelling. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).",
+    "Admission requirements:",
+    "Course coordinator: Agneta Gulz,\n        Agneta.Gulz@lucs.lu.se\nCourse coordinator: Jens Nirme,\n        jens.nirme@design.lth.se\nCourse administrator: Christofer Rydenfält,\n        christofer.rydenfalt@design.lth.se\nCourse homepage: https://www.eat.lth.se/english/education/",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "demonstrate knowledge on the potential of using digital artifacts and environments for learning, education, entertainment, industrial application, health care, information, etc.",
+      "be able to discuss and compare different solutions and argue for the choice made, in a professional manner",
+      "be able to justify how user testing will be applied - scope, methods, etc. - in their course project",
+      "be able to reason about issues of methodology and relevance in a professional manner",
+      "demonstrate the knowledge and understanding required to act as a key figure in a development project within this area"
+    ],
+    [
+      "be able to carry out a project under the criteria and milestones decided by the course teachers along with the project team",
+      "be able to contribute significantly to a project, in a project team with mixed skills, aimed at developing/redeveloping an interactive system/prototype/artifact",
+      "be able to argue for the priorities made during the development of such a system",
+      "be able to hold dialogues with different groups and to work effectively in mixed teams with different skills",
+      "be able to define concepts in such a way that different perspectives, disciplines and areas of expertise can be brought together and thus serve as project manager for a team of people with different knowledge background"
+    ],
+    [
+      "demonstrate preparedness to deal with the unpredictability of problems involving humans and their interactions with an increasingly complex environment",
+      "demonstrate awareness of ethical aspects of research and development",
+      "understand the value in tackling problems in more than one way due to the advantages and disadvantages of different methods, and to understand how and why it is advantageous to combine certain methods with each other",
+      "recognize the importance of inserting a project in different contexts and relate to the requirements and perspectives of others."
+    ],
+    [
+      "MAMN10 Interaction 1: Neuro Modelling, Cognitive Robotics and Agents"
+    ],
+    [
+      "Compendium by the Department of Design Sciences and Lund University Cognitive Science."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår10/1111/1212/1313/1414/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nInteraction 2: Virtuality and Cognitive Modelling\nInteraktion 2: Virtualitet och kognitiv modellering\nMAMN15, 7.5 credits, A (Second Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  Second cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-adv, D5\nLanguage of instruction: The course will be given in Swedish\n    \n  \nAim\nBased on the knowledge and skills acquired during previous computer science courses and human-technology-oriented courses, the students will assemble and test this knowledge and skills in a larger project while at the same time reflecting on their work. The students should also deepen their knowledge on software, design and cognition in relation to advanced interactive digital environments. A sub-purpose is to provide training on how to collaborate efficiently in a project team consisting of people with different backgrounds and skills. Another sub-purpose is to provide students with an in-depth ability to identify and solve interaction problems related to next-generation interaction technologies connecetd to applications within e.g. learning, sustainability and robotics.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\ndemonstrate knowledge on the potential of using digital artifacts and environments for learning, education, entertainment, industrial application, health care, information, etc.be able to discuss and compare different solutions and argue for the choice made, in a professional mannerbe able to justify how user testing will be applied - scope, methods, etc. - in their course projectbe able to reason about issues of methodology and relevance in a professional mannerdemonstrate the knowledge and understanding required to act as a key figure in a development project within this area\nCompetences and skills\n      For a passing grade the student must\nbe able to carry out a project under the criteria and milestones decided by the course teachers along with the project teambe able to contribute significantly to a project, in a project team with mixed skills, aimed at developing/redeveloping an interactive system/prototype/artifactbe able to argue for the priorities made during the development of such a systembe able to hold dialogues with different groups and to work effectively in mixed teams with different skillsbe able to define concepts in such a way that different perspectives, disciplines and areas of expertise can be brought together and thus serve as project manager for a team of people with different knowledge background\nJudgement and approach\n      For a passing grade the student must\ndemonstrate preparedness to deal with the unpredictability of problems involving humans and their interactions with an increasingly complex environmentdemonstrate awareness of ethical aspects of research and developmentunderstand the value in tackling problems in more than one way due to the advantages and disadvantages of different methods, and to understand how and why it is advantageous to combine certain methods with each otherrecognize the importance of inserting a project in different contexts and relate to the requirements and perspectives of others.\nContents\nThis is a highly project-oriented course in which students develop or refine their own concrete prototypes of artifacts for interaction. The students will specify problems, develop solutions and then test them and will also take part of the work of other student groups. By default, the project of this course is a continuation of the project in the course “Interaction 1”. There is however an opportunity to change the focus of the project and even to begin with a new project idea when there are reasons for this. This is determined in consultation with the course coordinator.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: To obtain a pass grade, participation in seminars, approved project work (report + individual reflection + video) are required. The final grade is based on the project work.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0110. Name: Interaction 2: Virtuality and Cognitive Modelling. \n\nCredits: 7.5. Grading scale: TH - (U, 3, 4, 5).\n        \n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nMAMN10 Interaction 1: Neuro Modelling, Cognitive Robotics and Agents\n\nAssumed prior knowledge: \n        TEK210/EXTA65 Cognition or MAMA20 and at least one of MAMN25, MAMF60, MAMA15, MAM101/MAMF45 or MAM120/MAMF50.\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \n        \n          \n            KOGP10\n          \n        \n      \n    \nReading list\n\nCompendium by the Department of Design Sciences and Lund University Cognitive Science.\n\nContact\n\nCourse coordinator: Agneta Gulz,\n        Agneta.Gulz@lucs.lu.se\nCourse coordinator: Jens Nirme,\n        jens.nirme@design.lth.se\nCourse administrator: Christofer Rydenfält,\n        christofer.rydenfalt@design.lth.se\nCourse homepage: https://www.eat.lth.se/english/education/\n\nFurther information\n      Compulsory parts: introduction lecture, written and oral presentations, workshops, project supervision, written project report, oral project presentation. \nPlease note that the course is followed also by students from the Master program in cognitive science. \n    \n  \n\n  Originalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}

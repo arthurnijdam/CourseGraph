@@ -1,0 +1,61 @@
+{
+  "title": "Kursplan (en)",
+  "headings": [
+    "Kursplan",
+    "Operating Systems\nOperativsystem",
+    "EDAF35, 7.5 credits, G2 (First Cycle)",
+    "General Information",
+    "Aim",
+    "Learning outcomes",
+    "Contents",
+    "Examination details",
+    "Admission",
+    "Reading list",
+    "Contact"
+  ],
+  "paragraphs": [
+    "Valid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16",
+    "Depth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-sec, D4-is, D4-pv, E4-hp, F4, Pi4\nLanguage of instruction: The course will be given in English",
+    "An Operating System is the most important program running on a computer system. It manages all hardware and software resources, provides an interface to interact with the system and facilitates the execution of user applications.",
+    "The course focuses on principles of operation, algorithms and data structures essential in Operating Systems functionality. Students passing this course will have an understanding of Operating Systems functionality and internal components; they will be able to write code relevant for OS operation and development. The course uses Linux as a primary case study.",
+    "Knowledge and understanding\n      For a passing grade the student must",
+    "Competences and skills\n      For a passing grade the student must",
+    "Judgement and approach\n      For a passing grade the student must",
+    "Design principles in operating systems. System calls. Shell scripting. CPU scheduling and processes. I/O and interrupts. Memory management and virtual memory. File system interface and implementation. Protection and security. Virtualization and hypervisors. Examples of different kinds of operating systems. Focus on Linux as a case study.",
+    "Grading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment:",
+    "To pass the course approved laboratory assignments and approved written exam are required. The final grade is based on the result of the written exam.",
+    "The examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.",
+    "Modules\nCode: 0122. Name: Laboratory Work. \n\nCredits: 4.5. Grading scale: UG - (U, G).\n        \n          Assessment: For a passing grade the laboratory work must be completed.\n        \n        \n          The module includes: Laboratory Work.\n        \n        \n        \nCode: 0222. Name: Examination. \n\nCredits: 3.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved exam.\n        \n        \n          The module includes: Written exam.",
+    "Admission requirements:",
+    "Course coordinator: Flavius Gruian,\n        flavius.gruian@cs.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/33942",
+    "Originalkursplaner",
+    "Webbsida (svensk)",
+    "Webbsida (engelsk)",
+    "PDF (svensk)",
+    "PDF (engelsk)"
+  ],
+  "lists": [
+    [
+      "understand the purpose, functionality and organization of operating systems",
+      "have knowledge about typical algorithms, data structures used in operating systems",
+      "have basic knowledge about relevant differences between various operating systems"
+    ],
+    [
+      "be able to implement applications interfacing with the operating system via system calls or shell scripting",
+      "be able to explain typical algorithms and data structures used in operating systems resource management, including processes, memory and file systems",
+      "be able to implement basic functionality used for process management, memory management, file systems, and system calls"
+    ],
+    [
+      "be able to justify specific design choices in operating systems overall",
+      "be able to assess different implementation options related to operating system use and development"
+    ],
+    [
+      "EDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course"
+    ],
+    [
+      "A. Silberschatz, G. Gagne, P.B. Galvin: Operating Systems Concepts - 10th Edition. Wiley, 2018, ISBN: 978-1-119-32091-3. main textbook."
+    ]
+  ],
+  "tables": [],
+  "full_text": "\n\n\n\nKursplan (en)\n\n\n\n\n\n\n\n\n\n\n\n\nKursplanLäsår14/1515/1616/1717/1818/1919/2020/2121/2222/2323/2424/2525/2626/27\nCourse syllabus\nOperating Systems\nOperativsystem\nEDAF35, 7.5 credits, G2 (First Cycle)\n\nValid for: 2026/27\nFaculty: Faculty of Engineering LTH\nDecided by: PLED C/D\nDate of Decision: 2026-04-16\n    \n  \nGeneral Information\n\nDepth of study relative to the degree requirements:  First cycle, in-depth level of the course cannot be classified\n      \n      \nElective for: C4-sec, D4-is, D4-pv, E4-hp, F4, Pi4\nLanguage of instruction: The course will be given in English\n    \n  \nAim\nAn Operating System is the most important program running on a computer system. It manages all hardware and software resources, provides an interface to interact with the system and facilitates the execution of user applications.The course focuses on principles of operation, algorithms and data structures essential in Operating Systems functionality. Students passing this course will have an understanding of Operating Systems functionality and internal components; they will be able to write code relevant for OS operation and development. The course uses Linux as a primary case study.\nLearning outcomes\nKnowledge and understanding\n      For a passing grade the student must\n understand the purpose, functionality and organization of operating systemshave knowledge about typical algorithms, data structures used in operating systemshave basic knowledge about relevant differences between various operating systems\nCompetences and skills\n      For a passing grade the student must\nbe able to implement applications interfacing with the operating system via system calls or shell scriptingbe able to explain typical algorithms and data structures used in operating systems resource management, including processes, memory and file systemsbe able to implement basic functionality used for process management, memory management, file systems, and system calls\nJudgement and approach\n      For a passing grade the student must\nbe able to justify specific design choices in operating systems overallbe able to assess different implementation options related to operating system use and development\nContents\nDesign principles in operating systems. System calls. Shell scripting. CPU scheduling and processes. I/O and interrupts. Memory management and virtual memory. File system interface and implementation. Protection and security. Virtualization and hypervisors. Examples of different kinds of operating systems. Focus on Linux as a case study.\nExamination details\n\nGrading scale: TH - (U, 3, 4, 5) - (Fail, Three, Four, Five)\nAssessment: To pass the course approved laboratory assignments and approved written exam are required. The final grade is based on the result of the written exam.\n\nThe examiner, in consultation with Disability Support Services, may deviate from the regular form of examination in order to provide a permanently disabled student with a form of examination equivalent to that of a student without a disability.\n\nModules\nCode: 0122. Name: Laboratory Work. \n\nCredits: 4.5. Grading scale: UG - (U, G).\n        \n          Assessment: For a passing grade the laboratory work must be completed.\n        \n        \n          The module includes: Laboratory Work.\n        \n        \n        \nCode: 0222. Name: Examination. \n\nCredits: 3.0. Grading scale: TH - (U, 3, 4, 5).\n        \n          Assessment: Approved exam.\n        \n        \n          The module includes: Written exam.\n        \n        \n        \n\nAdmission\n\nAdmission requirements: \n\nEDAA01 Programming - Second Course or EDAA30 Programming in Java - Second Course\n\nAssumed prior knowledge: \n        Course contents are easier to understand with knowledge from Computer Architecture (EITF20 or similar) and Concurrent Programming (EDAF55, EDAF85, EDAP10).\n        \nThe number of participants is limited to: No\nKursen överlappar följande kurser: \nEDA055\nEDA050\nEDAF01\n\nReading list\n\nA. Silberschatz, G. Gagne, P.B. Galvin: Operating Systems Concepts - 10th Edition. Wiley, 2018, ISBN: 978-1-119-32091-3. main textbook.\n\nContact\n\nCourse coordinator: Flavius Gruian,\n        flavius.gruian@cs.lth.se\nCourse homepage: https://canvas.education.lu.se/courses/33942\n\nOriginalkursplaner Webbsida (svensk) Webbsida (engelsk) PDF (svensk) PDF (engelsk)Sidansvarig: kursval@lth.lu.se  |  2026-05-27Hela vägen upp\n"
+}
